@@ -17,7 +17,10 @@ function DevelopersPage() {
         <Link href="/developers/fabrikgames">
           <li>Fabrik Games</li>
         </Link>
-        <li>Firesprite</li>
+        <Link href="/developers/firesprite">
+          <li>Firesprite</li>
+        </Link>
+
         <li>Firewalk Studios</li>
         <li>Guerilla Games</li>
         <li>Haven Studios</li>

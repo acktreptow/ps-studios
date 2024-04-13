@@ -56,8 +56,10 @@ function DevelopersPage() {
         <Link href="/developers/sanmateostudio">
           <li>San Mateo Studio</li>
         </Link>
+        <Link href="/developers/santamonicastudio">
+          <li>Santa Monica Studio</li>
+        </Link>
 
-        <li>Santa Monica Studio</li>
         <li>Sucker Punch Productions</li>
         <li>Team Asobi</li>
         <li>Valkyrie Entertainment</li>

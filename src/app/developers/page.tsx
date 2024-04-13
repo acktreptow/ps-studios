@@ -20,8 +20,9 @@ function DevelopersPage() {
         <Link href="/developers/firesprite">
           <li>Firesprite</li>
         </Link>
-
-        <li>Firewalk Studios</li>
+        <Link href="/developers/firewalkstudios">
+          <li>Firewalk Studios</li>
+        </Link>
         <li>Guerilla Games</li>
         <li>Haven Studios</li>
         <li>Housemarque</li>

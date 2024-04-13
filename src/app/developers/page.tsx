@@ -50,8 +50,10 @@ function DevelopersPage() {
         <Link href="/developers/polyphonydigital">
           <li>Polyphony Digital</li>
         </Link>
+        <Link href="/developers/sandiegostudio">
+          <li>San Diego Studio</li>
+        </Link>
 
-        <li>San Diego Studio</li>
         <li>San Mateo Studio</li>
         <li>Santa Monica Studio</li>
         <li>Sucker Punch Productions</li>

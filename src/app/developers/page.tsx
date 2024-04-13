@@ -1,9 +1,13 @@
+import Link from "next/link";
+
 function DevelopersPage() {
   return (
     <>
       <h1>Sony First Party Developers</h1>
       <ul>
-        <li>Bend Studio</li>
+        <Link href="/developers/bendstudio">
+          <li>Bend Studio</li>
+        </Link>
         <li>Bluepoint Games</li>
         <li>Bungie</li>
         <li>Fabrik Games</li>

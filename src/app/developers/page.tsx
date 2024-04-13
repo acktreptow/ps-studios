@@ -26,8 +26,10 @@ function DevelopersPage() {
         <Link href="/developers/guerillagames">
           <li>Guerilla Games</li>
         </Link>
+        <Link href="/developers/havenstudios">
+          <li>Haven Studios</li>
+        </Link>
 
-        <li>Haven Studios</li>
         <li>Housemarque</li>
         <li>Insomniac Games</li>
         <li>Media Molecule</li>

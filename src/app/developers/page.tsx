@@ -38,8 +38,10 @@ function DevelopersPage() {
         <Link href="/developers/mediamolecule">
           <li>Media Molecule</li>
         </Link>
+        <Link href="/developers/naughtydog">
+          <li>Naughty Dog</li>
+        </Link>
 
-        <li>Naughty Dog</li>
         <li>Neon Koi</li>
         <li>Nixxes Software</li>
         <li>Polyphony Digital</li>

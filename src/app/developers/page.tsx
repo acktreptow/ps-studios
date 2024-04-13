@@ -32,8 +32,10 @@ function DevelopersPage() {
         <Link href="/developers/housemarque">
           <li>Housemarque</li>
         </Link>
+        <Link href="/developers/insomniacgames">
+          <li>Insomniac Games</li>
+        </Link>
 
-        <li>Insomniac Games</li>
         <li>Media Molecule</li>
         <li>Naughty Dog</li>
         <li>Neon Koi</li>

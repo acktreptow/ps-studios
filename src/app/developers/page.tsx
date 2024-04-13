@@ -8,7 +8,10 @@ function DevelopersPage() {
         <Link href="/developers/bendstudio">
           <li>Bend Studio</li>
         </Link>
-        <li>Bluepoint Games</li>
+        <Link href="/developers/bluepointgames">
+          <li>Bluepoint Games</li>
+        </Link>
+
         <li>Bungie</li>
         <li>Fabrik Games</li>
         <li>Firesprite</li>

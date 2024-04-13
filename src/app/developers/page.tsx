@@ -41,8 +41,10 @@ function DevelopersPage() {
         <Link href="/developers/naughtydog">
           <li>Naughty Dog</li>
         </Link>
+        <Link href="/developers/neonkoi">
+          <li>Neon Koi</li>
+        </Link>
 
-        <li>Neon Koi</li>
         <li>Nixxes Software</li>
         <li>Polyphony Digital</li>
         <li>San Diego Studio</li>

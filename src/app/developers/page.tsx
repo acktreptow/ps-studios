@@ -47,8 +47,10 @@ function DevelopersPage() {
         <Link href="/developers/nixxessoftware">
           <li>Nixxes Software</li>
         </Link>
+        <Link href="/developers/polyphonydigital">
+          <li>Polyphony Digital</li>
+        </Link>
 
-        <li>Polyphony Digital</li>
         <li>San Diego Studio</li>
         <li>San Mateo Studio</li>
         <li>Santa Monica Studio</li>

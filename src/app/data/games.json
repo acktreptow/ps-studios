@@ -21,6 +21,20 @@
     "daysBetweenReleases": null
   },
   {
+    "developer": "Firesprite",
+    "name": "The Persistence Enhanced",
+    "id": "Persistence Enhanced",
+    "releaseDate": "June 4, 2021",
+    "daysBetweenReleases": 1047
+  },
+  {
+    "developer": "Firesprite",
+    "name": "Horizon Call of the Mountain",
+    "id": "Horizon CoTM",
+    "releaseDate": "February 22, 2023",
+    "daysBetweenReleases": 994
+  },
+  {
     "developer": "Naughty Dog",
     "name": "Uncharted: Legacy of Thieves Collection",
     "id": "Uncharted Collection",

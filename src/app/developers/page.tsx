@@ -68,8 +68,9 @@ function DevelopersPage() {
         <Link href="/developers/valkyrieentertainment">
           <li>Valkyrie Entertainment</li>
         </Link>
-
-        <li>XDev</li>
+        <Link href="/developers/xdev">
+          <li>XDev</li>
+        </Link>
       </ul>
     </>
   );

@@ -49,6 +49,20 @@
     "daysBetweenReleases": 1817
   },
   {
+    "developer": "Haven Studios",
+    "name": "Fairgame$",
+    "id": "Fairgame$",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": null
+  },
+  {
+    "developer": "Housemarque",
+    "name": "Returnal",
+    "id": "Returnal",
+    "releaseDate": "April 30, 2021",
+    "daysBetweenReleases": 1355
+  },
+  {
     "developer": "Naughty Dog",
     "name": "Uncharted: Legacy of Thieves Collection",
     "id": "Uncharted Collection",

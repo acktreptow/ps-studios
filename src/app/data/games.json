@@ -194,5 +194,12 @@
     "id": "GOW: R",
     "releaseDate": "November 9, 2022",
     "daysBetweenReleases": 1665
+  },
+  {
+    "developer": "Sucker Punch Productions",
+    "name": "Ghost of Tsushima Director's Cut",
+    "id": "GoT DC",
+    "releaseDate": "August 20, 2021",
+    "daysBetweenReleases": 400
   }
 ]

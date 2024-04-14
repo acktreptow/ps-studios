@@ -2,9 +2,9 @@ import Link from "next/link";
 
 function DevelopersPage() {
   return (
-    <>
-      <h1>Sony First Party Developers</h1>
-      <ul>
+    <div className="text-center py-6">
+      <h1 className="text-2xl font-bold py-2">First Party Developers</h1>
+      <ul className="text-lg mt-2 leading-8">
         <Link href="/developers/bendstudio">
           <li>Bend Studio</li>
         </Link>
@@ -72,7 +72,7 @@ function DevelopersPage() {
           <li>XDev</li>
         </Link>
       </ul>
-    </>
+    </div>
   );
 }
 

@@ -12,7 +12,7 @@ function Homepage() {
   };
 
   return (
-    <main className="text-center py-6 border">
+    <main className="text-center py-6">
       <h1 className="text-2xl font-bold py-2">PlayStation Studios</h1>
       <p className="py-2">
         Everything you need to know about Sonys first-party content during the
@@ -51,7 +51,7 @@ function Homepage() {
           </option>
           <option value={"xdev"}>XDev</option>
         </select>
-        <button type="submit" className="btn btn-primary">
+        <button type="submit" className="block m-auto">
           Go to developer
         </button>
       </form>

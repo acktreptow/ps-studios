@@ -201,5 +201,13 @@
     "id": "GoT DC",
     "releaseDate": "August 20, 2021",
     "daysBetweenReleases": 400
+  },
+  {
+    "developer": "Team Asobi",
+    "name": "Astro's Playroom",
+    "id": "Astro's Playroom",
+    "releaseDate": "November 12, 2020",
+    "daysBetweenReleases": 773
   }
+
 ]

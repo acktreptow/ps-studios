@@ -1,22 +1,29 @@
 [
   {
+    "developer": "Bluepoint Games",
+    "name": "Demon's Souls",
+    "id": "Demon's Souls",
+    "releaseDate": "November 12, 2020",
+    "daysBetweenReleases": 1011
+  },
+  {
+    "developer": "Naughty Dog",
     "name": "Uncharted: Legacy of Thieves Collection",
     "id": "Uncharted Collection",
-    "developer": "Naughty Dog",
     "releaseDate": "Jan 28, 2022",
     "daysBetweenReleases": 741
   },
   {
+    "developer": "Naughty Dog",
     "name:": "The Last of Us Part 1",
     "id": "The Last of Us 1",
-    "developer": "Naughty Dog",
     "releaseDate": "September 2, 2022",
     "daysBetweenReleases": 218
   },
   {
+    "developer": "Naughty Dog",
     "name": "The Last of Us Part 2 Remastered",
     "id": "The Last of Us 2",
-    "developer": "Naughty Dog",
     "releaseDate": "January 19, 2024",
     "daysBetweenReleases": 505
   }

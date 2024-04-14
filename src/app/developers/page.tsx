@@ -62,8 +62,10 @@ function DevelopersPage() {
         <Link href="/developers/suckerpunchproductions">
           <li>Sucker Punch Productions</li>
         </Link>
+        <Link href="/developers/teamasobi">
+          <li>Team Asobi</li>
+        </Link>
 
-        <li>Team Asobi</li>
         <li>Valkyrie Entertainment</li>
         <li>XDev</li>
       </ul>

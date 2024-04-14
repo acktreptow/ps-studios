@@ -187,5 +187,12 @@
     "id": "MLB 2024",
     "releaseDate": "March 19, 2024",
     "daysBetweenReleases": 358
+  },
+  {
+    "developer": "Santa Monica Studio",
+    "name": "God of War: Ragnarök",
+    "id": "GOW: R",
+    "releaseDate": "November 9, 2022",
+    "daysBetweenReleases": 1665
   }
 ]

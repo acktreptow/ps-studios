@@ -152,5 +152,12 @@
     "id": "GoT PC",
     "releaseDate": "May 16, 2024",
     "daysBetweenReleases": 57
+  },
+  {
+    "developer": "Polyphony Digital",
+    "name": "Gran Turismo 7",
+    "id": "GT 7",
+    "releaseDate": "March 4, 2022",
+    "daysBetweenReleases": 1095
   }
 ]

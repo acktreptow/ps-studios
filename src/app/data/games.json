@@ -159,5 +159,33 @@
     "id": "GT 7",
     "releaseDate": "March 4, 2022",
     "daysBetweenReleases": 1095
+  },
+  {
+    "developer": "San Diego Studio",
+    "name": "MLB The Show 21",
+    "id": "MLB 2021",
+    "releaseDate": "April 20, 2021",
+    "daysBetweenReleases": 400
+  },
+  {
+    "developer": "San Diego Studio",
+    "name": "MLB The Show 22",
+    "id": "MLB 2022",
+    "releaseDate": "April 5, 2022",
+    "daysBetweenReleases": 351
+  },
+  {
+    "developer": "San Diego Studio",
+    "name": "MLB The Show 23",
+    "id": "MLB 2023",
+    "releaseDate": "March 28, 2023",
+    "daysBetweenReleases": 358
+  },
+  {
+    "developer": "San Diego Studio",
+    "name": "MLB The Show 24",
+    "id": "MLB 2024",
+    "releaseDate": "March 19, 2024",
+    "daysBetweenReleases": 358
   }
 ]

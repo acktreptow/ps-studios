@@ -7,6 +7,20 @@
     "daysBetweenReleases": 1011
   },
   {
+    "developer": "Bungie",
+    "name": "Destiny 2",
+    "id": "Destiny 2",
+    "releaseDate": "December 8, 2020",
+    "daysBetweenReleases": 1190
+  },
+  {
+    "developer": "Bungie",
+    "name": "Marathon",
+    "id": "Marathon",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": null
+  },
+  {
     "developer": "Naughty Dog",
     "name": "Uncharted: Legacy of Thieves Collection",
     "id": "Uncharted Collection",

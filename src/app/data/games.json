@@ -117,5 +117,40 @@
     "id": "The Last of Us 2",
     "releaseDate": "January 19, 2024",
     "daysBetweenReleases": 505
+  },
+  {
+    "developer": "Nixxes Software",
+    "name": "Marvel's Spider-Man Remastered PC",
+    "id": "Spider-Man PC",
+    "releaseDate": "August 12, 2022",
+    "daysBetweenReleases": 708
+  },
+  {
+    "developer": "Nixxes Software",
+    "name": "Marvel's Spider-Man: Miles Morales PC",
+    "id": "Spider-Man: MM PC",
+    "releaseDate": "November 18, 2022",
+    "daysBetweenReleases": 99
+  },
+  {
+    "developer": "Nixxes Software",
+    "name": "Ratchet & Clank: Rift Apart PC",
+    "id": "Ratchet & Clank: Rift Apart PC",
+    "releaseDate": "July 26, 2023",
+    "daysBetweenReleases": 251
+  },
+  {
+    "developer": "Nixxes Software",
+    "name": "Horizon Forbidden West Complete Edition PC",
+    "id": "Horizon FW PC",
+    "releaseDate": "March 21, 2024",
+    "daysBetweenReleases": 240
+  },
+  {
+    "developer": "Nixxes Software",
+    "name": "Ghost of Tsushima Director's Cut PC",
+    "id": "GoT PC",
+    "releaseDate": "May 16, 2024",
+    "daysBetweenReleases": 57
   }
 ]

@@ -35,6 +35,20 @@
     "daysBetweenReleases": 994
   },
   {
+    "developer": "Firewalk Studios",
+    "name": "Concord",
+    "id": "Concord",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": null
+  },
+  {
+    "developer": "Guerrilla Games",
+    "name": "Horizon Forbidden West",
+    "id": "Horizon FW",
+    "releaseDate": "February 18, 2022",
+    "daysBetweenReleases": 1817
+  },
+  {
     "developer": "Naughty Dog",
     "name": "Uncharted: Legacy of Thieves Collection",
     "id": "Uncharted Collection",

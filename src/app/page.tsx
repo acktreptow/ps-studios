@@ -14,6 +14,9 @@ import housemarqueLogo from "../../public/images/housemarque.png";
 import insomniacLogo from "../../public/images/insomniac-games.png";
 import mediaMoleculeLogo from "../../public/images/media-molecule.png";
 import naughtyDogLogo from "../../public/images/naughty-dog.png";
+import neonKoiLogo from "../../public/images/neon-koi.png";
+import nixxesLogo from "../../public/images/nixxes-software.png";
+import polyphonyLogo from "../../public/images/polyphony-digital.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -131,17 +134,17 @@ function Homepage() {
         />
 
         <Image
-          src={bendLogo}
+          src={neonKoiLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
+          src={nixxesLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
+          src={polyphonyLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />

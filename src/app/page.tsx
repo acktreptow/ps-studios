@@ -5,6 +5,9 @@ import Image from "next/image";
 import bendLogo from "../../public/images/bend-studio.png";
 import bluepointLogo from "../../public/images/bluepoint-games.png";
 import bungieLogo from "../../public/images/bungie.png";
+import fabrikGamesLogo from "../../public/images/fabrik-games.png";
+import firespriteLogo from "../../public/images/firesprite.png";
+import firewalkLogo from "../../public/images/firewalk.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -67,26 +70,26 @@ function Homepage() {
         />
         <Image
           src={bluepointLogo}
-          alt="Bluepoint games Logo"
+          alt="Bluepoint Games Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
           src={bungieLogo}
+          alt="Bungie Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={fabrikGamesLogo}
+          alt="Fabrik Games Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={firespriteLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={bendLogo}
+          src={firewalkLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />

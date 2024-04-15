@@ -11,6 +11,9 @@ import firewalkLogo from "../../public/images/firewalk.png";
 import guerillaLogo from "../../public/images/guerilla-games.png";
 import havenStudiosLogo from "../../public/images/haven-studios.png";
 import housemarqueLogo from "../../public/images/housemarque.png";
+import insomniacLogo from "../../public/images/insomniac-games.png";
+import mediaMoleculeLogo from "../../public/images/media-molecule.png";
+import naughtyDogLogo from "../../public/images/naughty-dog.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -112,20 +115,21 @@ function Homepage() {
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
+          src={insomniacLogo}
+          alt="Insomniac Games Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={mediaMoleculeLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
+          src={naughtyDogLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />
-        <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
+
         <Image
           src={bendLogo}
           alt="Bend Studio Logo"

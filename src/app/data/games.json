@@ -257,5 +257,26 @@
     "id": "Rise of the Ronin",
     "releaseDate": "March 22, 2024",
     "daysBetweenReleases": 44
+  },
+  {
+    "developer": "XDev",
+    "name": "Stellar Blade",
+    "id": "Stellar Blade",
+    "releaseDate": "April 26, 2024",
+    "daysBetweenReleases": 36
+  },
+  {
+    "developer": "XDev",
+    "name": "Until Dawn Remake",
+    "id": "Until Dawn Remake",
+    "releaseDate": "unreleased",
+    "daysBetweenReleases": null
+  },
+  {
+    "developer": "XDev",
+    "name": "Death Stranding 2: On The Beach",
+    "id": "DS2: OTB",
+    "releaseDate": "unreleased",
+    "daysBetweenReleases": null
   }
 ]

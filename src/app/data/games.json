@@ -208,6 +208,54 @@
     "id": "Astro's Playroom",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 773
+  },
+  {
+    "developer": "XDev",
+    "name": "Sackboy: A Big Adventure",
+    "id": "Sackboy",
+    "releaseDate": "November 12, 2020",
+    "daysBetweenReleases": 133
+  },
+  {
+    "developer": "XDev",
+    "name": "Destruction AllStars",
+    "id": "Destruction AllStars",
+    "releaseDate": "February 2, 2021",
+    "daysBetweenReleases": 83
+  },
+  {
+    "developer": "XDev",
+    "name": "The Nioh Collection",
+    "id": "Nioh Collection",
+    "releaseDate": "February 5, 2021",
+    "daysBetweenReleases": 3
+  },
+  {
+    "developer": "XDev",
+    "name": "Death Stranding Director's Cut",
+    "id": "Death Stranding DC",
+    "releaseDate": "September 24, 2021",
+    "daysBetweenReleases": 232
+  },
+  {
+    "developer": "XDev",
+    "name": "Firewall Ultra",
+    "id": "Firewall Ultra",
+    "releaseDate": "August 24, 2023",
+    "daysBetweenReleases": 700
+  },
+  {
+    "developer": "XDev",
+    "name": "Helldivers 2",
+    "id": "Helldivers 2",
+    "releaseDate": "February 8, 2024",
+    "daysBetweenReleases": 169
+  },
+  {
+    "developer": "XDev",
+    "name": "Rise of the Ronin",
+    "id": "Rise of the Ronin",
+    "releaseDate": "March 22, 2024",
+    "daysBetweenReleases": 44
   }
-
 ]

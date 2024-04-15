@@ -2,7 +2,9 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import bendLogo from "../../public/images/bend-studio.jpg";
+import bendLogo from "../../public/images/bend-studio.png";
+import bluepointLogo from "../../public/images/bluepoint-games.png";
+import bungieLogo from "../../public/images/bungie.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -57,19 +59,19 @@ function Homepage() {
           Go to developer
         </button>
       </form>
-      <div className="grid grid-cols-3 m-2">
+      <div className="grid grid-cols-3 mx-2 mt-10 mb-4">
         <Image
           src={bendLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={bluepointLogo}
+          alt="Bluepoint games Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
+          src={bungieLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />

@@ -8,6 +8,9 @@ import bungieLogo from "../../public/images/bungie.png";
 import fabrikGamesLogo from "../../public/images/fabrik-games.png";
 import firespriteLogo from "../../public/images/firesprite.png";
 import firewalkLogo from "../../public/images/firewalk.png";
+import guerillaLogo from "../../public/images/guerilla-games.png";
+import havenStudiosLogo from "../../public/images/haven-studios.png";
+import housemarqueLogo from "../../public/images/housemarque.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -94,18 +97,18 @@ function Homepage() {
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={guerillaLogo}
+          alt="Guerilla Games Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={havenStudiosLogo}
+          alt="Haven Studios Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={housemarqueLogo}
+          alt="Housemarque Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image

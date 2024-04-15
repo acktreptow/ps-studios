@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
+import bendLogo from "../../public/images/bend-studio.jpg";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -55,6 +57,113 @@ function Homepage() {
           Go to developer
         </button>
       </form>
+      <div className="grid grid-cols-3 m-2">
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={bendLogo}
+          alt="Bend Studio Logo"
+          className="transform scale-90 rounded-lg"
+        />
+      </div>
     </main>
   );
 }

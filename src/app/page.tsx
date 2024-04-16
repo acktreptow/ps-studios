@@ -17,6 +17,9 @@ import naughtyDogLogo from "../../public/images/naughty-dog.png";
 import neonKoiLogo from "../../public/images/neon-koi.png";
 import nixxesLogo from "../../public/images/nixxes-software.png";
 import polyphonyLogo from "../../public/images/polyphony-digital.png";
+import sanDiegoStudioLogo from "../../public/images/san-diego-studio.png";
+import sanMateoStudioLogo from "../../public/images/san-mateo-studio.png";
+import santaMonicaStudioLogo from "../../public/images/santa-monica-studio.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -124,42 +127,42 @@ function Homepage() {
         />
         <Image
           src={mediaMoleculeLogo}
-          alt="Bend Studio Logo"
+          alt="Media Molecule Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
           src={naughtyDogLogo}
-          alt="Bend Studio Logo"
+          alt="Naughty Dog Logo"
           className="transform scale-90 rounded-lg"
         />
 
         <Image
           src={neonKoiLogo}
-          alt="Bend Studio Logo"
+          alt="Neon Koi Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
           src={nixxesLogo}
-          alt="Bend Studio Logo"
+          alt="Nixxes Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
           src={polyphonyLogo}
-          alt="Bend Studio Logo"
+          alt="Polyphony Digital Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={sanDiegoStudioLogo}
+          alt="San Diego Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={sanMateoStudioLogo}
+          alt="San Mateo Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
+          src={santaMonicaStudioLogo}
           alt="Bend Studio Logo"
           className="transform scale-90 rounded-lg"
         />

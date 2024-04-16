@@ -20,6 +20,9 @@ import polyphonyLogo from "../../public/images/polyphony-digital.png";
 import sanDiegoStudioLogo from "../../public/images/san-diego-studio.png";
 import sanMateoStudioLogo from "../../public/images/san-mateo-studio.png";
 import santaMonicaStudioLogo from "../../public/images/santa-monica-studio.png";
+import suckerPunchLogo from "../../public/images/sucker-punch-productions.png";
+import teamAsobiLogo from "../../public/images/team-asobi.png";
+import valkyrieEntertainmentLogo from "../../public/images/valkyrie-entertainment.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -163,22 +166,22 @@ function Homepage() {
         />
         <Image
           src={santaMonicaStudioLogo}
-          alt="Bend Studio Logo"
+          alt="Santa Monica Studio Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={suckerPunchLogo}
+          alt="Sucker Punch Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={teamAsobiLogo}
+          alt="Team Asobi Logo"
           className="transform scale-90 rounded-lg"
         />
         <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
+          src={valkyrieEntertainmentLogo}
+          alt="Valkyrie Entertainment Logo"
           className="transform scale-90 rounded-lg"
         />
       </div>

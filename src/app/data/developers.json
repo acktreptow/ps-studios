@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Bend Studio",
+    "urlPath": "bendstudio"
+  },
+  {
+    "id": 2,
+    "name": "Bluepoint Games",
+    "urlPath": "bluepointgames"
+  },
+  {
+    "id": 3,
+    "name": "Bungie",
+    "urlPath": "bungie"
+  },
+  {
+    "id": 4,
+    "name": "Fabrik Games",
+    "urlPath": "fabrikgames"
+  },
+  {
+    "id": 5,
+    "name": "Firesprite",
+    "urlPath": "firesprite"
+  },
+  {
+    "id": 6,
+    "name": "Firewalk Studios",
+    "urlPath": "firewalkstudios"
+  },
+  {
+    "id": 7,
+    "name": "Guerilla Games",
+    "urlPath": "guerillagames"
+  },
+  {
+    "id": 8,
+    "name": "Haven Studios",
+    "urlPath": "havenstudios"
+  },
+  {
+    "id": 9,
+    "name": "Housemarque",
+    "urlPath": "housemarque"
+  },
+  {
+    "id": 10,
+    "name": "Insomniac Games",
+    "urlPath": "insomniacgames"
+  },
+  {
+    "id": 11,
+    "name": "Media Molecule",
+    "urlPath": "mediamolecule"
+  },
+  {
+    "id": 12,
+    "name": "Naughty Dog",
+    "urlPath": "naughtydog"
+  },
+  {
+    "id": 13,
+    "name": "Neon Koi",
+    "urlPath": "neonkoi"
+  },
+  {
+    "id": 14,
+    "name": "Nixxes Software",
+    "urlPath": "nixxessoftware"
+  },
+  {
+    "id": 15,
+    "name": "Polyphony Digital",
+    "urlPath": "polyphonydigital"
+  },
+  {
+    "id": 16,
+    "name": "San Diego Studio",
+    "urlPath": "sandiegostudio"
+  },
+  {
+    "id": 17,
+    "name": "San Mateo Studio",
+    "urlPath": "sanmateostudio"
+  },
+  {
+    "id": 18,
+    "name": "Santa Monica Studio",
+    "urlPath": "santamonicastudio"
+  },
+  {
+    "id": 19,
+    "name": "Sucker Punch Productions",
+    "urlPath": "suckerpunchproductions"
+  },
+  {
+    "id": 20,
+    "name": "Team Asobi",
+    "urlPath": "teamasobi"
+  },
+  {
+    "id": 21,
+    "name": "Valkyrie Entertainment",
+    "urlPath": "valkyrieentertainment"
+  },
+  {
+    "id": 22,
+    "name": "XDev",
+    "urlPath": "xdev"
+  }
+]

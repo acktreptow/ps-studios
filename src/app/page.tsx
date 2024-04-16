@@ -23,6 +23,9 @@ import santaMonicaStudioLogo from "../../public/images/santa-monica-studio.png";
 import suckerPunchLogo from "../../public/images/sucker-punch-productions.png";
 import teamAsobiLogo from "../../public/images/team-asobi.png";
 import valkyrieEntertainmentLogo from "../../public/images/valkyrie-entertainment.png";
+import playstationLogo from "../../public/images/playstation-logo.png";
+import xdevLogo from "../../public/images/xdev.png";
+import ps5Logo from "../../public/images/ps5-logo.png";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -182,6 +185,21 @@ function Homepage() {
         <Image
           src={valkyrieEntertainmentLogo}
           alt="Valkyrie Entertainment Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={playstationLogo}
+          alt="PlayStation Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={xdevLogo}
+          alt="XDEV Logo"
+          className="transform scale-90 rounded-lg"
+        />
+        <Image
+          src={ps5Logo}
+          alt="PS5 Logo"
           className="transform scale-90 rounded-lg"
         />
       </div>

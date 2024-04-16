@@ -26,6 +26,7 @@ import valkyrieEntertainmentLogo from "../../public/images/valkyrie-entertainmen
 import playstationLogo from "../../public/images/playstation-logo.png";
 import xdevLogo from "../../public/images/xdev.png";
 import ps5Logo from "../../public/images/ps5-logo.png";
+import developers from "../app/data/developers.json";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
@@ -49,32 +50,11 @@ function Homepage() {
           onChange={(e) => setSelectedDeveloper(e.target.value)}
         >
           <option value="">Select developer</option>
-          <option value={"bendstudio"}>Bend Studio</option>
-          <option value={"bluepointgames"}>Bluepoint Games</option>
-          <option value={"bungie"}>Bungie</option>
-          <option value={"fabrikgames"}>Fabrik Games</option>
-          <option value={"firesprite"}>Firesprite</option>
-          <option value={"firewalkstudios"}>Firewalk Studios</option>
-          <option value={"guerillagames"}>Guerilla Games</option>
-          <option value={"havenstudios"}>Haven Studios</option>
-          <option value={"housemarque"}>Housemarque</option>
-          <option value={"insomniacgames"}>Insomniac Games</option>
-          <option value={"mediamolecule"}>Media Molecule</option>
-          <option value={"naughtydog"}>Naughty Dog</option>
-          <option value={"neonkoi"}>Neon Koi</option>
-          <option value={"nixxessoftware"}>Nixxes Software</option>
-          <option value={"polyphonydigital"}>Polyphony Digital</option>
-          <option value={"sandiegostudio"}>San Diego Studio</option>
-          <option value={"sanmateostudio"}>San Mateo Studio</option>
-          <option value={"santamonicastudio"}>Santa Monica Studio</option>
-          <option value={"suckerpunchproductions"}>
-            Sucker Punch Productions
-          </option>
-          <option value={"teamasobi"}>Team Asobi</option>
-          <option value={"valkyrieentertainment"}>
-            Valkyrie Entertainment
-          </option>
-          <option value={"xdev"}>XDev</option>
+          {developers.map((developer) => (
+            <option key={developer.id} value={developer.urlPath}>
+              {developer.name}
+            </option>
+          ))}
         </select>
         <button type="submit" className="block m-auto">
           Go to developer

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import psStudiosLogo from "../../../public/images/PlayStation_Studios_logo.svg";
+import psStudiosLogo from "../../../public/images/ps-studios-logo.svg";
 
 function Header() {
   return (

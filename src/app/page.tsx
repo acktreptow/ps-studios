@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import bendLogo from "../../public/images/bend-studio.png";
 import bluepointLogo from "../../public/images/bluepoint-games.png";
 import bungieLogo from "../../public/images/bungie.png";
@@ -61,127 +62,174 @@ function Homepage() {
         </button>
       </form>
       <div className="grid grid-cols-3 mx-2 mt-10 mb-4">
-        <Image
-          src={bendLogo}
-          alt="Bend Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={bluepointLogo}
-          alt="Bluepoint Games Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={bungieLogo}
-          alt="Bungie Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={fabrikGamesLogo}
-          alt="Fabrik Games Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={firespriteLogo}
-          alt="Bend Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={firewalkLogo}
-          alt="Bend Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={guerillaLogo}
-          alt="Guerilla Games Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={havenStudiosLogo}
-          alt="Haven Studios Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={housemarqueLogo}
-          alt="Housemarque Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={insomniacLogo}
-          alt="Insomniac Games Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={mediaMoleculeLogo}
-          alt="Media Molecule Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={naughtyDogLogo}
-          alt="Naughty Dog Logo"
-          className="transform scale-90 rounded-lg"
-        />
-
-        <Image
-          src={neonKoiLogo}
-          alt="Neon Koi Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={nixxesLogo}
-          alt="Nixxes Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={polyphonyLogo}
-          alt="Polyphony Digital Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={sanDiegoStudioLogo}
-          alt="San Diego Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={sanMateoStudioLogo}
-          alt="San Mateo Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={santaMonicaStudioLogo}
-          alt="Santa Monica Studio Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={suckerPunchLogo}
-          alt="Sucker Punch Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={teamAsobiLogo}
-          alt="Team Asobi Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={valkyrieEntertainmentLogo}
-          alt="Valkyrie Entertainment Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={playstationLogo}
-          alt="PlayStation Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={xdevLogo}
-          alt="XDEV Logo"
-          className="transform scale-90 rounded-lg"
-        />
-        <Image
-          src={ps5Logo}
-          alt="PS5 Logo"
-          className="transform scale-90 rounded-lg"
-        />
+        <Link href="/developers/bendstudio">
+          <Image
+            src={bendLogo}
+            alt="Bend Studio Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/bluepointgames">
+          <Image
+            src={bluepointLogo}
+            alt="Bluepoint Games Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/bungie">
+          <Image
+            src={bungieLogo}
+            alt="Bungie Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/fabrikgames">
+          <Image
+            src={fabrikGamesLogo}
+            alt="Fabrik Games Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/firesprite">
+          <Image
+            src={firespriteLogo}
+            alt="Firesprite Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/firewalkstudios">
+          <Image
+            src={firewalkLogo}
+            alt="Firewalk Studios Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/guerillagames">
+          <Image
+            src={guerillaLogo}
+            alt="Guerilla Games Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/havenstudios">
+          <Image
+            src={havenStudiosLogo}
+            alt="Haven Studios Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/housemarque">
+          <Image
+            src={housemarqueLogo}
+            alt="Housemarque Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/insomniacgames">
+          <Image
+            src={insomniacLogo}
+            alt="Insomniac Games Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/mediamolecule">
+          <Image
+            src={mediaMoleculeLogo}
+            alt="Media Molecule Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/naughtydog">
+          <Image
+            src={naughtyDogLogo}
+            alt="Naughty Dog Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/neonkoi">
+          <Image
+            src={neonKoiLogo}
+            alt="Neon Koi Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/nixxessoftware">
+          <Image
+            src={nixxesLogo}
+            alt="Nixxes Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/polyphonydigital">
+          <Image
+            src={polyphonyLogo}
+            alt="Polyphony Digital Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/sandiegostudio">
+          <Image
+            src={sanDiegoStudioLogo}
+            alt="San Diego Studio Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/sanmateostudio">
+          <Image
+            src={sanMateoStudioLogo}
+            alt="San Mateo Studio Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/santamonicastudio">
+          <Image
+            src={santaMonicaStudioLogo}
+            alt="Santa Monica Studio Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/suckerpunchproductions">
+          <Image
+            src={suckerPunchLogo}
+            alt="Sucker Punch Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/teamasobi">
+          <Image
+            src={teamAsobiLogo}
+            alt="Team Asobi Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/valkyrieentertainment">
+          <Image
+            src={valkyrieEntertainmentLogo}
+            alt="Valkyrie Entertainment Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="#">
+          <Image
+            src={playstationLogo}
+            alt="PlayStation Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/developers/xdev">
+          <Image
+            src={xdevLogo}
+            alt="XDEV Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
+        <Link href="/about">
+          <Image
+            src={ps5Logo}
+            alt="PS5 Logo"
+            className="transform scale-90 rounded-lg"
+          />
+        </Link>
       </div>
     </main>
   );

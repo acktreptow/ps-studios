@@ -2,111 +2,133 @@
   {
     "id": 1,
     "name": "Bend Studio",
-    "urlPath": "bendstudio"
+    "urlPath": "bendstudio",
+    "img": "/images/bend-logo.png"
   },
   {
     "id": 2,
     "name": "Bluepoint Games",
-    "urlPath": "bluepointgames"
+    "urlPath": "bluepointgames",
+    "img": "/images/bluepoint-logo.png"
   },
   {
     "id": 3,
     "name": "Bungie",
-    "urlPath": "bungie"
+    "urlPath": "bungie",
+    "img": "/images/bungie-logo.png"
   },
   {
     "id": 4,
     "name": "Fabrik Games",
-    "urlPath": "fabrikgames"
+    "urlPath": "fabrikgames",
+    "img": "/images/fabrik-logo.png"
   },
   {
     "id": 5,
     "name": "Firesprite",
-    "urlPath": "firesprite"
+    "urlPath": "firesprite",
+    "img": "/images/firesprite-logo.png"
   },
   {
     "id": 6,
     "name": "Firewalk Studios",
-    "urlPath": "firewalkstudios"
+    "urlPath": "firewalkstudios",
+    "img": "/images/firewalk-logo.png"
   },
   {
     "id": 7,
     "name": "Guerilla Games",
-    "urlPath": "guerillagames"
+    "urlPath": "guerillagames",
+    "img": "/images/guerilla-logo.png"
   },
   {
     "id": 8,
     "name": "Haven Studios",
-    "urlPath": "havenstudios"
+    "urlPath": "havenstudios",
+    "img": "/images/haven-logo.png"
   },
   {
     "id": 9,
     "name": "Housemarque",
-    "urlPath": "housemarque"
+    "urlPath": "housemarque",
+    "img": "/images/housemarque-logo.png"
   },
   {
     "id": 10,
     "name": "Insomniac Games",
-    "urlPath": "insomniacgames"
+    "urlPath": "insomniacgames",
+    "img": "/images/insomniac-logo.png"
   },
   {
     "id": 11,
     "name": "Media Molecule",
-    "urlPath": "mediamolecule"
+    "urlPath": "mediamolecule",
+    "img": "/images/media-molecule-logo.png"
   },
   {
     "id": 12,
     "name": "Naughty Dog",
-    "urlPath": "naughtydog"
+    "urlPath": "naughtydog",
+    "img": "/images/naughty-dog-logo.png"
   },
   {
     "id": 13,
     "name": "Neon Koi",
-    "urlPath": "neonkoi"
+    "urlPath": "neonkoi",
+    "img": "/images/neon-koi-logo.png"
   },
   {
     "id": 14,
     "name": "Nixxes Software",
-    "urlPath": "nixxessoftware"
+    "urlPath": "nixxessoftware",
+    "img": "/images/nixxes-logo.png"
   },
   {
     "id": 15,
     "name": "Polyphony Digital",
-    "urlPath": "polyphonydigital"
+    "urlPath": "polyphonydigital",
+    "img": "/images/polyphony-logo.png"
   },
   {
     "id": 16,
     "name": "San Diego Studio",
-    "urlPath": "sandiegostudio"
+    "urlPath": "sandiegostudio",
+    "img": "/images/san-diego-logo.png"
   },
   {
     "id": 17,
     "name": "San Mateo Studio",
-    "urlPath": "sanmateostudio"
+    "urlPath": "sanmateostudio",
+    "img": "/images/san-mateo-logo.png"
   },
   {
     "id": 18,
     "name": "Santa Monica Studio",
-    "urlPath": "santamonicastudio"
+    "urlPath": "santamonicastudio",
+    "img": "/images/santa-monica-logo.png"
   },
   {
     "id": 19,
     "name": "Sucker Punch Productions",
-    "urlPath": "suckerpunchproductions"
+    "urlPath": "suckerpunchproductions",
+    "img": "/images/sucker-punch-logo.png"
   },
   {
     "id": 20,
     "name": "Team Asobi",
-    "urlPath": "teamasobi"
+    "urlPath": "teamasobi",
+    "img": "/images/team-asobi-logo.png"
   },
   {
     "id": 21,
     "name": "Valkyrie Entertainment",
-    "urlPath": "valkyrieentertainment"
+    "urlPath": "valkyrieentertainment",
+    "img": "/images/valkyrie-logo.png"
   },
   {
     "id": 22,
     "name": "XDev",
-    "urlPath": "xdev"
+    "urlPath": "xdev",
+    "img": "/images/xdev-logo.png"
   }
 ]

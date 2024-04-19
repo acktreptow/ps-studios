@@ -27,11 +27,17 @@ function Homepage() {
           onChange={(e) => setSelectedDeveloper(e.target.value)}
         >
           <option value="">Select developer</option>
-          {developers.map((developer) => (
-            <option key={developer.id} value={developer.urlPath}>
-              {developer.name}
-            </option>
-          ))}
+          {developers
+            .filter(
+              (developer) =>
+                developer.name !== "PlayStation Logo" &&
+                developer.name !== "PS5 Logo"
+            )
+            .map((developer) => (
+              <option key={developer.id} value={developer.urlPath}>
+                {developer.name}
+              </option>
+            ))}
         </select>
         <button type="submit" className="block m-auto">
           Go to developer

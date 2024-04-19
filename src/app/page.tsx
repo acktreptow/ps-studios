@@ -39,7 +39,14 @@ function Homepage() {
       </form>
       <div className="grid grid-cols-3 mx-2 mt-10 mb-4">
         {developers.map((developer) => (
-          <Link key={developer.id} href={`/developers/${developer.urlPath}`}>
+          <Link
+            key={developer.id}
+            href={
+              developer.name === "PlayStation Logo"
+                ? `${developer.urlPath}`
+                : `/developers/${developer.urlPath}`
+            }
+          >
             <Image
               src={developer.img}
               width={500}

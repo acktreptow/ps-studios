@@ -128,7 +128,7 @@
   {
     "id": 22,
     "name": "PlayStation Logo",
-    "urlPath": "/",
+    "urlPath": "/about",
     "img": "/images/playstation-logo.png"
   },
   {
@@ -140,7 +140,7 @@
   {
     "id": 24,
     "name": "PS5 Logo",
-    "urlPath": "/about",
+    "urlPath": "/",
     "img": "/images/ps5-logo.png"
   }
 ]

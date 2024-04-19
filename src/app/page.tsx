@@ -62,18 +62,19 @@ function Homepage() {
         </button>
       </form>
       <div className="grid grid-cols-3 mx-2 mt-10 mb-4">
-        {developers.filter(developer => developer.name === "Bend Studio")
-        .map(developer => (
-          <Link key={developer.id} href={`/developers/${developer.urlPath}`}>
-            <Image
-              src={developer.img}
-              width={500}
-              height={500}
-              alt="Bend Studio Logo"
-              className="transform scale-90 rounded-lg"
-            />
-          </Link>
-        ))}
+        {developers
+          .filter((developer) => developer.name !== "XDev")
+          .map((developer) => (
+            <Link key={developer.id} href={`/developers/${developer.urlPath}`}>
+              <Image
+                src={developer.img}
+                width={500}
+                height={500}
+                alt={`${developer.name} Logo`}
+                className="transform scale-90 rounded-lg"
+              />
+            </Link>
+          ))}
         {/* <Link href="/developers/bendstudio">
           <Image
             src={bendLogo}

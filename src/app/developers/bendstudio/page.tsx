@@ -13,7 +13,7 @@ function BendStudioPage() {
       </p>
       <p>
         Despite Days Gone releasing in April 2019, we still know very little
-        about their next title. Here's what we do know:
+        about their next title. Here is what we do know:
       </p>
       <ul>
         <li>It will be a new IP</li>
@@ -31,7 +31,7 @@ function BendStudioPage() {
       <p>
         We will hopefully here more soon as it has already been 5 years since
         the last game. At the very least, it should be a very different game on
-        the writing side, as Bend's main writers are no longer with the studio.
+        the writing side, as Bends main writers are no longer with the studio.
       </p>
     </>
   );

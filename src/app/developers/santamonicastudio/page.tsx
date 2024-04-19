@@ -1,3 +1,5 @@
+import games from "../../data/games.json";
+
 function SantaMonicaStudioPage() {
   return (
     <>

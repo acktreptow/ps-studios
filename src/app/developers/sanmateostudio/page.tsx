@@ -20,7 +20,9 @@ function SanMateoStudioPage() {
         only ended up releasing 2 games - both of which came out before the PS5.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">My Analysis</span>
+        <span className="border-b-2 border-gray-300">
+          My Analysis and Predictions
+        </span>
       </h2>
       <p className="mb-5 text-lg">
         Due to their support status, San Mateo haven&#39;t released a PS5 game

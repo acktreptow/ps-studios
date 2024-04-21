@@ -1,4 +1,5 @@
-import games from "../../data/games.json";
+import Image from "next/image";
+import concreteGenie from "../../../../public/images/concrete-genie.png";
 
 function SanMateoStudioPage() {
   return (
@@ -33,6 +34,17 @@ function SanMateoStudioPage() {
         If you&#39;re looking for your next first-party PS5 game, you should
         probably look elsewhere.
       </p>
+      <Image
+        src={concreteGenie}
+        alt="Concrete Genie"
+        width={500}
+        height={500}
+        id="concrete-genie"
+        className="my-3 rounded-lg"
+      />
+      <label htmlFor="concrete-genie" className="block text-center">
+        Pixelopus&#39;s final game: Concrete Genie
+      </label>
     </div>
   );
 }

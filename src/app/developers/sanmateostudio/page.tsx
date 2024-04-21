@@ -28,8 +28,8 @@ function SanMateoStudioPage() {
         to change if the shuttering of Pixelopus is any indication.
       </p>
       <p className="mb-5 text-lg">
-        If you&#39;re looking for your next PS5 game, you should probably look
-        elsewhere.
+        If you&#39;re looking for your next first-party PS5 game, you should
+        probably look elsewhere.
       </p>
     </div>
   );

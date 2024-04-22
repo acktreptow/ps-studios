@@ -1,38 +1,68 @@
 import games from "../../data/games.json";
+import Image from "next/image";
+import demonsSouls from "../../../../public/images/demons-souls.png";
 
 function BluepointGamesPage() {
   return (
-    <>
-      <h1>Bluepoint Games</h1>
-      <h2>History</h2>
-      <p>
-        Founded in 2006, this Texas-based developer is primarily known for its
-        excellent remasters and remakes. The majority of which are from Sony's
-        firrst-party IP. These include remastering God of War 1 and 2 to the PS3
-        and Uncharted 1-3 to the PS4.
+    <div className="bg-white text-gray-700 p-10">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+        Bluepoint Games
+      </h1>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">History</span>
+      </h2>
+      <p className="mb-5 text-lg">
+        Founded in 2006, this Texas-based developer is known for its excellent
+        remasters and remakes.
       </p>
-      <p>
-        The only non-Sony IP remaster was MGS 2 and 3 to both the PS3 and Xbox
-        360. However, they have provided support on other non-PlayStation
-        products such as the Xbox 360 version of Titanfall.
+      <p className="mb-5 text-lg">
+        Even before Sony acquired them in 2021, the majority of these reworks
+        were PlayStation IP. For example, remastering God of War 1 and 2 for PS3
+        and Uncharted 1-3 for PS4.
       </p>
-      <p>
-        Bluepoint's most recent projects have however been full-on remakes that
-        include Shadow of the Collossus on PS4 and most recently, Demon's Souls
-        on the PS5. This was a launch title for the PS5 and was highly praised.
-        We have haven't even gotten the name of their next game despite it being
-        over 3 years later.
+      <p className="mb-5 text-lg">
+        Their largest non-PlayStation remaster was the Metal Gear Solid HD
+        Collection for PS3 and Xbox 360.
       </p>
-      <h2>My Analysis</h2>
-      <p>
-        The only thing we know about their next game is that it's 'original
-        content'. However, despite know very little, there is every reason to be
-        confident. Bluepoint Games have an excellent track record and do have
-        some experience working on original content as a suppoer studio for Sant
-        Monica's God of War: Ragnarok.
+      <p className="mb-8 text-lg">
+        Bluepoint&#39;s most recent projects have been remakes such as
+        2018&#39;s Shadow of the Colossus and 2020&#39;s Demon&#39;s Souls. This
+        PS5 launch title was highly praised.
       </p>
-      <h2>Games</h2>
-    </>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          My Analysis and Predictions
+        </span>
+      </h2>
+      <p className="mb-5 text-lg">
+        Despite Demon&#39;s Souls releasing over 3 years ago, we don&#39;t even
+        have the name for Bluepoint&#39;s next game. All we know is that
+        it&#39;ll be &#39;original content&#39;.
+      </p>
+      <p className="mb-5 text-lg">
+        Considering this is Bluepoint&#39;s first non-remaster/remake, it&#39;s
+        not too surprising that development is taking longer than their previous
+        games. I&#39;m also optimistic due to their excellent track record.
+      </p>
+      <p className="mb-5 text-lg">
+        That outlook might change if we go another year without any news though.
+        Four years is too long for Bluepoint to go without an announcement.
+      </p>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">Games</span>
+      </h2>
+      <Image
+        src={demonsSouls}
+        alt="Demons's Souls cover art"
+        width={500}
+        height={500}
+        id="demons-souls"
+        className="my-3 rounded-lg"
+      />
+      <label htmlFor="demons-souls" className="block text-center">
+        Demon&#39;s Souls cover art
+      </label>
+    </div>
   );
 }
 

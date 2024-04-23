@@ -13,17 +13,22 @@ function GuerillaGamesPage() {
       </h2>
       <p className="mb-5 text-lg">
         Founded in 2000, this Amsterdam-based developer is primarily known for
-        its FPS series Killzone and third-person adventure series Horizon.
+        the FPS series &#39;Killzone&#39;, and third-person action-adventure
+        series &#39;Horizon&#39;.
       </p>
-      <p className="mb-5 text-lg">They were purchased by Sony in 2005.</p>
       <p className="mb-5 text-lg">
-        So far, the only game Guerilla have released for the PS5 was the
-        cross-gen title 'Horizon Forbidden West' that released in early 2022.
-        Its DLC, which released in 2023, was however a PS5 exclusive.
+        Sony acquired Guerilla in 2005, one year after the original Killzone
+        released for the PS2. Making them one of the oldest PlayStation
+        developers.
+      </p>
+      <p className="mb-5 text-lg">
+        On PS5, Guerilla have only released the cross-gen title &#39;Horizon
+        Forbidden West&#39;, in early 2022. Its DLC &#39;Burning Shores&#39; was
+        however a PS5 exclusive.
       </p>
       <p className="mb-8 text-lg">
-        Since the Burning Shores released, we haven't had any updates on their
-        next game.
+        Since the 2023 DLC, Guerilla have been silent. We don&#39;t even have a
+        name for their next project.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -31,15 +36,31 @@ function GuerillaGamesPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        Despite no information to go off of, due to the popularity of the
-        Horizon series and how it elevated the developer to a new tier above
-        their Killzone routes, their next game is almost certainly a third
-        Horizon game.
+        Despite no concrete information, I predict Guerilla&#39;s next game is
+        Horizon 3 for the following reasons:
+      </p>
+      <ul className="list-disc pl-5 mb-5 text-lg">
+        <li>
+          Horizon FW&#39;s ending sets up a sequel that serves as the final act
+          of a trilogy.
+        </li>
+        <li>Netflix is working on a live action Horizon TV series.</li>
+        <li>
+          A remake of the first Horizon is likely being developed at Nixxes.
+        </li>
+        <li>
+          A Horizon online MMO is almost certainly being worked on at NCSoft.
+        </li>
+      </ul>
+      <p className="mb-5 text-lg">
+        Clearly, Sony are bullish on Horizon with so many projects in
+        development. It would therefore be nonsensical for Guerilla to move on
+        right now.
       </p>
       <p className="mb-5 text-lg">
-        Fortunately this time, you don't have to put too much stock into my
-        analysis. This game will almost certainly be very similar to 2022's
-        Forbidden West. So try the game out and see if you like it!
+        You can expect &#39;Horizon 3&#39; in roughly 2027 that plays similar to
+        the first two. It&#39;s only been two years since Forbidden West though,
+        so don&#39;t expect to see anything until 2025 at the earliest.
       </p>
       <Image
         src={burningShores}

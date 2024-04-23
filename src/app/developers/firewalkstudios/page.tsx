@@ -42,8 +42,7 @@ function FirewalkStudiosPage() {
       </p>
       <p className="mb-5 text-lg">
         Concord has recently been reconfirmed for a 2024 release, so we{" "}
-        <span className="italic">should</span>{" "}
-        see something substantial soon.
+        <span className="italic">should</span> see something substantial soon.
       </p>
       <Image
         src={concord}

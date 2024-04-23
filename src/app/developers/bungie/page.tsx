@@ -1,57 +1,81 @@
 import games from "../../data/games.json";
+import Image from "next/image";
+import finalShape from "../../../../public/images/the-final-shape.png";
 
 function BungiePage() {
   return (
-    <>
-      <h1>Bungie</h1>
-      <h2>History</h2>
-      <p>
-        Founded in 1991, this Washington-based developer is perhaps the most
-        unique first-party developer for a variety of reasons:
+    <div className="bg-white text-gray-700 p-10">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+        Bungie
+      </h1>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">History</span>
+      </h2>
+      <p className="mb-5 text-lg">
+        Founded in 1991, this Washington-based developer is the most unique
+        first-party studio for a variety of reasons:
       </p>
-      <ul>
+      <ul className="list-disc pl-5 mb-5 text-lg">
         <li>
-          They are the creators of the Xbox's flagship IP in Halo and were once
-          owned by Microsoft.
+          Microsoft use to own Bungie when they created Xbox&#39;s flagship IP
+          &#39;Halo&#39;.
         </li>
         <li>
-          After leaving Microsoft in 2007, they then joined Activision in 2010
-          to work on Destiny.
+          Activision also use to own Bungie during initial work on Destiny.
         </li>
         <li>
-          They are the only developer technically not part of PS Studios.
-          Instead, acting as its own independent subsidiary under Sony.
+          Sony acquired Bungie in 2022, but they are the only first-party
+          developer not part of PS Studios. They&#39;re an independent Sony
+          subsidiary.
         </li>
         <li>
-          They are the only first-party developer who is allowed to launch all
-          of their games simultaneously across competing platforms like Xbox.
+          Bungie are the only first-party developer who can port their games to
+          competing platforms like Xbox.
         </li>
       </ul>
-      <p>
-        The reasons for the past 2 points is because Sony was desperate to bring
-        in-house knowledge of live service games and even at the bloated price
-        of $3.6 billion, these were stipulations in order to sell, which they
-        did so in 2022.
+      <p className="mb-5 text-lg">
+        Why does Bungie have more freedom than all of PS Studios? Desperation.
+        Sony saw the money live-service games like Destiny were making, but had
+        no in-house knowledge to make their own.
       </p>
-      <h2>My Analysis</h2>
-      <p>
-        So far, the only game Bungie has brought to the PS5 is a port of Destiny
-        2 which launched in 2020. They have however announced their next game, a
-        live-service extraction shooter called Marathon, that was announced in
-        2023. We haven't seen anything since that original CG trailer.
+      <p className="mb-8 text-lg">
+        To get Bungie to sell, Sony overpaid at $3.6 billion and accepted all
+        their terms. Bungie now advises other PS Studios on how to make a
+        live-service game.
       </p>
-      <p>
-        There is every reason to be wary of it's quality though. Despite Sony
-        paying a king's ransom for their live service knowledge, Destiny 2 has
-        been severely underperforming. To the point where there were huge
-        layoffs just to ensure certain targets were met that prevented a Sony
-        takeover of Bungie's board. It's almost a certainty that another round
-        of layoffs will occur after Destiny 2's last expansion is released. And
-        even then, Sony might still be able to take over as they are bleeding so
-        much money. It's hard to believe Marathon will be the game they need it
-        to be under those circumstances.
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          My Analysis and Predictions
+        </span>
+      </h2>
+      <p className="mb-5 text-lg">
+        On PS5, Bungie has only released a port of Destiny 2. In 2023, they
+        announced a live-service extraction shooter called Marathon, but
+        it&#39;s not been seen since.
       </p>
-    </>
+      <p className="mb-5 text-lg">
+        There&#39;s reasons to be wary of Marathon though. Sony paid a lot for
+        Bungie&#39;s live-service knowledge, but Destiny 2 has been severely
+        underperforming. This forced layoffs just to ensure certain targets were
+        met that prevented a Sony takeover of Bungie&#39;s board.
+      </p>
+      <p className="mb-5 text-lg">
+        Further layoffs will also likely occur once Destiny 2&#39;s last
+        expansion releases, and Sony still might take over. It&#39;s hard to
+        believe Marathon will succeed under those circumstances.
+      </p>
+      <Image
+        src={finalShape}
+        alt="Destiny 2: The Final Shape key art"
+        width={500}
+        height={500}
+        id="final-shape"
+        className="my-3 rounded-lg"
+      />
+      <label htmlFor="final-shape" className="block text-center">
+        Destiny 2&#39;s last expansion: The Final Shape
+      </label>
+    </div>
   );
 }
 

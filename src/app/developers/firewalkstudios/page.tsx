@@ -12,16 +12,19 @@ function FirewalkStudiosPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Based in Washington, Firewalk Studios was founded in 2018 by individuals
-        with significant leadership experience in popular multiplayer shooter IP
-        like Halo and Destiny.
+        Firewalk was founded in Washington, in 2018. Its founders are
+        experienced veterans of popular multiplayer shooters, having worked on
+        Halo and Destiny.
+      </p>
+      <p className="mb-5 text-lg">
+        With this expertise and Sony&#39;s increased focus on live-service
+        multiplayer games for PS5, it&#39;s no surprise they acquired Firewalk
+        in 2023.
       </p>
       <p className="mb-8 text-lg">
-        With this specialty and Sony&#39;s increased focus to expand their
-        multiplayer portfolio this generation, it&#39;s no surprise that they
-        officially joined PlayStation Studios in 2023 and unveiled its debut
-        project: Concord. A live-service PVP shooter with an 80&#39;s sci-fi
-        aesthetic that will launch on PS5 and PC in 2024.
+        Firewalk then announced their first game: Concord. A live-service PVP
+        shooter with an 80&#39;s sci-fi aesthetic. It launches on PS5 and PC in
+        2024.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -29,11 +32,18 @@ function FirewalkStudiosPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        Everything we know about Concord is written above, so suffice to say we
-        don&#39;t have a lot to go off. Nonetheless, the pedigree of the
-        developers before the creation of Firewalk is enough for you to be
-        excited about Concord. As the game is still scheduled for a 2024
-        release, we should hopefully see something more concrete soon.
+        Everything we know about Concord is written above, so there&#39;s not a
+        lot to go off. However, the pedigree of Firewalk&#39;s founders instills
+        confidence.
+      </p>
+      <p className="mb-5 text-lg">
+        They know how to make a good shooter, so I&#39;m cautiously optimistic
+        until we see something that proves otherwise.
+      </p>
+      <p className="mb-5 text-lg">
+        Concord has recently been reconfirmed for a 2024 release, so we{" "}
+        <span className="italic">should</span>{" "}
+        see something substantial soon.
       </p>
       <Image
         src={concord}

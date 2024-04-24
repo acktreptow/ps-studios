@@ -32,7 +32,7 @@ function InsomniacGamesPage() {
           My Analysis and Predictions
         </span>
       </h2>
-      <p>
+      <p className="mb-5 text-lg">
         This is an easy one - they've been by far, the most important
         first-party developer during the PS5 generation and the vast majority of
         people would agree. This is because they've already released 4 games, 2

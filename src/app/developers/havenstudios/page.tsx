@@ -65,3 +65,12 @@ function HavenStudiosPage() {
 }
 
 export default HavenStudiosPage;
+
+<Image
+src={ds2OTB}
+alt="Death Stranding 2 On The Beach promotional image"
+width={500}
+height={500}
+id="d2s-otb"
+className="my-3 rounded-lg"
+/>

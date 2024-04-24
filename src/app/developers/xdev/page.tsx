@@ -1,6 +1,6 @@
 import games from "../../data/games.json";
 import Image from "next/image";
-import ds2OTB from "../../../../public/images/ds2-otb.png";
+import ds2OTB from "../../../../public/images/ds2.png";
 
 function Xdevpage() {
   return (
@@ -42,10 +42,10 @@ function Xdevpage() {
       </p>
       <Image
         src={ds2OTB}
-        alt="Death Stranding 2 On The Beach promotional image"
+        alt="Fairgames CGI trailer thumbnail"
         width={500}
         height={500}
-        id="d2s-otb"
+        id="fairgames"
         className="my-3 rounded-lg"
       />
       <label htmlFor="d2s-otb" className="block text-center">

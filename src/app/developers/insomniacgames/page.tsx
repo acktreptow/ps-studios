@@ -1,27 +1,37 @@
 import games from "../../data/games.json";
+import Image from "next/image";
+import insomniacPortfolio from "../../../../public/images/insomniac-portfolio.png";
 
 function InsomniacGamesPage() {
   return (
-    <>
-      <h1>Insomniac Games</h1>
-      <h2>History</h2>
-      <p>
+    <div className="bg-white text-gray-700 p-10">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+        Insomniac Games
+      </h1>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">History</span>
+      </h2>
+      <p className="mb-5 text-lg">
         Founded in 1994, this California-based developer was basically a
         PlayStation exclusive developer for decades before being officially
         purchased by Sony in 2019.
       </p>
-      <p>
+      <p className="mb-5 text-lg">
         This is because the 3 main franchises they were originally known for in
         Spyro, Ratchet & Clank and Resistance were all exclusive to Sony
         platforms and funded by them. It was only when the latter two IP started
         to flounder in the PS3 generation when the developer branched out with
         games by EA, Xbox Game Studios and Oculus.
       </p>
-      <p>
+      <p className="mb-8 text-lg">
         The developer would find their footing again with 2018's Spider-Man that
         ended up being the highest-selling Sony game during the PS4 generation.
       </p>
-      <h2>My analysis</h2>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          My Analysis and Predictions
+        </span>
+      </h2>
       <p>
         This is an easy one - they've been by far, the most important
         first-party developer during the PS5 generation and the vast majority of
@@ -29,7 +39,7 @@ function InsomniacGamesPage() {
         of which were new Spider-Man games, that all released to critical and
         commercial success.
       </p>
-      <p>
+      <p className="mb-5 text-lg">
         And even though Insomniac have released 4x the amount of titles compared
         to many other Sony developers, we already know their next game will be.
         Marvel's Wolverine that will most likely release in 2025. Between the
@@ -37,11 +47,22 @@ function InsomniacGamesPage() {
         the huge leaks that unfortunately were released, it's safe to say that
         this game will be another huge critical and commercial hit for them.
       </p>
-      <p>
+      <p className="mb-5 text-lg">
         I really can't see them not being the most important first-party
         developer for the PS5 generation when all is said and done.
       </p>
-    </>
+      <Image
+        src={insomniacPortfolio}
+        alt="Insomniac's PS5 portfolio"
+        width={500}
+        height={500}
+        id="insomniac-portfolio"
+        className="my-3 rounded-lg"
+      />
+      <label htmlFor="insomniac-portfolio" className="block text-center">
+        Insomniac&#39;s PS5 portfolio
+      </label>
+    </div>
   );
 }
 

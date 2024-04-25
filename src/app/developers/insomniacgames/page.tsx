@@ -12,20 +12,26 @@ function InsomniacGamesPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Founded in 1994, this California-based developer was basically a
-        PlayStation exclusive developer for decades before being officially
-        purchased by Sony in 2019.
+        Founded in 1994, this California-based studio had been developing
+        PlayStation exclusives decades before being officially acquired by Sony
+        in 2019.
       </p>
       <p className="mb-5 text-lg">
-        This is because the 3 main franchises they were originally known for in
-        Spyro, Ratchet & Clank and Resistance were all exclusive to Sony
-        platforms and funded by them. It was only when the latter two IP started
-        to flounder in the PS3 generation when the developer branched out with
-        games by EA, Xbox Game Studios and Oculus.
+        These exclusives include the Spyro the Dragon (PS1) and Resistance (PS3)
+        trilogies, as well as Ratchet & Clank on PS2/3. All funded by Sony.
+      </p>
+      <p className="mb-5 text-lg">
+        In the early 2010s, the latter two IP started to flounder which caused
+        Insomniac to branch out. Developing games funded by EA, Xbox and Oculus.
       </p>
       <p className="mb-8 text-lg">
-        The developer would find their footing again with 2018's Spider-Man that
-        ended up being the highest-selling Sony game during the PS4 generation.
+        Insomniac would however find solid ground again with 2018&#39;s
+        Spider-Man for the PS4. It was not only their highest selling game ever,
+        but was also the highest selling PS4 exclusive.
+      </p>
+      <p className="mb-8 text-lg">
+        Naturally Sony, after seeing this success, acquired them the following
+        year. They&#39;ve been on fire ever since!
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -33,23 +39,24 @@ function InsomniacGamesPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        This is an easy one - they've been by far, the most important
-        first-party developer during the PS5 generation and the vast majority of
-        people would agree. This is because they've already released 4 games, 2
-        of which were new Spider-Man games, that all released to critical and
-        commercial success.
+        Most people agree that Insomniac have been the most important PS studio
+        this PS5 generation. That&#39;s because they&#39;ve already shipped four
+        games to critical and commercial success.
       </p>
       <p className="mb-5 text-lg">
-        And even though Insomniac have released 4x the amount of titles compared
-        to many other Sony developers, we already know their next game will be.
-        Marvel's Wolverine that will most likely release in 2025. Between the
-        pedigree they've proven with Marvel properties through Spider-Man and
-        the huge leaks that unfortunately were released, it's safe to say that
-        this game will be another huge critical and commercial hit for them.
+        Furthermore, even though Insomniac have already released more titless
+        than most developers will this entire generation, we know their next
+        game - Marvel&#39;s Wolverine in (likely) 2025.
       </p>
       <p className="mb-5 text-lg">
-        I really can't see them not being the most important first-party
-        developer for the PS5 generation when all is said and done.
+        Between Insomniac&#39;s current track record and what&#39;s already out
+        there about Wolverine, it&#39;s an easy prediction to say that it will
+        be a hit.
+      </p>
+      <p className="mb-5 text-lg">
+        I really can&#39;t see them not surpassing Naughty Dog and Santa Monica
+        as the most important first-party developer for the PS5 when all is said
+        and done.
       </p>
       <Image
         src={insomniacPortfolio}

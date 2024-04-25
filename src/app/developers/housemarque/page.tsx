@@ -12,19 +12,21 @@ function HousemarquePage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Founded in 1995, this Finnish-based developer has released over 10
-        different IP on PlayStation consoles since 2007. This includes Super
-        Stardust, Resogun, and Matterfall.
+        Founded in 1995, this Finnish-based developer has released a myriad of
+        games on PlayStation consoles including Super Stardust and Resogun.
       </p>
       <p className="mb-5 text-lg">
-        Their most recent game is 2021's Returnal for the PS5, which took many
-        of the rouge-like elements seen in their previous titles, but were able
-        to now reach more mainstream demographic with a change to a third-person
-        shooter and more emphasis on a high-production value story.
+        Housemarque most recently released 2021&#39;s Returnal for the PS5. It
+        kept the rouge-like elements seen in previous games, but moved to a
+        third-person perspective with more focus on story.
+      </p>
+      <p className="mb-5 text-lg">
+        This helped Returnal have a more mainstream appeal and thus became
+        Housemarque&#39;s best selling game.
       </p>
       <p className="mb-8 text-lg">
-        Clearly Sony were happy with the outcome as they purchased Housemarque
-        within 2 month's of Returnal's release.
+        Clearly, Sony were happy with this pivot as they purchased Housemarque
+        two months after Returnal released.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -32,18 +34,21 @@ function HousemarquePage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        Returnal is the only game Housemarque have released on the PS5, and
-        despite it releasing over 3 years ago, we don't even have a title for
-        their next game.
+        Returnal is Housemarque&#39;s only PS5 title. Yet despite releasing
+        three years ago, we know nothing about the next game. Nonetheless,
+        Returnal&#39;s quality is the reason to still be excited.
       </p>
       <p className="mb-5 text-lg">
-        Nonetheless, there's every reason to be excited about whatever it is.
-        Housemarque proved they could put their difficult rouge-like bona fides
-        into a more mainstream package with Returnal. Now with this new
-        experience under their belt, plus the backing of Sony as an official
-        first-party developer, their next game should improve on this new
-        formula. It has been 3 years though, so we should (hopefully) hear about
-        it soon.
+        With Returnal, Housemarque proved they could take the elements that made
+        their older, smaller-scoped games critically acclaimed, and repackage
+        them into a more mainstream title.
+      </p>
+      <p className="mb-5 text-lg">
+        With this experience under their belt, plus the backing of Sony as an
+        official first-party developer, their next game should fare even better.
+      </p>
+      <p className="mb-5 text-lg">
+        It has been 3 years though, so we should (hopefully) hear about it soon.
       </p>
       <Image
         src={seleneVassos}

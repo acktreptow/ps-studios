@@ -13,21 +13,19 @@ function HavenStudiosPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        This Montreal-based developer was founded in 2021 by popular video game
-        producer Jade Raymond. Who had recently quite Google after the
-        corporation had announced they would no longer be supporting Google
-        Stadia with internally developed games.
+        This Montreal-based developer was founded in 2021 by Jade Raymond - one
+        of the creators of Assassin&#39;s Creed. Raymond was at Google, but left
+        once they stopped supporting their cloud-based console &#39;Stadia&#39;.
       </p>
       <p className="mb-5 text-lg">
-        Raymond would however take this knowledge of cloud infrastructure to
-        Haven. Something Sony were particularly interested in, which is why they
-        bought them in early 2023 after already partnering with them on a
-        live-service title for a year.
+        Raymond took this cloud infrastructure knowledge to Haven, which caught
+        the attention of Sony. They immediately started funding their first game
+        and acquired Haven a year later.
       </p>
       <p className="mb-5 text-lg">
-        We found out what this title was in May 2023 - FairGame$ a live service
-        competitive heist shooter that will launch on PS5 and PC simultaneously.
-        It currently does not have a release date.
+        This game turned out to be FairGame$. A live service competitive heist
+        shooter that will launch on PS5 and PC. It currently has no release
+        date.
       </p>
       <Image
         src={jadeRaymond}
@@ -46,8 +44,14 @@ function HavenStudiosPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        Despite the Haven being a young developer who haven&#39;t shown much,
-        you should be relatively excited. We know Mark Cerny is impressed.
+        We haven&#39;t seen Fairgame$ since the first trailer. Haven is also a
+        new studio, and the first to emphasize the cloud. It&#39;s therefore
+        hard to predict how Fairgame$ will do, but I&#39;m optimistic.
+      </p>
+      <p className="mb-5 text-lg">
+        Mark Cerny, architect of the PS5, has taken an interest in Haven and is
+        assisting with Fairgame$ and general R&D. Between his interest and Sony
+        investing so quickly, I&#39;m confident.
       </p>
       <Image
         src={fairGames}

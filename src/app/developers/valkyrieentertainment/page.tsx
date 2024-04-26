@@ -12,18 +12,22 @@ function ValkyrieEntertainmentPage() {
       </h2>
       <p className="mb-5 text-lg">
         Valkyrie Entertainment are a Seattle-based developer who were founded in
-        2002 and officially purchased by Sony in 2021. Never heard of Valkyrie
-        or their games? Makes sense. That&#39;s because Valkyrie only act as a
-        support studio for PlayStation games developed at other first-party
-        studios.
+        2002 and acquired by Sony in 2021.
+      </p>
+      <p className="mb-5 text-lg">
+        Never heard of Valkyrie or their games? Makes sense. That&#39;s because
+        Valkyrie only act as a support studio for PlayStation games developed at
+        other first-party studios.
+      </p>
+      <p className="mb-5 text-lg">
+        In fact despite being founded over 20 years ago, Valkyrie has only been
+        the main developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN
+        and mobile, which came and went with no fanfare.
       </p>
       <p className="mb-8 text-lg">
-        In fact despite being founded over 20 years ago, Valkyrie have only been
-        the main developer for one game. 2015&#39;s digital only &#39;Guns
-        Up!&#39; for PSN and mobile devices, which came and went with no
-        fanfare. You&#39;re far more likely to have seen their support work on
-        titles from other PlayStation Studios like God of War: Ragnarok from
-        Sony Santa Monica.
+        You&#39;re far more likely to have seen their support work on titles
+        from other PlayStation Studios like God of War: Ragnarok from Sony Santa
+        Monica.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -32,14 +36,16 @@ function ValkyrieEntertainmentPage() {
       </h2>
       <p className="mb-5 text-lg">
         This one&#39;s easy to forecast. Due to their support status, Valkyrie
-        haven&#39;t released any games for the PS5. And based off the critical
-        and commercial failure of Guns Up, it&#39;s unlikely they&#39;ll get a
-        chance to any time soon.
+        haven&#39;t released a game for the PS5.
       </p>
       <p className="mb-5 text-lg">
-        Especially if their unsecure, bare-bones website is anything to go by.
-        If you&#39;re looking for your next PS5 first-party game, you can safely
-        ignore Valkyrie Entertainment.
+        Based off the critical and commercial failure of Guns Up!, it&#39;s also
+        unlikely they&#39;ll get a chance to. Especially if their unsecure,
+        bare-bones website is anything to go by.
+      </p>
+      <p className="mb-5 text-lg">
+        If you&#39;re looking for your next great PS5 first-party game to play,
+        you can safely ignore Valkyrie Entertainment.
       </p>
       <Image
         src={gunsUpGameplay}

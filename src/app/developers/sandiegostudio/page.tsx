@@ -16,14 +16,14 @@ function SanDiegoStudioPage() {
         first-party developer that is responsible for the MLB: The Show series.
       </p>
       <p className="mb-5 text-lg">
-        This annual baseball series is the only series they work on. So
-        naturally, there's been 4 baseball games for the PS5 that have all come
-        out around late-March/early-April over the past 4 years.
+        This annual baseball series is the only IP they work on. So naturally,
+        there&#39;s been four baseball games for the PS5 that have come out in
+        March/April since 2021.
       </p>
       <p className="mb-8 text-lg">
-        This generation has been different though. As despite being a Sony
-        first-party developer, the MLB have forced PlayStation to develop an
-        Xbox and Nintendo port since MLB 21 or they would lost the license.
+        This generation has been different in one aspect though. Despite being a
+        Sony first-party developer, the MLB have forced PlayStation to develop
+        an Xbox and Nintendo port since MLB 21 or they would lost the license.
         Clearly, turning the series platform was the better alternative to
         losing the license as the series has continued.
       </p>
@@ -33,18 +33,16 @@ function SanDiegoStudioPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        This ones easy to predict. San Diego Studio haven't developed a non-MLB
-        game for close to a decade. And with rising development costs couple
-        with tighter profits for PlayStation, it's unlikely they would be
-        allowed to experiment with something new, and that's assuming they even
-        want to.
+        This ones easy to predict. SD Studio haven&#39;t developed a non-MLB
+        game for close to a decade. And with rising development costs coupled
+        with tighter profits for PlayStation, it&#39;s unlikely they would be
+        allowed to experiment with something new, even if they want to.
       </p>
       <p className="mb-5 text-lg">
-        We're also 4 games deep into this series being multiplatform and nothing
-        materially has changed. With there being an Xbox and Switch version,
-        that was the one change that could have changed the series but didn't.
-        It's therefore safe to assume San Diego will continue with a yearly
-        multiplatform MLB game for the foreseeable future.
+        We&#39;re also four games deep into the series being multiplatform and
+        nothing has materially changed. That was the one change that could have
+        altered MLB&#39;s trajectory, but didn&#39;t. It&#39;s therefore safe to
+        assume SD Studio will continue for the foreseeable future.
       </p>
       <Image
         src={mlb24}

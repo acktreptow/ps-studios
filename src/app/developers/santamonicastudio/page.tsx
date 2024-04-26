@@ -12,15 +12,14 @@ function SantaMonicaStudioPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Santa Monica Studio is an LA-based developer that was founded in 1999.
-        Outside of its first game, 2001's Kinetica, the studio has exclusively
-        developed games for its hugely successful God of War series.
+        Santa Monica Studio is an LA-based developer founded in 1999. Outside of
+        its first game, 2001&#39;s Kinetica, the studio has exclusively
+        developed games for its very successful God of War series.
       </p>
       <p className="mb-8 text-lg">
-        Their most recent game was 2022's God of War Ragnarok - a cross-gen
-        title and the only game they have released on the PS5 so far. Like the
-        2018 requel (thanks Scream 5 for this term), it was a big critical and
-        commercial success.
+        SM&#39;s most recent game was 2022&#39;s God of War Ragnarok - a
+        cross-gen title and the only game they&#39;ve released on the PS5. Like
+        the 2018 semi-reboot, it was a big critical and commercial success.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -28,18 +27,20 @@ function SantaMonicaStudioPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        As of right now, we don't know what Santa Monica's next game will be
-        aside from the fact that it will third-person. There's rumours that
-        predict a new IP, a sequel to Ragnarok, and a smaller-scope Gof of War
-        game in the vein of Spider-Man Miles-Morales.
+        As of now, we don&#39;t know what SM&#39;s next game is other than it
+        being in third-person. There&#39;s rumours that predict a new IP, a
+        sequel to Ragnarok, and a smaller-scoped GoW game in the vein of
+        Spider-Man Miles-Morales.
       </p>
       <p className="mb-5 text-lg">
-        Regardless of what it is, there's no reason to think it won't be a great
-        game based off their last 2 projects. The new God of Wars were so
-        critically acclaimed that many believe they helped usurp Naughty Dog as
-        Sony's premier developer. Hopefully we hear something more concrete too,
-        although Ragnarok only came out 1.5 years ago. There's A LOT of Sony
-        developers that need to talk first as their going on 4-5 without a game.
+        Regardless of what it is, there&#39;s no reason to think it won&#39;t be
+        great. To many, SM&#39;s last two games were so critically acclaimed
+        that they usurped Naughty Dog as Sony&#39;s premier studio.
+      </p>
+      <p className="mb-5 text-lg">
+        Ragnarok did only ship 1.5 years ago though, so don&#39;t expect to hear
+        anything soon. There&#39;s A LOT of Sony developers that need to talk
+        before SM, as they&#39;re going on 4-5 without a shipped game.
       </p>
       <Image
         src={gowRagnarok}

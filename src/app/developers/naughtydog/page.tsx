@@ -12,21 +12,20 @@ function NaughtyDogPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Naughty Dog are a Santa Monica, California-based developer that was
-        founded all the way back in 1984 - before Nintendo had ever released a
-        game!
+        Naughty Dog are a California-based developer that was founded back in
+        1984. Over a decade before the PS1!
       </p>
       <p className="mb-5 text-lg">
-        They are also one of the earliest PlayStation Studios as they were
-        founded in 2001. Due to the incredible success of their Crash Bandicoot
-        trilogy that was essentially the Super Mario IP of the PS1.
+        They&#39;re also one of the earliest first-party developers as Sony
+        acquired them in 2001. An easy decision considering the critical and
+        commercial success of their Crash Bandicoot trilogy on the PS1.
       </p>
       <p className="mb-8 text-lg">
-        After a decent PS2 generation with their Jak & Daxter series, Naughty
-        Dog's prestige would shoot into the stratosphere during the PS3's
-        generation. First with their Uncharted trilogy before basically becoming
-        the premier PlayStation Studio with The Last of Us. This continued into
-        the PS4 generation with sequels in both IP.
+        Naughty Dog had a fine PS2 gen with the Jak & Daxter series. However, it
+        was the PS3 gen, with the Uncharted trilogy and The Last of Us, where
+        their prestige grew to the point that many consider them the premier
+        PlayStation studio. This continued into the PS4 gen with sequels in both
+        IP.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -34,25 +33,28 @@ function NaughtyDogPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        Technically, Naughty Dog are tied with Insomniac with putting the most
-        PS5 titles out at 4. However unlike, Insomniac, all four games were
-        either remasters or remakes of the most recent Uncharted games and both
-        Last of Us titles.
+        Like Insomniac, Naughty Dog have released four games on PS5 - a record
+        for first-party. Unlike Insomniac though, all four games are
+        remasters/remakes of PS4 Uncharted/TLOU games.
       </p>
       <p className="mb-5 text-lg">
-        Furthermore, the only future new title we knew anything about was The
-        Last of Us Online, which was officially cancelled around 3.5 years into
-        development. It's therefore hard to be particularly confident in the
-        developer despite the pedigree they've shown over the past 15 years.
-        While the remakes/remasters were nice, one could easily argue they were
-        unnecessary due to the original titles still accessible on modern
-        console and still play great.
+        Furthermore, Naughty Dog&#39;s only new game, TLOU Online, was cancelled
+        four years into development. It&#39;s therefore hard to be confident
+        despite the pedigree over the past two gens.
       </p>
       <p className="mb-5 text-lg">
-        I could easily see us getting one new game max from them this generation
-        which would be a real shame and quite the drop-off. You could already
-        name numerous other developers that are more important currently, which
-        would have been unthinkable when The Last of Us released in 2013.
+        While remakes/remasters are nice, they were somewhat unnecessary due to
+        the PS4 versions still playing great on PS5.
+      </p>
+      <p className="mb-5 text-lg">
+        Unfortunately, it looks like ND have time for only one new game on PS5.
+        A huge drop-off from previous output, although I&#39;m sure it will
+        retain their premier quality.
+      </p>
+      <p className="mb-5 text-lg">
+        Regardless, many first-party developers have already supplanted them
+        this gen. Something unthinkable when TLOU released in 2013. Hopefully
+        they return to their former glory for the PS6.
       </p>
       <Image
         src={tlouFactions}

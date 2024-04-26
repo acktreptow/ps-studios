@@ -13,15 +13,19 @@ function PolyphonyDigitalPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Founded in 1998, this Tokyo-based developer are known for the hit racing
-        series Gran Turismo.
+        Founded internally by Sony auteur Kazunori Yamauchi in 1998, this
+        Tokyo-based developer are renowned for their racing series Gran Turismo.
+        It&#39;s also PlayStation&#39;s highest-selling franchise.
       </p>
       <p className="mb-5 text-lg">
-        They've released one game for the PS5 so far. The cross-gen title "Gran
-        Turismo 7" that came out in March 2022. Despite some issues at launch,
-        some brought on by themselves, the game was critically acclaimed and
-        sold very well. It's also widely seen as the premier experience on
-        PSVR2.
+        At least one GT has shipped on every PlayStation console, so it&#39;s no
+        surprise there&#39;s already one on the PS5. 2022&#39;s cross-gen Gran
+        Turismo 7.
+      </p>
+      <p className="mb-5 text-lg">
+        Despite a few (mostly self-inflicted) issues at launch, GT7 was
+        critically and commercially acclaimed. It&#39;s also seen as the premier
+        experience on PSVR2.
       </p>
       <Image
         src={kazunoriYamauchi}
@@ -40,17 +44,23 @@ function PolyphonyDigitalPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        Considering it takes around 4 years for Polyphony to release a new Gran
-        Turismo, I imagine we'll almost see a Gran Turismo 8 towards the end of
-        the PS5 generation. This one will be PS5-only and should also take a
-        huge graphics leap with the PS5 Pro already out by then.
+        It takes around four years for Polyphony to release a new GT, so I
+        imagine we&#39;ll see GT8 at the end of the PS5 gen.
       </p>
       <p className="mb-5 text-lg">
-        If you're not a driving game fan, I would move on as I highly doubt
-        we'll get something else from Polyphony any time soon. Their last non
-        Gran Turismo was 2006's Tourist Trophy which was essentially Gran
-        Turismo but motorbikes. We're a LONG way from a non-racing game from
-        Polyphony with 1999's Omega Boost.
+        If you&#39;re a driving game fan, I would be even more excited this time
+        too. GT8 will be PS5-only and should take an even further graphical leap
+        with the PS5 Pro.
+      </p>
+      <p className="mb-5 text-lg">
+        They&#39;ve also learned from GT7&#39;s launch issues which will make
+        the game loop better, and the PSVR 2 mode could end up as the
+        hardware&#39;s best experience.
+      </p>
+      <p className="mb-5 text-lg">
+        If you&#39;re not a fan though, I would just move on. There&#39;s zero
+        confirmation Polyphony&#39;s next game is GT8, but it&#39;s a safe bet
+        considering the track record.
       </p>
       <Image
         src={gt7PSVR2}

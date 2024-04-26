@@ -12,20 +12,22 @@ function SuckerPunchProductionsPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Sucker Punch Productions are a Washington-based developer that was
-        founded in 1997. This was to initially work on an N64 called Rocket:
-        Robot on Wheels.
+        Sucker Punch are a Washington-based developer that was founded in 1997,
+        initially to work on an N64 game called Rocket: Robot on Wheels.
       </p>
       <p className="mb-5 text-lg">
-        They then started having their games funded by Sony, where they made the
-        Sly trilogy for the PS2 before switching to inFamous with the PS3
-        generation. It was during this time that they were purchased by Sony in
-        2011.
+        Sony were impressed, so they funded SP&#39;s Sly Cooper trilogy for the
+        PS2 and again with inFamous 1/2 on PS3. After five great games under
+        this partnership, Sony acquired the studio in 2011.
+      </p>
+      <p className="mb-5 text-lg">
+        SP have since moved on from inFamous to Ghost of Tsushima. A
+        third-person samurai action-adventure that easily became the
+        studio&#39;s best selling game.
       </p>
       <p className="mb-8 text-lg">
-        Sucker Punch have since moved to Ghost of Tsushima, which initially
-        released for the PS4. However, a Director's Cut that featured a mini
-        campaign was released on the PS5 in August 2021. This is currently their
+        GoT initially released for the PS4, however a PS5 Director&#39;s Cut
+        that added more content was shipped in 2021. This is currently SP&#39;s
         only PS5 game.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
@@ -34,15 +36,14 @@ function SuckerPunchProductionsPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        It's been nearly 4 year since Ghost of Tsushima was released to
-        widespread critical and commercial acclaim that catapulted the studio to
-        a higher tier in the industry. All rumours suggest that their next game
-        will also be direct sequel.
+        It&#39;s been nearly four years since SP achieved new highs, both
+        commercially and critically, with GoT. It&#39;s therefore not surprising
+        that a proper sequel is heavily rumoured to be their next game.
       </p>
       <p className="mb-5 text-lg">
-        Considering these factors, ideally, the game should be announced very
-        soon. And rest assured, it will be yet another excellent game based off
-        Sucker Punch's track record.
+        Considering this, I predict that not only is GoT 2 the next game any PS
+        developer announces, but it will also release very shortly after. To new
+        highs for Sucker Punch, critically and commercially.
       </p>
       <Image
         src={gotDC}

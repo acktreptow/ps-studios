@@ -12,22 +12,18 @@ function Xdevpage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Formed in 2000, XDev have a very unique role amongst PlayStation
-        developers. This is because they don't develop games themselves, but
-        rather they collaborate with external developers to bring their games to
-        PlayStation platforms.
+        Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t
+        develop games themselves, but instead collaborate with external studios
+        to fund development of exclusive games for PlayStation.
       </p>
       <p className="mb-5 text-lg">
-        This type of development used to be called second-party. But both Xbox
-        and PlayStation now see them as first-party as they're still funcing the
-        games, so we will too now.
+        Due to XDev just funding the games, it means they can work with many
+        different developers simultaneously to produce an eclectic selection.
       </p>
       <p className="mb-8 text-lg">
-        Due to working with so many different developers, XDev can produce an
-        eccelectic slection of games. On the PS5 alone, they've created a car
-        combat game called Destruction All Stars, a platformer with Sackboy's
-        Big Advanture, a multiplayer live-service game with Helldivers 2 a VR
-        FPS with Firewall Ultra and a soulsborne game with Rise of the Ronin.
+        On PS5 alone, they&#39;ve already produced over ten games, with three
+        released this year! The live service game Helldivers 2, the soulsborne
+        Rise of the Ronin, and the action-adventure Stellar Blade.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -35,21 +31,35 @@ function Xdevpage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        XDev currently have 3 games publicly in development. Stellar Blade,
-        Until Dawn Remake and Death Stranding 2. Even though their games have
-        been hit or miss this generation, as these are sequels and remakes, it
-        should be far more likely that they hit.
+        XDev have two games publicly in development. A remake of 2015&#39;s
+        Until Dawn by Ballistic Moon and Death Stranding 2 by Kojima
+        Productions.
+      </p>
+      <p className="mb-5 text-lg">
+        Analytically, XDev&#39;s collaborations have been inconsistent this gen,
+        with 2022&#39;s VR FPS Firewall Ultra being the biggest disappointment.
+      </p>
+      <p className="mb-5 text-lg">
+        However, all three of XDev&#39;s 2024 games have been successful. In
+        particular, Helldivers 2 far exceeded anyone&#39;s expectations and
+        easily stands amongst PS Studios&#39;s best games.
+      </p>
+      <p className="mb-5 text-lg">
+        Between this recent track record, Until Dawn being a remake, and DS2
+        being a sequel of a critically acclaimed game, I predict both games will
+        be well received and strengthen XDev&#39;s ascent as the PS5 gen
+        continues.
       </p>
       <Image
         src={ds2OTB}
-        alt="Fairgames CGI trailer thumbnail"
+        alt="Death Standing 2 On The Beach cutscene"
         width={500}
         height={500}
-        id="fairgames"
+        id="d2s-otb"
         className="my-3 rounded-lg"
       />
       <label htmlFor="d2s-otb" className="block text-center">
-        XDEV&#39;s upcoming Death Stranding 2
+        XDev&#39;s upcoming Death Stranding 2
       </label>
     </div>
   );

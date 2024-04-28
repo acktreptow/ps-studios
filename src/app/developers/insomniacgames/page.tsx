@@ -59,9 +59,7 @@ function InsomniacGamesPage() {
         and done.
       </p>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          Insomniac&#39;s PS5 Games
-        </span>
+        <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
       <div className="mb-5 grid gap-5">
         {games

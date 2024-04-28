@@ -37,11 +37,34 @@ function SantaMonicaStudioPage() {
         great. To many, SM&#39;s last two games were so critically acclaimed
         that they usurped Naughty Dog as Sony&#39;s premier studio.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-8 text-lg">
         Ragnarok did only ship 1.5 years ago though, so don&#39;t expect to hear
         anything soon. There&#39;s A LOT of Sony developers that need to talk
         before SM, as they&#39;re going on 4-5 without a shipped game.
       </p>
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">PS5 Games</span>
+      </h2>
+      <div className="mb-5 grid gap-5">
+        {games
+          .filter((game) => game.developer === "Santa Monica Studio")
+          .map((game) => (
+            <div
+              key={game.id}
+              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            >
+              <h3 className="text-xl font-bold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Genre: {game.genre}</p>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days Between Releases: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+            </div>
+          ))}
+      </div>
       <Image
         src={gowRagnarok}
         alt="God of War Ragnarok awards won"

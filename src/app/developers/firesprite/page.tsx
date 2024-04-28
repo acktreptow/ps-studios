@@ -46,12 +46,32 @@ function FirespritePage() {
         that Firesprite&#39;s unrevealed Twisted Metal live service game had
         been cancelled.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-8 text-lg">
         Considering this toxic environment, plus the fact that their games
         weren&#39;t great beforehand, I don&#39;t see anything good coming out
         of Firesprite soon. Even if early leaks of a potential horror game do
         sound promising in a vacuum.
       </p>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          Firesprite&#39;s PS5 Games
+        </span>
+      </h2>
+      <div className="mb-8 grid gap-5">
+        {games
+          .filter((game) => game.developer === "Firesprite")
+          .map((game) => (
+            <div key={game.id} className="border p-3">
+              <h3 className="text-lg font-semibold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days between releases: {game.daysBetweenReleases}
+              </p>
+            </div>
+          ))}
+      </div>
       <Image
         src={horizonCoTM}
         alt="Horizon Call of the MMountain gameplay screenshot"

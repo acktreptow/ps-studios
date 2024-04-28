@@ -12,19 +12,19 @@ function FirespritePage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Founded in 2012, Firesprite is a Liverpool-based developer that was
-        formed by former members of first-party developer Sony Liverpool, which
-        was closed by Sony just weeks prior.
+        Founded in 2012, Firesprite is a Liverpool based developer formed by
+        ex-members of first-party developer Sony Liverpool, which closed weeks
+        prior.
       </p>
       <p className="mb-5 text-lg">
-        Firesprite first major game was 2018&#39;s The Persistence, which also
-        came to competing platforms like Xbox as it wouldn&#39;t be until 2021
-        when Sony acquired the studio.
+        Firesprite&#39;s first major game was 2018&#39;s The Persistence. It
+        also came to other platforms like Xbox, as Sony wouldn&#39;t acquire the
+        studio until 2021.
       </p>
       <p className="mb-8 text-lg">
-        They&#39;ve released two games on the PS5 so far. An enhanced port of
-        The Persistence as well as the flagship PSVR 2 launch title Horizon:
-        Call of the Mountain. Neither game was particularly well received.
+        So far, they&#39;ve released two PS5 games. An enhanced port of The
+        Persistence and the flagship PSVR2 launch title Horizon Call of the
+        Mountain. Neither were particularly well received.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
@@ -32,25 +32,25 @@ function FirespritePage() {
         </span>
       </h2>
       <p className="mb-5 text-lg">
-        We currently don&#39;t have any information on Firesprite&#39;s upcoming
-        projects, as nothing has been officially announced since Horizon CoTM
-        shipped 14 months ago.
+        Firesprite hasn&#39;t announced anything since Horizon CoTM shipped 14
+        months ago. Unfortunately this is because of the studio&#39;s dire
+        situation, post-acquisition.
       </p>
       <p className="mb-5 text-lg">
-        Unofficially, things look VERY dire for the studio post-acquitsion. It
-        was reported that crunch was implemented just to finish Horizon, with
-        staff leaving in droves months later once all rention bonuses were paid
-        out. Including all but one of the studio&#39;s founders.
+        Crunch was apparently necessary to finish Horizon. Additionally, all but
+        one founder and many other staff left once retention bonuses were paid
+        out.
       </p>
       <p className="mb-5 text-lg">
-        Then a year later, it was reported that further layoffs had taken place
-        and Firesprite&#39;s previously unrevealed Twisted Metal live service
-        game was also cancelled.
+        Finally, further layoffs took place a year later and it was reported
+        that Firesprite&#39;s unrevealed Twisted Metal live service game had
+        been cancelled.
       </p>
       <p className="mb-5 text-lg">
-        Considering all this, I just don&#39;t see anything good coming out of
-        this studio any time soon. Even if early leaks of a potential horror
-        game do sound promising in a vacuum.
+        Considering this toxic environment, plus the fact that their games
+        weren&#39;t great beforehand, I don&#39;t see anything good coming out
+        of Firesprite soon. Even if early leaks of a potential horror game do
+        sound promising in a vacuum.
       </p>
       <Image
         src={horizonCoTM}
@@ -61,7 +61,7 @@ function FirespritePage() {
         className="my-3 rounded-lg"
       />
       <label htmlFor="horizon-cotm" className="block text-center">
-        Horizon CoTM&#39;s excellent graphics
+        Horizon CoTM on PSVR2
       </label>
     </div>
   );

@@ -57,11 +57,34 @@ function PolyphonyDigitalPage() {
         the game loop better, and the PSVR 2 mode could end up as the
         hardware&#39;s best experience.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-8 text-lg">
         If you&#39;re not a fan though, I would just move on. There&#39;s zero
         confirmation Polyphony&#39;s next game is GT8, but it&#39;s a safe bet
         considering the track record.
       </p>
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">PS5 Games</span>
+      </h2>
+      <div className="mb-5 grid gap-5">
+        {games
+          .filter((game) => game.developer === "Polyphony Digital")
+          .map((game) => (
+            <div
+              key={game.id}
+              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            >
+              <h3 className="text-xl font-bold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Genre: {game.genre}</p>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days Between Releases: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+            </div>
+          ))}
+      </div>
       <Image
         src={gt7PSVR2}
         alt="GT7 PSVR2"

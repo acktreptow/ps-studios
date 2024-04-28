@@ -24,15 +24,19 @@
     "developer": "Firesprite",
     "name": "The Persistence Enhanced",
     "id": "Persistence Enhanced",
+    "genre": "Survival-Horror",
     "releaseDate": "June 4, 2021",
-    "daysBetweenReleases": 1047
+    "daysBetweenReleases": 104,
+    "metacritic": 71
   },
   {
     "developer": "Firesprite",
     "name": "Horizon Call of the Mountain",
     "id": "Horizon CoTM",
+    "genre": "VR Action-Adventure",
     "releaseDate": "February 22, 2023",
-    "daysBetweenReleases": 994
+    "daysBetweenReleases": 994,
+    "metacritic": 79
   },
   {
     "developer": "Firewalk Studios",

@@ -52,12 +52,12 @@ function FirespritePage() {
         of Firesprite soon. Even if early leaks of a potential horror game do
         sound promising in a vacuum.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">
           Firesprite&#39;s PS5 Games
         </span>
       </h2>
-      <div className="mb-8 grid gap-5">
+      <div className="mb-5 grid gap-5">
         {games
           .filter((game) => game.developer === "Firesprite")
           .map((game) => (

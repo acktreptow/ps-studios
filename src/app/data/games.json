@@ -3,6 +3,7 @@
     "developer": "Bluepoint Games",
     "name": "Demon's Souls",
     "id": "Demon's Souls",
+    "genre": "Soulsborne",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 1011
   },
@@ -10,6 +11,7 @@
     "developer": "Bungie",
     "name": "Destiny 2",
     "id": "Destiny 2",
+    "genre": "Live service FPS",
     "releaseDate": "December 8, 2020",
     "daysBetweenReleases": 1190
   },
@@ -17,6 +19,7 @@
     "developer": "Bungie",
     "name": "Marathon",
     "id": "Marathon",
+    "genre": "Live service FPS",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": null
   },
@@ -42,6 +45,7 @@
     "developer": "Firewalk Studios",
     "name": "Concord",
     "id": "Concord",
+    "genre": "Live service FPS",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": null
   },
@@ -49,6 +53,7 @@
     "developer": "Guerrilla Games",
     "name": "Horizon Forbidden West",
     "id": "Horizon FW",
+    "genre": "Action RPG",
     "releaseDate": "February 18, 2022",
     "daysBetweenReleases": 1817
   },
@@ -56,6 +61,7 @@
     "developer": "Haven Studios",
     "name": "Fairgame$",
     "id": "Fairgame$",
+    "genre": "Live service heist shooter",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": null
   },
@@ -63,6 +69,7 @@
     "developer": "Housemarque",
     "name": "Returnal",
     "id": "Returnal",
+    "genre": "Roguelike TPS",
     "releaseDate": "April 30, 2021",
     "daysBetweenReleases": 1355
   },
@@ -70,6 +77,7 @@
     "developer": "Insomniac Games",
     "name": "Marvel's Spider-Man: Miles Morales",
     "id": "Spider-Man: MM",
+    "genre": "Action-Adventure",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 365
   },
@@ -77,6 +85,7 @@
     "developer": "Insomniac Games",
     "name": "Marvel's Spider-Man Remastered",
     "id": "SpiderMan Remastered",
+    "genre": "Action-Adventure",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 0
   },
@@ -84,6 +93,7 @@
     "developer": "Insomniac Games",
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Ratchet & Clank: Rift Apart",
+    "genre": "TPS platformer",
     "releaseDate": "June 11, 2021",
     "daysBetweenReleases": 212
   },
@@ -91,6 +101,7 @@
     "developer": "Insomniac Games",
     "name": "Marvel's Spider-Man 2",
     "id": "Spider-Man 2",
+    "genre": "Action-Adventure",
     "releaseDate": "October 20, 2023",
     "daysBetweenReleases": 862
   },
@@ -98,6 +109,7 @@
     "developer": "Insomniac Games",
     "name": "Marvel's Wolverine",
     "id": "Wolverine",
+    "genre": "Action-Adventure",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": null
   },
@@ -105,6 +117,7 @@
     "developer": "Naughty Dog",
     "name": "Uncharted: Legacy of Thieves Collection",
     "id": "Uncharted Collection",
+    "genre": "Action-Adventure",
     "releaseDate": "Jan 28, 2022",
     "daysBetweenReleases": 741
   },
@@ -112,6 +125,7 @@
     "developer": "Naughty Dog",
     "name:": "The Last of Us Part 1",
     "id": "The Last of Us 1",
+    "genre": "Action-Adventure",
     "releaseDate": "September 2, 2022",
     "daysBetweenReleases": 218
   },
@@ -119,6 +133,7 @@
     "developer": "Naughty Dog",
     "name": "The Last of Us Part 2 Remastered",
     "id": "The Last of Us 2",
+    "genre": "Action-Adventure",
     "releaseDate": "January 19, 2024",
     "daysBetweenReleases": 505
   },
@@ -126,6 +141,7 @@
     "developer": "Nixxes Software",
     "name": "Marvel's Spider-Man Remastered PC",
     "id": "Spider-Man PC",
+    "genre": "Action-Adventure",
     "releaseDate": "August 12, 2022",
     "daysBetweenReleases": 708
   },
@@ -133,6 +149,7 @@
     "developer": "Nixxes Software",
     "name": "Marvel's Spider-Man: Miles Morales PC",
     "id": "Spider-Man: MM PC",
+    "genre": "Action-Adventure",
     "releaseDate": "November 18, 2022",
     "daysBetweenReleases": 99
   },
@@ -140,6 +157,7 @@
     "developer": "Nixxes Software",
     "name": "Ratchet & Clank: Rift Apart PC",
     "id": "Ratchet & Clank: Rift Apart PC",
+    "genre": "TPS platformer",
     "releaseDate": "July 26, 2023",
     "daysBetweenReleases": 251
   },
@@ -147,6 +165,7 @@
     "developer": "Nixxes Software",
     "name": "Horizon Forbidden West Complete Edition PC",
     "id": "Horizon FW PC",
+    "genre": "Action RPG",
     "releaseDate": "March 21, 2024",
     "daysBetweenReleases": 240
   },
@@ -154,6 +173,7 @@
     "developer": "Nixxes Software",
     "name": "Ghost of Tsushima Director's Cut PC",
     "id": "GoT PC",
+    "genre": "Action-Adventure",
     "releaseDate": "May 16, 2024",
     "daysBetweenReleases": 57
   },
@@ -161,6 +181,7 @@
     "developer": "Polyphony Digital",
     "name": "Gran Turismo 7",
     "id": "GT 7",
+    "genre": "Racing simulation",
     "releaseDate": "March 4, 2022",
     "daysBetweenReleases": 1095
   },
@@ -168,6 +189,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 21",
     "id": "MLB 2021",
+    "genre": "Sports simulation (Baseball)",
     "releaseDate": "April 20, 2021",
     "daysBetweenReleases": 400
   },
@@ -175,6 +197,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 22",
     "id": "MLB 2022",
+    "genre": "Sports simulation (Baseball)",
     "releaseDate": "April 5, 2022",
     "daysBetweenReleases": 351
   },
@@ -182,6 +205,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 23",
     "id": "MLB 2023",
+    "genre": "Sports simulation (Baseball)",
     "releaseDate": "March 28, 2023",
     "daysBetweenReleases": 358
   },
@@ -189,6 +213,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 24",
     "id": "MLB 2024",
+    "genre": "Sports simulation (Baseball)",
     "releaseDate": "March 19, 2024",
     "daysBetweenReleases": 358
   },
@@ -196,6 +221,7 @@
     "developer": "Santa Monica Studio",
     "name": "God of War: Ragnarök",
     "id": "GOW: R",
+    "genre": "Action-Adventure",
     "releaseDate": "November 9, 2022",
     "daysBetweenReleases": 1665
   },
@@ -203,6 +229,7 @@
     "developer": "Sucker Punch Productions",
     "name": "Ghost of Tsushima Director's Cut",
     "id": "GoT DC",
+    "genre": "Action-Adventure",
     "releaseDate": "August 20, 2021",
     "daysBetweenReleases": 400
   },
@@ -210,6 +237,7 @@
     "developer": "Team Asobi",
     "name": "Astro's Playroom",
     "id": "Astro's Playroom",
+    "genre": "Platformer",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 773
   },
@@ -217,6 +245,7 @@
     "developer": "XDev",
     "name": "Sackboy: A Big Adventure",
     "id": "Sackboy",
+    "genre": "Platformer",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 133
   },
@@ -224,6 +253,7 @@
     "developer": "XDev",
     "name": "Destruction AllStars",
     "id": "Destruction AllStars",
+    "genre": "Vehicular combat",
     "releaseDate": "February 2, 2021",
     "daysBetweenReleases": 83
   },
@@ -231,6 +261,7 @@
     "developer": "XDev",
     "name": "The Nioh Collection",
     "id": "Nioh Collection",
+    "genre": "Soulsborne",
     "releaseDate": "February 5, 2021",
     "daysBetweenReleases": 3
   },
@@ -238,6 +269,7 @@
     "developer": "XDev",
     "name": "Death Stranding Director's Cut",
     "id": "Death Stranding DC",
+    "genre": "Action-Adventure strand",
     "releaseDate": "September 24, 2021",
     "daysBetweenReleases": 232
   },
@@ -245,6 +277,7 @@
     "developer": "XDev",
     "name": "Firewall Ultra",
     "id": "Firewall Ultra",
+    "genre": "Multiplayer VR shooter",
     "releaseDate": "August 24, 2023",
     "daysBetweenReleases": 700
   },
@@ -252,6 +285,7 @@
     "developer": "XDev",
     "name": "Helldivers 2",
     "id": "Helldivers 2",
+    "genre": "Live service co-op TPS",
     "releaseDate": "February 8, 2024",
     "daysBetweenReleases": 169
   },
@@ -259,6 +293,7 @@
     "developer": "XDev",
     "name": "Rise of the Ronin",
     "id": "Rise of the Ronin",
+    "genre": "Soulsborne",
     "releaseDate": "March 22, 2024",
     "daysBetweenReleases": 44
   },
@@ -266,6 +301,7 @@
     "developer": "XDev",
     "name": "Stellar Blade",
     "id": "Stellar Blade",
+    "genre": "Action RPG",
     "releaseDate": "April 26, 2024",
     "daysBetweenReleases": 36
   },
@@ -273,6 +309,7 @@
     "developer": "XDev",
     "name": "Until Dawn Remake",
     "id": "Until Dawn Remake",
+    "genre": "Interactive drama survival-horror",
     "releaseDate": "unreleased",
     "daysBetweenReleases": null
   },
@@ -280,6 +317,7 @@
     "developer": "XDev",
     "name": "Death Stranding 2: On The Beach",
     "id": "DS2: OTB",
+    "genre": "Action-Adventure",
     "releaseDate": "unreleased",
     "daysBetweenReleases": null
   }

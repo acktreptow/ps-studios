@@ -43,13 +43,36 @@ function HousemarquePage() {
         their older, smaller-scoped games critically acclaimed, and repackage
         them into a more mainstream title.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-8 text-lg">
         With this experience under their belt, plus the backing of Sony as an
         official first-party developer, their next game should fare even better.
-      </p>
-      <p className="mb-5 text-lg">
         It has been 3 years though, so we should (hopefully) hear about it soon.
       </p>
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          Housemarque&#39;s PS5 Games
+        </span>
+      </h2>
+      <div className="mb-5 grid gap-5">
+        {games
+          .filter((game) => game.developer === "Housemarque")
+          .map((game) => (
+            <div
+              key={game.id}
+              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            >
+              <h3 className="text-xl font-bold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Genre: {game.genre}</p>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days Between Releases: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+            </div>
+          ))}
+      </div>
       <Image
         src={seleneVassos}
         alt="Returnal's Selene Vassos"

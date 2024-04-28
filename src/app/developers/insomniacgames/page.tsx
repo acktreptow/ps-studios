@@ -53,11 +53,36 @@ function InsomniacGamesPage() {
         there about Wolverine, it&#39;s an easy prediction to say that it will
         be a hit.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-8 text-lg">
         I really can&#39;t see them not surpassing Naughty Dog and Santa Monica
         as the most important first-party developer for the PS5 when all is said
         and done.
       </p>
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          Insomniac&#39;s PS5 Games
+        </span>
+      </h2>
+      <div className="mb-5 grid gap-5">
+        {games
+          .filter((game) => game.developer === "Insomniac Games")
+          .map((game) => (
+            <div
+              key={game.id}
+              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            >
+              <h3 className="text-xl font-bold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Genre: {game.genre}</p>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days Between Releases: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+            </div>
+          ))}
+      </div>
       <Image
         src={insomniacPortfolio}
         alt="Insomniac's PS5 portfolio"

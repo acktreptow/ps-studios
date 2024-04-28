@@ -59,11 +59,36 @@ function BungiePage() {
         underperforming. This forced layoffs just to ensure certain targets were
         met that prevented a Sony takeover of Bungie&#39;s board.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-8 text-lg">
         Further layoffs will also likely occur once Destiny 2&#39;s last
         expansion releases, and Sony still might take over. It&#39;s hard to
         believe Marathon will succeed under those circumstances.
       </p>
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          Bungie&#39;s PS5 Games
+        </span>
+      </h2>
+      <div className="mb-5 grid gap-5">
+        {games
+          .filter((game) => game.developer === "Bungie")
+          .map((game) => (
+            <div
+              key={game.id}
+              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            >
+              <h3 className="text-xl font-bold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Genre: {game.genre}</p>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days Between Releases: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+            </div>
+          ))}
+      </div>
       <Image
         src={finalShape}
         alt="Destiny 2: The Final Shape key art"

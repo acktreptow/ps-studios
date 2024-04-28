@@ -23,8 +23,8 @@
     "id": "Marathon",
     "genre": "Live service FPS",
     "releaseDate": "Unreleased",
-    "daysBetweenReleases": null,
-    "metacritic": null
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   },
   {
     "developer": "Firesprite",
@@ -50,8 +50,8 @@
     "id": "Concord",
     "genre": "Live service FPS",
     "releaseDate": "Unreleased",
-    "daysBetweenReleases": null,
-    "metacritic": null
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   },
   {
     "developer": "Guerrilla Games",
@@ -68,8 +68,8 @@
     "id": "Fairgame$",
     "genre": "Live service heist shooter",
     "releaseDate": "Unreleased",
-    "daysBetweenReleases": null,
-    "metacritic": null
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   },
   {
     "developer": "Housemarque",
@@ -122,8 +122,8 @@
     "id": "Wolverine",
     "genre": "Action-Adventure",
     "releaseDate": "Unreleased",
-    "daysBetweenReleases": null,
-    "metacritic": null
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   },
   {
     "developer": "Naughty Dog",
@@ -195,7 +195,7 @@
     "genre": "Action-Adventure",
     "releaseDate": "May 16, 2024",
     "daysBetweenReleases": 57,
-    "metacritic": null
+    "metacritic": "N/A"
   },
   {
     "developer": "Polyphony Digital",
@@ -347,8 +347,8 @@
     "id": "Until Dawn Remake",
     "genre": "Interactive drama survival-horror",
     "releaseDate": "unreleased",
-    "daysBetweenReleases": null,
-    "metacritic": null
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   },
   {
     "developer": "XDev",
@@ -356,7 +356,7 @@
     "id": "DS2: OTB",
     "genre": "Action-Adventure",
     "releaseDate": "unreleased",
-    "daysBetweenReleases": null,
-    "metacritic": null
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   }
 ]

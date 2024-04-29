@@ -66,7 +66,7 @@ function SanDiegoStudioPage() {
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
-      <div className="mb-5 grid gap-5  sm:grid-cols-2">
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game) => game.developer === "San Diego Studio")
           .map((game) => (

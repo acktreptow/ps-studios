@@ -27,13 +27,13 @@ function NaughtyDogPage() {
         PlayStation studio. This continued into the PS4 gen with sequels in both
         IP.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <div className="grid lg:grid-cols-3">
-        <div className="lg:col-span-2">
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
           <p className="mb-5 text-lg">
             Like Insomniac, Naughty Dog have released four games on PS5 - a
             record for first-party. Unlike Insomniac though, all four games are
@@ -53,7 +53,7 @@ function NaughtyDogPage() {
             PS5. A huge drop-off from previous output, although I&#39;m sure it
             will retain their premier quality.
           </p>
-          <p className="mb-5 text-lg">
+          <p className="mb-8 text-lg">
             Regardless, many first-party developers have already supplanted them
             this gen. Something unthinkable when TLOU released in 2013.
             Hopefully they return to their former glory for the PS6.
@@ -66,7 +66,7 @@ function NaughtyDogPage() {
             width={500}
             height={500}
             id="tlou-factions"
-            className="my-3 rounded-lg sm:mx-auto sm:max-w-sm md:max-w-xs md:m-auto"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="tlou-factions" className="block text-center mb-8">
             The only public asset of TLOU Online

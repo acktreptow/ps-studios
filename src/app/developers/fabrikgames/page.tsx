@@ -3,7 +3,7 @@ import thePersistence from "../../../../public/images/the-persistence.png";
 
 function FabrikGamesPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Fabrik Games
       </h1>
@@ -29,31 +29,37 @@ function FabrikGamesPage() {
         during the development of their VR title &#39;The Persistence&#39;, in
         2017.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        As Fabrik are only a support studio to Firesprite, they&#39;ve not
-        released a PS5 game. Nor should you expect them to barring unforeseen
-        circumstances.
-      </p>
-      <p className="mb-5 text-lg">
-        We&#39;ll indirectly here from them whenever Firesprite announce their
-        next game, which should (hopefully) be soon.
-      </p>
-      <Image
-        src={thePersistence}
-        alt="The Persistence"
-        width={500}
-        height={500}
-        id="the-persistence"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="the-persistence" className="block text-center">
-        The Persistence cover art
-      </label>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            As Fabrik are only a support studio to Firesprite, they&#39;ve not
+            released a PS5 game. Nor should you expect them to barring
+            unforeseen circumstances.
+          </p>
+          <p className="mb-8 text-lg">
+            We&#39;ll indirectly here from them whenever Firesprite announce
+            their next game, which should (hopefully) be soon.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={thePersistence}
+            alt="The Persistence"
+            width={500}
+            height={500}
+            id="the-persistence"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="the-persistence" className="block text-center">
+            The Persistence cover art
+          </label>
+        </div>
+      </div>
     </div>
   );
 }

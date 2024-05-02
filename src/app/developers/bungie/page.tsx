@@ -4,7 +4,7 @@ import finalShape from "../../../../public/images/the-final-shape.png";
 
 function BungiePage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Bungie
       </h1>
@@ -43,31 +43,49 @@ function BungiePage() {
         their terms. Bungie now advises other PS Studios on how to make a
         live-service game.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        On PS5, Bungie has only released a port of Destiny 2. In 2023, they
-        announced a live-service extraction shooter called Marathon, but
-        it&#39;s not been seen since.
-      </p>
-      <p className="mb-5 text-lg">
-        There&#39;s reasons to be wary of Marathon though. Sony paid a lot for
-        Bungie&#39;s live-service knowledge, but Destiny 2 has been severely
-        underperforming. This forced layoffs just to ensure certain targets were
-        met that prevented a Sony takeover of Bungie&#39;s board.
-      </p>
-      <p className="mb-8 text-lg">
-        Further layoffs will also likely occur once Destiny 2&#39;s last
-        expansion releases, and Sony still might take over. It&#39;s hard to
-        believe Marathon will succeed under those circumstances.
-      </p>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            On PS5, Bungie has only released a port of Destiny 2. In 2023, they
+            announced a live-service extraction shooter called Marathon, but
+            it&#39;s not been seen since.
+          </p>
+          <p className="mb-5 text-lg">
+            There&#39;s reasons to be wary of Marathon though. Sony paid a lot
+            for Bungie&#39;s live-service knowledge, but Destiny 2 has been
+            severely underperforming. This forced layoffs just to ensure certain
+            targets were met that prevented a Sony takeover of Bungie&#39;s
+            board.
+          </p>
+          <p className="mb-8 text-lg">
+            Further layoffs will also likely occur once Destiny 2&#39;s last
+            expansion releases, and Sony still might take over. It&#39;s hard to
+            believe Marathon will succeed under those circumstances.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={finalShape}
+            alt="Destiny 2: The Final Shape key art"
+            width={500}
+            height={500}
+            id="final-shape"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="final-shape" className="block text-center mb-8">
+            Destiny 2&#39;s last expansion: The Final Shape
+          </label>
+        </div>
+      </div>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
-      <div className="mb-5 grid gap-5">
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game) => game.developer === "Bungie")
           .map((game) => (
@@ -87,17 +105,6 @@ function BungiePage() {
             </div>
           ))}
       </div>
-      <Image
-        src={finalShape}
-        alt="Destiny 2: The Final Shape key art"
-        width={500}
-        height={500}
-        id="final-shape"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="final-shape" className="block text-center">
-        Destiny 2&#39;s last expansion: The Final Shape
-      </label>
     </div>
   );
 }

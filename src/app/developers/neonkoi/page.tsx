@@ -3,7 +3,7 @@ import savageLogo from "../../../../public/images/savage-logo.png";
 
 function NeonKoiPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Neon Koi
       </h1>
@@ -21,40 +21,46 @@ function NeonKoiPage() {
         founding member of PlayStation Studios&#39;s Mobile Division and were
         purchased to exclusively develop mobile games.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        Still interested in Neon Koi&#39;s mobile offerings? Well, I still
-        wouldn&#39;t hold my breath. Despite forming over four years ago,
-        they&#39;ve yet to even announce a game, let alone show gameplay or
-        actually release something.
-      </p>
-      <p className="mb-5 text-lg">
-        In fact, Neon Koi has primarily been in the news for negative headlines.
-        Like when the head of PlayStation&#39;s Mobile Division and a Savage
-        founding member abruptly left PlayStation under suspicious
-        circumstances, in quick succession.
-      </p>
-      <p className="mb-5 text-lg">
-        These headlines probably contributed to the rebranding to Neon Koi in
-        November, 2023. Between that and the revamped website, hopefully it
-        means at the least, a game announcement is coming soon. We can then
-        start determining if Neon Koi are worth keeping an eye on.
-      </p>
-      <Image
-        src={savageLogo}
-        alt="Savage Game Studios Logo"
-        width={500}
-        height={500}
-        id="savage-logo"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="savage-logo" className="block text-center">
-        Neon Koi: formerly Savage Game Studios
-      </label>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            Still interested in Neon Koi&#39;s mobile offerings? Well, I still
+            wouldn&#39;t hold my breath. Despite forming over four years ago,
+            they&#39;ve yet to even announce a game, let alone show gameplay or
+            actually release something.
+          </p>
+          <p className="mb-5 text-lg">
+            In fact, Neon Koi has primarily been in the news for negative
+            headlines. Like when the head of PlayStation&#39;s Mobile Division
+            and a Savage founding member abruptly left PlayStation under
+            suspicious circumstances, in quick succession.
+          </p>
+          <p className="mb-8 text-lg">
+            These headlines probably contributed to the rebranding to Neon Koi
+            in November, 2023. Between that and the revamped website, hopefully
+            it means at the least, a game announcement is coming soon. We can
+            then start determining if Neon Koi are worth keeping an eye on.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={savageLogo}
+            alt="Savage Game Studios Logo"
+            width={500}
+            height={500}
+            id="savage-logo"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="savage-logo" className="block text-center">
+            Neon Koi: formerly Savage Game Studios
+          </label>
+        </div>
+      </div>
     </div>
   );
 }

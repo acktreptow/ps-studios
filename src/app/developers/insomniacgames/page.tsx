@@ -4,7 +4,7 @@ import insomniacPortfolio from "../../../../public/images/insomniac-portfolio.pn
 
 function InsomniacGamesPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Insomniac Games
       </h1>
@@ -33,35 +33,55 @@ function InsomniacGamesPage() {
         Naturally Sony, after seeing this success, acquired them the following
         year. They&#39;ve been on fire ever since!
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        Most people agree that Insomniac have been the most important PS studio
-        this PS5 generation. That&#39;s because they&#39;ve already shipped four
-        games to critical and commercial success.
-      </p>
-      <p className="mb-5 text-lg">
-        Furthermore, even though Insomniac have already released more titless
-        than most developers will this entire generation, we know their next
-        game - Marvel&#39;s Wolverine in (likely) 2025.
-      </p>
-      <p className="mb-5 text-lg">
-        Between Insomniac&#39;s current track record and what&#39;s already out
-        there about Wolverine, it&#39;s an easy prediction to say that it will
-        be a hit.
-      </p>
-      <p className="mb-8 text-lg">
-        I really can&#39;t see them not surpassing Naughty Dog and Santa Monica
-        as the most important first-party developer for the PS5 when all is said
-        and done.
-      </p>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            Most people agree that Insomniac have been the most important PS
+            studio this PS5 generation. That&#39;s because they&#39;ve already
+            shipped four games to critical and commercial success.
+          </p>
+          <p className="mb-5 text-lg">
+            Furthermore, even though Insomniac have already released more
+            titless than most developers will this entire generation, we know
+            their next game - Marvel&#39;s Wolverine in (likely) 2025.
+          </p>
+          <p className="mb-5 text-lg">
+            Between Insomniac&#39;s current track record and what&#39;s already
+            out there about Wolverine, it&#39;s an easy prediction to say that
+            it will be a hit.
+          </p>
+          <p className="mb-8 text-lg">
+            I really can&#39;t see them not surpassing Naughty Dog and Santa
+            Monica as the most important first-party developer for the PS5 when
+            all is said and done.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={insomniacPortfolio}
+            alt="Insomniac's PS5 portfolio"
+            width={500}
+            height={500}
+            id="insomniac-portfolio"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label
+            htmlFor="insomniac-portfolio"
+            className="block text-center mb-8"
+          >
+            Insomniac&#39;s PS5 portfolio
+          </label>
+        </div>
+      </div>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
-      <div className="mb-5 grid gap-5">
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game) => game.developer === "Insomniac Games")
           .map((game) => (
@@ -81,17 +101,6 @@ function InsomniacGamesPage() {
             </div>
           ))}
       </div>
-      <Image
-        src={insomniacPortfolio}
-        alt="Insomniac's PS5 portfolio"
-        width={500}
-        height={500}
-        id="insomniac-portfolio"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="insomniac-portfolio" className="block text-center">
-        Insomniac&#39;s PS5 portfolio
-      </label>
     </div>
   );
 }

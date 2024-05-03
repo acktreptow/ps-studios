@@ -4,7 +4,7 @@ import concord from "../../../../public/images/concord.png";
 
 function FirewalkStudiosPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Firewalk Studios
       </h1>
@@ -26,35 +26,42 @@ function FirewalkStudiosPage() {
         shooter with an 80&#39;s sci-fi aesthetic. It launches on PS5 and PC in
         2024.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        Everything we know about Concord is written above, so there&#39;s not a
-        lot to go off. However, the pedigree of Firewalk&#39;s founders instills
-        confidence.
-      </p>
-      <p className="mb-5 text-lg">
-        They know how to make a good shooter, so I&#39;m cautiously optimistic
-        until we see something that proves otherwise.
-      </p>
-      <p className="mb-5 text-lg">
-        Concord has recently been reconfirmed for a 2024 release, so we{" "}
-        <span className="italic">should</span> see something substantial soon.
-      </p>
-      <Image
-        src={concord}
-        alt="Concord key art"
-        width={500}
-        height={500}
-        id="concord"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="concord" className="block text-center">
-        Concord primary key art
-      </label>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            Everything we know about Concord is written above, so there&#39;s
+            not a lot to go off. However, the pedigree of Firewalk&#39;s
+            founders instills confidence.
+          </p>
+          <p className="mb-5 text-lg">
+            They know how to make a good shooter, so I&#39;m cautiously
+            optimistic until we see something that proves otherwise.
+          </p>
+          <p className="mb-8 text-lg">
+            Concord has recently been reconfirmed for a 2024 release, so we
+            <span className="italic">should</span> see something substantial
+            soon.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={concord}
+            alt="Concord key art"
+            width={500}
+            height={500}
+            id="concord"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="concord" className="block text-center">
+            Concord primary key art
+          </label>
+        </div>
+      </div>
     </div>
   );
 }

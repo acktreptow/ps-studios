@@ -4,7 +4,7 @@ import ds2OTB from "../../../../public/images/ds2.png";
 
 function Xdevpage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         XDev
       </h1>
@@ -25,35 +25,53 @@ function Xdevpage() {
         released this year! The live service game Helldivers 2, the soulsborne
         Rise of the Ronin, and the action-adventure Stellar Blade.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        XDev have two games publicly in development. A remake of 2015&#39;s
-        Until Dawn by Ballistic Moon and Death Stranding 2 by Kojima
-        Productions.
-      </p>
-      <p className="mb-5 text-lg">
-        Analytically, XDev&#39;s collaborations have been inconsistent this gen,
-        with 2022&#39;s VR FPS Firewall Ultra being the biggest disappointment.
-      </p>
-      <p className="mb-5 text-lg">
-        However, all three of XDev&#39;s 2024 games have been successful. In
-        particular, Helldivers 2 far exceeded anyone&#39;s expectations and
-        easily stands amongst PS Studios&#39;s best games.
-      </p>
-      <p className="mb-8 text-lg">
-        Between this recent track record, Until Dawn being a remake, and DS2
-        being a sequel of a critically acclaimed game, I predict both games will
-        be well received and strengthen XDev&#39;s ascent as the PS5 gen
-        continues.
-      </p>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            XDev have two games publicly in development. A remake of 2015&#39;s
+            Until Dawn by Ballistic Moon and Death Stranding 2 by Kojima
+            Productions.
+          </p>
+          <p className="mb-5 text-lg">
+            Analytically, XDev&#39;s collaborations have been inconsistent this
+            gen, with 2022&#39;s VR FPS Firewall Ultra being the biggest
+            disappointment.
+          </p>
+          <p className="mb-5 text-lg">
+            However, all three of XDev&#39;s 2024 games have been successful. In
+            particular, Helldivers 2 far exceeded anyone&#39;s expectations and
+            easily stands amongst PS Studios&#39;s best games.
+          </p>
+          <p className="mb-8 text-lg">
+            Between this recent track record, Until Dawn being a remake, and DS2
+            being a sequel of a critically acclaimed game, I predict both games
+            will be well received and strengthen XDev&#39;s ascent as the PS5
+            gen continues.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={ds2OTB}
+            alt="Death Standing 2 On The Beach cutscene"
+            width={500}
+            height={500}
+            id="d2s-otb"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="d2s-otb" className="block text-center mb-8">
+            XDev&#39;s upcoming Death Stranding 2
+          </label>
+        </div>
+      </div>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
-      <div className="mb-5 grid gap-5">
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game) => game.developer === "XDev")
           .map((game) => (
@@ -73,17 +91,6 @@ function Xdevpage() {
             </div>
           ))}
       </div>
-      <Image
-        src={ds2OTB}
-        alt="Death Standing 2 On The Beach cutscene"
-        width={500}
-        height={500}
-        id="d2s-otb"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="d2s-otb" className="block text-center">
-        XDev&#39;s upcoming Death Stranding 2
-      </label>
     </div>
   );
 }

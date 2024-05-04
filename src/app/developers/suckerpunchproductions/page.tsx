@@ -4,7 +4,7 @@ import gotDC from "../../../../public/images/got-dc.png";
 
 function SuckerPunchProductionsPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Sucker Punch Productions
       </h1>
@@ -30,25 +30,43 @@ function SuckerPunchProductionsPage() {
         that added more content was shipped in 2021. This is currently SP&#39;s
         only PS5 game.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        It&#39;s been nearly four years since SP achieved new highs, both
-        commercially and critically, with GoT. It&#39;s therefore not surprising
-        that a proper sequel is heavily rumoured to be their next game.
-      </p>
-      <p className="mb-8 text-lg">
-        Considering this, I predict that not only is GoT 2 the next game any PS
-        developer announces, but it will also release very shortly after. To new
-        highs for Sucker Punch, critically and commercially.
-      </p>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            It&#39;s been nearly four years since SP achieved new highs, both
+            commercially and critically, with GoT. It&#39;s therefore not
+            surprising that a proper sequel is heavily rumoured to be their next
+            game.
+          </p>
+          <p className="mb-8 text-lg">
+            Considering this, I predict that not only is GoT 2 the next game any
+            PS developer announces, but it will also release very shortly after.
+            To new highs for Sucker Punch, critically and commercially.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={gotDC}
+            alt="Ghost of Tsushima Director's Cut main menu screen"
+            width={500}
+            height={500}
+            id="got-dc"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="got-dc" className="block text-center mb-8">
+            GoT: Director&#39;s Cut main menu screen
+          </label>
+        </div>
+      </div>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
-      <div className="mb-5 grid gap-5">
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game) => game.developer === "Sucker Punch Productions")
           .map((game) => (
@@ -68,17 +86,6 @@ function SuckerPunchProductionsPage() {
             </div>
           ))}
       </div>
-      <Image
-        src={gotDC}
-        alt="Ghost of Tsushima Director's Cut main menu screen"
-        width={500}
-        height={500}
-        id="got-dc"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="got-dc" className="block text-center">
-        GoT: Director&#39;s Cut main menu screen
-      </label>
     </div>
   );
 }

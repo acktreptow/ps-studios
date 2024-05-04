@@ -64,6 +64,29 @@ function HavenStudiosPage() {
       <label htmlFor="fairgames" className="block text-center">
         The CGI trailer is the only thing we&#39;ve seen
       </label>
+      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">PS5 Games</span>
+      </h2>
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
+        {games
+          .filter((game) => game.developer === "Haven Studios")
+          .map((game) => (
+            <div
+              key={game.id}
+              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
+            >
+              <h3 className="text-xl font-bold text-center mb-1">
+                {game.name}
+              </h3>
+              <p className="text-lg">Genre: {game.genre}</p>
+              <p className="text-lg">Release Date: {game.releaseDate}</p>
+              <p className="text-lg">
+                Days Between Releases: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+            </div>
+          ))}
+      </div>
     </div>
   );
 }

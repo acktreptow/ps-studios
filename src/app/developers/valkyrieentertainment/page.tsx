@@ -3,7 +3,7 @@ import gunsUpGameplay from "../../../../public/images/guns-up.png";
 
 function ValkyrieEntertainmentPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Valkyrie Entertainment
       </h1>
@@ -29,35 +29,41 @@ function ValkyrieEntertainmentPage() {
         from other PlayStation Studios like God of War: Ragnarok from Sony Santa
         Monica.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        This one&#39;s easy to forecast. Due to their support status, Valkyrie
-        haven&#39;t released a game for the PS5.
-      </p>
-      <p className="mb-5 text-lg">
-        Based off the critical and commercial failure of Guns Up!, it&#39;s also
-        unlikely they&#39;ll get a chance to. Especially if their unsecure,
-        bare-bones website is anything to go by.
-      </p>
-      <p className="mb-5 text-lg">
-        If you&#39;re looking for your next great PS5 first-party game to play,
-        you can safely ignore Valkyrie Entertainment.
-      </p>
-      <Image
-        src={gunsUpGameplay}
-        alt="Guns Up! gameplay"
-        width={500}
-        height={500}
-        id="guns-up"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="guns-up" className="block text-center">
-        Guns Up! gameplay: scoring 54 on Metacritic
-      </label>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            This one&#39;s easy to forecast. Due to their support status,
+            Valkyrie haven&#39;t released a game for the PS5.
+          </p>
+          <p className="mb-5 text-lg">
+            Based off the critical and commercial failure of Guns Up!, it&#39;s
+            also unlikely they&#39;ll get a chance to. Especially if their
+            unsecure, bare-bones website is anything to go by.
+          </p>
+          <p className="mb-8 text-lg">
+            If you&#39;re looking for your next great PS5 first-party game to
+            play, you can safely ignore Valkyrie Entertainment.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={gunsUpGameplay}
+            alt="Guns Up! gameplay"
+            width={500}
+            height={500}
+            id="guns-up"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="guns-up" className="block text-center">
+            Guns Up! gameplay: 54 on Metacritic
+          </label>
+        </div>
+      </div>
     </div>
   );
 }

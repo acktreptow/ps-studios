@@ -4,7 +4,7 @@ import gowRagnarok from "../../../../public/images/gow-ragnarok.png";
 
 function SantaMonicaStudioPage() {
   return (
-    <div className="bg-white text-gray-700 p-10">
+    <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Santa Monica Studio
       </h1>
@@ -21,31 +21,50 @@ function SantaMonicaStudioPage() {
         cross-gen title and the only game they&#39;ve released on the PS5. Like
         the 2018 semi-reboot, it was a big critical and commercial success.
       </p>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          My Analysis and Predictions
-        </span>
-      </h2>
-      <p className="mb-5 text-lg">
-        As of now, we don&#39;t know what SM&#39;s next game is other than it
-        being in third-person. There&#39;s rumours that predict a new IP, a
-        sequel to Ragnarok, and a smaller-scoped GoW game in the vein of
-        Spider-Man Miles-Morales.
-      </p>
-      <p className="mb-5 text-lg">
-        Regardless of what it is, there&#39;s no reason to think it won&#39;t be
-        great. To many, SM&#39;s last two games were so critically acclaimed
-        that they usurped Naughty Dog as Sony&#39;s premier studio.
-      </p>
-      <p className="mb-8 text-lg">
-        Ragnarok did only ship 1.5 years ago though, so don&#39;t expect to hear
-        anything soon. There&#39;s A LOT of Sony developers that need to talk
-        before SM, as they&#39;re going on 4-5 without a shipped game.
-      </p>
+      <div className="md:flex items-center">
+        <div>
+          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+            <span className="border-b-2 border-gray-300">
+              My Analysis and Predictions
+            </span>
+          </h2>
+          <p className="mb-5 text-lg">
+            As of now, we don&#39;t know what SM&#39;s next game is other than
+            it being in third-person. There&#39;s rumours that predict a new IP,
+            a sequel to Ragnarok, and a smaller-scoped GoW game in the vein of
+            Spider-Man Miles-Morales.
+          </p>
+          <p className="mb-5 text-lg">
+            Regardless of what it is, there&#39;s no reason to think it
+            won&#39;t be great. To many, SM&#39;s last two games were so
+            critically acclaimed that they usurped Naughty Dog as Sony&#39;s
+            premier studio.
+          </p>
+          <p className="mb-8 text-lg">
+            Ragnarok did only ship 1.5 years ago though, so don&#39;t expect to
+            hear anything soon. There&#39;s A LOT of Sony developers that need
+            to talk before SM, as they&#39;re going on 4-5 without a shipped
+            game.
+          </p>
+        </div>
+        <div>
+          <Image
+            src={gowRagnarok}
+            alt="God of War Ragnarok awards won"
+            width={500}
+            height={500}
+            id="gow-ragnarok"
+            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+          />
+          <label htmlFor="gow-ragnarok" className="block text-center mb-8">
+            The 6 awards God of War Ragnarok won at The Game Awards 2022
+          </label>
+        </div>
+      </div>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games</span>
       </h2>
-      <div className="mb-5 grid gap-5">
+      <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game) => game.developer === "Santa Monica Studio")
           .map((game) => (
@@ -65,17 +84,6 @@ function SantaMonicaStudioPage() {
             </div>
           ))}
       </div>
-      <Image
-        src={gowRagnarok}
-        alt="God of War Ragnarok awards won"
-        width={500}
-        height={500}
-        id="gow-ragnarok"
-        className="my-3 rounded-lg"
-      />
-      <label htmlFor="gow-ragnarok" className="block text-center mb-8">
-        The 6 awards God of War Ragnarok won at The Game Awards 2022
-      </label>
     </div>
   );
 }

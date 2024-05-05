@@ -9,7 +9,7 @@ function HavenStudiosPage() {
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Haven Studios
       </h1>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">History</span>
@@ -31,16 +31,19 @@ function HavenStudiosPage() {
             release date.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={jadeRaymond}
             alt="Picture of Jade Raymond"
             width={500}
             height={500}
             id="jade-raymond"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:ml-5"
           />
-          <label htmlFor="jade-raymond" className="block text-center mb-8">
+          <label
+            htmlFor="jade-raymond"
+            className="block text-center mb-8 lg:ml-5"
+          >
             Haven Studios founder Jade Raymond
           </label>
         </div>
@@ -74,7 +77,7 @@ function HavenStudiosPage() {
             className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="fairgames" className="block text-center mb-8">
-            The CGI trailer is the only thing we&#39;ve seen
+            Fairgame$ only has a CGI trailer
           </label>
         </div>
       </div>

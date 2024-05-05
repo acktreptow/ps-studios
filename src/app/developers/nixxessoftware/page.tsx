@@ -12,42 +12,50 @@ function NixxesSoftwarePage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg">
-        Founded in 1999, this this Utrecht-based studio holds a very unique
-        position among PlayStation Studios ever since they were purchased in
-        2021.
+        Founded in 1999, this Utrecht-based studio holds a unique position
+        within PlayStation Studios ever since being acquired in 2021.
       </p>
       <p className="mb-5 text-lg">
-        Unlike all other PlayStation developers who are there to work on new
-        games, Nixxes&#39;s sole purpose is to work on PC ports on PS5 games.
+        Unlike all other first-party studios who develop new PS5 games, remakes,
+        and remasters, Nixxes exclusively work on PC ports of them.
+      </p>
+      <p className="mb-5 text-lg">
+        Since 2022, they&#39;ve already released 4 ports with all the bells and
+        whistles you&#39;d expect to see in a PC version, with a 5th port
+        shipping this month.
       </p>
       <p className="mb-8 text-lg">
-        Since 2022, they&#39;ve already released 4 ports of PS5 games with all
-        the bells and whistles you&#39;d expect to see in a PC version, with a
-        5th game coming next month. These ports have also be far more critically
-        acclaimed compared to other PC ports of PS5 games that were done
-        in-house such as The Last of Us Part II PC by Naughty Dog.
+        These Nixxes PC ports have also be far more critically acclaimed
+        compared to others that were done in-house, such as The Last of Us Part
+        2 by Naughty Dog.
       </p>
       <div className="md:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
-            Nixxes are one of the most important companies for PlayStation as
-            they are the way Sony finds growth for these big AAA games outside
-            of the console market. Something needed as development costs
-            continue to rise. I highly doubt we will see day-1 PC ports for
-            single-player games however from them. Logistically, it just
-            doesn&#39;t work as an external studio.
+            Nixxes are an incredibly important studio for PlayStation as this is
+            the easiest way Sony finds growth outside of the console market.
+            Something needed as AAA game development costs continue to rise.
+          </p>
+          <p className="mb-5 text-lg">
+            I highly doubt we will see Nixxes PC ports ship simultaneously with
+            the PS5 version however. Logistically, this is a nightmare for an
+            external studio to do so effectively, unless the PS5 version is held
+            until the PC port is ready.
+          </p>
+          <p className="mb-5 text-lg">
+            What if you don&#39;t play on PC? Well, there&#39;s also a reason to
+            keep an eye on them! In 2023, Nixxes confirmed that it&#39;s started
+            working on remasters too.
           </p>
           <p className="mb-8 text-lg">
-            For PS5 fans? There&#39;s also a reason to keep an eye on them! In
-            2023, Nixxes confirmed that it would also start working on remasters
-            as well as PC ports. So we should hopefully see some great PS3/PS4
-            games that could do with a fresh coat of paint, receive a definitive
-            version by the expertise of this developer.
+            Hopefully that means we get some great PS5 remasters of marque
+            PS3/PS4 games that deserve a fresh coat of paint from this expert
+            developer!
           </p>
         </div>
         <div>
@@ -65,9 +73,7 @@ function NixxesSoftwarePage() {
         </div>
       </div>
       <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">
-          PC Ports of PS5 Games
-        </span>
+        <span className="border-b-2 border-gray-300">PC Ports</span>
       </h2>
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games

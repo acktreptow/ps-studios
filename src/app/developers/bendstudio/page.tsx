@@ -22,7 +22,7 @@ function BendStudioPage() {
         therefore not released a native PS5 game yet. However, Days Gone did
         receive a 60fps patch that doubles the framerate of the PS4 application.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -58,14 +58,14 @@ function BendStudioPage() {
             out of all PS Studios without releasing a game.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={daysGone}
             alt="Days Gone"
             width={500}
             height={500}
             id="days-gone"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="days-gone" className="block text-center">
             Days Gone cover art

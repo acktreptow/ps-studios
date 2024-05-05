@@ -34,7 +34,7 @@ function SuckerPunchProductionsPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -44,9 +44,9 @@ function SuckerPunchProductionsPage() {
             game.
           </p>
           <p className="mb-8 text-lg">
-            Considering this, I predict that not only is GoT 2 the next game any
-            PS developer announces, but it will also release very shortly after.
-            To new highs for Sucker Punch, critically and commercially.
+            Considering this, I predict that not only is GoT 2 the next game ANY
+            PS developer announces, but it will also release very shortly after
+            to new highs for Sucker Punch, critically and commercially.
           </p>
         </div>
         <div>

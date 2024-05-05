@@ -21,15 +21,16 @@ function Xdevpage() {
         different developers simultaneously to produce an eclectic selection.
       </p>
       <p className="mb-8 text-lg">
-        On PS5 alone, they&#39;ve already produced over ten games, with three
-        released this year! The live service game Helldivers 2, the soulsborne
-        Rise of the Ronin, and the action-adventure Stellar Blade.
+        On PS5 alone, they&#39;ve already produced over 7 games, with three
+        released this year! The live service shooter &#39;Helldivers 2&#39;, the
+        soulsborne &#39;Rise of the Ronin&#39;, and the action-adventure
+        &#39;Stellar Blade&#39;.
       </p>
       <div className="md:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -39,13 +40,13 @@ function Xdevpage() {
           </p>
           <p className="mb-5 text-lg">
             Analytically, XDev&#39;s collaborations have been inconsistent this
-            gen, with 2022&#39;s VR FPS Firewall Ultra being the biggest
-            disappointment.
+            gen, with 2022&#39;s VR FPS &#39;Firewall Ultra&#39; being the
+            biggest disappointment.
           </p>
           <p className="mb-5 text-lg">
-            However, all three of XDev&#39;s 2024 games have been successful. In
-            particular, Helldivers 2 far exceeded anyone&#39;s expectations and
-            easily stands amongst PS Studios&#39;s best games.
+            However, all three of XDev&#39;s 2024 games have been successful.
+            Helldivers 2 in particular far exceeded anyone&#39;s expectations
+            and easily stands amongst PS Studios&#39;s best games.
           </p>
           <p className="mb-8 text-lg">
             Between this recent track record, Until Dawn being a remake, and DS2

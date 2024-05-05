@@ -30,7 +30,7 @@ function TeamAsobiPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -45,8 +45,8 @@ function TeamAsobiPage() {
           </p>
           <p className="mb-5 text-lg">
             Astro&#39;s Playroom was an incredible game that even after hundreds
-            of PS5 games later, still has made the best use of the DualSense. It
-            was also the reason Asobi survived the closure of Japan Studio.
+            of PS5 games later, still has made the best use of the DualSense.
+            It&#39;s also the reason Asobi survived the closure of Japan Studio.
           </p>
           <p className="mb-5 text-lg">
             With this next game also having double the development time,

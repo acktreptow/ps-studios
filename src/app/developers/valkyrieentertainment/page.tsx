@@ -26,14 +26,14 @@ function ValkyrieEntertainmentPage() {
       </p>
       <p className="mb-8 text-lg">
         You&#39;re far more likely to have seen their support work on titles
-        from other PlayStation Studios like God of War: Ragnarok from Sony Santa
-        Monica.
+        from other PlayStation developers like God of War: Ragnarök from Sony
+        Santa Monica.
       </p>
       <div className="md:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -46,7 +46,7 @@ function ValkyrieEntertainmentPage() {
             unsecure, bare-bones website is anything to go by.
           </p>
           <p className="mb-8 text-lg">
-            If you&#39;re looking for your next great PS5 first-party game to
+            If you&#39;re looking for your next great first-party PS5 game to
             play, you can safely ignore Valkyrie Entertainment.
           </p>
         </div>

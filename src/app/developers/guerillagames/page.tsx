@@ -30,7 +30,7 @@ function GuerillaGamesPage() {
         Since the 2023 DLC, Guerilla have been silent. We don&#39;t even have a
         name for their next project.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -67,17 +67,17 @@ function GuerillaGamesPage() {
             2025 at the earliest.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={burningShores}
             alt="Horizon Burning Shores key art"
             width={500}
             height={500}
             id="burning-shores"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg  md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="burning-shores" className="block text-center mb-8">
-            Key art for Horizon FW&#39;s DLC: Burning Shores
+            Horizon FW&#39;s DLC: Burning Shores
           </label>
         </div>
       </div>

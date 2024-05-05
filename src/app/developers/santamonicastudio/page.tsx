@@ -17,7 +17,7 @@ function SantaMonicaStudioPage() {
         developed games for its very successful God of War series.
       </p>
       <p className="mb-8 text-lg">
-        SM&#39;s most recent game was 2022&#39;s God of War Ragnarok - a
+        SM&#39;s most recent game was 2022&#39;s God of War Ragnarök - a
         cross-gen title and the only game they&#39;ve released on the PS5. Like
         the 2018 semi-reboot, it was a big critical and commercial success.
       </p>
@@ -25,13 +25,13 @@ function SantaMonicaStudioPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
             As of now, we don&#39;t know what SM&#39;s next game is other than
             it being in third-person. There&#39;s rumours that predict a new IP,
-            a sequel to Ragnarok, and a smaller-scoped GoW game in the vein of
+            a sequel to Ragnarök, and a smaller-scoped GoW game in the vein of
             Spider-Man Miles-Morales.
           </p>
           <p className="mb-5 text-lg">
@@ -41,9 +41,9 @@ function SantaMonicaStudioPage() {
             premier studio.
           </p>
           <p className="mb-8 text-lg">
-            Ragnarok did only ship 1.5 years ago though, so don&#39;t expect to
-            hear anything soon. There&#39;s A LOT of Sony developers that need
-            to talk before SM, as they&#39;re going on 4-5 without a shipped
+            Ragnarök did only ship 1.5 years ago though, so don&#39;t expect to
+            hear anything soon. There&#39;s A LOT of PS studios that need to
+            talk before SM, as they&#39;re going on 4-5 years without a shipped
             game.
           </p>
         </div>
@@ -57,7 +57,7 @@ function SantaMonicaStudioPage() {
             className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="gow-ragnarok" className="block text-center mb-8">
-            The 6 awards God of War Ragnarok won at The Game Awards 2022
+            The 6 awards God of War Ragnarök won at The Game Awards 2022
           </label>
         </div>
       </div>

@@ -17,14 +17,16 @@ function SanDiegoStudioPage() {
       </p>
       <p className="mb-5 text-lg">
         This annual baseball series is the only IP they work on. So naturally,
-        there&#39;s been four baseball games for the PS5 that have come out in
+        there&#39;s been four MLB games for the PS5 that have come out in
         March/April since 2021.
       </p>
-      <p className="mb-8 text-lg">
+      <p className="mb-5 text-lg">
         This generation has been different in one aspect though. Despite being a
         Sony first-party developer, the MLB have forced PlayStation to develop
-        an Xbox and Nintendo port since MLB 21 or they would lost the license.
-        Clearly, turning the series platform was the better alternative to
+        an Xbox and Nintendo port since MLB 21, or they would lose the license.
+      </p>
+      <p className="mb-8 text-lg">
+        Clearly, turning the series multiplatform was the better alternative to
         losing the license as the series has continued.
       </p>
       <div className="md:flex items-center">
@@ -41,12 +43,14 @@ function SanDiegoStudioPage() {
             would be allowed to experiment with something new, even if they want
             to.
           </p>
-          <p className="mb-8 text-lg">
+          <p className="mb-5 text-lg">
             We&#39;re also four games deep into the series being multiplatform
             and nothing has materially changed. That was the one change that
-            could have altered MLB&#39;s trajectory, but didn&#39;t. It&#39;s
-            therefore safe to assume SD Studio will continue for the foreseeable
-            future.
+            could have altered SD Studio&#39;s trajectory, but didn&#39;t.
+          </p>
+          <p className="mb-8 text-lg">
+            It&#39;s therefore safe to assume they&#39;ll continue with MLB: The
+            Show for the foreseeable future.
           </p>
         </div>
         <div>

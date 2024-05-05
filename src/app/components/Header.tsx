@@ -4,7 +4,7 @@ import psStudiosLogo from "../../../public/images/ps-studios-logo.svg";
 
 function Header() {
   return (
-    <header className="bg-blue-400 flex px-6 py-4 justify-between items-center">
+    <header className="bg-blue-400 flex px-6 py-4 justify-between items-center container mx-auto">
       <h1>Sony First Party</h1>
       <Image src={psStudiosLogo} alt="PS Studios Logo" className="w-8" />
       <ul className="flex gap-2">

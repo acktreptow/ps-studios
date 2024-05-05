@@ -31,18 +31,18 @@ function NaughtyDogPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
-            Like Insomniac, Naughty Dog have released four games on PS5 - a
+            Like Insomniac, Naughty Dog have released four games on PS5. A
             record for first-party. Unlike Insomniac though, all four games are
             remasters/remakes of PS4 Uncharted/TLOU games.
           </p>
           <p className="mb-5 text-lg">
-            Furthermore, Naughty Dog&#39;s only new game, TLOU Online, was
-            cancelled four years into development. It&#39;s therefore hard to be
-            confident despite the pedigree over the past two gens.
+            Furthermore, ND&#39;s only new game, TLOU Online, was cancelled four
+            years into development. It&#39;s therefore hard to be confident
+            despite the pedigree over the past two gens.
           </p>
           <p className="mb-5 text-lg">
             While remakes/remasters are nice, they were somewhat unnecessary due

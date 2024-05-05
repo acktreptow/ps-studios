@@ -15,17 +15,19 @@ function MediaMoleculePage() {
         critically acclaimed LittleBigPlanet series that started on the PS3 in
         2008.
       </p>
-      <p className="mb-8 text-lg">
+      <p className="mb-5 text-lg">
         Media Molecule&#39;s last title was 2020&#39;s Dreams for the PS4, and
-        therefore has yet to release a PS5 title. In regards to their next game,
-        we don&#39;t even have a name, let alone gameplay, despite Dreams
-        releasing 4 years ago.
+        therefore has yet to release a PS5 title.
+      </p>
+      <p className="mb-8 text-lg">
+        In regards to their next game, we don&#39;t even have a name, let alone
+        gameplay, despite Dreams releasing 4 years ago.
       </p>
       <div className="md:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">

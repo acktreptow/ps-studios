@@ -25,7 +25,7 @@ function NeonKoiPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -37,8 +37,8 @@ function NeonKoiPage() {
           <p className="mb-5 text-lg">
             In fact, Neon Koi has primarily been in the news for negative
             headlines. Like when the head of PlayStation&#39;s Mobile Division
-            and a Savage founding member abruptly left PlayStation under
-            suspicious circumstances, in quick succession.
+            and an SGS founder abruptly left PlayStation under suspicious
+            circumstances, in quick succession.
           </p>
           <p className="mb-8 text-lg">
             These headlines probably contributed to the rebranding to Neon Koi

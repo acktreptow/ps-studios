@@ -26,7 +26,7 @@ function FirespritePage() {
         Persistence and the flagship PSVR2 launch title Horizon Call of the
         Mountain. Neither were particularly well received.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -55,14 +55,14 @@ function FirespritePage() {
             game do sound promising in a vacuum.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={horizonCoTM}
             alt="Horizon Call of the MMountain gameplay screenshot"
             width={500}
             height={500}
             id="horizon-cotm"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5 "
           />
           <label htmlFor="horizon-cotm" className="block text-center mb-8">
             Horizon CoTM on PSVR2

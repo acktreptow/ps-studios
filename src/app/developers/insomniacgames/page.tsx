@@ -27,7 +27,7 @@ function InsomniacGamesPage() {
       <p className="mb-8 text-lg">
         Insomniac would however find solid ground again with 2018&#39;s
         Spider-Man for the PS4. It was not only their highest selling game ever,
-        but was also the highest selling PS4 exclusive.
+        but was also the highest selling PS4 first-party game.
       </p>
       <p className="mb-8 text-lg">
         Naturally Sony, after seeing this success, acquired them the following
@@ -37,18 +37,18 @@ function InsomniacGamesPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
-            Most people agree that Insomniac have been the most important PS
-            studio this PS5 generation. That&#39;s because they&#39;ve already
-            shipped four games to critical and commercial success.
+            Most people agree that Insomniac have been the most important
+            PlayStation studio this generation. That&#39;s because they&#39;ve
+            already shipped four games to critical and commercial success.
           </p>
           <p className="mb-5 text-lg">
-            Furthermore, even though Insomniac have already released more
-            titless than most developers will this entire generation, we know
-            their next game - Marvel&#39;s Wolverine in (likely) 2025.
+            Furthermore, even though Insomniac have already released more titles
+            than most developers will this entire generation, we know their next
+            game - Marvel&#39;s Wolverine in (likely) 2025.
           </p>
           <p className="mb-5 text-lg">
             Between Insomniac&#39;s current track record and what&#39;s already

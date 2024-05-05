@@ -13,8 +13,8 @@ function GuerillaGamesPage() {
       </h2>
       <p className="mb-5 text-lg">
         Founded in 2000, this Amsterdam-based developer is primarily known for
-        the FPS series &#39;Killzone&#39;, and third-person action-adventure
-        series &#39;Horizon&#39;.
+        the FPS series &#39;Killzone&#39;, and third-person action RPG series
+        &#39;Horizon&#39;.
       </p>
       <p className="mb-5 text-lg">
         Sony acquired Guerilla in 2005, one year after the original Killzone
@@ -34,14 +34,14 @@ function GuerillaGamesPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
             Despite no concrete information, I predict Guerilla&#39;s next game
             is Horizon 3 for the following reasons:
           </p>
-          <ul className="list-disc pl-5 mb-5 text-lg sm:pl-10">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10">
             <li>
               Horizon FW&#39;s ending sets up a sequel that serves as the final
               act of a trilogy.

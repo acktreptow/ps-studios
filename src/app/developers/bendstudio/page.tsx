@@ -26,7 +26,7 @@ function BendStudioPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -34,7 +34,7 @@ function BendStudioPage() {
             about their next title. But due to internal leaks and some
             investigative-reporting, here&#39;s what we do know:
           </p>
-          <ul className="list-disc pl-5 mb-5 text-lg">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10">
             <li>
               Bend pitched Days Gone 2, which Sony rejected due to poor critical
               reception of Days Gone.

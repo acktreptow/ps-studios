@@ -17,7 +17,7 @@ function HousemarquePage() {
       </p>
       <p className="mb-5 text-lg">
         Housemarque most recently released 2021&#39;s Returnal for the PS5. It
-        kept the rouge-like elements seen in previous games, but moved to a
+        kept the roguelike elements seen in previous games, but moved to a
         third-person perspective with more focus on story.
       </p>
       <p className="mb-5 text-lg">
@@ -32,7 +32,7 @@ function HousemarquePage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">

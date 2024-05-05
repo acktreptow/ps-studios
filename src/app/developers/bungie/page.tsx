@@ -15,16 +15,16 @@ function BungiePage() {
         Founded in 1991, this Washington-based developer is the most unique
         first-party studio for a variety of reasons:
       </p>
-      <ul className="list-disc pl-5 mb-5 text-lg">
+      <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10">
         <li>
-          Microsoft use to own Bungie when they created Xbox&#39;s flagship IP
+          Microsoft used to own Bungie when they created Xbox&#39;s flagship IP
           &#39;Halo&#39;.
         </li>
         <li>
           Activision also use to own Bungie during initial work on Destiny.
         </li>
         <li>
-          Sony acquired Bungie in 2022, but they are the only first-party
+          Sony acquired Bungie in 2022, but they&#39;re the only first-party
           developer not part of PS Studios. They&#39;re an independent Sony
           subsidiary.
         </li>
@@ -47,7 +47,7 @@ function BungiePage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">

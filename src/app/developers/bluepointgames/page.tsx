@@ -33,7 +33,7 @@ function BluepointGamesPage() {
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
-              My Analysis and Predictions
+              My Analysis & Predictions
             </span>
           </h2>
           <p className="mb-5 text-lg">
@@ -49,7 +49,7 @@ function BluepointGamesPage() {
           </p>
           <p className="mb-8 text-lg">
             That outlook might change if we go another year without any news
-            though. Four years is too long for Bluepoint to go without an
+            though. 4 years is too long for Bluepoint to go without an
             announcement.
           </p>
         </div>

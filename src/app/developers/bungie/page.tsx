@@ -78,7 +78,7 @@ function BungiePage() {
             className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="final-shape" className="block text-center mb-8">
-            Destiny 2&#39;s last expansion: The Final Shape
+            Destiny 2&#39;s last expansion
           </label>
         </div>
       </div>

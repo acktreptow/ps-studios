@@ -26,7 +26,7 @@ function TeamAsobiPage() {
         that comes pre-installed. Its gameplay was developed in a way to show
         off the PS5&#39;s new features like haptic feedback.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -58,14 +58,14 @@ function TeamAsobiPage() {
             desperately needs a win.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={astroBot}
             alt="Team Asobi with their mascot Astro Bot"
             width={500}
             height={500}
             id="astro-bot"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="astro-bot" className="block text-center mb-8">
             Team Asobi with mascot Astro Bot

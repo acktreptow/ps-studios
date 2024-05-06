@@ -29,7 +29,7 @@ function NixxesSoftwarePage() {
         compared to others that were done in-house, such as The Last of Us Part
         2 by Naughty Dog.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -58,14 +58,14 @@ function NixxesSoftwarePage() {
             developer!
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={gotTrophies}
             alt="Ghost of Tsushima PC trophies overlay"
             width={500}
             height={500}
             id="got-trophies"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="got-trophies" className="block text-center mb-8">
             PlayStation&#39;s PC overlay for trophies

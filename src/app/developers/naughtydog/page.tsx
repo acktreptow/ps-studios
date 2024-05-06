@@ -27,7 +27,7 @@ function NaughtyDogPage() {
         PlayStation studio. This continued into the PS4 gen with sequels in both
         IP.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -59,14 +59,14 @@ function NaughtyDogPage() {
             Hopefully they return to their former glory for the PS6.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={tlouFactions}
             alt="The Last of Us Factions"
             width={500}
             height={500}
             id="tlou-factions"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="tlou-factions" className="block text-center mb-8">
             The only public asset of TLOU Online

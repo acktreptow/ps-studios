@@ -2,7 +2,7 @@ import games from "../../data/games.json";
 import Image from "next/image";
 import ds2OTB from "../../../../public/images/ds2.png";
 
-function Xdevpage() {
+function XDevpage() {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
@@ -26,7 +26,7 @@ function Xdevpage() {
         soulsborne &#39;Rise of the Ronin&#39;, and the action-adventure
         &#39;Stellar Blade&#39;.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -55,14 +55,14 @@ function Xdevpage() {
             gen continues.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={ds2OTB}
             alt="Death Standing 2 On The Beach cutscene"
             width={500}
             height={500}
             id="d2s-otb"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="d2s-otb" className="block text-center mb-8">
             XDev&#39;s upcoming Death Stranding 2
@@ -96,4 +96,4 @@ function Xdevpage() {
   );
 }
 
-export default Xdevpage;
+export default XDevpage;

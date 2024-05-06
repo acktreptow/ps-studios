@@ -21,7 +21,7 @@ function NeonKoiPage() {
         founding member of PlayStation Studios&#39;s Mobile Division and were
         purchased to exclusively develop mobile games.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -47,14 +47,14 @@ function NeonKoiPage() {
             then start determining if Neon Koi are worth keeping an eye on.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={savageLogo}
             alt="Savage Game Studios Logo"
             width={500}
             height={500}
             id="savage-logo"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="savage-logo" className="block text-center">
             Neon Koi: formerly Savage Game Studios

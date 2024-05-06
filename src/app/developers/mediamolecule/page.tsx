@@ -23,7 +23,7 @@ function MediaMoleculePage() {
         In regards to their next game, we don&#39;t even have a name, let alone
         gameplay, despite Dreams releasing 4 years ago.
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -53,14 +53,14 @@ function MediaMoleculePage() {
             makes to have a diverse portfolio.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={sackboy}
             alt="Sackboy from LittleBigPlanet"
             width={500}
             height={500}
             id="sackboy"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="sackboy" className="block text-center">
             LittleBigPlanet&#39;s mascot - Sackboy

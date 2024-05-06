@@ -56,7 +56,10 @@ function SantaMonicaStudioPage() {
             id="gow-ragnarok"
             className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
           />
-          <label htmlFor="gow-ragnarok" className="block text-center mb-8">
+          <label
+            htmlFor="gow-ragnarok"
+            className="block text-center mb-8 md:ml-5"
+          >
             The 6 awards God of War Ragnarök won at The Game Awards 2022
           </label>
         </div>

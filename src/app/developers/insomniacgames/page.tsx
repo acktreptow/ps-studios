@@ -33,7 +33,7 @@ function InsomniacGamesPage() {
         Naturally Sony, after seeing this success, acquired them the following
         year. They&#39;ve been on fire ever since!
       </p>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -61,14 +61,14 @@ function InsomniacGamesPage() {
             all is said and done.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={insomniacPortfolio}
             alt="Insomniac's PS5 portfolio"
             width={500}
             height={500}
             id="insomniac-portfolio"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label
             htmlFor="insomniac-portfolio"

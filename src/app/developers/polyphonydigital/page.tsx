@@ -44,7 +44,7 @@ function PolyphonyDigitalPage() {
           </label>
         </div>
       </div>
-      <div className="md:flex items-center">
+      <div className="lg:flex items-center">
         <div>
           <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">
@@ -71,14 +71,14 @@ function PolyphonyDigitalPage() {
             safe bet considering the track record.
           </p>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={gt7PSVR2}
             alt="GT7 PSVR2"
             width={500}
             height={500}
             id="gt7-psvr2"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
           />
           <label htmlFor="gt7-psvr2" className="block text-center mb-8">
             GT7 in VR via PSVR2

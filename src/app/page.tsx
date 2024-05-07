@@ -23,7 +23,7 @@ function Homepage() {
       </p>
       <form onSubmit={handleSubmit} className="text-lg">
         <select
-          className="block mx-auto border border-black p-2 mb-4"
+          className="block mx-auto border border-gray-500 rounded-lg p-2 mb-6"
           value={selectedDeveloper}
           onChange={(e) => setSelectedDeveloper(e.target.value)}
         >

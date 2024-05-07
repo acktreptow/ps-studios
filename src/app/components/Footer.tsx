@@ -1,7 +1,7 @@
 function Footer() {
   return (
-    <footer className="text-center bg-blue-400 px-6 py-4 container mx-auto">
-      <p>© 2024 Sony First Party</p>
+    <footer className="bg-playstation text-white text-center py-4 container mx-auto">
+      <p> PS5 First-Party Fiesta All Rights Reserved © 2024</p>
     </footer>
   );
 }

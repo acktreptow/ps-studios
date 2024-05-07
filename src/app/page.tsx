@@ -15,18 +15,19 @@ function Homepage() {
   };
 
   return (
-    <main className="text-center py-6">
-      <h1 className="text-2xl font-bold py-2">PlayStation Studios</h1>
-      <p className="py-2">
-        Everything you need to know about Sonys first-party content during the
-        PS5 generation.
+    <main className="text-center p-5 container mx-auto">
+      <h1 className="text-4xl font-bold py-2 my-5">PS Studios for PS5</h1>
+      <p className="text-xl py-2 mb-6">
+        Everything you need to know about Sony&#39;s first-party games for the
+        PS5.
       </p>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="text-lg">
         <select
+          className="block mx-auto border border-black p-2 mb-4"
           value={selectedDeveloper}
           onChange={(e) => setSelectedDeveloper(e.target.value)}
         >
-          <option value="">Select developer</option>
+          <option value="">Select Developer</option>
           {developers
             .filter(
               (developer) =>
@@ -39,11 +40,14 @@ function Homepage() {
               </option>
             ))}
         </select>
-        <button type="submit" className="block m-auto">
-          Go to developer
+        <button
+          type="submit"
+          className="block mx-auto border p-5 bg-playstation text-white rounded-full"
+        >
+          Go To Developer
         </button>
       </form>
-      <div className="grid grid-cols-3 mx-2 mt-10 mb-4">
+      <div className="grid grid-cols-3 mt-10 mb-4 md:grid-cols-4 lg:grid-cols-6">
         {developers.map((developer) => (
           <Link
             key={developer.id}

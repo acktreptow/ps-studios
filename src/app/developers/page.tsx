@@ -2,9 +2,11 @@ import Link from "next/link";
 
 function DevelopersPage() {
   return (
-    <div className="text-center py-6 flex-grow">
-      <h1 className="text-2xl font-bold py-2">First Party Developers</h1>
-      <ul className="text-lg mt-2 leading-8">
+    <div className="text-center py-6 flex-grow container mx-auto md:py-10">
+      <h1 className="text-3xl font-bold py-2 mb-3 md:text-5xl md:mb-5 lg:text-6xl">
+        PlayStation Developers
+      </h1>
+      <ul className="text-xl leading-8 md:text-2xl md:leading-10 ">
         <Link href="/developers/bendstudio">
           <li>Bend Studio</li>
         </Link>

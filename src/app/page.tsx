@@ -49,7 +49,7 @@ function Homepage() {
           Go To Developer
         </button>
       </form>
-      <div className="grid grid-cols-3 mb-4 md:grid-cols-4 lg:grid-cols-6">
+      <div className="grid grid-cols-3 mb-6 md:grid-cols-4 lg:grid-cols-6">
         {developers.map((developer) => (
           <Link
             key={developer.id}

@@ -4,7 +4,7 @@ import gotDC from "../../../../public/images/got-dc.png";
 
 function SuckerPunchProductionsPage() {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto">
+    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Sucker Punch Productions
       </h1>

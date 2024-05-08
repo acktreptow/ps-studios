@@ -4,7 +4,7 @@ import mlb24 from "../../../../public/images/mlb-24.png";
 
 function SanDiegoStudioPage() {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto">
+    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         San Diego Studio
       </h1>

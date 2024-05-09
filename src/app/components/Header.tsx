@@ -25,6 +25,9 @@ function Header() {
           <li className="hover:text-gray-200">
             <Link href="/ps5gameslist">PS5 Games</Link>
           </li>
+          <li className="hover:text-gray-200">
+            <Link href="/devstats">Dev Stats</Link>
+          </li>
         </ul>
       </div>
     </header>

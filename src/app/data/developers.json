@@ -144,27 +144,27 @@
     "name": "Valkyrie Entertainment",
     "urlPath": "valkyrieentertainment",
     "img": "/images/valkyrie-logo.png",
-    "games": 0
+    "ps5Games": 0
   },
   {
     "id": 22,
     "name": "PlayStation Logo",
     "urlPath": "/about",
     "img": "/images/playstation-logo.png",
-    "games": 0
+    "ps5Games": 0
   },
   {
     "id": 23,
     "name": "XDev",
     "urlPath": "xdev",
     "img": "/images/xdev-logo.png",
-    "games": 8
+    "ps5Games": 8
   },
   {
     "id": 24,
     "name": "PS5 Logo",
     "urlPath": "/",
     "img": "/images/ps5-logo.png",
-    "games": 0
+    "ps5Games": 0
   }
 ]

@@ -3,144 +3,168 @@
     "id": 1,
     "name": "Bend Studio",
     "urlPath": "bendstudio",
-    "img": "/images/bend-logo.png"
+    "img": "/images/bend-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 2,
     "name": "Bluepoint Games",
     "urlPath": "bluepointgames",
-    "img": "/images/bluepoint-logo.png"
+    "img": "/images/bluepoint-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 3,
     "name": "Bungie",
     "urlPath": "bungie",
-    "img": "/images/bungie-logo.png"
+    "img": "/images/bungie-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 4,
     "name": "Fabrik Games",
     "urlPath": "fabrikgames",
-    "img": "/images/fabrik-logo.png"
+    "img": "/images/fabrik-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 5,
     "name": "Firesprite",
     "urlPath": "firesprite",
-    "img": "/images/firesprite-logo.png"
+    "img": "/images/firesprite-logo.png",
+    "ps5Games": 2
   },
   {
     "id": 6,
     "name": "Firewalk Studios",
     "urlPath": "firewalkstudios",
-    "img": "/images/firewalk-logo.png"
+    "img": "/images/firewalk-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 7,
     "name": "Guerilla Games",
     "urlPath": "guerillagames",
-    "img": "/images/guerilla-logo.png"
+    "img": "/images/guerilla-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 8,
     "name": "Haven Studios",
     "urlPath": "havenstudios",
-    "img": "/images/haven-logo.png"
+    "img": "/images/haven-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 9,
     "name": "Housemarque",
     "urlPath": "housemarque",
-    "img": "/images/housemarque-logo.png"
+    "img": "/images/housemarque-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 10,
     "name": "Insomniac Games",
     "urlPath": "insomniacgames",
-    "img": "/images/insomniac-logo.png"
+    "img": "/images/insomniac-logo.png",
+    "ps5Games": 4
   },
   {
     "id": 11,
     "name": "Media Molecule",
     "urlPath": "mediamolecule",
-    "img": "/images/media-molecule-logo.png"
+    "img": "/images/media-molecule-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 12,
     "name": "Naughty Dog",
     "urlPath": "naughtydog",
-    "img": "/images/naughty-dog-logo.png"
+    "img": "/images/naughty-dog-logo.png",
+    "ps5Games": 3
   },
   {
     "id": 13,
     "name": "Neon Koi",
     "urlPath": "neonkoi",
-    "img": "/images/neon-koi-logo.png"
+    "img": "/images/neon-koi-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 14,
     "name": "Nixxes Software",
     "urlPath": "nixxessoftware",
-    "img": "/images/nixxes-logo.png"
+    "img": "/images/nixxes-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 15,
     "name": "Polyphony Digital",
     "urlPath": "polyphonydigital",
-    "img": "/images/polyphony-logo.png"
+    "img": "/images/polyphony-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 16,
     "name": "San Diego Studio",
     "urlPath": "sandiegostudio",
-    "img": "/images/san-diego-logo.png"
+    "img": "/images/san-diego-logo.png",
+    "ps5Games": 4
   },
   {
     "id": 17,
     "name": "San Mateo Studio",
     "urlPath": "sanmateostudio",
-    "img": "/images/san-mateo-logo.png"
+    "img": "/images/san-mateo-logo.png",
+    "ps5Games": 0
   },
   {
     "id": 18,
     "name": "Santa Monica Studio",
     "urlPath": "santamonicastudio",
-    "img": "/images/santa-monica-logo.png"
+    "img": "/images/santa-monica-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 19,
     "name": "Sucker Punch",
     "urlPath": "suckerpunchproductions",
-    "img": "/images/sucker-punch-logo.png"
+    "img": "/images/sucker-punch-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 20,
     "name": "Team Asobi",
     "urlPath": "teamasobi",
-    "img": "/images/asobi-logo.png"
+    "img": "/images/asobi-logo.png",
+    "ps5Games": 1
   },
   {
     "id": 21,
     "name": "Valkyrie Entertainment",
     "urlPath": "valkyrieentertainment",
-    "img": "/images/valkyrie-logo.png"
+    "img": "/images/valkyrie-logo.png",
+    "games": 0
   },
   {
     "id": 22,
     "name": "PlayStation Logo",
     "urlPath": "/about",
-    "img": "/images/playstation-logo.png"
+    "img": "/images/playstation-logo.png",
+    "games": 0
   },
   {
     "id": 23,
     "name": "XDev",
     "urlPath": "xdev",
-    "img": "/images/xdev-logo.png"
+    "img": "/images/xdev-logo.png",
+    "games": 8
   },
   {
     "id": 24,
     "name": "PS5 Logo",
     "urlPath": "/",
-    "img": "/images/ps5-logo.png"
+    "img": "/images/ps5-logo.png",
+    "games": 0
   }
 ]

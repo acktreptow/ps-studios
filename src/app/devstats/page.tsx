@@ -12,9 +12,10 @@ function DevStatsPage() {
       <p className="mb-5 text-lg">
         Here are some stats for PS Studios over the PS5 generation.
       </p>
-      <p className="mb-5 text-lg">
-        There are currently 22 first-party developers under the PS Studios
-        umbrella:
+      <p className="mb-8 text-lg">
+        There&#39;s 22 first-party developers under the PS Studios umbrella. The
+        following list are their names and the number of{" "}
+        <span className="font-bold">released</span> PS5 games:
       </p>
       <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10">
         {developers

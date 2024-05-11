@@ -59,6 +59,7 @@ function DevStatsPage() {
             <li>PS Studios in EU: 7</li>
             <li>PS Studios in JP: 2</li>
             <li>PS Studios acquired in PS5 generation: 10</li>
+            <li>PS Studios closed in PS5 generation: 3</li>
           </ul>
         </div>
       </div>

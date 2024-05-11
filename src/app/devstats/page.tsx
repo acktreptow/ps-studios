@@ -50,6 +50,11 @@ function DevStatsPage() {
             <li>Games released in 2023: 4</li>
             <li>Games released in 2024: 5</li>
             <li>Unreleased announced PS5 games: 6</li>
+            <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
+            <li>
+              Next PS5 game: N/A there are no release dates for upcoming PS5
+              titles
+            </li>
           </ul>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1">
             Studio Stats:
@@ -59,7 +64,20 @@ function DevStatsPage() {
             <li>PS Studios in EU: 7</li>
             <li>PS Studios in JP: 2</li>
             <li>PS Studios acquired in PS5 generation: 10</li>
-            <li>PS Studios closed in PS5 generation: 3</li>
+            <li>
+              PS Studios closed in PS5 generation: 3 (Japan Studio, Pixelopus &
+              London Studio)
+            </li>
+            <li>Studio with most new releases: Insomniac (4)</li>
+            <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
+            <li>
+              Studio with longest duration since last release: Bend Studio with
+              Days Gone (April 2019)
+            </li>
+            <li>
+              Studios most likely to close: Bend Studio, Firesprite/Fabrik,
+              Media Molecule, Neon Koi
+            </li>
           </ul>
         </div>
       </div>

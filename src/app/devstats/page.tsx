@@ -74,9 +74,14 @@ function DevStatsPage() {
               Studio with longest duration since last release: Bend Studio with
               Days Gone (April 2019)
             </li>
+            <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>
-              Studios most likely to close: Bend Studio, Firesprite/Fabrik,
+              5 studios most likely to close: Bend Studio, Firesprite/Fabrik,
               Media Molecule, Neon Koi
+            </li>
+            <li>
+              5 studios least likely to close: Guerilla Games, Insomniac Games,
+              Polyphony Digital, Sony Santa Monica, Sucker Punch
             </li>
           </ul>
         </div>

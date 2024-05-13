@@ -26,7 +26,7 @@ function Header() {
             <Link href="/ps5gameslist">PS5 Games</Link>
           </li>
           <li className="hover:text-gray-200">
-            <Link href="/devstats">Dev Stats</Link>
+            <Link href="/stats">Stats</Link>
           </li>
         </ul>
       </div>

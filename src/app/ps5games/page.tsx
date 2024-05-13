@@ -10,18 +10,20 @@ function PS5Games() {
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
         Every PlayStation Studios PS5 Game
       </h1>
-      <button
-        onClick={() => setMetacritic(false)}
-        className="mx-auto border p-4 mb-8 bg-playstation text-white rounded-full"
-      >
-        Sort by Release Date
-      </button>
-      <button
-        onClick={() => setMetacritic(true)}
-        className="mx-auto border p-4 mb-8 bg-playstation text-white rounded-full"
-      >
-        Sort by Metacritic score
-      </button>
+      <div className="flex flex-col items-center align-middle">
+        <button
+          onClick={() => setMetacritic(false)}
+          className="mx-auto border p-4 mb-5 bg-playstation text-white rounded-full"
+        >
+          Sort by Release Date
+        </button>
+        <button
+          onClick={() => setMetacritic(true)}
+          className="mx-auto border p-4 mb-8 bg-playstation text-white rounded-full"
+        >
+          Sort by Metacritic score
+        </button>
+      </div>
       <div className="mb-5 grid gap-5 sm:grid-cols-2 ">
         {games
           .sort((a, b) =>

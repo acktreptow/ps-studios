@@ -7,10 +7,10 @@ function PS5Games() {
 
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 md:mb-14">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 md:mb-14 tracking-wide md:leading-relaxed">
         Every PlayStation Studios PS5 Game
       </h1>
-      <div className="flex flex-col items-center align-middle md:flex-row">
+      <div className="flex flex-col items-center align-middle md:flex-row lg:text-lg">
         <button
           onClick={() => setMetacritic(false)}
           className="border p-4 mb-5 md:mb-8 md:mr-3 lg:mr-6 bg-playstation text-white rounded-full  hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation"
@@ -37,13 +37,21 @@ function PS5Games() {
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             >
-              <h3 className="text-xl font-bold text-center mb-1">
+              <h3 className="text-xl lg:text-2xl font-bold text-center mb-1 lg:mb-3">
                 {game.name}
               </h3>
-              <p className="text-lg">Developer: {game.developer}</p>
-              <p className="text-lg">Genre: {game.genre}</p>
-              <p className="text-lg">Release Date: {game.releaseDate}</p>
-              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Developer: {game.developer}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Genre: {game.genre}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Release Date: {game.releaseDate}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Metacritic Score: {game.metacritic}
+              </p>
             </div>
           ))}
       </div>

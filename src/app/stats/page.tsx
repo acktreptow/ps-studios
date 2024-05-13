@@ -3,21 +3,21 @@ import developers from "../data/developers.json";
 function StatsPage() {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
         PS Studios Stats
       </h1>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">Overview</span>
       </h2>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Here are various stats across PS Studios over the PS5 generation.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         There&#39;s 22 first-party developers under the PS Studios umbrella. The
         following list are their names and their number of{" "}
         <span className="font-bold">released</span> games on the PS5:
       </p>
-      <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10">
+      <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
         {developers
           .filter(
             (developer) =>
@@ -37,10 +37,10 @@ function StatsPage() {
           <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
             <span className="border-b-2 border-gray-300">Other Stats</span>
           </h2>
-          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1">
+          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Game Stats:
           </h3>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10 lg:text-xl lg:tracking-wide">
             <li>Total PS5 games released: 29</li>
             <li>
               Game with highest Metacritic score: God of War: Ragnarök (94)
@@ -60,17 +60,17 @@ function StatsPage() {
               titles.
             </li>
           </ul>
-          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1">
+          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Studio Stats:
           </h3>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10 lg:text-xl lg:tracking-wide">
             <li>Studios in NA: 13</li>
             <li>Studios in EU: 7</li>
-            <li>Studios in JP: 2</li>
+            <li className="mb-3">Studios in JP: 2</li>
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10
             </li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
               <li>Bluepoint Games (September, 2021)</li>
               <li>Bungie (January, 2022)</li>
               <li>Fabrik Games (September, 2021)</li>
@@ -83,7 +83,7 @@ function StatsPage() {
               <li>Valkyrie Entertainment (December, 2021)</li>
             </ul>
             <li className="mb-1">Studios closed in PS5 generation: 3</li>
-            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10">
+            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
               <li>Japan Studio (April, 2021) *</li>
               <li>Pixelopus (May, 2023)</li>
               <li>London Studio (February, 2024)</li>
@@ -97,9 +97,11 @@ function StatsPage() {
               Studio with the longest duration since their last release: Bend
               Studio with Days Gone (April 2019)
             </li>
-            <li>Studio with most Game of the Year Awards: Naughty Dog</li>
+            <li className="mb-3">
+              Studio with most Game of the Year Awards: Naughty Dog
+            </li>
             <li className="mb-1">5 studios most likely to close:</li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
               <li>Bend Studio</li>
               <li>Fabrik Games</li>
               <li>Firesprite</li>
@@ -107,7 +109,7 @@ function StatsPage() {
               <li>Neon Koi</li>
             </ul>
             <li className="mb-1">5 studios least likely to close:</li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
               <li>Guerilla Games</li>
               <li>Insomniac Games</li>
               <li>Polyphony Digital</li>

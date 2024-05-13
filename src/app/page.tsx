@@ -19,11 +19,11 @@ function Homepage() {
       <h1 className="text-4xl font-bold py-2 my-5 lg:text-6xl">
         PS Studios for PS5
       </h1>
-      <p className="text-xl py-2 mb-6">
+      <p className="text-xl py-2 mb-6 lg:text-2xl lg:tracking-wide">
         Everything you need to know about Sony&#39;s first-party games for the
         PS5.
       </p>
-      <form onSubmit={handleSubmit} className="text-lg">
+      <form onSubmit={handleSubmit} className="text-lg lg:tracking-wide">
         <select
           className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4 hover:border-playstation transition-colors duration-200 text-gray-800 shadow-md focus:outline-none focus:ring-2 focus:ring-playstation"
           value={selectedDeveloper}

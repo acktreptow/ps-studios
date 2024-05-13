@@ -23,7 +23,7 @@ function Header() {
             <Link href="/developers">Developers</Link>
           </li>
           <li className="hover:text-gray-200">
-            <Link href="/ps5gameslist">PS5 Games</Link>
+            <Link href="/ps5games">PS5 Games</Link>
           </li>
           <li className="hover:text-gray-200">
             <Link href="/stats">Stats</Link>

@@ -42,6 +42,10 @@ function StatsPage() {
           </h3>
           <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10">
             <li>Total PS5 games released: 29</li>
+            <li>
+              Game with highest Metacritic score: God of War: Ragnarök (94)
+            </li>
+            <li>Game with lowest Metacritic score: Firewall Ultra (61)</li>
             <li>Total 90+ PS5 games on Metacritic: 4</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>
             <li>PS5 games released in 2020: 6</li>
@@ -66,7 +70,7 @@ function StatsPage() {
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10
             </li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 ">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10">
               <li>Bluepoint Games (September, 2021)</li>
               <li>Bungie (January, 2022)</li>
               <li>Fabrik Games (September, 2021)</li>
@@ -79,7 +83,7 @@ function StatsPage() {
               <li>Valkyrie Entertainment (December, 2021)</li>
             </ul>
             <li className="mb-1">Studios closed in PS5 generation: 3</li>
-            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10 ">
+            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10">
               <li>Japan Studio (April, 2021) *</li>
               <li>Pixelopus (May, 2023)</li>
               <li>London Studio (February, 2024)</li>
@@ -95,7 +99,7 @@ function StatsPage() {
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li className="mb-1">5 studios most likely to close:</li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 ">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10">
               <li>Bend Studio</li>
               <li>Fabrik Games</li>
               <li>Firesprite</li>
@@ -103,7 +107,7 @@ function StatsPage() {
               <li>Neon Koi</li>
             </ul>
             <li className="mb-1">5 studios least likely to close:</li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 ">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10">
               <li>Guerilla Games</li>
               <li>Insomniac Games</li>
               <li>Polyphony Digital</li>

@@ -40,7 +40,7 @@ function DevStatsPage() {
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1">
             Game Stats:
           </h3>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10">
             <li>Total PS5 games released: 29</li>
             <li>Total 90+ PS5 games on Metacritic: 4</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>
@@ -59,15 +59,17 @@ function DevStatsPage() {
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1">
             Studio Stats:
           </h3>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10">
             <li>PS Studios in NA: 13</li>
             <li>PS Studios in EU: 7</li>
             <li>PS Studios in JP: 2</li>
             <li>PS Studios acquired in PS5 generation: 10</li>
-            <li>
-              PS Studios closed in PS5 generation: 3 (Japan Studio, Pixelopus &
-              London Studio)
-            </li>
+            <li className="mb-1">PS Studios closed in PS5 generation: 3</li>
+            <ul className="list-decimal leading-8 mb-1 pl-10 text-lg md:pl-7 lg:pl-10 ">
+              <li>Japan Studio</li>
+              <li>Pixelopus</li>
+              <li>London Studio</li>
+            </ul>
             <li>Studio with most new releases: Insomniac (4)</li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
             <li>
@@ -75,14 +77,22 @@ function DevStatsPage() {
               Days Gone (April 2019)
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
-            <li>
-              5 studios most likely to close: Bend Studio, Firesprite/Fabrik,
-              Media Molecule, Neon Koi
-            </li>
-            <li>
-              5 studios least likely to close: Guerilla Games, Insomniac Games,
-              Polyphony Digital, Sony Santa Monica, Sucker Punch
-            </li>
+            <li className="mb-1">5 studios most likely to close:</li>
+            <ul className="list-decimal leading-8 mb-1 pl-10 text-lg md:pl-7 lg:pl-10 ">
+              <li>Bend Studio</li>
+              <li>Firesprite</li>
+              <li>Fabrik</li>
+              <li>Media Molecule</li>
+              <li>Neon Koi</li>
+            </ul>
+            <li className="mb-1">5 studios least likely to close:</li>
+            <ul className="list-decimal leading-8 mb-1 pl-10 text-lg md:pl-7 lg:pl-10 ">
+              <li>Guerilla Games</li>
+              <li>Insomniac Games</li>
+              <li>Polyphony Digital</li>
+              <li>Sony Santa Monica</li>
+              <li>Sucker Punch</li>
+            </ul>
           </ul>
         </div>
       </div>

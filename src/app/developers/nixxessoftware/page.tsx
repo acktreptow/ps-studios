@@ -17,7 +17,7 @@ function NixxesSoftwarePage() {
       </p>
       <p className="mb-5 text-lg">
         Unlike all other first-party studios who develop new PS5 games, remakes,
-        and remasters, Nixxes exclusively work on PC ports of them.
+        and remasters, Nixxes have exclusively worked on PC ports of them.
       </p>
       <p className="mb-5 text-lg">
         Since 2022, they&#39;ve already released 4 ports with all the bells and
@@ -25,9 +25,9 @@ function NixxesSoftwarePage() {
         shipping this month.
       </p>
       <p className="mb-8 text-lg">
-        These Nixxes PC ports have also be far more critically acclaimed
-        compared to others that were done in-house, such as The Last of Us Part
-        2 by Naughty Dog.
+        Nixxes PC ports have also been far more critically acclaimed compared to
+        others that were done by the game&#39;s actual developer. For example,
+        The Last of Us Part 2&#39;s PC port by Naughty Dog.
       </p>
       <div className="lg:flex items-center">
         <div>
@@ -42,15 +42,15 @@ function NixxesSoftwarePage() {
             Something needed as AAA game development costs continue to rise.
           </p>
           <p className="mb-5 text-lg">
-            I highly doubt we will see Nixxes PC ports ship simultaneously with
-            the PS5 version however. Logistically, this is a nightmare for an
-            external studio to do so effectively, unless the PS5 version is held
-            until the PC port is ready.
+            I highly doubt we&#39;ll see Nixxes PC ports ship simultaneously
+            with the PS5 version however. Logistically, this is a nightmare for
+            an external studio to do so effectively. Unless the PS5 version is
+            held until their PC port is ready.
           </p>
           <p className="mb-5 text-lg">
-            What if you don&#39;t play on PC? Well, there&#39;s also a reason to
-            keep an eye on them! In 2023, Nixxes confirmed that it&#39;s started
-            working on remasters too.
+            What if you don&#39;t play on PC? Well, there&#39;s still a reason
+            to keep an eye on them! In 2023, Nixxes confirmed that it&#39;s
+            started working on remasters too.
           </p>
           <p className="mb-8 text-lg">
             Hopefully that means we get some great PS5 remasters of marque

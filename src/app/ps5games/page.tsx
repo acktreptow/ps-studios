@@ -7,7 +7,7 @@ function PS5Games() {
 
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10  text-gray-950 md:mb-14 lg:mb-20">
+      <h1 className="text-4xl text-center font-bold mb-10  text-gray-950 md:mb-14">
         Every PlayStation Studios PS5 Game
       </h1>
       <div className="flex flex-col items-center align-middle md:flex-row">

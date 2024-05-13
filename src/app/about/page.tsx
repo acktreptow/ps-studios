@@ -27,6 +27,13 @@ function AboutPage() {
         during the PS5 era and whether or not they hold a unique position under
         the PlayStation Studios umbrella.
       </p>
+      <p className="mb-5 text-lg">
+        One particular piece of information you might find interesting the
+        number of days between releases for each PS5 game by the developer. Just
+        one way I&#39;m trying to separate fact from fiction by seeing which
+        developers have maintained a consistent release schedule and which
+        haven&#39;t.
+      </p>
       <p className="mb-8 text-lg">
         I&#39;ll also provide my own analysis and predictions for each studio,
         and what I think they&#39;ll be working on next.

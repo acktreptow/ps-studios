@@ -44,7 +44,7 @@ function Homepage() {
         </select>
         <button
           type="submit"
-          className="block mx-auto border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200"
+          className="block mx-auto border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation"
         >
           Go To Developer
         </button>

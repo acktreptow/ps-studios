@@ -10,12 +10,12 @@ function DevStatsPage() {
         <span className="border-b-2 border-gray-300">Overview</span>
       </h2>
       <p className="mb-5 text-lg">
-        Here are some stats for PS Studios over the PS5 generation.
+        Here are various stats across PS Studios over the PS5 generation.
       </p>
       <p className="mb-5 text-lg">
         There&#39;s 22 first-party developers under the PS Studios umbrella. The
-        following list are their names and the number of{" "}
-        <span className="font-bold">released</span> PS5 games:
+        following list are their names and their number of{" "}
+        <span className="font-bold">released</span> games on the PS5:
       </p>
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10">
         {developers
@@ -44,49 +44,66 @@ function DevStatsPage() {
             <li>Total PS5 games released: 29</li>
             <li>Total 90+ PS5 games on Metacritic: 4</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>
-            <li>Games released in 2020: 6</li>
-            <li>Games released in 2021: 8</li>
-            <li>Games released in 2022: 6</li>
-            <li>Games released in 2023: 4</li>
-            <li>Games released in 2024: 5</li>
+            <li>PS5 games released in 2020: 6</li>
+            <li>PS5 games released in 2021: 8</li>
+            <li>PS5 games released in 2022: 6</li>
+            <li>PS5 games released in 2023: 4</li>
+            <li>PS5 games released in 2024 so far: 5</li>
             <li>Unreleased announced PS5 games: 6</li>
             <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
             <li>
-              Next PS5 game: N/A there are no release dates for upcoming PS5
-              titles
+              Next PS5 game: N/A. There&#39;s no exact dates for upcoming PS5
+              titles.
             </li>
           </ul>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1">
             Studio Stats:
           </h3>
           <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10">
-            <li>PS Studios in NA: 13</li>
-            <li>PS Studios in EU: 7</li>
-            <li>PS Studios in JP: 2</li>
-            <li>PS Studios acquired in PS5 generation: 10</li>
-            <li className="mb-1">PS Studios closed in PS5 generation: 3</li>
-            <ul className="list-decimal leading-8 mb-1 pl-10 text-lg md:pl-7 lg:pl-10 ">
-              <li>Japan Studio</li>
-              <li>Pixelopus</li>
-              <li>London Studio</li>
+            <li>Studios in NA: 13</li>
+            <li>Studios in EU: 7</li>
+            <li>Studios in JP: 2</li>
+            <li className="mb-1">
+              Studios acquired during the PS5 generation: 10
+            </li>
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 ">
+              <li>Bluepoint Games (September, 2021)</li>
+              <li>Bungie (January, 2022)</li>
+              <li>Fabrik Games (September, 2021)</li>
+              <li>Firesprite (September, 2021)</li>
+              <li>Firewalk Studios (April, 2023)</li>
+              <li>Haven Studios (July, 2022)</li>
+              <li>Housemarque (June, 2021)</li>
+              <li>Neon Koi (August, 2022)</li>
+              <li>Nixxes Software (July, 2021)</li>
+              <li>Valkyrie Entertainment (December, 2021)</li>
             </ul>
-            <li>Studio with most new releases: Insomniac (4)</li>
+            <li className="mb-1">Studios closed in PS5 generation: 3</li>
+            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10 ">
+              <li>Japan Studio (April, 2021) *</li>
+              <li>Pixelopus (May, 2023)</li>
+              <li>London Studio (February, 2024)</li>
+            </ul>
+            <p className="mb-3">
+              * Team Asobi transitioned out of Japan Studio after its closure.
+            </p>
+            <li>Studio with most new releases: Insomniac Games (4)</li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
             <li>
-              Studio with longest duration since last release: Bend Studio with
-              Days Gone (April 2019)
+              Studio with the longest duration since their last release: Bend
+              Studio with Days Gone (April 2019)
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li className="mb-1">5 studios most likely to close:</li>
-            <ul className="list-decimal leading-8 mb-1 pl-10 text-lg md:pl-7 lg:pl-10 ">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 ">
               <li>Bend Studio</li>
+              <li>Fabrik Games</li>
               <li>Firesprite</li>
-              <li>Fabrik</li>
               <li>Media Molecule</li>
               <li>Neon Koi</li>
             </ul>
             <li className="mb-1">5 studios least likely to close:</li>
-            <ul className="list-decimal leading-8 mb-1 pl-10 text-lg md:pl-7 lg:pl-10 ">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 ">
               <li>Guerilla Games</li>
               <li>Insomniac Games</li>
               <li>Polyphony Digital</li>

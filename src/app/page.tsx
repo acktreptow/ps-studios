@@ -25,7 +25,7 @@ function Homepage() {
       </p>
       <form onSubmit={handleSubmit} className="text-lg">
         <select
-          className="block mx-auto border border-gray-500 rounded-lg p-2 mb-4"
+          className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4 hover:border-playstation transition-colors duration-200 text-gray-800 shadow-md focus:outline-none focus:ring-2 focus:ring-playstation"
           value={selectedDeveloper}
           onChange={(e) => setSelectedDeveloper(e.target.value)}
         >
@@ -44,7 +44,7 @@ function Homepage() {
         </select>
         <button
           type="submit"
-          className="block mx-auto border p-4 mb-8 bg-playstation text-white rounded-full"
+          className="block mx-auto border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200"
         >
           Go To Developer
         </button>

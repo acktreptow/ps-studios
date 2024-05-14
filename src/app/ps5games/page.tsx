@@ -37,7 +37,7 @@ function PS5Games() {
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             >
-              <h3 className="text-xl lg:text-2xl font-bold text-center mb-1 lg:mb-3">
+              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
                 {game.name}
               </h3>
               <p className="text-lg lg:text-xl lg:tracking-wide">

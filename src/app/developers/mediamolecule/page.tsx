@@ -60,7 +60,7 @@ function MediaMoleculePage() {
             width={500}
             height={500}
             id="sackboy"
-            className="my-3 rounded-lg md:max-w-xs lg:max-w-md md:ml-5"
+            className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="sackboy" className="block text-center">
             LittleBigPlanet&#39;s mascot - Sackboy

@@ -5,22 +5,22 @@ import ds2OTB from "../../../../public/images/ds2.png";
 function XDevpage() {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
         XDev
       </h1>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t
         develop games themselves, but instead collaborate with external studios
         to fund development of exclusive games for PlayStation.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Due to XDev just funding the games, it means they can work with many
         different developers simultaneously to produce an eclectic selection.
       </p>
-      <p className="mb-8 text-lg">
+      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         On PS5 alone, they&#39;ve already produced over 7 games, with three
         released this year! The live service shooter &#39;Helldivers 2&#39;, the
         soulsborne &#39;Rise of the Ronin&#39;, and the action-adventure
@@ -33,22 +33,22 @@ function XDevpage() {
               My Analysis & Predictions
             </span>
           </h2>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             XDev have two games publicly in development. A remake of 2015&#39;s
             Until Dawn by Ballistic Moon and Death Stranding 2 by Kojima
             Productions.
           </p>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Analytically, XDev&#39;s collaborations have been inconsistent this
             gen, with 2022&#39;s VR FPS &#39;Firewall Ultra&#39; being the
             biggest disappointment.
           </p>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             However, all three of XDev&#39;s 2024 games have been successful.
             Helldivers 2 in particular far exceeded anyone&#39;s expectations
             and easily stands amongst PS Studios&#39;s best games.
           </p>
-          <p className="mb-8 text-lg">
+          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             Between this recent track record, Until Dawn being a remake, and DS2
             being a sequel of a critically acclaimed game, I predict both games
             will be well received and strengthen XDev&#39;s ascent as the PS5
@@ -62,7 +62,7 @@ function XDevpage() {
             width={500}
             height={500}
             id="d2s-otb"
-            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="d2s-otb" className="block text-center mb-8">
             XDev&#39;s upcoming Death Stranding 2
@@ -80,15 +80,21 @@ function XDevpage() {
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             >
-              <h3 className="text-xl font-bold text-center mb-1">
+              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
                 {game.name}
               </h3>
-              <p className="text-lg">Genre: {game.genre}</p>
-              <p className="text-lg">Release Date: {game.releaseDate}</p>
-              <p className="text-lg">
-                Days Between Releases: {game.daysBetweenReleases}
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Genre: {game.genre}
               </p>
-              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Release Date: {game.releaseDate}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Days Since Their Last Game: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Metacritic Score: {game.metacritic}
+              </p>
             </div>
           ))}
       </div>

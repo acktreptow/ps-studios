@@ -88,8 +88,7 @@ function BluepointGamesPage() {
                 Release Date: {game.releaseDate}
               </p>
               <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Bluepoint Game&#39;s Last Release:{" "}
-                {game.daysBetweenReleases}
+                Days Since Their Last Release: {game.daysBetweenReleases}
               </p>
               <p className="text-lg lg:text-xl lg:tracking-wide">
                 Metacritic Score: {game.metacritic}

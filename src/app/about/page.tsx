@@ -6,37 +6,61 @@ function AboutPage() {
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
         About PS5 Studios
       </h1>
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">Overview</span>
+      </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        Welcome to PS5 Studios! This site is a fan-made project that aims to
-        provide a comprehensive overview of all the first-party developers that
-        are part of PlayStation Studios during the PS5 generation.
+        Welcome to PS5 Studios! This site is my fan-made project that aims to
+        provide a comprehensive overview of all the first-party developers part
+        of PlayStation Studios during the PS5 generation.
+      </p>
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+        Why did I create this site? Well, the video game industry has
+        significantly changed since the PS4 era - more so than any industry
+        analyst anticipated. Increasing AAA game budgets, an all time high
+        number of layoffs and the increase in live-service/forever games are
+        just a few examples of how much has changed.
+      </p>
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+        The PlayStation Studios umbrella also changed significantly. Sony
+        acquired many new studios, rebranded others, and even closed some.
+        It&#39;s hard to keep track of all the changes and to know what games
+        each studio is working on.
+      </p>
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+        This is something worth doing because PlayStation Studios&#39;s
+        first-party games are considered by many to be peak of what the PS4
+        generation had to offer.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        A lot of the video game industry has changed since the PS4 era, so I
-        felt this site was necessary to keep track of PlayStation&#39;s
-        first-party studios and their games. Most importantly to separate fact
-        from fiction, and sprinkle in some of my own analysis and predictions
-        too.
+        I therefore felt ps5studios.com was necessary to keep track of
+        PlayStation&#39;s first-party studios and their games, to separate fact
+        from fiction, and sprinkle in my own analysis and predictions too.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">Developers Section</span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        This section of the site will provide a brief history of every
-        PlayStation developers, including all the games they&#39;ve released
-        during the PS5 era and whether or not they hold a unique position under
-        the PlayStation Studios umbrella.
+        This section is the focal point of the site. Each page will provide a
+        brief history of a PlayStation developer, analyze the games they&#39;ve
+        already released on the PS5 (if any at all), and whether or not they
+        hold a unique position under the PlayStation Studios umbrella.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        One particular piece of information you might find interesting the
-        number of days between releases for each PS5 game by the developer. Just
-        one way I&#39;m trying to separate fact from fiction by seeing which
-        developers have maintained a consistent release schedule and which
-        haven&#39;t.
+        One fact you might find particularly interesting is the number of days
+        between releases for each PS5 game by that developer. This is just one
+        way I&#39;m trying to separate fact from fiction.
+      </p>
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+        Has increasing AAA budgets and more complicated game development
+        pipelines affected the number of games released by each studio? Or are
+        other factory primarily at play? This is something I&#39;ll be
+        exploring, coming to different conclusions for each studio.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        I&#39;ll also provide my own analysis and predictions for each studio,
-        and what I think they&#39;ll be working on next.
+        I&#39;ll also provide my own analysis and predictions on what you can
+        expect from each studio for the remainder of the PS5 generation, like
+        predicting what their next game is and when it releases.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games Section</span>

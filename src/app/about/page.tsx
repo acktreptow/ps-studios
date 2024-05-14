@@ -66,29 +66,32 @@ function AboutPage() {
         <span className="border-b-2 border-gray-300">PS5 Games Section</span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        This section will provide a list of every single released and upcoming
-        PS5 game from PlayStation Studios (so no Nixxes PC ports). You&#39;ll be
-        able to see the game&#39;s genre, developer, release date, and
-        Metacritic score of the game.
+        This section provides a list of every released and upcoming PS5 game
+        from PlayStation Studios (so no Nixxes PC ports). You&#39;ll be able to
+        see the game&#39;s developer, genre, release date, and Metacritic score.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         You&#39;ll also be able to sort the games by Metacritic score or by
-        release date so analyze the information from various different angles.
+        release date to analyze the information from various different angles.
       </p>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">Stats Section</span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        My personal favorite section of the site! This where we get down to the
-        nitty gritty stats of each first-party developer under PlayStation
-        Studios. Some stats include which developer has released the most PS5
-        games, which developer has been the most awarded, and which developer
-        has the highest average Metacritic score.
+        My favorite section of the site! This where the analysis goes many
+        layers deep to provide a number of stats for each first-party developer
+        and the PlayStation Studios umbrella as a whole.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        I&#39;ll also include some analysis on these stats and what it could
-        mean for the future of PlayStation Studios. For example, which 5
-        developers are most and least likely to be shut down by Sony.
+        These stats range from basic ones like a bullet-point list of how many
+        PS5 games each developer has released, to more complex ones like which
+        developer&#39;s PS5 games results in the highest average Metacritic
+        score.
+      </p>
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+        I&#39;ll also include some more subjective stats predicting the future
+        of PlayStation Studios. For example, which five developers are most and
+        least likely to be closed by Sony.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         Have any suggestions for other stats you&#39;d like to see? Feel free to

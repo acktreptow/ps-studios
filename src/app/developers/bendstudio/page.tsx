@@ -34,7 +34,7 @@ function BendStudioPage() {
             about their next title. But due to internal leaks and some
             investigative-reporting, here&#39;s what we do know:
           </p>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:text-xl lg:tracking-wide lg:pl-10">
+          <ul className="list-disc space-y-2 pl-5 mb-5 text-lg md:pl-7 lg:text-xl lg:tracking-wide lg:pl-10">
             <li>
               Bend pitched Days Gone 2, which Sony rejected due to poor critical
               reception of Days Gone.

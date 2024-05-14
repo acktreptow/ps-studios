@@ -83,7 +83,7 @@ function FirewalkStudiosPage() {
                 Release Date: {game.releaseDate}
               </p>
               <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Release: {game.daysBetweenReleases}
+                Days Since Their Last Game: {game.daysBetweenReleases}
               </p>
               <p className="text-lg lg:text-xl lg:tracking-wide">
                 Metacritic Score: {game.metacritic}

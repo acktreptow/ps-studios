@@ -5,18 +5,18 @@ import gowRagnarok from "../../../../public/images/gow-ragnarok.png";
 function SantaMonicaStudioPage() {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
         Santa Monica Studio
       </h1>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Santa Monica Studio is an LA-based developer founded in 1999. Outside of
         its first game, 2001&#39;s Kinetica, the studio has exclusively
         developed games for its very successful God of War series.
       </p>
-      <p className="mb-8 text-lg">
+      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         SM&#39;s most recent game was 2022&#39;s God of War Ragnarök - a
         cross-gen title and the only game they&#39;ve released on the PS5. Like
         the 2018 semi-reboot, it was a big critical and commercial success.
@@ -28,19 +28,19 @@ function SantaMonicaStudioPage() {
               My Analysis & Predictions
             </span>
           </h2>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             As of now, we don&#39;t know what SM&#39;s next game is other than
             it being in third-person. There&#39;s rumours that predict a new IP,
             a sequel to Ragnarök, and a smaller-scoped GoW game in the vein of
             Spider-Man Miles-Morales.
           </p>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Regardless of what it is, there&#39;s no reason to think it
             won&#39;t be great. To many, SM&#39;s last two games were so
             critically acclaimed that they usurped Naughty Dog as Sony&#39;s
             premier studio.
           </p>
-          <p className="mb-8 text-lg">
+          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             Ragnarök did only ship 1.5 years ago though, so don&#39;t expect to
             hear anything soon. There&#39;s A LOT of PS studios that need to
             talk before SM, as they&#39;re going on 4-5 years without a shipped
@@ -54,13 +54,13 @@ function SantaMonicaStudioPage() {
             width={500}
             height={500}
             id="gow-ragnarok"
-            className="my-3 rounded-lg md:mx-auto md:max-w-xs lg:max-w-sm md:ml-5"
+            className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label
             htmlFor="gow-ragnarok"
             className="block text-center mb-8 md:ml-5"
           >
-            The 6 awards God of War Ragnarök won at The Game Awards 2022
+            The 6 awards GOW: Ragnarök won at The Game Awards
           </label>
         </div>
       </div>
@@ -75,15 +75,21 @@ function SantaMonicaStudioPage() {
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             >
-              <h3 className="text-xl font-bold text-center mb-1">
+              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
                 {game.name}
               </h3>
-              <p className="text-lg">Genre: {game.genre}</p>
-              <p className="text-lg">Release Date: {game.releaseDate}</p>
-              <p className="text-lg">
-                Days Between Releases: {game.daysBetweenReleases}
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Genre: {game.genre}
               </p>
-              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Release Date: {game.releaseDate}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Days Since Their Last Game: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Metacritic Score: {game.metacritic}
+              </p>
             </div>
           ))}
       </div>

@@ -15,7 +15,7 @@ function BungiePage() {
         Founded in 1991, this Washington-based developer is the most unique
         first-party studio for a variety of reasons:
       </p>
-      <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:text-xl lg:tracking-wide lg:pl-10">
+      <ul className="list-disc space-y-2 pl-5 mb-5 text-lg md:pl-7 lg:text-xl lg:tracking-wide lg:pl-10">
         <li>
           Microsoft used to own Bungie when they created Xbox&#39;s flagship IP
           &#39;Halo&#39;.

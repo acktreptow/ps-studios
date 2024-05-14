@@ -5,23 +5,23 @@ import horizonCoTM from "../../../../public/images/horizon-call-of-the-mountain.
 function FirespritePage() {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
         Firesprite
       </h1>
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Founded in 2012, Firesprite is a Liverpool-based developer formed by
         ex-members of first-party developer Sony Liverpool, which closed weeks
         prior.
       </p>
-      <p className="mb-5 text-lg">
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Firesprite&#39;s first major game was 2018&#39;s The Persistence. It
         also came to other platforms like Xbox, as Sony wouldn&#39;t acquire the
         studio until 2021.
       </p>
-      <p className="mb-8 text-lg">
+      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         So far, they&#39;ve released two PS5 games. An enhanced port of The
         Persistence and the flagship PSVR2 launch title Horizon Call of the
         Mountain. Neither were particularly well received.
@@ -33,22 +33,22 @@ function FirespritePage() {
               My Analysis & Predictions
             </span>
           </h2>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Firesprite hasn&#39;t announced anything since Horizon CoTM shipped
             14 months ago. Unfortunately this is because of the studio&#39;s
             dire situation, post-acquisition.
           </p>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Crunch was apparently necessary to finish Horizon. Additionally, all
             but one founder and many other staff left once retention bonuses
             were paid out.
           </p>
-          <p className="mb-5 text-lg">
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Finally, further layoffs took place a year later and it was reported
             that Firesprite&#39;s unrevealed Twisted Metal live service game had
             been cancelled.
           </p>
-          <p className="mb-8 text-lg">
+          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             Considering this toxic environment, plus the fact that their games
             weren&#39;t great beforehand, I don&#39;t see anything good coming
             out of Firesprite soon. Even if early leaks of a potential horror
@@ -62,7 +62,7 @@ function FirespritePage() {
             width={500}
             height={500}
             id="horizon-cotm"
-            className="my-3 rounded-lg md:max-w-xs lg:max-w-sm md:ml-5 "
+            className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="horizon-cotm" className="block text-center mb-8">
             Horizon CoTM on PSVR2
@@ -80,15 +80,21 @@ function FirespritePage() {
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             >
-              <h3 className="text-xl font-bold text-center mb-1">
+              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
                 {game.name}
               </h3>
-              <p className="text-lg">Genre: {game.genre}</p>
-              <p className="text-lg">Release Date: {game.releaseDate}</p>
-              <p className="text-lg">
-                Days Between Releases: {game.daysBetweenReleases}
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Genre: {game.genre}
               </p>
-              <p className="text-lg">Metacritic Score: {game.metacritic}</p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Release Date: {game.releaseDate}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Days Since Their Last Release: {game.daysBetweenReleases}
+              </p>
+              <p className="text-lg lg:text-xl lg:tracking-wide">
+                Metacritic Score: {game.metacritic}
+              </p>
             </div>
           ))}
       </div>

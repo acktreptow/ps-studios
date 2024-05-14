@@ -12,7 +12,7 @@
     "developer": "Bungie",
     "name": "Destiny 2",
     "id": "Destiny 2",
-    "genre": "Live service FPS",
+    "genre": "Live Service FPS",
     "releaseDate": "December 8, 2020",
     "daysBetweenReleases": 1190,
     "metacritic": 85
@@ -21,7 +21,7 @@
     "developer": "Bungie",
     "name": "Marathon",
     "id": "Marathon",
-    "genre": "Live service FPS",
+    "genre": "Live Service FPS",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -37,7 +37,7 @@
   },
   {
     "developer": "Firesprite",
-    "name": "Horizon Call of the Mountain",
+    "name": "Horizon Call Of The Mountain",
     "id": "Horizon CoTM",
     "genre": "VR Action-Adventure",
     "releaseDate": "February 22, 2023",
@@ -48,7 +48,7 @@
     "developer": "Firewalk Studios",
     "name": "Concord",
     "id": "Concord",
-    "genre": "Live service FPS",
+    "genre": "Live Service FPS",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -66,7 +66,7 @@
     "developer": "Haven Studios",
     "name": "Fairgame$",
     "id": "Fairgame$",
-    "genre": "Live service heist shooter",
+    "genre": "Live Service Heist Shooter",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -102,7 +102,7 @@
     "developer": "Insomniac Games",
     "name": "Ratchet & Clank: Rift Apart",
     "id": "Ratchet & Clank: Rift Apart",
-    "genre": "TPS platformer",
+    "genre": "TPS Platformer",
     "releaseDate": "June 11, 2021",
     "daysBetweenReleases": 212,
     "metacritic": 88
@@ -174,7 +174,7 @@
     "developer": "Nixxes Software",
     "name": "Ratchet & Clank: Rift Apart PC",
     "id": "Ratchet & Clank: Rift Apart PC",
-    "genre": "TPS platformer",
+    "genre": "TPS Platformer",
     "releaseDate": "July 26, 2023",
     "daysBetweenReleases": 251,
     "metacritic": 86
@@ -201,7 +201,7 @@
     "developer": "Polyphony Digital",
     "name": "Gran Turismo 7",
     "id": "GT 7",
-    "genre": "Racing simulation",
+    "genre": "Racing Simulation",
     "releaseDate": "March 4, 2022",
     "daysBetweenReleases": 1095,
     "metacritic": 87
@@ -210,7 +210,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 21",
     "id": "MLB 2021",
-    "genre": "Sports simulation (Baseball)",
+    "genre": "Sports Simulation (Baseball)",
     "releaseDate": "April 20, 2021",
     "daysBetweenReleases": 400,
     "metacritic": 78
@@ -219,7 +219,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 22",
     "id": "MLB 2022",
-    "genre": "Sports simulation (Baseball)",
+    "genre": "Sports Simulation (Baseball)",
     "releaseDate": "April 5, 2022",
     "daysBetweenReleases": 351,
     "metacritic": 77
@@ -228,7 +228,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 23",
     "id": "MLB 2023",
-    "genre": "Sports simulation (Baseball)",
+    "genre": "Sports Simulation (Baseball)",
     "releaseDate": "March 28, 2023",
     "daysBetweenReleases": 358,
     "metacritic": 82
@@ -237,7 +237,7 @@
     "developer": "San Diego Studio",
     "name": "MLB The Show 24",
     "id": "MLB 2024",
-    "genre": "Sports simulation (Baseball)",
+    "genre": "Sports Simulation (Baseball)",
     "releaseDate": "March 19, 2024",
     "daysBetweenReleases": 358,
     "metacritic": 80
@@ -282,7 +282,7 @@
     "developer": "XDev",
     "name": "Destruction AllStars",
     "id": "Destruction AllStars",
-    "genre": "Vehicular combat",
+    "genre": "Vehicular Combat",
     "releaseDate": "February 2, 2021",
     "daysBetweenReleases": 83,
     "metacritic": 62
@@ -300,7 +300,7 @@
     "developer": "XDev",
     "name": "Death Stranding DC",
     "id": "Death Stranding DC",
-    "genre": "Action-Adventure strand",
+    "genre": "Action-Adventure Strand",
     "releaseDate": "September 24, 2021",
     "daysBetweenReleases": 232,
     "metacritic": 85
@@ -309,7 +309,7 @@
     "developer": "XDev",
     "name": "Firewall Ultra",
     "id": "Firewall Ultra",
-    "genre": "Multiplayer VR shooter",
+    "genre": "Multiplayer VR Shooter",
     "releaseDate": "August 24, 2023",
     "daysBetweenReleases": 700,
     "metacritic": 61
@@ -318,7 +318,7 @@
     "developer": "XDev",
     "name": "Helldivers 2",
     "id": "Helldivers 2",
-    "genre": "Live service co-op TPS",
+    "genre": "Live Service Co-op TPS",
     "releaseDate": "February 8, 2024",
     "daysBetweenReleases": 169,
     "metacritic": 82
@@ -345,8 +345,8 @@
     "developer": "XDev",
     "name": "Until Dawn Remake",
     "id": "Until Dawn Remake",
-    "genre": "Interactive drama survival-horror",
-    "releaseDate": "unreleased",
+    "genre": "Interactive Drama Survival-Horror",
+    "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
   },
@@ -355,7 +355,7 @@
     "name": "Death Stranding 2: OTB",
     "id": "DS2: OTB",
     "genre": "Action-Adventure",
-    "releaseDate": "unreleased",
+    "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
   }

@@ -50,26 +50,26 @@ function AboutPage() {
         <span className="border-b-2 border-gray-300">Developers Section</span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        This section is the focal point of the site. Each page will provide a
-        brief history of a PlayStation developer, analyze the games they&#39;ve
+        This section is the focal point of the site. Each page provides a brief
+        history of a PlayStation developer, analyzes the games they&#39;ve
         already released on the PS5 (if any at all), and whether or not they
         hold a unique position under the PlayStation Studios umbrella.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         One fact you might find particularly interesting is the number of days
-        between releases for each PS5 game by that developer. This is just one
-        way I&#39;m trying to separate fact from fiction.
+        between each release by that developer. This is just one unique way
+        I&#39;m trying to separate fact from fiction.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        Has increasing AAA budgets and more complicated game development
-        pipelines affected the number of games released by each studio? Or are
-        other factory primarily at play? This is something I&#39;ll be
-        exploring, coming to different conclusions for each studio.
+        For example, has increasing budgets and more complicated development
+        pipelines affected the number of games released by that studio? Or are
+        other factors primarily at play? This is something I&#39;ll be exploring
+        and coming to different conclusions depending on the developer.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         I&#39;ll also provide my own analysis and predictions on what you can
-        expect from each studio for the remainder of the PS5 generation, like
-        predicting what their next game is and when it releases.
+        expect from each studio for the remainder of the PS5 gen. Like
+        predicting what their next game is and its release window.
       </p>
 
       {/* PS5 Games Section */}

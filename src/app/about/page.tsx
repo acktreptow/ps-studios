@@ -6,37 +6,46 @@ function AboutPage() {
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
         About PS5 Studios
       </h1>
+
+      {/* Overview Section */}
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">Overview</span>
       </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         Welcome to PS5 Studios! This site is my fan-made project that aims to
         provide a comprehensive overview of all the first-party developers part
         of PlayStation Studios during the PS5 generation.
       </p>
+
+      {/* Why Section */}
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">
+          Why PS5 Studios Exists
+        </span>
+      </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Why did I create this site? Well, the video game industry has
         significantly changed since the PS4 era - more so than any industry
-        analyst anticipated. Increasing AAA game budgets, an all time high
-        number of layoffs and the increase in live-service/forever games are
-        just a few examples of how much has changed.
+        analyst anticipated. Ballooning game budgets, a record high number of
+        layoffs and the increase in live-service games are just a few examples.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        The PlayStation Studios umbrella also changed significantly. Sony
-        acquired many new studios, rebranded others, and even closed some.
-        It&#39;s hard to keep track of all the changes and to know what games
-        each studio is working on.
+        The PlayStation Studios umbrella has also changed significantly. Sony
+        has acquired many new studios, rebranded others, and even closed some.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        This is something worth doing because PlayStation Studios&#39;s
-        first-party games are considered by many to be peak of what the PS4
+        It&#39;s hard to keep track of all the changes and to know what each
+        studio is working on. But it&#39;s worth doing because PlayStation
+        Studios&#39;s PS4 games are considered by many to be peak of what the
         generation had to offer.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        I therefore felt ps5studios.com was necessary to keep track of
-        PlayStation&#39;s first-party studios and their games, to separate fact
-        from fiction, and sprinkle in my own analysis and predictions too.
+        I therefore felt ps5studios.com was necessary to see if this prestige is
+        maintained, to separate fact from fiction, and sprinkle in my own
+        analysis and predictions too.
       </p>
+
+      {/* Developers Section */}
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">Developers Section</span>
       </h2>
@@ -62,6 +71,8 @@ function AboutPage() {
         expect from each studio for the remainder of the PS5 generation, like
         predicting what their next game is and when it releases.
       </p>
+
+      {/* PS5 Games Section */}
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">PS5 Games Section</span>
       </h2>
@@ -74,6 +85,8 @@ function AboutPage() {
         You&#39;ll also be able to sort the games by Metacritic score or by
         release date to analyze the information from various different angles.
       </p>
+
+      {/* Stats Section */}
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">Stats Section</span>
       </h2>

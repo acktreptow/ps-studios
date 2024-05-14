@@ -40,7 +40,7 @@ function StatsPage() {
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Game Stats:
           </h3>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10 lg:text-xl lg:tracking-wide">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10 lg:text-xl lg:tracking-wide lg:space-y-2">
             <li>Total PS5 games released: 29</li>
             <li>
               Game with highest Metacritic score: God of War: Ragnarök (94)
@@ -63,14 +63,14 @@ function StatsPage() {
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Studio Stats:
           </h3>
-          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10 lg:text-xl lg:tracking-wide">
+          <ul className="list-disc pl-5 mb-5 text-lg md:pl-7 lg:pl-10 leading-8 md:leading-10 lg:text-xl lg:tracking-wide lg:space-y-2">
             <li>Studios in NA: 13</li>
             <li>Studios in EU: 7</li>
             <li className="mb-3">Studios in JP: 2</li>
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10
             </li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">
               <li>Bluepoint Games (September, 2021)</li>
               <li>Bungie (January, 2022)</li>
               <li>Fabrik Games (September, 2021)</li>
@@ -83,7 +83,7 @@ function StatsPage() {
               <li>Valkyrie Entertainment (December, 2021)</li>
             </ul>
             <li className="mb-1">Studios closed in PS5 generation: 3</li>
-            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
+            <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">
               <li>Japan Studio (April, 2021) *</li>
               <li>Pixelopus (May, 2023)</li>
               <li>London Studio (February, 2024)</li>
@@ -100,16 +100,16 @@ function StatsPage() {
             <li className="mb-3">
               Studio with most Game of the Year Awards: Naughty Dog
             </li>
-            <li className="mb-1">5 studios most likely to close:</li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
+            <li className="mb-1">Five studios most likely to close:</li>
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">
               <li>Bend Studio</li>
               <li>Fabrik Games</li>
               <li>Firesprite</li>
               <li>Media Molecule</li>
               <li>Neon Koi</li>
             </ul>
-            <li className="mb-1">5 studios least likely to close:</li>
-            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
+            <li className="mb-1">Five studios least likely to close:</li>
+            <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">
               <li>Guerilla Games</li>
               <li>Insomniac Games</li>
               <li>Polyphony Digital</li>

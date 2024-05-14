@@ -24,25 +24,25 @@ function AboutPage() {
         </span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        Why did I create this site? Well, the video game industry has
-        significantly changed since the PS4 era - more so than any industry
-        analyst anticipated. Ballooning game budgets, a record high number of
-        layoffs and the increase in live-service games are just a few examples.
+        The video game industry has changed significantly since the PS4 era -
+        more so than any industry analyst anticipated. Ballooning game budgets,
+        a record high number of layoffs and the increase in live service games
+        are just a few examples.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         The PlayStation Studios umbrella has also changed significantly. Sony
-        has acquired many new studios, rebranded others, and even closed some.
+        has acquired 10 new studios, rebranded others, and even closed a few.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        It&#39;s hard to keep track of all the changes and to know what each
-        studio is working on. But it&#39;s worth doing because PlayStation
-        Studios&#39;s PS4 games are considered by many to be peak of what the
-        generation had to offer.
+        Consequently, it&#39;s hard to keep track of all the changes and to know
+        what each studio is working on. But it&#39;s something worth doing
+        because their first-party games are considered by many to be the peak of
+        what the PS4 gen had to offer.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        I therefore felt ps5studios.com was necessary to see if this prestige is
-        maintained, to separate fact from fiction, and sprinkle in my own
-        analysis and predictions too.
+        I therefore felt ps5studios.com was a necessary platform to see if this
+        prestige has been maintained, to separate fact from fiction, and also
+        sprinkle in my own analysis and predictions too.
       </p>
 
       {/* Developers Section */}

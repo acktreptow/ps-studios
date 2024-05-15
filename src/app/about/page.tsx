@@ -57,19 +57,19 @@ function AboutPage() {
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         One fact you might find particularly interesting is the number of days
-        between each release by that developer. This is just one unique way
-        I&#39;m trying to separate fact from fiction.
+        between each release by that developer. This is just one unique way I
+        separate fact from fiction.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         For example, has increasing budgets and more complicated development
         pipelines affected the number of games released by that studio? Or are
-        other factors primarily at play? This is something I&#39;ll be exploring
-        and coming to different conclusions depending on the developer.
+        other factors primarily at play? This is something I explore - coming to
+        different conclusions depending on the developer.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        I&#39;ll also provide my own analysis and predictions on what you can
-        expect from each studio for the remainder of the PS5 gen. Like
-        predicting what their next game is and its release window.
+        I also provide my own analysis and predictions on what you can expect
+        from each studio for the remainder of the PS5 gen. Like predicting what
+        their next game is and its release window.
       </p>
 
       {/* PS5 Games Section */}
@@ -78,12 +78,12 @@ function AboutPage() {
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         This section provides a list of every released and upcoming PS5 game
-        from PlayStation Studios (so no Nixxes PC ports). You&#39;ll be able to
-        see the game&#39;s developer, genre, release date, and Metacritic score.
+        from PlayStation Studios (so no PC ports). You&#39;ll see the game&#39;s
+        developer, genre, release date, and Metacritic score.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        You&#39;ll also be able to sort the games by Metacritic score or by
-        release date to analyze the information from various different angles.
+        You&#39;re also able to sort the games by Metacritic score or by release
+        date to analyze the information from various different angles.
       </p>
 
       {/* Stats Section */}
@@ -102,8 +102,8 @@ function AboutPage() {
         Metacritic score.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        I&#39;ll also include some more subjective stats predicting the future
-        of PlayStation Studios. For example, which five developers are most and
+        I also include some more subjective stats predicting the future of
+        PlayStation Studios. For example, which five developers are most and
         least likely to be closed by Sony.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">

@@ -19,23 +19,25 @@ function Header() {
           <Image
             src={psStudiosLogo}
             alt="PS Studios Logo"
-            className={`${isOpen ? "hidden" : "w-32 sm:w-40"}`}
+            className={`${
+              isOpen ? "hidden" : "w-32 sm:w-60 sm:-ml-16 lg:-ml-14"
+            }`}
           />
         </Link>
       </div>
       <div>
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className={`sm:hidden flex flex-col mr-10 ${isOpen ? "hidden" : ""}`}
+          className={`${isOpen ? "hidden" : "sm:hidden flex flex-col mr-10"}`}
         >
           <div className="w-6 mb-1 border-t-2 border-white"></div>
           <div className="w-6 mb-1 border-t-2 border-white"></div>
           <div className="w-6 border-t-2 border-white"></div>
         </button>
         <ul
-          className={`gap-5 font-semibold lg:text-lg ${
+          className={`gap-5 font-semibold sm:flex md:text-lg ${
             isOpen ? "flex flex-col items-center my-3 gap-3" : "hidden"
-          } sm:flex sm:flex-row`}
+          }`}
         >
           <li className="hover:text-gray-200">
             <Link href="/" onClick={() => setIsOpen(!open)}>

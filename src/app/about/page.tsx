@@ -41,7 +41,7 @@ function AboutPage() {
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         I therefore felt ps5studios.com was a necessary platform to see if this
-        prestige has been maintained, to separate fact from fiction, and also
+        prestige has been maintained, to separate fact from fiction, and
         sprinkle in my own analysis and predictions too.
       </p>
 

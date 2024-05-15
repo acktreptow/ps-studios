@@ -9,20 +9,24 @@ function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="container mx-auto bg-playstation text-white flex sm:px-10 justify-between items-center ">
+    <header
+      className={`container mx-auto bg-playstation text-white flex sm:px-10  items-center ${
+        isOpen ? "justify-center" : "justify-between"
+      }`}
+    >
       <div>
         <Link href="/">
           <Image
             src={psStudiosLogo}
             alt="PS Studios Logo"
-            className={"w-32 sm:w-40" + (isOpen ? " hidden" : "")}
+            className={`${isOpen ? "hidden" : "w-32 sm:w-40"}`}
           />
         </Link>
       </div>
       <div>
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className={`sm:hidden flex flex-col ${isOpen ? "hidden" : ""}`}
+          className={`sm:hidden flex flex-col mr-10 ${isOpen ? "hidden" : ""}`}
         >
           <div className="w-6 mb-1 border-t-2 border-white"></div>
           <div className="w-6 mb-1 border-t-2 border-white"></div>
@@ -30,7 +34,7 @@ function Header() {
         </button>
         <ul
           className={`gap-5 font-semibold lg:text-lg ${
-            isOpen ? "flex flex-col items-center mt-10" : "hidden"
+            isOpen ? "flex flex-col items-center my-3" : "hidden"
           } sm:flex sm:flex-row`}
         >
           <li className="hover:text-gray-200">

@@ -91,15 +91,15 @@ function AboutPage() {
         <span className="border-b-2 border-gray-300">Stats Section</span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        My favorite section of the site! This where the analysis goes many
-        layers deep to provide a number of stats for each first-party developer
-        and the PlayStation Studios umbrella as a whole.
+        My favorite section of the site! This is where the analysis goes many
+        layers deep to provide a number of stats for each first-party dev and
+        the PlayStation Studios umbrella as a whole.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        These stats range from basic ones like a bullet-point list of how many
-        PS5 games each developer has released, to more complex ones like which
-        developer&#39;s PS5 games results in the highest average Metacritic
-        score.
+        These stats range from basic ones like a bullet-point list detailing how
+        many PS5 games each developer has released, to more complex ones like
+        which developer&#39;s PS5 games results in the highest average
+        Metacritic score.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         I&#39;ll also include some more subjective stats predicting the future
@@ -107,8 +107,8 @@ function AboutPage() {
         least likely to be closed by Sony.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        Have any suggestions for other stats you&#39;d like to see? Feel free to
-        email me at{" "}
+        Have any suggestions for other stats you&#39;d like to see? Please email
+        me at{" "}
         <Link
           href="mailto:alex@treptow.dev"
           className="font-semibold hover:font-bold"

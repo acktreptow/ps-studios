@@ -56,6 +56,14 @@ function Header() {
           <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
             <Link href="/stats">Stats</Link>
           </li>
+          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
+            <Link
+              href="https://github.com/acktreptow/ps-studios"
+              target="_blank"
+            >
+              GitHub
+            </Link>
+          </li>
         </ul>
       </div>
     </header>

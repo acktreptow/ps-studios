@@ -15,7 +15,10 @@ function Header() {
         </Link>
       </div>
       <div>
-        <ul className="flex gap-5">
+        <ul className="flex gap-5 font-semibold lg:text-lg">
+          <li className="hover:text-gray-200">
+            <Link href="/">Home</Link>
+          </li>
           <li className="hover:text-gray-200">
             <Link href="/about">About</Link>
           </li>

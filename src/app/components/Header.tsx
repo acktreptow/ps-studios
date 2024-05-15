@@ -10,7 +10,7 @@ function Header() {
 
   return (
     <header
-      className={`container mx-auto bg-playstation text-white flex sm:px-10  items-center ${
+      className={`container mx-auto bg-playstation text-white flex sm:px-10 items-center ${
         isOpen ? "justify-center" : "justify-between"
       }`}
     >
@@ -34,7 +34,7 @@ function Header() {
         </button>
         <ul
           className={`gap-5 font-semibold lg:text-lg ${
-            isOpen ? "flex flex-col items-center my-3" : "hidden"
+            isOpen ? "flex flex-col items-center my-3 gap-3" : "hidden"
           } sm:flex sm:flex-row`}
         >
           <li className="hover:text-gray-200">

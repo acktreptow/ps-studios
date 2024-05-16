@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import tlouFactions from "../../../../public/images/tlou-factions.png";
+
+export const metadata: Metadata = {
+  title: "Naughty Dog",
+  description:
+    "The history and future of Naughty Dog, a first-party developer for PlayStation Studios.",
+};
 
 function NaughtyDogPage() {
   return (

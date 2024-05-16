@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import savageLogo from "../../../../public/images/savage-logo.png";
+
+export const metadata: Metadata = {
+  title: "Neon Koi",
+  description:
+    "The history and future of Neon Koi, a first-party developer for PlayStation Studios.",
+};
 
 function NeonKoiPage() {
   return (

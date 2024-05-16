@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import thePersistence from "../../../../public/images/the-persistence.png";
+
+export const metadata: Metadata = {
+  title: "Fabrik Games",
+  description:
+    "The history and future of Fabrik Games, a first-party developer for PlayStation Studios.",
+};
 
 function FabrikGamesPage() {
   return (

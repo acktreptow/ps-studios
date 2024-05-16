@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import finalShape from "../../../../public/images/the-final-shape.png";
+
+export const metadata: Metadata = {
+  title: "Bungie",
+  description:
+    "The history and future of Bungie, a first-party developer for PlayStation Studios.",
+};
 
 function BungiePage() {
   return (

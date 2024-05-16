@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import horizonCoTM from "../../../../public/images/horizon-call-of-the-mountain.png";
+
+export const metadata: Metadata = {
+  title: "Firesprite",
+  description:
+    "The history and future of Firesprite, a first-party developer for PlayStation Studios.",
+};
 
 function FirespritePage() {
   return (

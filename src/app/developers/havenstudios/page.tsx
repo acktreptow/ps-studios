@@ -1,7 +1,14 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import jadeRaymond from "../../../../public/images/jade-raymond.png";
 import fairGames from "../../../../public/images/fairgames.png";
+
+export const metadata: Metadata = {
+  title: "Haven Studios",
+  description:
+    "The history and future of Haven Studios, a first-party developer for PlayStation Studios.",
+};
 
 function HavenStudiosPage() {
   return (

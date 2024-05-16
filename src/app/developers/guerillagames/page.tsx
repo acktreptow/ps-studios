@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import burningShores from "../../../../public/images/burning-shores.png";
+
+export const metadata: Metadata = {
+  title: "Guerilla Games",
+  description:
+    "The history and future of Guerilla Games, a first-party developer for PlayStation Studios.",
+};
 
 function GuerillaGamesPage() {
   return (

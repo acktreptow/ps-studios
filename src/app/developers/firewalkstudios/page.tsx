@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import concord from "../../../../public/images/concord.png";
+
+export const metadata: Metadata = {
+  title: "Firewalk Studios",
+  description:
+    "The history and future of Firewalk Studios, a first-party developer for PlayStation Studios.",
+};
 
 function FirewalkStudiosPage() {
   return (

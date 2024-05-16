@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import insomniacPortfolio from "../../../../public/images/insomniac-portfolio.png";
+
+export const metadata: Metadata = {
+  title: "Insomniac Games",
+  description:
+    "The history and future of Insomniac Games, a first-party developer for PlayStation Studios.",
+};
 
 function InsomniacGamesPage() {
   return (

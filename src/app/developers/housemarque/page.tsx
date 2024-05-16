@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import seleneVassos from "../../../../public/images/selene-vassos.png";
+
+export const metadata: Metadata = {
+  title: "Housemarque",
+  description:
+    "The history and future of Housemarque, a first-party developer for PlayStation Studios.",
+};
 
 function HousemarquePage() {
   return (

@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import sackboy from "../../../../public/images/sackboy.png";
+
+export const metadata: Metadata = {
+  title: "Media Molecule",
+  description:
+    "The history and future of Media Molecule, a first-party developer for PlayStation Studios.",
+};
 
 function MediaMoleculePage() {
   return (

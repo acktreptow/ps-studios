@@ -44,34 +44,19 @@ function Header() {
               Home
             </Link>
           </li>
-          <li
-            className="hover:text-gray-200"
-            onClick={() => setIsOpen((prevIsOpen) => !prevIsOpen)}
-          >
+          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
             <Link href="/about">About</Link>
           </li>
-          <li
-            className="hover:text-gray-200"
-            onClick={() => setIsOpen((prevIsOpen) => !prevIsOpen)}
-          >
+          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
             <Link href="/developers">Developers</Link>
           </li>
-          <li
-            className="hover:text-gray-200"
-            onClick={() => setIsOpen((prevIsOpen) => !prevIsOpen)}
-          >
+          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
             <Link href="/ps5games">PS5 Games</Link>
           </li>
-          <li
-            className="hover:text-gray-200"
-            onClick={() => setIsOpen((prevIsOpen) => !prevIsOpen)}
-          >
+          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
             <Link href="/stats">Stats</Link>
           </li>
-          <li
-            className="hover:text-gray-200"
-            onClick={() => setIsOpen((prevIsOpen) => !prevIsOpen)}
-          >
+          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
             <Link
               href="https://github.com/acktreptow/ps-studios"
               target="_blank"

@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import demonsSouls from "../../../../public/images/demons-souls.png";
+
+export const metadata: Metadata = {
+  title: "Bluepoint Games",
+  description:
+    "The history and future of Bluepoint Games, a first-party developer for PlayStation Studios.",
+};
 
 function BluepointGamesPage() {
   return (

@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import daysGone from "../../../../public/images/days-gone.png";
+
+export const metadata: Metadata = {
+  title: "Bend Studio",
+  description:
+    "The history and future of Bend Studio, a first-party developer for PlayStation Studios.",
+};
 
 function BendStudioPage() {
   return (

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     template: "%s | PS5 Studios",
   },
   description:
-    "A fan site dedicated to the PlayStation Studios during the PS5 era.",
+    "A fan site about the first-party developers under PlayStation Studios during the PS5 era.",
 };
 
 export default function RootLayout({

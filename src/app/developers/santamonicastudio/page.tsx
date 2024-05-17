@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import gowRagnarok from "../../../../public/images/gow-ragnarok.png";
+
+export const metadata: Metadata = {
+  title: "Santa Monica Studio",
+  description:
+    "The history and future of Santa Monica Studio, a first-party developer for PlayStation Studios.",
+};
 
 function SantaMonicaStudioPage() {
   return (

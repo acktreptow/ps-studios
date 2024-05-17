@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import gotDC from "../../../../public/images/got-dc.png";
+
+export const metadata: Metadata = {
+  title: "Sucker Punch",
+  description:
+    "The history and future of Sucker Punch, a first-party developer for PlayStation Studios.",
+};
 
 function SuckerPunchProductionsPage() {
   return (

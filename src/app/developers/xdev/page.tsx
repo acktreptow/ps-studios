@@ -1,6 +1,13 @@
+import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
 import ds2OTB from "../../../../public/images/ds2.png";
+
+export const metadata: Metadata = {
+  title: "XDev",
+  description:
+    "The history and future of XDev, a first-party developer for PlayStation Studios.",
+};
 
 function XDevpage() {
   return (

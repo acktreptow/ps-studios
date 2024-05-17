@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import gunsUpGameplay from "../../../../public/images/guns-up.png";
+
+export const metadata: Metadata = {
+  title: "Valkyrie Entertainment",
+  description:
+    "The history and future of Valkyrie Entertainment, a first-party developer for PlayStation Studios.",
+};
 
 function ValkyrieEntertainmentPage() {
   return (

@@ -29,7 +29,7 @@ function Homepage() {
           value={selectedDeveloper}
           onChange={(e) => setSelectedDeveloper(e.target.value)}
         >
-          <option value="">Select Developer</option>
+          <option value="">Select PS5 Developer</option>
           {developers
             .filter(
               (developer) =>

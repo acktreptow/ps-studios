@@ -15,7 +15,7 @@ function Homepage() {
   };
 
   return (
-    <main className="text-center p-5 container mx-auto flex-grow">
+    <main className="bg-white text-center p-5 container mx-auto flex-grow">
       <h1 className="text-4xl font-bold py-2 my-5 lg:text-6xl">
         PS Studios for PS5
       </h1>

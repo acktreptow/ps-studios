@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import developers from "../data/developers.json";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "PS5 Developers",
+  description:
+    "The PS5 developers section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
+};
 
 function DevelopersPage() {
   return (

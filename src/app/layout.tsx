@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   },
   description:
     "A fan site about the first-party developers under PlayStation Studios during the PS5 era.",
+  icons: {
+    icon: "images/favicon.ico",
+  },
 };
 
 export default function RootLayout({

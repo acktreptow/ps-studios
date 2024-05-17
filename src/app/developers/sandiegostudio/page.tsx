@@ -1,6 +1,13 @@
 import games from "../../data/games.json";
 import Image from "next/image";
 import mlb24 from "../../../../public/images/mlb-24.png";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "San Diego Studio",
+  description:
+    "The history and future of San Diego Studio, a first-party developer for PlayStation Studios.",
+};
 
 function SanDiegoStudioPage() {
   return (

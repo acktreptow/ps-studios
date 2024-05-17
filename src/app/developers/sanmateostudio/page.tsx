@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import concreteGenie from "../../../../public/images/concrete-genie.png";
+
+export const metadata: Metadata = {
+  title: "San Mateo Studio",
+  description:
+    "The history and future of San Mateo Studio, a first-party developer for PlayStation Studios.",
+};
 
 function SanMateoStudioPage() {
   return (

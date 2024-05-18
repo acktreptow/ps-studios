@@ -27,9 +27,9 @@ function NixxesSoftwarePage() {
         and remasters, Nixxes have exclusively worked on PC ports of them.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        Since 2022, they&#39;ve already released 4 ports with all the bells and
-        whistles you&#39;d expect to see in a PC version, with a 5th port
-        shipping this month.
+        Since 2022, they&#39;ve already released 5 ports with all the bells and
+        whistles you&#39;d expect to see in a PC version. Although we don&#39;t
+        know the next port.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         Nixxes PC ports have also been far more critically acclaimed compared to

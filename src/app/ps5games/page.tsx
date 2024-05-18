@@ -26,11 +26,19 @@ function PS5Games() {
       </div>
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
-          .sort((a, b) =>
-            metacritic
-              ? a.metacritic - b.metacritic
-              : new Date(a.releaseDate) - new Date(b.releaseDate)
-          )
+          .sort((a, b) => {
+            if (metacritic) {
+              return (
+                ((a.metacritic as number) || 0) -
+                ((b.metacritic as number) || 0)
+              );
+            } else {
+              return (
+                (a.releaseDate ? new Date(a.releaseDate).getTime() : 0) -
+                (b.releaseDate ? new Date(b.releaseDate).getTime() : 0)
+              );
+            }
+          })
           .filter((game) => game.developer !== "Nixxes Software")
           .map((game) => (
             <div

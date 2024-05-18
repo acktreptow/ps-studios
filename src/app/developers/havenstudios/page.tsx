@@ -23,19 +23,19 @@ function HavenStudiosPage() {
           </h2>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             This Montreal-based developer was founded in 2021 by Jade Raymond -
-            one of the creators of Assassin&#39;s Creed. Raymond was at Google,
-            but left once they stopped supporting their cloud-based console
-            &#39;Stadia&#39;.
+            one of the creators of Assassin&#39;s Creed. Raymond was at Google
+            beforehand, but left once they stopped supporting their cloud-based
+            console &#39;Stadia&#39;.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-            Raymond took this cloud infrastructure knowledge to Haven, which
-            caught the attention of Sony. They immediately started funding their
-            first game and acquired Haven a year later.
+            Raymond then took this cloud infrastructure knowledge to Haven,
+            which caught the attention of Sony. They immediately started funding
+            their first game and acquired Haven a year later.
           </p>
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             This game turned out to be FairGame$. A live service competitive
-            heist shooter that will launch on PS5 and PC. It currently has no
-            release date.
+            heist shooter that will launch simultaneously on PS5 and PC. It
+            currently has no release date.
           </p>
         </div>
         <div className="md:flex md:flex-col md:items-center">
@@ -51,7 +51,7 @@ function HavenStudiosPage() {
             htmlFor="jade-raymond"
             className="block text-center mb-8 lg:ml-5"
           >
-            Haven Studios founder Jade Raymond
+            Haven Studios Founder Jade Raymond
           </label>
         </div>
       </div>
@@ -63,15 +63,16 @@ function HavenStudiosPage() {
             </span>
           </h2>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-            We haven&#39;t seen Fairgame$ since the first trailer. Haven is also
-            a new studio, and the first to emphasize the cloud. It&#39;s
-            therefore hard to predict how Fairgame$ will do, but I&#39;m
-            optimistic.
+            We haven&#39;t seen Fairgame$ since the first trailer, which even
+            then was only CGI. Haven is also a new studio, and the first to
+            emphasize the cloud. It&#39;s therefore hard to predict how
+            Fairgame$ will do, but I&#39;m optimistic.
           </p>
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             Mark Cerny, architect of the PS5, has taken an interest in Haven and
             is assisting with Fairgame$ and general R&D. Between his interest
-            and Sony investing so quickly, I&#39;m confident.
+            and Sony investing so quickly, I&#39;m cautiously confident despite
+            a lack of concrete info.
           </p>
         </div>
         <div>
@@ -84,7 +85,7 @@ function HavenStudiosPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="fairgames" className="block text-center mb-8">
-            Fairgame$ only has a CGI trailer
+            Fairgame$ Only Has A CGI Trailer
           </label>
         </div>
       </div>

@@ -47,7 +47,7 @@ function PolyphonyDigitalPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-sm"
           />
           <label htmlFor="kazunori-yamauchi" className="block text-center mb-8">
-            Kazunori Yamauchi
+            PD Founder Kazunori Yamauchi
           </label>
         </div>
       </div>
@@ -64,7 +64,7 @@ function PolyphonyDigitalPage() {
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             If you&#39;re a driving game fan, I would be even more excited this
-            time too. GT8 will be PS5-only and should take an even further
+            time too. GT8 will be PS5 only and should take an even further
             graphical leap with the PS5 Pro.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
@@ -75,7 +75,7 @@ function PolyphonyDigitalPage() {
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             If you&#39;re not a fan though, I would just move on. There&#39;s
             zero confirmation Polyphony&#39;s next game is GT8, but it&#39;s a
-            safe bet considering the track record.
+            safe bet considering their track record.
           </p>
         </div>
         <div className="md:flex md:flex-col md:items-center">
@@ -88,7 +88,7 @@ function PolyphonyDigitalPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="gt7-psvr2" className="block text-center mb-8">
-            GT7 in VR via PSVR2
+            GT7&#39;s VR Mode Via PSVR2
           </label>
         </div>
       </div>

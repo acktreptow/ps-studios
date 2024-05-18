@@ -19,16 +19,17 @@ function SanMateoStudioPage() {
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wid">
         Founded in 1998, San Mateo Studio (formerly Foster City Studio) works
-        out of... San Mateo, California.
+        out of San Mateo, California (shock I know).
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wid">
         Unlike the majority of PlayStation first-party developers, San Mateo are
-        only a support studio.
+        only a support studio. They therefore haven&#39;t shipped a PS5 game,
+        nor should you expect them to.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wid">
-        They did spin off a small team in 2014 that was called Pixelopus, but
-        Sony closed the studio down in June 2023. They ended up releasing 2
-        games - both of which came out before the PS5.
+        They did spin off a small team in 2014 called Pixelopus who released two
+        games before the PS5 launched, but a lack of sales resulted in Sony
+        closing the studio down in June 2023.
       </p>
       <div className="md:flex items-center">
         <div>
@@ -57,7 +58,7 @@ function SanMateoStudioPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="concrete-genie" className="block text-center">
-            Pixelopus&#39;s final game: Concrete Genie
+            Pixelopus&#39;s Final Game: Concrete Genie
           </label>
         </div>
       </div>

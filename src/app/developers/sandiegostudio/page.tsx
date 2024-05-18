@@ -33,7 +33,7 @@ function SanDiegoStudioPage() {
         an Xbox and Nintendo port since MLB 21, or they would lose the license.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        Clearly, turning the series multiplatform was the better alternative to
+        Clearly, making the series multiplatform was the better alternative to
         losing the license as the series has continued.
       </p>
       <div className="md:flex items-center">
@@ -44,11 +44,11 @@ function SanDiegoStudioPage() {
             </span>
           </h2>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-            This ones easy to predict. SD Studio haven&#39;t developed a non-MLB
-            game for close to a decade. And with rising development costs
-            coupled with tighter profits for PlayStation, it&#39;s unlikely they
-            would be allowed to experiment with something new, even if they want
-            to.
+            This one is easy to predict. SD Studio haven&#39;t developed a
+            non-MLB game for close to a decade. And with rising development
+            costs coupled with tighter profits for PlayStation, it&#39;s
+            unlikely they would be allowed to experiment with something new,
+            even if they want to.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             We&#39;re also four games deep into the series being multiplatform
@@ -70,7 +70,7 @@ function SanDiegoStudioPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="mlb-24" className="block text-center mb-8">
-            The Show 24 promotional material
+            MLB The Show 24 Advertisement
           </label>
         </div>
       </div>

@@ -47,7 +47,8 @@ function FirewalkStudiosPage() {
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             They know how to make a good shooter, so I&#39;m cautiously
-            optimistic until we see something that proves otherwise.
+            optimistic until we see something that proves otherwise. At least
+            when it comes to the gameplay.
           </p>
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             Concord has recently been reconfirmed for a 2024 release, so we
@@ -65,7 +66,7 @@ function FirewalkStudiosPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="concord" className="block text-center mb-8">
-            Concord primary key art
+            Concord Primary Key Art
           </label>
         </div>
       </div>

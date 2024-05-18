@@ -42,7 +42,7 @@ function FirespritePage() {
           </h2>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Firesprite hasn&#39;t announced anything since Horizon CoTM shipped
-            14 months ago. Unfortunately this is because of the studio&#39;s
+            15 months ago. This is likely because of the studio&#39;s
             dire situation, post-acquisition.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
@@ -72,7 +72,7 @@ function FirespritePage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="horizon-cotm" className="block text-center mb-8">
-            Horizon CoTM on PSVR2
+            Horizon CoTM On PSVR2
           </label>
         </div>
       </div>

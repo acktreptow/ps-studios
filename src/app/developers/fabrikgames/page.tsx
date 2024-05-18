@@ -34,7 +34,7 @@ function FabrikGamesPage() {
         particularly surprising. Both Firesprite and Fabrik were founded by the
         same individual. Fabrik had also already acted as support for Firesprite
         during the development of their VR title &#39;The Persistence&#39;, in
-        2017.
+        2018.
       </p>
       <div className="md:flex items-center">
         <div>

@@ -25,7 +25,7 @@ function GuerillaGamesPage() {
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Sony acquired Guerilla in 2005, one year after the original Killzone
-        released for the PS2. Making them one of the oldest PlayStation
+        released for the PS2 - making them one of the oldest PlayStation
         developers.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
@@ -61,6 +61,7 @@ function GuerillaGamesPage() {
               A Horizon online MMO is almost certainly being worked on at
               NCSoft.
             </li>
+            <li>A lego Horizon game has been leaked.</li>
           </ul>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Clearly, Sony are bullish on Horizon with so many projects in

@@ -33,8 +33,8 @@ function BluepointGamesPage() {
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         Bluepoint&#39;s most recent projects have been remakes such as
-        2018&#39;s Shadow of the Colossus and 2020&#39;s Demon&#39;s Souls. This
-        PS5 launch title was highly praised.
+        2018&#39;s Shadow of the Colossus on the PS4 and 2020&#39;s Demon&#39;s
+        Souls. A PS5 launch title that was highly praised.
       </p>
       <div className="md:flex items-center">
         <div>
@@ -70,7 +70,7 @@ function BluepointGamesPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="demons-souls" className="block text-center mb-8">
-            Demon&#39;s Souls cover art
+            Demon&#39;s Souls Cover Art
           </label>
         </div>
       </div>

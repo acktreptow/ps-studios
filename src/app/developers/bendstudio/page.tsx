@@ -75,7 +75,7 @@ function BendStudioPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="days-gone" className="block text-center">
-            Days Gone cover art
+            Days Gone Cover Art
           </label>
         </div>
       </div>

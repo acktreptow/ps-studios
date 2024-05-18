@@ -18,9 +18,9 @@ function FabrikGamesPage() {
         <span className="border-b-2 border-gray-300">History</span>
       </h2>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-        Founded in 2014, this Manchester-based developer has released games such
-        as 2016&#39;s &#39;Filthy Lucre&#39; for the PS4 and &#39;The Lost
-        Bear&#39; for PSVR in 2017.
+        Founded in 2014, this Manchester-based developer has shipped games like
+        2016&#39;s &#39;Filthy Lucre&#39; for the PS4 and 2017&#39;s &#39;The
+        Lost Bear&#39; for PSVR.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         You almost certainly haven&#39;t heard of these niche games and
@@ -63,7 +63,7 @@ function FabrikGamesPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="the-persistence" className="block text-center">
-            The Persistence cover art
+            The Persistence Cover Art
           </label>
         </div>
       </div>

@@ -85,7 +85,7 @@ function BungiePage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="final-shape" className="block text-center mb-8">
-            Destiny 2&#39;s last expansion
+            Destiny 2&#39;s Last Expansion
           </label>
         </div>
       </div>

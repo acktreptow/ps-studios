@@ -50,8 +50,8 @@ function NeonKoiPage() {
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             These headlines probably contributed to the rebranding to Neon Koi
             in November, 2023. Between that and the revamped website, hopefully
-            it means at the least, a game announcement is coming soon. We can
-            then start determining if Neon Koi are worth keeping an eye on.
+            it means that at the least, a game announcement is coming soon. We
+            can then start determining if Neon Koi are worth keeping an eye on.
           </p>
         </div>
         <div className="md:flex md:flex-col md:items-center">
@@ -64,7 +64,7 @@ function NeonKoiPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="savage-logo" className="block text-center">
-            Neon Koi: formerly Savage Game Studios
+            Neon Koi: Formerly Savage Game Studios
           </label>
         </div>
       </div>

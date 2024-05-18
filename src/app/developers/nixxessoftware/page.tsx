@@ -24,17 +24,17 @@ function NixxesSoftwarePage() {
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Unlike all other first-party studios who develop new PS5 games, remakes,
-        and remasters, Nixxes have exclusively worked on PC ports of them.
+        and remasters, Nixxes have exclusively created PC ports of them.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Since 2022, they&#39;ve already released 5 ports with all the bells and
-        whistles you&#39;d expect to see in a PC version. Although we don&#39;t
-        know the next port.
+        whistles you&#39;d expect in a PC version. However, we don&#39;t know
+        their next port.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         Nixxes PC ports have also been far more critically acclaimed compared to
-        others that were done by the game&#39;s actual developer. For example,
-        The Last of Us Part 2&#39;s PC port by Naughty Dog.
+        others that were done in-house by the game&#39;s actual developer. For
+        example, The Last of Us Part 2&#39;s PC port by Naughty Dog.
       </p>
       <div className="lg:flex items-center">
         <div>
@@ -75,7 +75,7 @@ function NixxesSoftwarePage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="got-trophies" className="block text-center mb-8">
-            PlayStation&#39;s PC overlay for trophies
+            PlayStation&#39;s PC Overlay For Trophies
           </label>
         </div>
       </div>

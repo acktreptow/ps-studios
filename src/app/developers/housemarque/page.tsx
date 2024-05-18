@@ -69,7 +69,7 @@ function HousemarquePage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="selene-vassos" className="block text-center mb-8">
-            Returnal&#39;s main character, Selene Vassos
+            Returnal&#39;s Main Character, Selene Vassos
           </label>
         </div>
       </div>

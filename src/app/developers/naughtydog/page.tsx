@@ -47,13 +47,13 @@ function NaughtyDogPage() {
             remasters/remakes of PS4 Uncharted/TLOU games.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
-            Furthermore, ND&#39;s only new game, TLOU Online, was cancelled four
-            years into development. It&#39;s therefore hard to be confident
-            despite the pedigree over the past two gens.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             While remakes/remasters are nice, they were somewhat unnecessary due
             to the PS4 versions still playing great on PS5.
+          </p>
+          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+            Furthermore, ND&#39;s only announced new game, TLOU Online, was
+            cancelled four years into development. It&#39;s therefore hard to be
+            confident despite the pedigree over the past two gens.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Unfortunately, it looks like ND have time for only one new game on
@@ -61,9 +61,10 @@ function NaughtyDogPage() {
             will retain their premier quality.
           </p>
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-            Regardless, many first-party developers have already supplanted them
-            this gen. Something unthinkable when TLOU released in 2013.
-            Hopefully they return to their former glory for the PS6.
+            Regardless, first-party developers like Insomniac have already begun
+            supplanting them this gen. Something unthinkable when TLOU released
+            in 2013. Hopefully they&#39;re able to return to their former glory
+            for the PS6.
           </p>
         </div>
         <div className="md:flex md:flex-col md:items-center">
@@ -76,7 +77,7 @@ function NaughtyDogPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="tlou-factions" className="block text-center mb-8">
-            The only public asset of TLOU Online
+            TLOU Online&#39;s Only Public Asset
           </label>
         </div>
       </div>

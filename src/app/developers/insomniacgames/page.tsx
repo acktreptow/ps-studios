@@ -81,7 +81,7 @@ function InsomniacGamesPage() {
             htmlFor="insomniac-portfolio"
             className="block text-center mb-8"
           >
-            Insomniac&#39;s PS5 portfolio
+            Insomniac&#39;s PS5 Portfolio
           </label>
         </div>
       </div>

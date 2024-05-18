@@ -70,7 +70,7 @@ function MediaMoleculePage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="sackboy" className="block text-center">
-            LittleBigPlanet&#39;s mascot - Sackboy
+            LittleBigPlanet&#39;s Mascot - Sackboy
           </label>
         </div>
       </div>

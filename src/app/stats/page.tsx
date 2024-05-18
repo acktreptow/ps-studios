@@ -78,16 +78,16 @@ function StatsPage() {
               Studios acquired during the PS5 generation: 10
             </li>
             <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">
+              <li>Housemarque (June, 2021)</li>
+              <li>Nixxes Software (July, 2021)</li>
               <li>Bluepoint Games (September, 2021)</li>
-              <li>Bungie (January, 2022)</li>
               <li>Fabrik Games (September, 2021)</li>
               <li>Firesprite (September, 2021)</li>
-              <li>Firewalk Studios (April, 2023)</li>
-              <li>Haven Studios (July, 2022)</li>
-              <li>Housemarque (June, 2021)</li>
-              <li>Neon Koi (August, 2022)</li>
-              <li>Nixxes Software (July, 2021)</li>
               <li>Valkyrie Entertainment (December, 2021)</li>
+              <li>Bungie (January, 2022)</li>
+              <li>Haven Studios (July, 2022)</li>
+              <li>Neon Koi (August, 2022)</li>
+              <li>Firewalk Studios (April, 2023)</li>
             </ul>
             <li className="mb-1">Studios closed in PS5 generation: 3</li>
             <ul className="list-decimal leading-8 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">

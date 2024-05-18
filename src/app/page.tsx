@@ -7,6 +7,7 @@ import developers from "../app/data/developers.json";
 
 function Homepage() {
   const [selectedDeveloper, setSelectedDeveloper] = useState("");
+  const [hidden, setHidden] = useState(false);
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (selectedDeveloper) {
@@ -27,9 +28,14 @@ function Homepage() {
         <select
           className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4 hover:border-playstation transition-colors duration-200 text-gray-800 shadow-md focus:outline-none focus:ring-2 focus:ring-playstation"
           value={selectedDeveloper}
-          onChange={(e) => setSelectedDeveloper(e.target.value)}
+          onChange={(e) => {
+            setSelectedDeveloper(e.target.value);
+            setHidden(true);
+          }}
         >
-          <option value="">Select PS5 Developer</option>
+          <option value="" className={`${hidden ? "hidden" : ""}`}>
+            Select PS5 Developer
+          </option>
           {developers
             .filter(
               (developer) =>

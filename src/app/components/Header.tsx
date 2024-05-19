@@ -7,6 +7,7 @@ import psStudiosLogo from "../../../public/images/logos/ps-studios-logo.png";
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
+  const [activeLink, setActiveLink] = useState("");
 
   return (
     <header
@@ -39,21 +40,61 @@ function Header() {
             isOpen ? "flex flex-col items-center my-3 gap-3" : "hidden"
           }`}
         >
-          <li className="hover:text-gray-200">
+          <li
+            className={`hover:text-gray-200 ${
+              activeLink === "/" ? "border-b-2 border-white" : ""
+            }`}
+            onClick={() => {
+              setIsOpen(!open);
+              setActiveLink("/");
+            }}
+          >
             <Link href="/" onClick={() => setIsOpen(!open)}>
               Home
             </Link>
           </li>
-          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
+          <li
+            className={`hover:text-gray-200 ${
+              activeLink === "/about" ? "border-b-2 border-white" : ""
+            }`}
+            onClick={() => {
+              setIsOpen(!open);
+              setActiveLink("/about");
+            }}
+          >
             <Link href="/about">About</Link>
           </li>
-          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
+          <li
+            className={`hover:text-gray-200 ${
+              activeLink === "/developers" ? "border-b-2 border-white" : ""
+            }`}
+            onClick={() => {
+              setIsOpen(!open);
+              setActiveLink("/developers");
+            }}
+          >
             <Link href="/developers">Developers</Link>
           </li>
-          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
+          <li
+            className={`hover:text-gray-200 ${
+              activeLink === "/ps5games" ? "border-b-2 border-white" : ""
+            }`}
+            onClick={() => {
+              setIsOpen(!open);
+              setActiveLink("/ps5games");
+            }}
+          >
             <Link href="/ps5games">PS5 Games</Link>
           </li>
-          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
+          <li
+            className={`hover:text-gray-200 ${
+              activeLink === "/stats" ? "border-b-2 border-white" : ""
+            }`}
+            onClick={() => {
+              setIsOpen(!open);
+              setActiveLink("/stats");
+            }}
+          >
             <Link href="/stats">Stats</Link>
           </li>
           <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>

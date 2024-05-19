@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import daysGone from "../../../../public/images/days-gone.png";
+import daysGone from "../../../../public/images/dev-pages/days-gone.png";
 
 export const metadata: Metadata = {
   title: "Bend Studio",

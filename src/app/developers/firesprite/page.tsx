@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import horizonCoTM from "../../../../public/images/horizon-call-of-the-mountain.png";
+import horizonCoTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
 
 export const metadata: Metadata = {
   title: "Firesprite",

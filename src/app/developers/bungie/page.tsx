@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import finalShape from "../../../../public/images/the-final-shape.png";
+import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
 
 export const metadata: Metadata = {
   title: "Bungie",

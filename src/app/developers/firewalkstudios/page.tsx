@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import concord from "../../../../public/images/concord.png";
+import concord from "../../../../public/images/dev-pages/concord.png";
 
 export const metadata: Metadata = {
   title: "Firewalk Studios",

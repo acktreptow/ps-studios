@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import thePersistence from "../../../../public/images/the-persistence.png";
+import thePersistence from "../../../../public/images/dev-pages/the-persistence.png";
 
 export const metadata: Metadata = {
   title: "Fabrik Games",

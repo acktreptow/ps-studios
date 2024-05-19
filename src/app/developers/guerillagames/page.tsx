@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import burningShores from "../../../../public/images/burning-shores.png";
+import burningShores from "../../../../public/images/dev-pages/burning-shores.png";
 
 export const metadata: Metadata = {
   title: "Guerilla Games",

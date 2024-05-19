@@ -7,7 +7,13 @@ export const metadata: Metadata = {
     "The stats section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
 };
 
-function StatsPage() {
+type Developer = {
+  id: number;
+  name: string;
+  ps5Games: number;
+};
+
+function StatsPage(): JSX.Element {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
@@ -27,11 +33,11 @@ function StatsPage() {
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
         {developers
           .filter(
-            (developer) =>
+            (developer: Developer) =>
               developer.name !== "PlayStation Logo" &&
               developer.name !== "PS5 Logo"
           )
-          .map((developer) => (
+          .map((developer: Developer) => (
             <li key={developer.id} className="mb-1">
               <span className="font-semibold">{developer.name}</span>:{" "}
               {developer.ps5Games}

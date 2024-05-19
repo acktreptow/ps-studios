@@ -24,18 +24,18 @@ function SuckerPunchProductionsPage() {
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Sony were impressed, so they funded SP&#39;s Sly Cooper trilogy for the
-        PS2 and again with inFamous 1/2 on PS3. After five great games under
-        this partnership, Sony acquired the studio in 2011.
+        PS2 and inFamous 1/2 on the PS3. After five great games under this
+        partnership, Sony acquired the studio in 2011.
       </p>
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         SP have since moved on from inFamous to Ghost of Tsushima. A
-        third-person samurai action-adventure that easily became the
+        third-person samurai action-adventure that quickly became the
         studio&#39;s best selling game.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        GoT initially released for the PS4, however a PS5 Director&#39;s Cut
-        that added more content was shipped in 2021. This is currently SP&#39;s
-        only PS5 game.
+        GoT initially released on PS4 in 2020, followed by a PS5 Director&#39;s
+        Cut in 2021 that added around 10 more hours of gameplay via a new island
+        to explore. It&#39;s currently SP&#39;s only PS5 game.
       </p>
       <div className="md:flex items-center">
         <div>
@@ -66,7 +66,7 @@ function SuckerPunchProductionsPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="got-dc" className="block text-center mb-8">
-            GoT: Director&#39;s Cut main menu screen
+            GoT: Director&#39;s Cut Main Menu Screen
           </label>
         </div>
       </div>

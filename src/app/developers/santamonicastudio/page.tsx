@@ -26,7 +26,8 @@ function SantaMonicaStudioPage() {
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
         SM&#39;s most recent game was 2022&#39;s God of War Ragnarök - a
         cross-gen title and the only game they&#39;ve released on the PS5. Like
-        the 2018 semi-reboot, it was a big critical and commercial success.
+        the 2018 semi-reboot, it was a monumental critical and commercial
+        success.
       </p>
       <div className="md:flex items-center">
         <div>
@@ -67,7 +68,7 @@ function SantaMonicaStudioPage() {
             htmlFor="gow-ragnarok"
             className="block text-center mb-8 md:ml-5"
           >
-            The 6 awards GOW: Ragnarök won at The Game Awards
+            Ragnarök&#39;s 6 The Game Awards Trophies
           </label>
         </div>
       </div>

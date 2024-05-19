@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "The PS5 games section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
 };
 
-function PS5Games() {
+function PS5Games(): JSX.Element {
   return <PS5GamesClient />;
 }
 

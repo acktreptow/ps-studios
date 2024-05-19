@@ -10,8 +10,17 @@ export const metadata: Metadata = {
     "The stats section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
 };
 
-function PS5GamesClient() {
-  const [metacritic, setMetacritic] = useState(false);
+type Game = {
+  id: string;
+  name: string;
+  developer: string;
+  genre: string;
+  releaseDate: string;
+  metacritic: number | string;
+};
+
+function PS5GamesClient(): JSX.Element {
+  const [metacritic, setMetacritic] = useState<boolean>(false);
 
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
@@ -34,7 +43,7 @@ function PS5GamesClient() {
       </div>
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
-          .sort((a, b) => {
+          .sort((a: Game, b: Game) => {
             if (metacritic) {
               return (
                 ((a.metacritic as number) || 0) -
@@ -47,8 +56,8 @@ function PS5GamesClient() {
               );
             }
           })
-          .filter((game) => game.developer !== "Nixxes Software")
-          .map((game) => (
+          .filter((game: Game) => game.developer !== "Nixxes Software")
+          .map((game: Game) => (
             <div
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"

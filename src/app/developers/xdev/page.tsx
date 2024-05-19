@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import ds2OTB from "../../../../public/images/ds2.png";
+import ds2OTB from "../../../../public/images/dev-pages/ds2.png";
 
 export const metadata: Metadata = {
   title: "XDev",

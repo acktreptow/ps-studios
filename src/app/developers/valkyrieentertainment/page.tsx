@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import gunsUpGameplay from "../../../../public/images/guns-up.png";
+import gunsUpGameplay from "../../../../public/images/dev-pages/guns-up.png";
 
 export const metadata: Metadata = {
   title: "Valkyrie Entertainment",

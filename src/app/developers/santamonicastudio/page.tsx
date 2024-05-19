@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import gowRagnarok from "../../../../public/images/gow-ragnarok.png";
+import gowRagnarok from "../../../../public/images/dev-pages/gow-ragnarok.png";
 
 export const metadata: Metadata = {
   title: "Santa Monica Studio",

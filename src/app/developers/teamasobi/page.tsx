@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import astroBot from "../../../../public/images/astro-bot.png";
+import astroBot from "../../../../public/images/dev-pages/astro-bot.png";
 
 export const metadata: Metadata = {
   title: "Team Asobi",

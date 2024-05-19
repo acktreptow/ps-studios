@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import concreteGenie from "../../../../public/images/concrete-genie.png";
+import concreteGenie from "../../../../public/images/dev-pages/concrete-genie.png";
 
 export const metadata: Metadata = {
   title: "San Mateo Studio",

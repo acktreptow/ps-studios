@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import gotDC from "../../../../public/images/got-dc.png";
+import gotDC from "../../../../public/images/dev-pages/got-dc.png";
 
 export const metadata: Metadata = {
   title: "Sucker Punch",

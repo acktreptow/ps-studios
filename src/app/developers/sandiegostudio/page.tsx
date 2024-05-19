@@ -1,6 +1,6 @@
 import games from "../../data/games.json";
 import Image from "next/image";
-import mlb24 from "../../../../public/images/mlb-24.png";
+import mlb24 from "../../../../public/images/dev-pages/mlb-24.png";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import kazunoriYamauchi from "../../../../public/images/kazunori-yamauchi.png";
-import gt7PSVR2 from "../../../../public/images/gt7-psvr2.png";
+import kazunoriYamauchi from "../../../../public/images/dev-pages/kazunori-yamauchi.png";
+import gt7PSVR2 from "../../../../public/images/dev-pages/gt7-psvr2.png";
 
 export const metadata: Metadata = {
   title: "Polyphony Digital",

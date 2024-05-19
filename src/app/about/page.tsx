@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "The about section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
 };
 
-function AboutPage() {
+function AboutPage(): JSX.Element {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">

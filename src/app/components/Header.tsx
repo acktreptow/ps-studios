@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import psStudiosLogo from "../../../public/images/ps-studios-logo.png";
+import psStudiosLogo from "../../../public/images/logos/ps-studios-logo.png";
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);

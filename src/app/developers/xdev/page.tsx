@@ -28,8 +28,8 @@ function XDevpage() {
         different developers simultaneously to produce an eclectic selection.
       </p>
       <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
-        On PS5 alone, they&#39;ve already produced over 7 games, with three
-        released this year! The live service shooter &#39;Helldivers 2&#39;, the
+        On PS5 alone, they&#39;ve already produced over 7 games, with 3 released
+        this year! The live service shooter &#39;Helldivers 2&#39;, the
         soulsborne &#39;Rise of the Ronin&#39;, and the action-adventure
         &#39;Stellar Blade&#39;.
       </p>
@@ -48,7 +48,8 @@ function XDevpage() {
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Analytically, XDev&#39;s collaborations have been inconsistent this
             gen, with 2022&#39;s VR FPS &#39;Firewall Ultra&#39; being the
-            biggest disappointment.
+            biggest disappointment. It&#39;s actually the lowest rated PS5 game
+            by all of PS Studios.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             However, all three of XDev&#39;s 2024 games have been successful.
@@ -72,7 +73,7 @@ function XDevpage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="d2s-otb" className="block text-center mb-8">
-            XDev&#39;s upcoming Death Stranding 2
+            XDev&#39;s Upcoming Death Stranding 2
           </label>
         </div>
       </div>

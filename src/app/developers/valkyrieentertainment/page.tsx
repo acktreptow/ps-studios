@@ -50,7 +50,7 @@ function ValkyrieEntertainmentPage() {
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Based off the critical and commercial failure of Guns Up!, it&#39;s
             also unlikely they&#39;ll get a chance to. Especially if their
-            unsecure, bare-bones website is anything to go by.
+            unsecure, bare-bones unsecure website is anything to go by.
           </p>
           <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
             If you&#39;re looking for your next great first-party PS5 game to
@@ -67,7 +67,7 @@ function ValkyrieEntertainmentPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="guns-up" className="block text-center">
-            Guns Up! gameplay: 54 on Metacritic
+            Guns Up! Gameplay
           </label>
         </div>
       </div>

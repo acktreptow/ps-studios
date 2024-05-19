@@ -75,7 +75,7 @@ function TeamAsobiPage() {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="astro-bot" className="block text-center mb-8">
-            Team Asobi with mascot Astro Bot
+            Team Asobi With Mascot Astro Bot
           </label>
         </div>
       </div>

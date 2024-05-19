@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import savageLogo from "../../../../public/images/savage-logo.png";
+import savageLogo from "../../../../public/images/dev-pages/savage-logo.png";
 
 export const metadata: Metadata = {
   title: "Neon Koi",

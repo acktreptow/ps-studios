@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import sackboy from "../../../../public/images/sackboy.png";
+import sackboy from "../../../../public/images/dev-pages/sackboy.png";
 
 export const metadata: Metadata = {
   title: "Media Molecule",

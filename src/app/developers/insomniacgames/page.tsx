@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import insomniacPortfolio from "../../../../public/images/insomniac-portfolio.png";
+import insomniacPortfolio from "../../../../public/images/dev-pages/insomniac-portfolio.png";
 
 export const metadata: Metadata = {
   title: "Insomniac Games",

@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import gotTrophies from "../../../../public/images/got-trophies.png";
+import gotTrophies from "../../../../public/images/dev-pages/got-trophies.png";
 
 export const metadata: Metadata = {
   title: "Nixxes Software",

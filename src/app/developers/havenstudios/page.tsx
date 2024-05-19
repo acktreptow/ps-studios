@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import jadeRaymond from "../../../../public/images/jade-raymond.png";
-import fairGames from "../../../../public/images/fairgames.png";
+import jadeRaymond from "../../../../public/images/dev-pages/jade-raymond.png";
+import fairGames from "../../../../public/images/dev-pages/fairgames.png";
 
 export const metadata: Metadata = {
   title: "Haven Studios",

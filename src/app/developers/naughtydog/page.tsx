@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import games from "../../data/games.json";
 import Image from "next/image";
-import tlouFactions from "../../../../public/images/tlou-factions.png";
+import tlouFactions from "../../../../public/images/dev-pages/tlou-factions.png";
 
 export const metadata: Metadata = {
   title: "Naughty Dog",

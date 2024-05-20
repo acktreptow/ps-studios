@@ -48,11 +48,15 @@ function PS5GamesClient(): JSX.Element {
         {games
           .sort((a: Game, b: Game) => {
             if (metacritic) {
+              if (a.metacritic === "N/A") return 1;
+              if (b.metacritic === "N/A") return -1;
               return (
                 ((a.metacritic as number) || 0) -
                 ((b.metacritic as number) || 0)
               );
             } else {
+              if (a.releaseDate === "Unreleased") return 1;
+              if (b.releaseDate === "Unreleased") return -1;
               return (
                 (a.releaseDate ? new Date(a.releaseDate).getTime() : 0) -
                 (b.releaseDate ? new Date(b.releaseDate).getTime() : 0)

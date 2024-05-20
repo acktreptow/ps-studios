@@ -9,6 +9,16 @@ export const metadata: Metadata = {
     "The history and future of Firesprite, a first-party developer for PlayStation Studios.",
 };
 
+type Game = {
+  developer: string;
+  name: string;
+  id: string;
+  genre: string;
+  releaseDate: string;
+  daysBetweenReleases: number | string;
+  metacritic: number | string;
+};
+
 function FirespritePage(): JSX.Element {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
@@ -42,8 +52,8 @@ function FirespritePage(): JSX.Element {
           </h2>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Firesprite hasn&#39;t announced anything since Horizon CoTM shipped
-            15 months ago. This is likely because of the studio&#39;s
-            dire situation, post-acquisition.
+            15 months ago. This is likely because of the studio&#39;s dire
+            situation, post-acquisition.
           </p>
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             Crunch was apparently necessary to finish Horizon. Additionally, all
@@ -81,8 +91,8 @@ function FirespritePage(): JSX.Element {
       </h2>
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
-          .filter((game) => game.developer === "Firesprite")
-          .map((game) => (
+          .filter((game: Game) => game.developer === "Firesprite")
+          .map((game: Game) => (
             <div
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"

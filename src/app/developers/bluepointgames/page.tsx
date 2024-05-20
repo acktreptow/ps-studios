@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import games from "../../data/games.json";
+import gamesData from "../../data/games.json";
 import Image from "next/image";
 import demonsSouls from "../../../../public/images/dev-pages/demons-souls.png";
 
@@ -8,6 +8,18 @@ export const metadata: Metadata = {
   description:
     "The history and future of Bluepoint Games, a first-party developer for PlayStation Studios.",
 };
+
+type Game = {
+  developer: string;
+  name: string;
+  id: string;
+  genre: string;
+  releaseDate: string;
+  daysBetweenReleases: number | string;
+  metacritic: number | string;
+};
+
+const games: Game[] = gamesData as Game[];
 
 function BluepointGamesPage(): JSX.Element {
   return (
@@ -79,8 +91,8 @@ function BluepointGamesPage(): JSX.Element {
       </h2>
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
-          .filter((game) => game.developer === "Bluepoint Games")
-          .map((game) => (
+          .filter((game: Game) => game.developer === "Bluepoint Games")
+          .map((game: Game) => (
             <div
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"

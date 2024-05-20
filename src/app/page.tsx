@@ -5,10 +5,17 @@ import Image from "next/image";
 import Link from "next/link";
 import developers from "../app/data/developers.json";
 
-function Homepage() {
-  const [selectedDeveloper, setSelectedDeveloper] = useState("");
-  const [hidden, setHidden] = useState(false);
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+type Developer = {
+  id: number;
+  name: string;
+  urlPath: string;
+  img: string;
+};
+
+function Homepage(): JSX.Element {
+  const [selectedDeveloper, setSelectedDeveloper] = useState<string>("");
+  const [hidden, setHidden] = useState<boolean>(false);
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>): void => {
     e.preventDefault();
     if (selectedDeveloper) {
       window.location.href = `/developers/${selectedDeveloper}`;
@@ -28,7 +35,7 @@ function Homepage() {
         <select
           className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4 hover:border-playstation transition-colors duration-200 text-gray-800 shadow-md focus:outline-none focus:ring-2 focus:ring-playstation"
           value={selectedDeveloper}
-          onChange={(e) => {
+          onChange={(e: React.ChangeEvent<HTMLSelectElement>) => {
             setSelectedDeveloper(e.target.value);
             setHidden(true);
           }}
@@ -38,11 +45,11 @@ function Homepage() {
           </option>
           {developers
             .filter(
-              (developer) =>
+              (developer: Developer) =>
                 developer.name !== "PlayStation Logo" &&
                 developer.name !== "PS5 Logo"
             )
-            .map((developer) => (
+            .map((developer: Developer) => (
               <option key={developer.id} value={developer.urlPath}>
                 {developer.name}
               </option>
@@ -56,7 +63,7 @@ function Homepage() {
         </button>
       </form>
       <div className="grid grid-cols-3 mb-6 md:grid-cols-4 lg:grid-cols-6">
-        {developers.map((developer) => (
+        {developers.map((developer: Developer) => (
           <Link
             key={developer.id}
             href={

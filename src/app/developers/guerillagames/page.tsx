@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     "The history and future of Guerilla Games, a first-party developer for PlayStation Studios.",
 };
 
-function GuerillaGamesPage() {
+function GuerillaGamesPage(): JSX.Element {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import developers from "../app/data/developers.json";
+import developersData from "../app/data/developers.json";
 
 type Developer = {
   id: number;
@@ -11,6 +11,8 @@ type Developer = {
   urlPath: string;
   img: string;
 };
+
+const developers: Developer[] = developersData as Developer[];
 
 function Homepage(): JSX.Element {
   const [selectedDeveloper, setSelectedDeveloper] = useState<string>("");

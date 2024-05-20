@@ -2,7 +2,7 @@
 
 import { Metadata } from "next";
 import { useState } from "react";
-import games from "../data/games.json";
+import gamesData from "../data/games.json";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -18,6 +18,8 @@ type Game = {
   releaseDate: string;
   metacritic: number | string;
 };
+
+const games: Game[] = gamesData as Game[];
 
 function PS5GamesClient(): JSX.Element {
   const [metacritic, setMetacritic] = useState<boolean>(false);

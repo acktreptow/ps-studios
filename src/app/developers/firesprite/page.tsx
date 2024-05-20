@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import games from "../../data/games.json";
+import gamesData from "../../data/games.json";
 import Image from "next/image";
 import horizonCoTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
 
@@ -18,6 +18,8 @@ type Game = {
   daysBetweenReleases: number | string;
   metacritic: number | string;
 };
+
+const games: Game[] = gamesData;
 
 function FirespritePage(): JSX.Element {
   return (

@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import games from "../../data/games.json";
+import gamesData from "../../data/games.json";
 import Image from "next/image";
 import burningShores from "../../../../public/images/dev-pages/burning-shores.png";
 
@@ -8,7 +8,6 @@ export const metadata: Metadata = {
   description:
     "The history and future of Guerilla Games, a first-party developer for PlayStation Studios.",
 };
-
 type Game = {
   developer: string;
   name: string;
@@ -18,6 +17,8 @@ type Game = {
   daysBetweenReleases: number | string;
   metacritic: number | string;
 };
+
+const games: Game[] = gamesData;
 
 function GuerillaGamesPage(): JSX.Element {
   return (

@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import games from "../../data/games.json";
+import gamesData from "../../data/games.json";
 import Image from "next/image";
 import gotTrophies from "../../../../public/images/dev-pages/got-trophies.png";
 
@@ -18,6 +18,8 @@ type Game = {
   daysBetweenReleases: number | string;
   metacritic: number | string;
 };
+
+const games: Game[] = gamesData;
 
 function NixxesSoftwarePage(): JSX.Element {
   return (

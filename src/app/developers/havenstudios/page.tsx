@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import games from "../../data/games.json";
+import gamesData from "../../data/games.json";
 import Image from "next/image";
 import jadeRaymond from "../../../../public/images/dev-pages/jade-raymond.png";
 import fairGames from "../../../../public/images/dev-pages/fairgames.png";
@@ -19,6 +19,8 @@ type Game = {
   daysBetweenReleases: number | string;
   metacritic: number | string;
 };
+
+const games: Game[] = gamesData;
 
 function HavenStudiosPage(): JSX.Element {
   return (

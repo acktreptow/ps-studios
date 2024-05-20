@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import gamesData from "../../data/games.json";
+import games from "../../data/games.json";
 import Image from "next/image";
 import demonsSouls from "../../../../public/images/dev-pages/demons-souls.png";
 
@@ -18,8 +18,6 @@ type Game = {
   daysBetweenReleases: number | string;
   metacritic: number | string;
 };
-
-const games: Game[] = gamesData as Game[];
 
 function BluepointGamesPage(): JSX.Element {
   return (

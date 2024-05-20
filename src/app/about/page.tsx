@@ -124,6 +124,19 @@ function AboutPage(): JSX.Element {
         </Link>
         !
       </p>
+
+      {/* GitHub Link Section */}
+      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
+        <span className="border-b-2 border-gray-300">GitHub Link</span>
+      </h2>
+      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+        If you enjoyed the site, I would greatly appreciate if you starred the
+        linked repository in the header. Or you can click{" "}
+        <Link href="https://github.com/acktreptow/ps-studios" target="_blank">
+          <span className="font-semibold hover:font-bold">here</span>
+        </Link>{" "}
+        to go directly to the GitHub page. Thank you!
+      </p>
     </div>
   );
 }

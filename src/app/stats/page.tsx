@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import developers from "../data/developers.json";
+import developersData from "../data/developers.json";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -12,6 +12,8 @@ type Developer = {
   name: string;
   ps5Games: number;
 };
+
+const developers: Developer[] = developersData as Developer[];
 
 function StatsPage(): JSX.Element {
   return (

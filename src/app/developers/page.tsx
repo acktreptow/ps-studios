@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import developers from "../data/developers.json";
+import developersData from "../data/developers.json";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -13,6 +13,8 @@ type Developer = {
   name: string;
   urlPath: string;
 };
+
+const developers: Developer[] = developersData as Developer[];
 
 function DevelopersPage(): JSX.Element {
   return (

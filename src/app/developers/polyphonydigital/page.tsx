@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import games from "../../data/games.json";
+import gamesData from "../../data/games.json";
 import Image from "next/image";
 import kazunoriYamauchi from "../../../../public/images/dev-pages/kazunori-yamauchi.png";
 import gt7PSVR2 from "../../../../public/images/dev-pages/gt7-psvr2.png";
@@ -9,6 +9,18 @@ export const metadata: Metadata = {
   description:
     "The history and future of Polyphony Digital, a first-party developer for PlayStation Studios.",
 };
+
+type Game = {
+  developer: string;
+  name: string;
+  id: string;
+  genre: string;
+  releaseDate: string;
+  daysBetweenReleases: number | string;
+  metacritic: number | string;
+};
+
+const games: Game[] = gamesData;
 
 function PolyphonyDigitalPage(): JSX.Element {
   return (
@@ -97,8 +109,8 @@ function PolyphonyDigitalPage(): JSX.Element {
       </h2>
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
-          .filter((game) => game.developer === "Polyphony Digital")
-          .map((game) => (
+          .filter((game: Game) => game.developer === "Polyphony Digital")
+          .map((game: Game) => (
             <div
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"

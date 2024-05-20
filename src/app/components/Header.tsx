@@ -5,11 +5,16 @@ import Link from "next/link";
 import Image from "next/image";
 import psStudiosLogo from "../../../public/images/logos/ps-studios-logo.png";
 
-function Header() {
-  const [isOpen, setIsOpen] = useState(false);
-  const [activeLink, setActiveLink] = useState("");
+function Header(): JSX.Element {
+  const [isOpen, setIsOpen] = useState<boolean>(false);
+  const [activeLink, setActiveLink] = useState<string>("");
 
-  const links = [
+  interface LinkI {
+    name: string;
+    path: string;
+  }
+
+  const links: LinkI[] = [
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
     { name: "Developers", path: "/developers" },
@@ -48,7 +53,7 @@ function Header() {
             isOpen ? "flex flex-col items-center my-3 gap-3" : "hidden"
           }`}
         >
-          {links.map((link) => (
+          {links.map((link: LinkI) => (
             <li
               key={link.name}
               className={`hover:text-gray-200 ${

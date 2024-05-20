@@ -11,15 +11,16 @@ export const metadata: Metadata = {
 };
 
 type Game = {
-  id: string;
-  name: string;
   developer: string;
+  name: string;
+  id: string;
   genre: string;
   releaseDate: string;
+  daysBetweenReleases: number | string;
   metacritic: number | string;
 };
 
-const games: Game[] = gamesData as Game[];
+const games: Game[] = gamesData;
 
 function PS5GamesClient(): JSX.Element {
   const [metacritic, setMetacritic] = useState<boolean>(false);

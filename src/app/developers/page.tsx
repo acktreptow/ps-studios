@@ -14,7 +14,7 @@ type Developer = {
   urlPath: string;
 };
 
-const developers: Developer[] = developersData as Developer[];
+const developers: Developer[] = developersData;
 
 function DevelopersPage(): JSX.Element {
   return (

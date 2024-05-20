@@ -13,7 +13,7 @@ type Developer = {
   ps5Games: number;
 };
 
-const developers: Developer[] = developersData as Developer[];
+const developers: Developer[] = developersData;
 
 function StatsPage(): JSX.Element {
   return (

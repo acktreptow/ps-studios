@@ -12,7 +12,7 @@ type Developer = {
   img: string;
 };
 
-const developers: Developer[] = developersData as Developer[];
+const developers: Developer[] = developersData;
 
 function Homepage(): JSX.Element {
   const [selectedDeveloper, setSelectedDeveloper] = useState<string>("");

@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import Image from "next/image";
 import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
+import DeveloperTitle from "@/app/components/DeveloperTitle";
 
 export const metadata: Metadata = {
   title: "Bungie",
@@ -24,9 +25,7 @@ const games: Game[] = gamesData;
 function BungiePage(): JSX.Element {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        Bungie
-      </h1>
+      <DeveloperTitle title="Bungie" />
       <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
         <span className="border-b-2 border-gray-300">History</span>
       </h2>

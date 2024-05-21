@@ -2,7 +2,8 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import Image from "next/image";
 import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
-import DeveloperTitle from "@/app/components/DeveloperTitle";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
 
 export const metadata: Metadata = {
   title: "Bungie",
@@ -26,9 +27,7 @@ function BungiePage(): JSX.Element {
   return (
     <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
       <DeveloperTitle title="Bungie" />
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
+      <DeveloperSubTitle subtitle="History" />
       <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
         Founded in 1991, this Washington-based developer is the most unique
         first-party studio for a variety of reasons:
@@ -63,11 +62,7 @@ function BungiePage(): JSX.Element {
       </p>
       <div className="md:flex items-center">
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
           <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
             On PS5, Bungie has only released a port of Destiny 2. In 2023, they
             announced a live-service extraction shooter called Marathon, but
@@ -100,9 +95,7 @@ function BungiePage(): JSX.Element {
           </label>
         </div>
       </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
+      <DeveloperSubTitle subtitle="PS5 Games" />
       <div className="mb-5 grid gap-5 sm:grid-cols-2">
         {games
           .filter((game: Game) => game.developer === "Bungie")

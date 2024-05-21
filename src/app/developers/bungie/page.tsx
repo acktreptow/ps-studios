@@ -2,8 +2,11 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import Image from "next/image";
 import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
+import Container from "../../components/Container";
 import DeveloperTitle from "../../components/DeveloperTitle";
 import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import List from "../../components/List";
 
 export const metadata: Metadata = {
   title: "Bungie",
@@ -25,14 +28,14 @@ const games: Game[] = gamesData;
 
 function BungiePage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
+    <Container>
       <DeveloperTitle title="Bungie" />
       <DeveloperSubTitle subtitle="History" />
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      <Paragraph>
         Founded in 1991, this Washington-based developer is the most unique
         first-party studio for a variety of reasons:
-      </p>
-      <ul className="list-disc space-y-2 pl-5 mb-5 text-lg md:pl-7 lg:text-xl lg:tracking-wide lg:pl-10">
+      </Paragraph>
+      <List>
         <li>
           Microsoft used to own Bungie when they created Xbox&#39;s flagship IP
           &#39;Halo&#39;.
@@ -49,37 +52,37 @@ function BungiePage(): JSX.Element {
           Bungie are the only first-party developer who can port their games to
           competing platforms like Xbox.
         </li>
-      </ul>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </List>
+      <Paragraph>
         Why does Bungie have more freedom than all of PS Studios? Desperation.
         Sony saw the money live-service games like Destiny were making, but had
         no in-house knowledge to make their own.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         To get Bungie to sell, Sony overpaid at $3.6 billion and accepted all
         their terms. Bungie now advises other PS Studios on how to make a
         live-service game.
-      </p>
+      </Paragraph>
       <div className="md:flex items-center">
         <div>
           <DeveloperSubTitle subtitle="My Analysis & Predictions" />
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <Paragraph>
             On PS5, Bungie has only released a port of Destiny 2. In 2023, they
             announced a live-service extraction shooter called Marathon, but
             it&#39;s not been seen since.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             There&#39;s reasons to be wary of Marathon though. Sony paid a lot
             for Bungie&#39;s live-service knowledge, but Destiny 2 has been
             severely underperforming. This forced layoffs just to ensure certain
             targets were met that prevented a Sony takeover of Bungie&#39;s
             board.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             Further layoffs will also likely occur once Destiny 2&#39;s last
             expansion releases, and Sony still might take over. It&#39;s hard to
             believe Marathon will succeed under those circumstances.
-          </p>
+          </Paragraph>
         </div>
         <div>
           <Image
@@ -107,22 +110,20 @@ function BungiePage(): JSX.Element {
               <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
                 {game.name}
               </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
+              <Paragraph marginBottom={0}>Genre: {game.genre}</Paragraph>
+              <Paragraph marginBottom={0}>
                 Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
+              </Paragraph>
+              <Paragraph marginBottom={0}>
                 Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
+              </Paragraph>
+              <Paragraph marginBottom={0}>
                 Metacritic Score: {game.metacritic}
-              </p>
+              </Paragraph>
             </div>
           ))}
       </div>
-    </div>
+    </Container>
   );
 }
 

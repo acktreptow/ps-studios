@@ -112,8 +112,18 @@ function StatsPage(): JSX.Element {
               Studio with the longest duration since their last release: Bend
               Studio with Days Gone (April 2019)
             </li>
+            <li>Studio with most Game of the Year Awards: Naughty Dog</li>
+            <li>
+              Studio with highest average Metacritic score: Sony Santa Monica
+              (94)
+            </li>
+            <li>
+              Studio with highest average Metacritic score (more than 1 game):
+              Insomniac Games (87.5)
+            </li>
             <li className="mb-3">
-              Studio with most Game of the Year Awards: Naughty Dog
+              Studio with highest average Metacritic score (no
+              remasters/remakes): Insomniac Games (87.67)
             </li>
             <li className="mb-1">Five studios most likely to close:</li>
             <ul className="list-decimal leading-8 mb-3 pl-10 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide lg:space-y-1">

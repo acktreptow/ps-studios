@@ -56,7 +56,7 @@ function BungiePage(): JSX.Element {
         their terms. Bungie now advises other PS Studios on how to make a
         live-service game.
       </Paragraph>
-      <ImageSection>
+      <ImageSection flexOnMdScreens={true}>
         <div>
           <DeveloperSubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>

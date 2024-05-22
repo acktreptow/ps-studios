@@ -91,7 +91,7 @@ function BungiePage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" />
+      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Bungie" />
     </Container>
   );

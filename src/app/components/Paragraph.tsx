@@ -3,7 +3,10 @@ type ParagraphProps = {
   marginBottom?: number;
 };
 
-function Paragraph({ children, marginBottom = 5 }: ParagraphProps) {
+function Paragraph({
+  children,
+  marginBottom = 5,
+}: ParagraphProps): JSX.Element {
   return (
     <p className={`mb-${marginBottom} text-lg lg:text-xl lg:tracking-wide`}>
       {children}

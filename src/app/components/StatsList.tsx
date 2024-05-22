@@ -3,7 +3,7 @@ type StatsListProps = {
   isNumbered: boolean;
 };
 
-function StatsList({ children, isNumbered }: StatsListProps) {
+function StatsList({ children, isNumbered }: StatsListProps): JSX.Element {
   return (
     <ul
       className={`${

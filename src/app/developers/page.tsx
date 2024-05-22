@@ -1,17 +1,12 @@
 import { Metadata } from "next";
 import developersData from "../data/developers.json";
+import { Developer } from "../types/Developer";
 import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "PS5 Developers",
   description:
     "The PS5 developers section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
-};
-
-type Developer = {
-  id: number;
-  name: string;
-  urlPath: string;
 };
 
 const developers: Developer[] = developersData;

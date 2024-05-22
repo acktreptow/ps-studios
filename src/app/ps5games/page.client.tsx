@@ -3,6 +3,8 @@
 import { Metadata } from "next";
 import { useState } from "react";
 import gamesData from "../data/games.json";
+import Container from "../components/Container";
+import Paragraph from "../components/Paragraph";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -26,7 +28,7 @@ function PS5GamesClient(): JSX.Element {
   const [metacritic, setMetacritic] = useState<boolean>(false);
 
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
+    <Container>
       <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 md:mb-14 tracking-wide md:leading-relaxed">
         Every PlayStation Studios PS5 Game
       </h1>
@@ -72,22 +74,20 @@ function PS5GamesClient(): JSX.Element {
               <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
                 {game.name}
               </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
+              <Paragraph marginBottom={0}>
                 Developer: {game.developer}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
+              </Paragraph>
+              <Paragraph marginBottom={0}>Genre: {game.genre}</Paragraph>
+              <Paragraph marginBottom={0}>
                 Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
+              </Paragraph>
+              <Paragraph marginBottom={0}>
                 Metacritic Score: {game.metacritic}
-              </p>
+              </Paragraph>
             </div>
           ))}
       </div>
-    </div>
+    </Container>
   );
 }
 

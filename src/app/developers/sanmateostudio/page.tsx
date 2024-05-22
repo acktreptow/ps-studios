@@ -1,6 +1,11 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import concreteGenie from "../../../../public/images/dev-pages/concrete-genie.png";
+import Container from "../../components/Container";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
 
 export const metadata: Metadata = {
   title: "San Mateo Studio",
@@ -10,43 +15,35 @@ export const metadata: Metadata = {
 
 function SanMateoStudioPage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        San Mateo Studio
-      </h1>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wid">
+    <Container>
+      <DeveloperTitle title="San Mateo Studio" />
+      <DeveloperSubTitle subtitle="History" />
+      <Paragraph>
         Founded in 1998, San Mateo Studio (formerly Foster City Studio) works
         out of San Mateo, California (shock I know).
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wid">
+      </Paragraph>
+      <Paragraph>
         Unlike the majority of PlayStation first-party developers, San Mateo are
         only a support studio. They therefore haven&#39;t shipped a PS5 game,
         nor should you expect them to.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wid">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         They did spin off a small team in 2014 called Pixelopus who released two
         games before the PS5 launched, but a lack of sales resulted in Sony
         closing the studio down in June 2023.
-      </p>
-      <div className="md:flex items-center">
+      </Paragraph>
+      <ImageSection flexOnMdScreens={true}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wid">
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             Due to their support status, San Mateo haven&#39;t released a PS5
             game where they were the main developer. This situation is also very
             unlikely to change if the shuttering of Pixelopus is any indication.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wid">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
             probably look elsewhere.
-          </p>
+          </Paragraph>
         </div>
         <div>
           <Image
@@ -61,8 +58,8 @@ function SanMateoStudioPage(): JSX.Element {
             Pixelopus&#39;s Final Game: Concrete Genie
           </label>
         </div>
-      </div>
-    </div>
+      </ImageSection>
+    </Container>
   );
 }
 

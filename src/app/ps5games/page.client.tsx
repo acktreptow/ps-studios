@@ -1,26 +1,10 @@
 "use client";
 
-import { Metadata } from "next";
+import { Game } from "../types/Game";
 import { useState } from "react";
 import gamesData from "../data/games.json";
 import Container from "../components/Container";
 import Paragraph from "../components/Paragraph";
-
-export const metadata: Metadata = {
-  title: "Stats",
-  description:
-    "The stats section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
-};
-
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
 
 const games: Game[] = gamesData;
 

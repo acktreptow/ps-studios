@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import developersData from "../data/developers.json";
+import { Developer } from "../types/Developer";
 import Container from "../components/Container";
 import Title from "../components/Title";
 import SubTitle from "../components/SubTitle";
@@ -10,12 +11,6 @@ export const metadata: Metadata = {
   title: "Stats",
   description:
     "The stats section of ps5studios.com, a fan site about the first-party developers under PlayStation Studios during the PS5 era.",
-};
-
-type Developer = {
-  id: number;
-  name: string;
-  ps5Games: number;
 };
 
 const developers: Developer[] = developersData;

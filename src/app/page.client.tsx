@@ -4,13 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import developersData from "../app/data/developers.json";
-
-type Developer = {
-  id: number;
-  name: string;
-  urlPath: string;
-  img: string;
-};
+import { Developer } from "../app/types/Developer";
 
 const developers: Developer[] = developersData;
 

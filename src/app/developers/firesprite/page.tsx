@@ -1,7 +1,14 @@
 import { Metadata } from "next";
 import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import horizonCoTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
+import Container from "../../components/Container";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "Firesprite",
@@ -9,70 +16,52 @@ export const metadata: Metadata = {
     "The history and future of Firesprite, a first-party developer for PlayStation Studios.",
 };
 
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
-
-const games: Game[] = gamesData;
+const gamesArray: Game[] = gamesData;
 
 function FirespritePage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        Firesprite
-      </h1>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+    <Container>
+      <DeveloperTitle title="Firesprite" />
+      <DeveloperSubTitle subtitle="History" />
+      <Paragraph>
         Founded in 2012, Firesprite is a Liverpool-based developer formed by
         ex-members of first-party developer Sony Liverpool, which closed weeks
         prior.
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         Firesprite&#39;s first major game was 2018&#39;s The Persistence. It
         also came to other platforms like Xbox, as Sony wouldn&#39;t acquire the
         studio until 2021.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         So far, they&#39;ve released two PS5 games. An enhanced port of The
         Persistence and the flagship PSVR2 launch title Horizon Call of the
         Mountain. Neither were particularly well received.
-      </p>
-      <div className="lg:flex items-center">
+      </Paragraph>
+      <ImageSection flexOnMdScreens={false}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             Firesprite hasn&#39;t announced anything since Horizon CoTM shipped
             15 months ago. This is likely because of the studio&#39;s dire
             situation, post-acquisition.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Crunch was apparently necessary to finish Horizon. Additionally, all
             but one founder and many other staff left once retention bonuses
             were paid out.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Finally, further layoffs took place a year later and it was reported
             that Firesprite&#39;s unrevealed Twisted Metal live service game had
             been cancelled.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             Considering this toxic environment, plus the fact that their games
             weren&#39;t great beforehand, I don&#39;t see anything good coming
             out of Firesprite soon. Even if early leaks of a potential horror
             game do sound promising in a vacuum.
-          </p>
+          </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
@@ -87,37 +76,10 @@ function FirespritePage(): JSX.Element {
             Horizon CoTM On PSVR2
           </label>
         </div>
-      </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
-        {games
-          .filter((game: Game) => game.developer === "Firesprite")
-          .map((game: Game) => (
-            <div
-              key={game.id}
-              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
-            >
-              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
-                {game.name}
-              </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Metacritic Score: {game.metacritic}
-              </p>
-            </div>
-          ))}
-      </div>
-    </div>
+      </ImageSection>
+      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Firesprite" />
+    </Container>
   );
 }
 

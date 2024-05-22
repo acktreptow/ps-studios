@@ -1,8 +1,15 @@
 import { Metadata } from "next";
 import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import jadeRaymond from "../../../../public/images/dev-pages/jade-raymond.png";
 import fairGames from "../../../../public/images/dev-pages/fairgames.png";
+import Container from "../../components/Container";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "Haven Studios",
@@ -10,45 +17,31 @@ export const metadata: Metadata = {
     "The history and future of Haven Studios, a first-party developer for PlayStation Studios.",
 };
 
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
-
-const games: Game[] = gamesData;
+const gamesArray: Game[] = gamesData;
 
 function HavenStudiosPage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        Haven Studios
-      </h1>
-      <div className="lg:flex items-center">
+    <Container>
+      <Title title="Haven Studios" />
+      <ImageSection flexOnMdScreens={false}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">History</span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <SubTitle subtitle="History" />
+          <Paragraph>
             This Montreal-based developer was founded in 2021 by Jade Raymond -
             one of the creators of Assassin&#39;s Creed. Raymond was at Google
             beforehand, but left once they stopped supporting their cloud-based
             console &#39;Stadia&#39;.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Raymond then took this cloud infrastructure knowledge to Haven,
             which caught the attention of Sony. They immediately started funding
             their first game and acquired Haven a year later.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             This game turned out to be FairGame$. A live service competitive
             heist shooter that will launch simultaneously on PS5 and PC. It
             currently has no release date.
-          </p>
+          </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
@@ -66,26 +59,22 @@ function HavenStudiosPage(): JSX.Element {
             Haven Studios Founder Jade Raymond
           </label>
         </div>
-      </div>
-      <div className="md:flex items-center">
+      </ImageSection>
+      <ImageSection flexOnMdScreens={true}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <SubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             We haven&#39;t seen Fairgame$ since the first trailer, which even
             then was only CGI. Haven is also a new studio, and the first to
             emphasize the cloud. It&#39;s therefore hard to predict how
             Fairgame$ will do, but I&#39;m optimistic.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             Mark Cerny, architect of the PS5, has taken an interest in Haven and
             is assisting with Fairgame$ and general R&D. Between his interest
             and Sony investing so quickly, I&#39;m cautiously confident despite
             a lack of concrete info.
-          </p>
+          </Paragraph>
         </div>
         <div>
           <Image
@@ -100,37 +89,10 @@ function HavenStudiosPage(): JSX.Element {
             Fairgame$ Only Has A CGI Trailer
           </label>
         </div>
-      </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
-        {games
-          .filter((game: Game) => game.developer === "Haven Studios")
-          .map((game: Game) => (
-            <div
-              key={game.id}
-              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
-            >
-              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
-                {game.name}
-              </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Metacritic Score: {game.metacritic}
-              </p>
-            </div>
-          ))}
-      </div>
-    </div>
+      </ImageSection>
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Haven Studios" />
+    </Container>
   );
 }
 

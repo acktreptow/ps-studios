@@ -1,7 +1,14 @@
 import { Metadata } from "next";
 import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import seleneVassos from "../../../../public/images/dev-pages/selene-vassos.png";
+import Container from "../../components/Container";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "Housemarque",
@@ -9,67 +16,49 @@ export const metadata: Metadata = {
     "The history and future of Housemarque, a first-party developer for PlayStation Studios.",
 };
 
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
-
-const games: Game[] = gamesData;
+const gamesArray: Game[] = gamesData;
 
 function HousemarquePage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        Housemarque
-      </h1>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+    <Container>
+      <DeveloperTitle title="Housemarque" />
+      <DeveloperSubTitle subtitle="History" />
+      <Paragraph>
         Founded in 1995, this Finnish-based developer has released a myriad of
         games on PlayStation consoles including Super Stardust and Resogun.
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         Housemarque most recently released 2021&#39;s Returnal for the PS5. It
         kept the roguelike elements seen in previous games, but moved to a
         third-person perspective with more focus on story.
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         This helped Returnal have a more mainstream appeal and thus became
         Housemarque&#39;s best selling game.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         Clearly, Sony were happy with this pivot as they purchased Housemarque
         two months after Returnal released.
-      </p>
-      <div className="md:flex items-center">
+      </Paragraph>
+      <ImageSection flexOnMdScreens={true}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             Returnal is Housemarque&#39;s only PS5 title. Yet despite releasing
             three years ago, we know nothing about the next game. Nonetheless,
             Returnal&#39;s quality is the reason to still be excited.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             With Returnal, Housemarque proved they could take the elements that
             made their older, smaller-scoped games critically acclaimed, and
             repackage them into a more mainstream title.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             With this experience under their belt, plus the backing of Sony as
             an official first-party developer, their next game should fare even
             better. It has been 3 years though, so we should (hopefully) hear
             about it soon.
-          </p>
+          </Paragraph>
         </div>
         <div>
           <Image
@@ -84,37 +73,10 @@ function HousemarquePage(): JSX.Element {
             Returnal&#39;s Main Character, Selene Vassos
           </label>
         </div>
-      </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
-        {games
-          .filter((game: Game) => game.developer === "Housemarque")
-          .map((game: Game) => (
-            <div
-              key={game.id}
-              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
-            >
-              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
-                {game.name}
-              </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Metacritic Score: {game.metacritic}
-              </p>
-            </div>
-          ))}
-      </div>
-    </div>
+      </ImageSection>
+      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Housemarque" />
+    </Container>
   );
 }
 

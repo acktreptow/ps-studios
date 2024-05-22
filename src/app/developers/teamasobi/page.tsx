@@ -1,7 +1,14 @@
 import { Metadata } from "next";
 import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import astroBot from "../../../../public/images/dev-pages/astro-bot.png";
+import Container from "../../components/Container";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "Team Asobi",
@@ -9,73 +16,55 @@ export const metadata: Metadata = {
     "The history and future of Team Asobi, a first-party developer for PlayStation Studios.",
 };
 
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
-
-const games: Game[] = gamesData;
+const gamesArray: Game[] = gamesData;
 
 function TeamAsobiPage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        Team Asobi
-      </h1>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+    <Container>
+      <DeveloperTitle title="Team Asobi" />
+      <DeveloperSubTitle subtitle="History" />
+      <Paragraph>
         Team Asobi is a Tokyo-based developer that technically, was formed in
         2021. Asobi originally formed in 2012 as part of Japan Studio, but
         became independent when Japan Studio closed in 2020.
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         They&#39;re known for smaller-scoped games that focus on new PlayStation
         hardware. For example, The PlayRoom to show off the DualShock 4 and
         Astro Bot Rescue Mission for PSVR.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         Their most recent game is Astro&#39;s Playroom. A free PS5 launch title
         that comes pre-installed. Its gameplay was developed in a way to show
         off the PS5&#39;s new features like haptic feedback.
-      </p>
-      <div className="lg:flex items-center">
+      </Paragraph>
+      <ImageSection flexOnMdScreens={false}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             Despite Astro&#39;s Playroom releasing over three years ago, we
             still haven&#39;t officially heard anything about Asobi&#39;s next
             game.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Unofficially, there are rumors that it will release shortly after
             announcement, at the end of 2024. It&#39;ll also be larger in scale,
             and playable on TVs and PSVR2.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Astro&#39;s Playroom was an incredible game that even after hundreds
             of PS5 games later, still has made the best use of the DualSense.
             It&#39;s also the reason Asobi survived the closure of Japan Studio.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             With this next game also having double the development time,
             there&#39;s every reason to believe it will be a great game that
             diversifies Sony&#39;s portfolio.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             It hopefully also showcases PSVR2 well, because that VR headset
             desperately needs a win.
-          </p>
+          </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
@@ -90,37 +79,10 @@ function TeamAsobiPage(): JSX.Element {
             Team Asobi With Mascot Astro Bot
           </label>
         </div>
-      </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
-        {games
-          .filter((game: Game) => game.developer === "Team Asobi")
-          .map((game: Game) => (
-            <div
-              key={game.id}
-              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
-            >
-              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
-                {game.name}
-              </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Metacritic Score: {game.metacritic}
-              </p>
-            </div>
-          ))}
-      </div>
-    </div>
+      </ImageSection>
+      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Team Asobi" />
+    </Container>
   );
 }
 

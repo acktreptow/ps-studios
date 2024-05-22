@@ -1,7 +1,14 @@
+import { Metadata } from "next";
 import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import mlb24 from "../../../../public/images/dev-pages/mlb-24.png";
-import { Metadata } from "next";
+import Container from "../../components/Container";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "San Diego Studio",
@@ -9,68 +16,50 @@ export const metadata: Metadata = {
     "The history and future of San Diego Studio, a first-party developer for PlayStation Studios.",
 };
 
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
-
-const games: Game[] = gamesData;
+const gamesArray: Game[] = gamesData;
 
 function SanDiegoStudioPage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        San Diego Studio
-      </h1>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+    <Container>
+      <DeveloperTitle title="San Diego Studio" />
+      <DeveloperSubTitle subtitle="History" />
+      <Paragraph>
         Founded in 2001, San Diego Studio is (obviously) a San Diego-based
         first-party developer that is responsible for the MLB: The Show series.
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         This annual baseball series is the only IP they work on. So naturally,
         there&#39;s been four MLB games for the PS5 that have come out in
         March/April since 2021.
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         This generation has been different in one aspect though. Despite being a
         Sony first-party developer, the MLB have forced PlayStation to develop
         an Xbox and Nintendo port since MLB 21, or they would lose the license.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         Clearly, making the series multiplatform was the better alternative to
         losing the license as the series has continued.
-      </p>
-      <div className="md:flex items-center">
+      </Paragraph>
+      <ImageSection flexOnMdScreens={true}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             This one is easy to predict. SD Studio haven&#39;t developed a
             non-MLB game for close to a decade. And with rising development
             costs coupled with tighter profits for PlayStation, it&#39;s
             unlikely they would be allowed to experiment with something new,
             even if they want to.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             We&#39;re also four games deep into the series being multiplatform
             and nothing has materially changed. That was the one change that
             could have altered SD Studio&#39;s trajectory, but didn&#39;t.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             It&#39;s therefore safe to assume they&#39;ll continue with MLB: The
             Show for the foreseeable future.
-          </p>
+          </Paragraph>
         </div>
         <div>
           <Image
@@ -85,37 +74,10 @@ function SanDiegoStudioPage(): JSX.Element {
             MLB The Show 24 Advertisement
           </label>
         </div>
-      </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
-        {games
-          .filter((game: Game) => game.developer === "San Diego Studio")
-          .map((game: Game) => (
-            <div
-              key={game.id}
-              className="border-2 border-gray-200 rounded-lg shadow-md p-3"
-            >
-              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
-                {game.name}
-              </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Metacritic Score: {game.metacritic}
-              </p>
-            </div>
-          ))}
-      </div>
-    </div>
+      </ImageSection>
+      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="San Diego Studio" />
+    </Container>
   );
 }
 

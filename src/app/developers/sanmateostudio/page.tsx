@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 import concreteGenie from "../../../../public/images/dev-pages/concrete-genie.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
 function SanMateoStudioPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="San Mateo Studio" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="San Mateo Studio" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1998, San Mateo Studio (formerly Foster City Studio) works
         out of San Mateo, California (shock I know).
@@ -34,7 +34,7 @@ function SanMateoStudioPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Due to their support status, San Mateo haven&#39;t released a PS5
             game where they were the main developer. This situation is also very

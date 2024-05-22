@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import gowRagnarok from "../../../../public/images/dev-pages/gow-ragnarok.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function SantaMonicaStudioPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Santa Monica Studio" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Santa Monica Studio" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Santa Monica Studio is an LA-based developer founded in 1999. Outside of
         its first game, 2001&#39;s Kinetica, the studio has exclusively
@@ -36,7 +36,7 @@ function SantaMonicaStudioPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             As of now, we don&#39;t know what SM&#39;s next game is other than
             it being in third-person. There&#39;s rumours that predict a new IP,
@@ -73,7 +73,7 @@ function SantaMonicaStudioPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Santa Monica Studio" />
     </Container>
   );

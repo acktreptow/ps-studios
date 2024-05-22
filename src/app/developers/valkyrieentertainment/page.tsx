@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 import gunsUpGameplay from "../../../../public/images/dev-pages/guns-up.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
 function ValkyrieEntertainmentPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Valkyrie Entertainment" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Valkyrie Entertainment" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Valkyrie Entertainment are a Seattle-based developer who were founded in
         2002 and acquired by Sony in 2021.
@@ -39,7 +39,7 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             This one&#39;s easy to forecast. Due to their support status,
             Valkyrie haven&#39;t released a game for the PS5.

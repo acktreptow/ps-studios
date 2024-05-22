@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import concord from "../../../../public/images/dev-pages/concord.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function FirewalkStudiosPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Firewalk Studios" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Firewalk Studios" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Firewalk was founded in Washington, in 2018. Its founders are
         experienced veterans of popular multiplayer shooters, having worked on
@@ -40,7 +40,7 @@ function FirewalkStudiosPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Everything we know about Concord is written above, so there&#39;s
             not a lot to go off. However, the pedigree of Firewalk&#39;s
@@ -71,7 +71,7 @@ function FirewalkStudiosPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Firewalk Studios" />
     </Container>
   );

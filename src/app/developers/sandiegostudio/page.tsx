@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import mlb24 from "../../../../public/images/dev-pages/mlb-24.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function SanDiegoStudioPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="San Diego Studio" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="San Diego Studio" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2001, San Diego Studio is (obviously) a San Diego-based
         first-party developer that is responsible for the MLB: The Show series.
@@ -43,7 +43,7 @@ function SanDiegoStudioPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             This one is easy to predict. SD Studio haven&#39;t developed a
             non-MLB game for close to a decade. And with rising development
@@ -75,7 +75,7 @@ function SanDiegoStudioPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="San Diego Studio" />
     </Container>
   );

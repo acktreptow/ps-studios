@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import burningShores from "../../../../public/images/dev-pages/burning-shores.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import List from "../../components/List";
@@ -22,8 +22,8 @@ const gamesArray: Game[] = gamesData;
 function GuerillaGamesPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Guerrilla Games" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Guerrilla Games" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2000, this Amsterdam-based developer is primarily known for
         the FPS series &#39;Killzone&#39;, and third-person action RPG series
@@ -45,7 +45,7 @@ function GuerillaGamesPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite no concrete information, I predict Guerilla&#39;s next game
             is Horizon 3 for the following reasons:
@@ -91,7 +91,7 @@ function GuerillaGamesPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Guerrilla Games" />
     </Container>
   );

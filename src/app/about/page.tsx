@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import Container from "../components/Container";
-import DeveloperTitle from "../components/DeveloperTitle";
-import DeveloperSubTitle from "../components/DeveloperSubTitle";
+import Title from "../components/Title";
+import SubTitle from "../components/SubTitle";
 import Paragraph from "../components/Paragraph";
 
 export const metadata: Metadata = {
@@ -14,10 +14,10 @@ export const metadata: Metadata = {
 function AboutPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="About PS5 Studios" />
+      <Title title="About PS5 Studios" />
 
       {/* Overview Section */}
-      <DeveloperSubTitle subtitle="Overview" />
+      <SubTitle subtitle="Overview" />
       <Paragraph marginBottom={8}>
         Welcome to PS5 Studios! This site is my fan-made project that aims to
         provide a comprehensive overview of all the first-party developers part
@@ -25,7 +25,7 @@ function AboutPage(): JSX.Element {
       </Paragraph>
 
       {/* Why Section */}
-      <DeveloperSubTitle subtitle="Why PS5 Studios Exists" />
+      <SubTitle subtitle="Why PS5 Studios Exists" />
       <Paragraph>
         The video game industry has changed significantly since the PS4 era -
         more so than any industry analyst anticipated. Ballooning game budgets,
@@ -49,7 +49,7 @@ function AboutPage(): JSX.Element {
       </Paragraph>
 
       {/* Developers Section */}
-      <DeveloperSubTitle subtitle="Developers Section" />
+      <SubTitle subtitle="Developers Section" />
       <Paragraph>
         This section is the focal point of the site. Each page provides a brief
         history of a PlayStation developer, analyzes the games they&#39;ve
@@ -74,7 +74,7 @@ function AboutPage(): JSX.Element {
       </Paragraph>
 
       {/* PS5 Games Section */}
-      <DeveloperSubTitle subtitle="PS5 Games Section" />
+      <SubTitle subtitle="PS5 Games Section" />
       <Paragraph>
         This section provides a list of every released and upcoming PS5 game
         from PlayStation Studios (so no PC ports). You&#39;ll see the game&#39;s
@@ -86,7 +86,7 @@ function AboutPage(): JSX.Element {
       </Paragraph>
 
       {/* Stats Section */}
-      <DeveloperSubTitle subtitle="Stats Section" />
+      <SubTitle subtitle="Stats Section" />
       <Paragraph>
         My favorite section of the site! This is where the analysis goes many
         layers deep to provide a number of stats for each first-party dev and
@@ -116,7 +116,7 @@ function AboutPage(): JSX.Element {
       </Paragraph>
 
       {/* GitHub Link Section */}
-      <DeveloperSubTitle subtitle="GitHub Link" />
+      <SubTitle subtitle="GitHub Link" />
       <Paragraph>
         If you enjoyed the site, I would greatly appreciate if you starred the
         linked repository in the header. Or you can click{" "}

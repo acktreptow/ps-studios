@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import insomniacPortfolio from "../../../../public/images/dev-pages/insomniac-portfolio.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function InsomniacGamesPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Insomniac Games" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Insomniac Games" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1994, this California-based studio had been developing
         PlayStation exclusives decades before being officially acquired by Sony
@@ -47,7 +47,7 @@ function InsomniacGamesPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Most people agree that Insomniac have been the most important
             PlayStation studio this generation. That&#39;s because they&#39;ve
@@ -86,7 +86,7 @@ function InsomniacGamesPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Insomniac Games" />
     </Container>
   );

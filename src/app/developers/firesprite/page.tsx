@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import horizonCoTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function FirespritePage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Firesprite" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Firesprite" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2012, Firesprite is a Liverpool-based developer formed by
         ex-members of first-party developer Sony Liverpool, which closed weeks
@@ -40,7 +40,7 @@ function FirespritePage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Firesprite hasn&#39;t announced anything since Horizon CoTM shipped
             15 months ago. This is likely because of the studio&#39;s dire
@@ -77,7 +77,7 @@ function FirespritePage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Firesprite" />
     </Container>
   );

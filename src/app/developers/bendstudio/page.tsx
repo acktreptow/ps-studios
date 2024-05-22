@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 import daysGone from "../../../../public/images/dev-pages/days-gone.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import List from "../../components/List";
@@ -17,8 +17,8 @@ export const metadata: Metadata = {
 function BendStudioPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Bend Studio" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Bend Studio" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1992, this Oregon-based developer is best known for
         developing the Syphon Filter series on PS1, PS2 and PSP. They&#39;ve
@@ -33,7 +33,7 @@ function BendStudioPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Days Gone releasing 5 years ago, we still know very little
             about their next title. But due to internal leaks and some

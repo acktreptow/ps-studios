@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import ds2OTB from "../../../../public/images/dev-pages/ds2.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function XDevpage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="XDev" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="XDev" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t
         develop games themselves, but instead collaborate with external studios
@@ -40,7 +40,7 @@ function XDevpage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             XDev have two games publicly in development. A remake of 2015&#39;s
             Until Dawn by Ballistic Moon and Death Stranding 2 by Kojima
@@ -78,7 +78,7 @@ function XDevpage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="XDev" />
     </Container>
   );

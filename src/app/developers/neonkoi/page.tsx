@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 import savageLogo from "../../../../public/images/dev-pages/savage-logo.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
 function NeonKoiPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Neon Koi" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Neon Koi" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Neon Koi is a German-Finnish developer that was founded in 2020 under
         the name &#39;Savage Game Studios&#39;. It was under this initial name
@@ -31,7 +31,7 @@ function NeonKoiPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Still interested in Neon Koi&#39;s mobile offerings? Well, I still
             wouldn&#39;t hold my breath. Despite forming over four years ago,

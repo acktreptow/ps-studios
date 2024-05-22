@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import developersData from "../data/developers.json";
 import Container from "../components/Container";
-import DeveloperTitle from "../components/DeveloperTitle";
-import DeveloperSubTitle from "../components/DeveloperSubTitle";
+import Title from "../components/Title";
+import SubTitle from "../components/SubTitle";
 import Paragraph from "../components/Paragraph";
 import StatsList from "../components/StatsList";
 
@@ -23,8 +23,8 @@ const developers: Developer[] = developersData;
 function StatsPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="PS Studios Stats" />
-      <DeveloperSubTitle subtitle="Overview" />
+      <Title title="PS Studios Stats" />
+      <SubTitle subtitle="Overview" />
       <Paragraph>
         Here are various stats across PS Studios over the PS5 generation.
       </Paragraph>
@@ -50,7 +50,7 @@ function StatsPage(): JSX.Element {
 
       <div className="lg:flex items-center">
         <div>
-          <DeveloperSubTitle subtitle="Other Stats" marginBottom={5} />
+          <SubTitle subtitle="Other Stats" marginBottom={5} />
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Game Stats:
           </h3>

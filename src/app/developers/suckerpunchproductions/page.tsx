@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import gotDC from "../../../../public/images/dev-pages/got-dc.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function SuckerPunchProductionsPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Sucker Punch Productions" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Sucker Punch Productions" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Sucker Punch are a Washington-based developer that was founded in 1997,
         initially to work on an N64 game called Rocket: Robot on Wheels.
@@ -44,7 +44,7 @@ function SuckerPunchProductionsPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             It&#39;s been nearly four years since SP achieved new highs, both
             commercially and critically, with GoT. It&#39;s therefore not
@@ -71,7 +71,7 @@ function SuckerPunchProductionsPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Sucker Punch Productions" />
     </Container>
   );

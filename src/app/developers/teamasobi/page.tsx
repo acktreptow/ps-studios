@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import astroBot from "../../../../public/images/dev-pages/astro-bot.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function TeamAsobiPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Team Asobi" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Team Asobi" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Team Asobi is a Tokyo-based developer that technically, was formed in
         2021. Asobi originally formed in 2012 as part of Japan Studio, but
@@ -40,7 +40,7 @@ function TeamAsobiPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Astro&#39;s Playroom releasing over three years ago, we
             still haven&#39;t officially heard anything about Asobi&#39;s next
@@ -80,7 +80,7 @@ function TeamAsobiPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Team Asobi" />
     </Container>
   );

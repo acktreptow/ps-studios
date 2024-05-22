@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import tlouFactions from "../../../../public/images/dev-pages/tlou-factions.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function NaughtyDogPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Naughty Dog" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Naughty Dog" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Naughty Dog are a California-based developer that was founded back in
         1984. Over a decade before the PS1!
@@ -41,7 +41,7 @@ function NaughtyDogPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Like Insomniac, Naughty Dog have released four games on PS5. A
             record for first-party. Unlike Insomniac though, all four games are
@@ -82,7 +82,7 @@ function NaughtyDogPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Naughty Dog" />
     </Container>
   );

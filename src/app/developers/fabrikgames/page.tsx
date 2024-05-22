@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 import thePersistence from "../../../../public/images/dev-pages/the-persistence.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
 function FabrikGamesPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Fabrik Games" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Fabrik Games" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2014, this Manchester-based developer has shipped games like
         2016&#39;s &#39;Filthy Lucre&#39; for the PS4 and 2017&#39;s &#39;The
@@ -39,7 +39,7 @@ function FabrikGamesPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             As Fabrik are only a support studio to Firesprite, they&#39;ve not
             released a PS5 game. Nor should you expect them to barring

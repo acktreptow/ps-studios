@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 import sackboy from "../../../../public/images/dev-pages/sackboy.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 
@@ -16,8 +16,8 @@ export const metadata: Metadata = {
 function MediaMoleculePage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Media Molecule" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Media Molecule" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2006, this Surrey-based developer is primarily known for the
         critically acclaimed LittleBigPlanet series that started on the PS3 in
@@ -33,7 +33,7 @@ function MediaMoleculePage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Whatever Media Molecule&#39;s next game is, I wouldn&#39;t expect
             much as they&#39;re far removed from their heyday during the PS3

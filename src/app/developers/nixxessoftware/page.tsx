@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import gotTrophies from "../../../../public/images/dev-pages/got-trophies.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function NixxesSoftwarePage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Nixxes Software" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Nixxes Software" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1999, this Utrecht-based studio holds a unique position
         within PlayStation Studios ever since being acquired in 2021.
@@ -43,7 +43,7 @@ function NixxesSoftwarePage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Nixxes are an incredibly important studio for PlayStation as this is
             the easiest way Sony finds growth outside of the console market.
@@ -80,7 +80,7 @@ function NixxesSoftwarePage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PC Ports" marginBottom={5} />
+      <SubTitle subtitle="PC Ports" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Nixxes Software" />
     </Container>
   );

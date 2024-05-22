@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import seleneVassos from "../../../../public/images/dev-pages/selene-vassos.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function HousemarquePage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Housemarque" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Housemarque" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1995, this Finnish-based developer has released a myriad of
         games on PlayStation consoles including Super Stardust and Resogun.
@@ -42,7 +42,7 @@ function HousemarquePage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Returnal is Housemarque&#39;s only PS5 title. Yet despite releasing
             three years ago, we know nothing about the next game. Nonetheless,
@@ -74,7 +74,7 @@ function HousemarquePage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Housemarque" />
     </Container>
   );

@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import List from "../../components/List";
 import ImageSection from "../../components/ImageSection";
@@ -22,8 +22,8 @@ const gamesArray: Game[] = gamesData;
 function BungiePage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Bungie" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Bungie" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1991, this Washington-based developer is the most unique
         first-party studio for a variety of reasons:
@@ -58,7 +58,7 @@ function BungiePage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             On PS5, Bungie has only released a port of Destiny 2. In 2023, they
             announced a live-service extraction shooter called Marathon, but
@@ -91,7 +91,7 @@ function BungiePage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Bungie" />
     </Container>
   );

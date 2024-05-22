@@ -4,8 +4,8 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import demonsSouls from "../../../../public/images/dev-pages/demons-souls.png";
 import Container from "../../components/Container";
-import DeveloperTitle from "../../components/DeveloperTitle";
-import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Title from "../../components/Title";
+import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
@@ -21,8 +21,8 @@ const gamesArray: Game[] = gamesData;
 function BluepointGamesPage(): JSX.Element {
   return (
     <Container>
-      <DeveloperTitle title="Bluepoint Games" />
-      <DeveloperSubTitle subtitle="History" />
+      <Title title="Bluepoint Games" />
+      <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2006, this Texas-based developer is known for its excellent
         remasters and remakes.
@@ -43,7 +43,7 @@ function BluepointGamesPage(): JSX.Element {
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
-          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Demon&#39;s Souls releasing over 3 years ago, we don&#39;t
             even have the name for Bluepoint&#39;s next game. All we know is
@@ -75,7 +75,7 @@ function BluepointGamesPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Bluepoint Games" />
     </Container>
   );

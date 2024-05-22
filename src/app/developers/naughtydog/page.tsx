@@ -1,7 +1,14 @@
 import { Metadata } from "next";
 import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import tlouFactions from "../../../../public/images/dev-pages/tlou-factions.png";
+import Container from "../../components/Container";
+import DeveloperTitle from "../../components/DeveloperTitle";
+import DeveloperSubTitle from "../../components/DeveloperSubTitle";
+import Paragraph from "../../components/Paragraph";
+import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "Naughty Dog",
@@ -9,75 +16,57 @@ export const metadata: Metadata = {
     "The history and future of Naughty Dog, a first-party developer for PlayStation Studios.",
 };
 
-type Game = {
-  developer: string;
-  name: string;
-  id: string;
-  genre: string;
-  releaseDate: string;
-  daysBetweenReleases: number | string;
-  metacritic: number | string;
-};
-
-const games: Game[] = gamesData;
+const gamesArray: Game[] = gamesData;
 
 function NaughtyDogPage(): JSX.Element {
   return (
-    <div className="bg-white text-gray-700 p-10 container mx-auto flex-grow">
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 tracking-wide md:leading-relaxed">
-        Naughty Dog
-      </h1>
-      <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">History</span>
-      </h2>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+    <Container>
+      <DeveloperTitle title="Naughty Dog" />
+      <DeveloperSubTitle subtitle="History" />
+      <Paragraph>
         Naughty Dog are a California-based developer that was founded back in
         1984. Over a decade before the PS1!
-      </p>
-      <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph>
         They&#39;re also one of the earliest first-party developers as Sony
         acquired them in 2001. An easy decision considering the critical and
         commercial success of their Crash Bandicoot trilogy on the PS1.
-      </p>
-      <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+      </Paragraph>
+      <Paragraph marginBottom={8}>
         Naughty Dog had a fine PS2 gen with the Jak & Daxter series. However, it
         was the PS3 gen, with the Uncharted trilogy and The Last of Us, where
         their prestige grew to the point that many consider them the premier
         PlayStation studio. This continued into the PS4 gen with sequels in both
         IP.
-      </p>
-      <div className="lg:flex items-center">
+      </Paragraph>
+      <ImageSection flexOnMdScreens={false}>
         <div>
-          <h2 className="mb-3 text-gray-800 text-2xl font-semibold pb-1">
-            <span className="border-b-2 border-gray-300">
-              My Analysis & Predictions
-            </span>
-          </h2>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          <DeveloperSubTitle subtitle="My Analysis & Predictions" />
+          <Paragraph>
             Like Insomniac, Naughty Dog have released four games on PS5. A
             record for first-party. Unlike Insomniac though, all four games are
             remasters/remakes of PS4 Uncharted/TLOU games.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             While remakes/remasters are nice, they were somewhat unnecessary due
             to the PS4 versions still playing great on PS5.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Furthermore, ND&#39;s only announced new game, TLOU Online, was
             cancelled four years into development. It&#39;s therefore hard to be
             confident despite the pedigree over the past two gens.
-          </p>
-          <p className="mb-5 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph>
             Unfortunately, it looks like ND have time for only one new game on
             PS5. A huge drop-off from previous output, although I&#39;m sure it
             will retain their premier quality.
-          </p>
-          <p className="mb-8 text-lg lg:text-xl lg:tracking-wide">
+          </Paragraph>
+          <Paragraph marginBottom={8}>
             Regardless, first-party developers like Insomniac have already begun
             supplanting them this gen. Something unthinkable when TLOU released
             in 2013. Hopefully they&#39;re able to return to their former glory
             for the PS6.
-          </p>
+          </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
@@ -92,37 +81,10 @@ function NaughtyDogPage(): JSX.Element {
             TLOU Online&#39;s Only Public Asset
           </label>
         </div>
-      </div>
-      <h2 className="mb-5 text-gray-800 text-2xl font-semibold pb-1">
-        <span className="border-b-2 border-gray-300">PS5 Games</span>
-      </h2>
-      <div className="mb-5 grid gap-5 sm:grid-cols-2">
-        {games
-          .filter((game: Game) => game.developer === "Naughty Dog")
-          .map((game: Game) => (
-            <div
-              key={game.id}
-              className="border-2 border-gray-200 rounded-lg shadow-md p-3 flex flex-col align-center"
-            >
-              <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
-                {game.name}
-              </h3>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Genre: {game.genre}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Release Date: {game.releaseDate}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Days Since Their Last Game: {game.daysBetweenReleases}
-              </p>
-              <p className="text-lg lg:text-xl lg:tracking-wide">
-                Metacritic Score: {game.metacritic}
-              </p>
-            </div>
-          ))}
-      </div>
-    </div>
+      </ImageSection>
+      <DeveloperSubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Naughty Dog" />
+    </Container>
   );
 }
 

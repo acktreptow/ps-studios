@@ -46,8 +46,6 @@ function PolyphonyDigitalPage(): JSX.Element {
           <Image
             src={kazunoriYamauchi}
             alt="Polyphony Digital founder Kazunori Yamauchi"
-            width={500}
-            height={500}
             id="kazunori-yamauchi"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-sm"
           />
@@ -83,8 +81,6 @@ function PolyphonyDigitalPage(): JSX.Element {
           <Image
             src={gt7PSVR2}
             alt="GT7 PSVR2"
-            width={500}
-            height={500}
             id="gt7-psvr2"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

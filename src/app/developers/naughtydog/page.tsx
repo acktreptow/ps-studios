@@ -72,8 +72,6 @@ function NaughtyDogPage(): JSX.Element {
           <Image
             src={tlouFactions}
             alt="The Last of Us Factions"
-            width={500}
-            height={500}
             id="tlou-factions"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

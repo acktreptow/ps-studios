@@ -55,8 +55,6 @@ function NeonKoiPage(): JSX.Element {
           <Image
             src={savageLogo}
             alt="Savage Game Studios Logo"
-            width={500}
-            height={500}
             id="savage-logo"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

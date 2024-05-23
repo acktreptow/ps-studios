@@ -70,8 +70,6 @@ function NixxesSoftwarePage(): JSX.Element {
           <Image
             src={gotTrophies}
             alt="Ghost of Tsushima PC trophies overlay"
-            width={500}
-            height={500}
             id="got-trophies"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

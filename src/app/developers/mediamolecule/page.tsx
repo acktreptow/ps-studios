@@ -61,8 +61,6 @@ function MediaMoleculePage(): JSX.Element {
           <Image
             src={sackboy}
             alt="Sackboy from LittleBigPlanet"
-            width={500}
-            height={500}
             id="sackboy"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

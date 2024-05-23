@@ -58,8 +58,6 @@ function ValkyrieEntertainmentPage(): JSX.Element {
           <Image
             src={gunsUpGameplay}
             alt="Guns Up! gameplay"
-            width={500}
-            height={500}
             id="guns-up"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

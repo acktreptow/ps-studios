@@ -68,8 +68,6 @@ function XDevpage(): JSX.Element {
           <Image
             src={ds2OTB}
             alt="Death Standing 2 On The Beach cutscene"
-            width={500}
-            height={500}
             id="d2s-otb"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

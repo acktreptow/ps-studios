@@ -54,8 +54,6 @@ function FabrikGamesPage(): JSX.Element {
           <Image
             src={thePersistence}
             alt="The Persistence"
-            width={500}
-            height={500}
             id="the-persistence"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

@@ -65,8 +65,6 @@ function BluepointGamesPage(): JSX.Element {
           <Image
             src={demonsSouls}
             alt="Demons's Souls cover art"
-            width={500}
-            height={500}
             id="demons-souls"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

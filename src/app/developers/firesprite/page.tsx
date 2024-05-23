@@ -67,8 +67,6 @@ function FirespritePage(): JSX.Element {
           <Image
             src={horizonCoTM}
             alt="Horizon Call of the MMountain gameplay screenshot"
-            width={500}
-            height={500}
             id="horizon-cotm"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

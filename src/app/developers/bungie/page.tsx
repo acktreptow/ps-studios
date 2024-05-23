@@ -81,8 +81,6 @@ function BungiePage(): JSX.Element {
           <Image
             src={finalShape}
             alt="Destiny 2: The Final Shape key art"
-            width={500}
-            height={500}
             id="final-shape"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

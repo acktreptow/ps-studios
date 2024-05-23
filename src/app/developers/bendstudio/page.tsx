@@ -67,8 +67,6 @@ function BendStudioPage(): JSX.Element {
           <Image
             src={daysGone}
             alt="Days Gone"
-            width={500}
-            height={500}
             id="days-gone"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

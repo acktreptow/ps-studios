@@ -65,8 +65,6 @@ function SanDiegoStudioPage(): JSX.Element {
           <Image
             src={mlb24}
             alt="MLB The Show 24 promotional material"
-            width={500}
-            height={500}
             id="mlb-24"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

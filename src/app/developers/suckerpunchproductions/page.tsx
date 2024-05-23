@@ -61,8 +61,6 @@ function SuckerPunchProductionsPage(): JSX.Element {
           <Image
             src={gotDC}
             alt="Ghost of Tsushima Director's Cut main menu screen"
-            width={500}
-            height={500}
             id="got-dc"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

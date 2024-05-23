@@ -70,8 +70,6 @@ function TeamAsobiPage(): JSX.Element {
           <Image
             src={astroBot}
             alt="Team Asobi with their mascot Astro Bot"
-            width={500}
-            height={500}
             id="astro-bot"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

@@ -64,8 +64,6 @@ function HousemarquePage(): JSX.Element {
           <Image
             src={seleneVassos}
             alt="Returnal's Selene Vassos"
-            width={500}
-            height={500}
             id="selene-vassos"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

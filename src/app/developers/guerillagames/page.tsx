@@ -81,8 +81,6 @@ function GuerillaGamesPage(): JSX.Element {
           <Image
             src={burningShores}
             alt="Horizon Burning Shores key art"
-            width={500}
-            height={500}
             id="burning-shores"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

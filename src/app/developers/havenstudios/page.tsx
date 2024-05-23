@@ -47,8 +47,6 @@ function HavenStudiosPage(): JSX.Element {
           <Image
             src={jadeRaymond}
             alt="Picture of Jade Raymond"
-            width={500}
-            height={500}
             id="jade-raymond"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-sm"
           />

@@ -61,8 +61,6 @@ function FirewalkStudiosPage(): JSX.Element {
           <Image
             src={concord}
             alt="Concord key art"
-            width={500}
-            height={500}
             id="concord"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

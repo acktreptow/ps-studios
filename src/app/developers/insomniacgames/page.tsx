@@ -73,8 +73,6 @@ function InsomniacGamesPage(): JSX.Element {
           <Image
             src={insomniacPortfolio}
             alt="Insomniac's PS5 portfolio"
-            width={500}
-            height={500}
             id="insomniac-portfolio"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

@@ -12,9 +12,26 @@ export const metadata: Metadata = {
     template: "%s | PS5 Studios",
   },
   description:
-    "A fan site about the first-party developers under PlayStation Studios during the PS5 era.",
+    "Analyzing the first-party developers under PlayStation Studios during the PS5 era.",
   icons: {
     icon: "images/favicon.ico",
+  },
+  openGraph: {
+    title: "PS5 Studios",
+    description:
+      "Analyzing the first-party developers under PlayStation Studios during the PS5 era.",
+    url: "https://ps5studios.com",
+    siteName: "PS5 Studios",
+    images: [
+      {
+        url: "images/opengraph.png",
+        width: 1200,
+        height: 630,
+        alt: "PS5 Studios",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
   },
 };
 

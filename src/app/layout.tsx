@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://ps5studios.com"),
   title: {
     default: "PS5 Studios",
     template: "%s | PS5 Studios",

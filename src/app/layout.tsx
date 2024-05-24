@@ -17,17 +17,16 @@ export const metadata: Metadata = {
     icon: "images/favicon.ico",
   },
   openGraph: {
-    title: "PS5 Studios - The Site About PlayStation Studios For PS5.",
+    title: "PS5 Studios - The Site About PlayStation Studios For PS5",
     description:
-      "Analyzing the first-party developers under PlayStation Studios during the PS5 era.",
+      "Analyzing first-party developers under PlayStation Studios during the PS5 era.",
     url: "https://ps5studios.com",
     siteName: "PS5 Studios",
     images: [
       {
-        url: "../../public/images/opengraph-image.png",
+        url: "images/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "PS5 Studios",
       },
     ],
     locale: "en_US",

@@ -5,7 +5,7 @@ import { useState } from "react";
 import gamesData from "../data/games.json";
 import Container from "../components/Container";
 import Paragraph from "../components/Paragraph";
-import GameHeader from "../components/GameHeader";
+import GameTitle from "../components/GameTitle";
 
 const games: Game[] = gamesData;
 
@@ -56,7 +56,7 @@ function PS5GamesClient(): JSX.Element {
               key={game.id}
               className="border-2 border-gray-200 rounded-lg shadow-md p-3"
             >
-              <GameHeader>{game.name}</GameHeader>
+              <GameTitle>{game.name}</GameTitle>
               <Paragraph marginBottom={0}>
                 Developer: {game.developer}
               </Paragraph>

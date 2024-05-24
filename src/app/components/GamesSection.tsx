@@ -1,6 +1,6 @@
 import { Game } from "../types/Game";
 import Paragraph from "./Paragraph";
-import GameHeader from "./GameHeader";
+import GameTitle from "./GameTitle";
 
 type GamesSectionProps = {
   developer: string;
@@ -17,7 +17,7 @@ function GamesSection({ games, developer }: GamesSectionProps): JSX.Element {
             key={game.id}
             className="border-2 border-gray-200 rounded-lg shadow-md p-3"
           >
-            <GameHeader>{game.name}</GameHeader>
+            <GameTitle>{game.name}</GameTitle>
             <Paragraph marginBottom={0}>Genre: {game.genre}</Paragraph>
             <Paragraph marginBottom={0}>
               Release Date: {game.releaseDate}

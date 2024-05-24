@@ -1,8 +1,8 @@
-type GameHeaderProps = {
+type GameTitleProps = {
   children: React.ReactNode;
 };
 
-function GameHeader({ children }: GameHeaderProps): JSX.Element {
+function GameTitle({ children }: GameTitleProps): JSX.Element {
   return (
     <h3 className="text-xl font-bold text-center mb-1 lg:text-2xl lg:mb-3">
       {children}
@@ -10,4 +10,4 @@ function GameHeader({ children }: GameHeaderProps): JSX.Element {
   );
 }
 
-export default GameHeader;
+export default GameTitle;

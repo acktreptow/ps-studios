@@ -19,11 +19,11 @@ function HomepageClient(): JSX.Element {
   };
 
   return (
-    <main className="bg-playstation text-center p-5 container mx-auto flex-grow">
-      <h1 className="text-4xl font-bold py-2 my-5 lg:text-6xl text-white">
+    <main className="bg-white text-center p-5 container mx-auto flex-grow">
+      <h1 className="text-4xl font-bold py-2 my-5 lg:text-6xl">
         PS Studios for PS5
       </h1>
-      <p className="text-xl py-2 mb-6 lg:text-2xl lg:tracking-wide text-white">
+      <p className="text-xl py-2 mb-6 lg:text-2xl lg:tracking-wide">
         Everything you need to know about Sony&#39;s first-party games for the
         PS5.
       </p>
@@ -73,7 +73,7 @@ function HomepageClient(): JSX.Element {
               width={500}
               height={500}
               alt={`${developer.name} Logo`}
-              className="transform scale-90 rounded-lg border-2 border-white"
+              className="transform scale-90 rounded-lg"
             />
           </Link>
         ))}

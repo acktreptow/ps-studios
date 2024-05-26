@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "PS5 Studios",
     images: [
       {
-        url: "/og-image.png",
+        url: "/opengraph-image.png",
         width: 1200,
         height: 630,
       },

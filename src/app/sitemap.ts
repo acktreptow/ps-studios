@@ -1,13 +1,14 @@
 import { MetadataRoute } from "next";
 import developers from "../app/data/developers.json";
+import { Developer } from "../app/types/Developer";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const developersEntries: MetadataRoute.Sitemap = developers
     .filter(
-      (developer) =>
+      (developer: Developer) =>
         developer.name !== "PlayStation Logo" && developer.name !== "PS5 Logo"
     )
-    .map((developer) => ({
+    .map((developer: Developer) => ({
       url: `${process.env.NEXT_PUBLIC_BASE_URL}/developers/${developer.urlPath}`,
       lastModified: new Date(),
     }));

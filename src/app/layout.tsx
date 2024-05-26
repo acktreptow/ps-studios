@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: "PS5 Studios - The Site About PlayStation Studios For PS5",
     description:
       "Analyzing first-party developers under PlayStation Studios during the PS5 era.",
-    url: "https://ps5studios.com",
+    url: process.env.NEXT_PUBLIC_BASE_URL,
     siteName: "PS5 Studios",
     images: [
       {

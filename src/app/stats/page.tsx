@@ -106,6 +106,14 @@ function StatsPage(): JSX.Element {
               Studio with the longest duration since their last release: Bend
               Studio with Days Gone (April 2019)
             </li>
+            <li>
+              Studio with the shortest duration since their last release:
+              Insomniac Games with Spider-Man 2 (October 2023)
+            </li>
+            <li>
+              Most recent PlayStation Studios game (including second-party):
+              XDev with Shift Up&#39;s Stellar Blade (April 2024)
+            </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>
               Studio with highest average Metacritic score: Sony Santa Monica

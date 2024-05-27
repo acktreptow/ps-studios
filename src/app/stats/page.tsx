@@ -62,6 +62,8 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2022: 6</li>
             <li>PS5 games released in 2023: 4</li>
             <li>PS5 games released in 2024 so far: 5</li>
+            <li>PS5 games that are remasters/remakes: 10</li>
+            <li>PS5 games that are on Xbox: 6</li>
             <li>Unreleased announced PS5 games: 6</li>
             <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
             <li>

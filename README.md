@@ -19,15 +19,19 @@ I had 2 goals for this project:
 
 Both of these goals were achieved.
 
+#### Tech-Focused Goal
+
 For the first, more tech-focus goal, I have coded a feature-rich Next.js application that includes, but is not limited to the following:
 
 - **Server Components:** Creating as many server components as possible for optimized server-side rendering.
 - **App Router:** Utilizing the app router for numerous, often nested pages.
 - **Next.js Components:** Using components like Image & Link.
-- **SEO Optimization:** Ensuring correct metadata throughout, along with a sitemap for server-side SEO.
+- **SEO Optimization:** Ensuring correct metadata throughout, along with a sitemap and robots file for server-side SEO.
 - **React Features:** Implementing features you'd find in a regular React app, like custom components and high-order functions to keep the code DRY.
 - **TypeScript:** Maintaining type-safety throughout to ensure clean code.
-- **Tailwind CSS:** Using Tailwind CSS to create an engaging, responsive UI/UX for mobile and tablet.
+- **Tailwind CSS:** Using Tailwind CSS to create an engaging, responsive UI/UX for mobile, tablet and desktop.
+
+#### User-Focused Goal
 
 For the second goal, the average video games player would learn a lot from ps5studios.com due to its 5 sections:
 
@@ -37,7 +41,7 @@ For the second goal, the average video games player would learn a lot from ps5st
 4. **Stats section**: This is where the analysis goes many layers deep to provide a number of stats for each first-party developer and the PlayStation Studios umbrella as a whole. They range from basic ones like how many PS5 games each developer has released, to more complex ones like which developer's has the highest average Metacritic score.
 5. **About section**: This goes into more detail about all the pages, as well as why I felt this site was necessary to create.
 
-Overall, this was one of the most fulfilling projects I have worked on as it not only significantly improved my Next.js, TypeScript and Tailwind skills, but it's also something that stands on it own outside of the coding world.
+Overall, this was one of the most fulfilling projects I have worked on. It not only significantly improved my Next.js, TypeScript and Tailwind skills, but it's also an engaging and informative website that stands on it own outside of the coding world.
 
 ## Installation
 
@@ -68,4 +72,4 @@ I don't plan on any significant changes in regards to the code, but have left th
 
 ## License
 
-ps5studios.com is owned and registered to Alex Treptow via Hostinger. All rights reserved.
+ps5studios.com is owned and registered to Alex Treptow via Hostinger. All rights reserved. This project is proprietary, and the source code is not available for public use without permission.

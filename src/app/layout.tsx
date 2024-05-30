@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "PS5 Studios",
     images: [
       {
-        url: "/opengraph-image-new.png",
+        url: "/opengraph-image.png",
         width: 1200,
         height: 630,
       },
@@ -34,6 +34,7 @@ export const metadata: Metadata = {
     type: "website",
   },
   twitter: {
+    title: "Analysis, Stats & Future of PlayStation Studios on PS5",
     card: "summary_large_image",
   },
 };

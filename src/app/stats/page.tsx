@@ -66,6 +66,8 @@ function StatsPage(): JSX.Element {
             <li>PS5 games that are on Xbox: 6</li>
             <li>PS5 games that are on Nintendo Switch: 4</li>
             <li>PS5 games that are on PC: 15</li>
+            <li>PS5 games that originated on PS3: 2</li>
+            <li>PS5 games that originated on PS4: 8</li>
             <li>Unreleased announced PS5 games: 6</li>
             <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
             <li>

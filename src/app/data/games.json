@@ -270,6 +270,15 @@
     "metacritic": 83
   },
   {
+    "developer": "Team Asobi",
+    "name": "Astro Bot",
+    "id": "Astro Bot",
+    "genre": "Platformer",
+    "releaseDate": "September 6, 2024",
+    "daysBetweenReleases": 1395,
+    "metacritic": "N/A"
+  },
+  {
     "developer": "XDev",
     "name": "Sackboy: A Big Adventure",
     "id": "Sackboy",

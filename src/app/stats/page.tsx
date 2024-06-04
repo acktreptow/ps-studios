@@ -72,12 +72,9 @@ function StatsPage(): JSX.Element {
             <li>
               PS5 games that have a VR mode: 4 (The Persistence is only PSVR1)
             </li>
-            <li>Unreleased announced PS5 games: 6</li>
+            <li>Unreleased announced PS5 games: 7</li>
             <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
-            <li>
-              Next PS5 game: N/A. There&#39;s no exact dates for upcoming PS5
-              titles.
-            </li>
+            <li>Next PS5 game: Concord from Firewalk - August 23, 2024</li>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Studio Stats:

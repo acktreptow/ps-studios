@@ -57,11 +57,13 @@ function FirewalkStudiosPage(): JSX.Element {
             soon.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Update: May 30, 2024 - Firewalk released 2 trailers for Concord at
-            PlayStation&#39;s State of Play. A CG story trailer and a gameplay
-            trailer. Both were not well received. Firealk did also announced the
-            release date of August 23 though, so it won&#39;t be long until we
-            find out how good Concord is ourselves.
+            <span className="font-bold">Update: May 30, 2024</span> - Firewalk
+            released 2 trailers for Concord at PlayStation&#39;s State of Play.
+            A CG story trailer and a gameplay trailer - both were not well
+            received. Firewalk also announced the release date of August 23
+            though, so it won&#39;t be long until we find out how good Concord
+            is ourselves. It&#39;s not looking good though. So change me to
+            cautiously pessimistic.
           </Paragraph>
         </div>
         <div>

@@ -66,10 +66,12 @@ function TeamAsobiPage(): JSX.Element {
             desperately needs a win.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Update: May 30, 2024 - Team Asobi has announced their next game,
-            simply called Astro Bot. It&#39;s their biggest game to date and
-            will release on PS5 September 6, 2024. We don&#39; know if
-            there&#39;s any VR mode, but it won&#39;t be long until we find out!
+            <span className="font-bold">Update: May 30, 2024</span> - Team Asobi
+            has announced their next game with a gameplay trailer at
+            PlayStation&#39;s State of Play. Simply called Astro Bot, it&#39;s
+            their biggest game to date and will release on PS5 September 6,
+            2024. No VR mode in confirmed, but it won&#39;t be long until we
+            find out!
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

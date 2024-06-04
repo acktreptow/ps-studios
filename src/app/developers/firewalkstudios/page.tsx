@@ -51,10 +51,17 @@ function FirewalkStudiosPage(): JSX.Element {
             optimistic until we see something that proves otherwise. At least
             when it comes to the gameplay.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             Concord has recently been reconfirmed for a 2024 release, so we
             <span className="italic">should</span> see something substantial
             soon.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            Update: May 30, 2024 - Firewalk released 2 trailers for Concord at
+            PlayStation&#39;s State of Play. A CG story trailer and a gameplay
+            trailer. Both were not well received. Firealk did also announced the
+            release date of August 23 though, so it won&#39;t be long until we
+            find out how good Concord is ourselves.
           </Paragraph>
         </div>
         <div>

@@ -71,6 +71,7 @@ function StatsPage(): JSX.Element {
             <li>PSVR2 games: 2</li>
             <li>PS5 games from JP studios: 3</li>
             <li>PS5 games from EU studios: 4</li>
+            <li>PS5 games from NA studios: 29</li>
             <li>
               PS5 games that have a VR mode: 4 (The Persistence is only PSVR1)
             </li>

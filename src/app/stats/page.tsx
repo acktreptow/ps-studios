@@ -69,6 +69,8 @@ function StatsPage(): JSX.Element {
             <li>PS5 games that originated on PS3: 2</li>
             <li>PS5 games that originated on PS4: 8</li>
             <li>PSVR2 games: 2</li>
+            <li>PS5 games from JP studios: 3</li>
+            <li>PS5 games from EU studios: 4</li>
             <li>
               PS5 games that have a VR mode: 4 (The Persistence is only PSVR1)
             </li>

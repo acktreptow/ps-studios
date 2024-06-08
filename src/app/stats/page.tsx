@@ -81,6 +81,8 @@ function StatsPage(): JSX.Element {
             <li>Unreleased announced PS5 games: 7</li>
             <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
             <li>Next PS5 game: Concord from Firewalk - August 23, 2024</li>
+            <li>XDev released PS5 games: 8</li>
+            <li>XDev released PS5 games: 2</li>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Studio Stats:

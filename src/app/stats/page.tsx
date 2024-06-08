@@ -90,7 +90,9 @@ function StatsPage(): JSX.Element {
           <StatsList isNumbered={false}>
             <li>Studios in NA: 13</li>
             <li>Studios in EU: 7</li>
-            <li className="mb-3">Studios in JP: 2</li>
+            <li>Studios in JP: 2</li>
+            <li className="mb-3">Oldest studio: Naughty Dog (founded 1984) </li>
+            <li>First acquired studio: Bend Studio (2000)</li>
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10
             </li>

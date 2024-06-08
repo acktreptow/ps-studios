@@ -70,11 +70,21 @@ function GuerillaGamesPage(): JSX.Element {
             development. It would therefore be nonsensical for Guerilla to move
             on right now.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             You can expect &#39;Horizon 3&#39; in roughly 2027 that plays
             similar to the first two. It&#39;s only been two years since
             Forbidden West though, so don&#39;t expect to see anything until
             2025 at the earliest.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            <span className="font-bold">Update: June 7, 2024</span> Lego Horizon
+            Adventures has officially been announced at the Summer Games Fest
+            showcase. It&#39;s a (primarily) co-op standalone game set in the
+            Horizon universe that is set to release this holiday. Perhaps most
+            surprisingly, it will also be releasing day and date on not only PC,
+            but also the Nintendo Switch! Considering the Lego IP, it does make
+            sense even though no one expected that. Either way, we will find out
+            how it performs soon enough.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

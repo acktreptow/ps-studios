@@ -91,8 +91,18 @@ function StatsPage(): JSX.Element {
             <li>Studios in NA: 13</li>
             <li>Studios in EU: 7</li>
             <li>Studios in JP: 2</li>
-            <li className="mb-3">Oldest studio: Naughty Dog (founded 1984) </li>
-            <li>First acquired studio: Bend Studio (2000)</li>
+            <li>Oldest studio: Naughty Dog (founded 1984)</li>
+            <li>Newest studio: Haven Studios (founded 2021)</li>
+            <li className="mb-3">First acquired studio: Bend Studio (2000)</li>
+            <li className="mb-1">Studios created internally: 6</li>
+            <StatsList isNumbered={true}>
+              <li>Polyphony (1998)</li>
+              <li>San Diego Studio (2001)</li>
+              <li>San Mateo Studio (1998)</li>
+              <li>Santa Monica Studio (1999)</li>
+              <li>Team Asobi (2021)</li>
+              <li>XDev (2000)</li>
+            </StatsList>
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10
             </li>

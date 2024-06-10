@@ -34,36 +34,32 @@ function FirewalkStudiosPage(): JSX.Element {
         in 2023.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Firewalk then announced their first game: Concord. A live-service PVP
-        shooter with an 80&#39;s sci-fi aesthetic. It launches on PS5 and PC in
-        2024.
+        Firewalk then announced their first game: Concord. A live-service 5 vs 5
+        PVP shooter with a 70&#39;s sci-fi aesthetic. It launches on PS5 and PC
+        in 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Everything we know about Concord is written above, so there&#39;s
-            not a lot to go off. However, the pedigree of Firewalk&#39;s
-            founders instills confidence.
+            It took over a year, but we finally got a good look at Concord in
+            May 2024 with a CG story trailer and a gameplay one - both were very
+            poorly received.
           </Paragraph>
           <Paragraph>
-            They know how to make a good shooter, so I&#39;m cautiously
-            optimistic until we see something that proves otherwise. At least
-            when it comes to the gameplay.
-          </Paragraph>
-          <Paragraph>
-            Concord has recently been reconfirmed for a 2024 release, so we
-            <span className="italic">should</span> see something substantial
-            soon.
+            The story was seen as a poor clone of Marvel writing - specifically
+            Guardians of the Galaxy. The hero shooter gameplay was seen as a
+            poor clone of Overwatch.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            <span className="font-bold">Update: May 30, 2024</span> - Firewalk
-            released 2 trailers for Concord at PlayStation&#39;s State of Play.
-            A CG story trailer and a gameplay trailer - both were not well
-            received. Firewalk also announced the release date of August 23
-            though, so it won&#39;t be long until we find out how good Concord
-            is ourselves. It&#39;s not looking good though. So change me to
-            cautiously pessimistic.
+            Despite this poor initial deep dive however, the pedigree of
+            Firewalk&#39;s founders instills some confidence. They know how to
+            make a good shooter, at least when it comes to the gameplay.
+          </Paragraph>
+          <Paragraph>
+            Fortunately, this won&#39;t be too long. Concord has a beta in July
+            and releases on August 23 for only $34.99. So for now, I&#39;m still
+            cautiously optimistic until I can try it out myself.
           </Paragraph>
         </div>
         <div>

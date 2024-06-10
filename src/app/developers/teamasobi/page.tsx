@@ -43,20 +43,17 @@ function TeamAsobiPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Astro&#39;s Playroom releasing over three years ago, it took
-            until Sony&#39;s May 2024 State of Play to announce Team Asobi&#39;s
-            next game - simply called Astro Bot.
+            until May 2024 for Team Asobi to announce their next game - simply
+            called Astro Bot.
           </Paragraph>
           <Paragraph>
-            There rumors of the game&#39;s scope and that it would release
-            shortly after announcement proved to be true as well. Not only is
-            Astro Bot Asobi&#39;s biggest game yet with over 80 levels, but
-            it&#39;s releasing September 6, 2024 - just three months after the
-            announcement.
+            The rumors of its scope and quick release also proved to be true.
+            Astro Bot is their biggest game yet and is releasing on September 6.
           </Paragraph>
           <Paragraph>
             Astro&#39;s Playroom was an incredible game that even after hundreds
             of PS5 games later, still has made the best use of the DualSense.
-            It&#39;s also the reason Asobi survived the closure of Japan Studio.
+            It&#39;s why Asobi survived the Japan Studio closure.
           </Paragraph>
           <Paragraph>
             With Astro Bot also having double the development time, there&#39;s
@@ -64,10 +61,8 @@ function TeamAsobiPage(): JSX.Element {
             Sony&#39;s portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Pour one out for PSVR2 though. Astro Bot is confirmed to not have
-            any VR mode. If there was any first-party game to even just include
-            an optional mode, it&#39;s Astro Bot. The fact that even this game
-            is skipping VR is a bad sign for the future of PSVR2.
+            Pour one out for PSVR2 though - Astro Bot is confirmed to not have a
+            VR mode. A very bad sign for the future of PSVR2.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

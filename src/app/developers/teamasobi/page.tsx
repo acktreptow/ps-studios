@@ -42,14 +42,16 @@ function TeamAsobiPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Astro&#39;s Playroom releasing over three years ago, we
-            still haven&#39;t officially heard anything about Asobi&#39;s next
-            game.
+            Despite Astro&#39;s Playroom releasing over three years ago, it took
+            until Sony&#39;s May 2024 State of Play to announce Team Asobi&#39;s
+            next game - simply called Astro Bot.
           </Paragraph>
           <Paragraph>
-            Unofficially, there are rumors that it will release shortly after
-            announcement, at the end of 2024. It&#39;ll also be larger in scale,
-            and playable on TVs and PSVR2.
+            There rumors of the game&#39;s scope and that it would release
+            shortly after announcement proved to be true as well. Not only is
+            Astro Bot Asobi&#39;s biggest game yet with over 80 levels, but
+            it&#39;s releasing September 6, 2024 - just three months after the
+            announcement.
           </Paragraph>
           <Paragraph>
             Astro&#39;s Playroom was an incredible game that even after hundreds
@@ -57,21 +59,15 @@ function TeamAsobiPage(): JSX.Element {
             It&#39;s also the reason Asobi survived the closure of Japan Studio.
           </Paragraph>
           <Paragraph>
-            With this next game also having double the development time,
-            there&#39;s every reason to believe it will be a great game that
-            diversifies Sony&#39;s portfolio.
-          </Paragraph>
-          <Paragraph>
-            It hopefully also showcases PSVR2 well, because that VR headset
-            desperately needs a win.
+            With Astro Bot also having double the development time, there&#39;s
+            every reason to believe it will be a great game that diversifies
+            Sony&#39;s portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            <span className="font-bold">Update: May 30, 2024</span> - Team Asobi
-            has announced their next game with a gameplay trailer at
-            PlayStation&#39;s State of Play. Simply called Astro Bot, it&#39;s
-            their biggest game to date and will release on PS5 September 6,
-            2024. No VR mode in confirmed, but it won&#39;t be long until we
-            find out!
+            Pour one out for PSVR2 though. Astro Bot is confirmed to not have
+            any VR mode. If there was any first-party game to even just include
+            an optional mode, it&#39;s Astro Bot. The fact that even this game
+            is skipping VR is a bad sign for the future of PSVR2.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

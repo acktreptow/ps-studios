@@ -127,6 +127,13 @@ function StatsPage(): JSX.Element {
             <p className="mb-3">
               * Team Asobi transitioned out of Japan Studio after its closure.
             </p>
+            <li className="mb-1">Support studios: 4</li>
+            <StatsList isNumbered={true}>
+              <li>Fabrik Games</li>
+              <li>Nixxes Software</li>
+              <li>San Mateo Studio</li>
+              <li>Valkyrie Entertainment</li>
+            </StatsList>
             <li>Studio with most new releases: Insomniac Games (4)</li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
             <li>

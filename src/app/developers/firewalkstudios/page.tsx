@@ -42,9 +42,9 @@ function FirewalkStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It took over a year, but we finally got a good look at Concord in
-            May 2024 with a CG story trailer and a gameplay one - both were very
-            poorly received.
+            It took over a year, but we finally got an in-depth look at Concord
+            in May 2024 with a CG story trailer and a gameplay one - both were
+            very poorly received.
           </Paragraph>
           <Paragraph>
             The story was seen as a poor clone of Marvel writing - specifically
@@ -52,14 +52,14 @@ function FirewalkStudiosPage(): JSX.Element {
             poor clone of Overwatch.
           </Paragraph>
           <Paragraph>
-            Despite this poor initial deep dive however, the pedigree of
-            Firewalk&#39;s founders instills some confidence. They know how to
-            make a good shooter, at least when it comes to the gameplay.
+            Despite this underwhelming deep dive though, I still have some
+            confidence due to the pedigree of Firewalk&#39;s founders. They know
+            how to make a good shooter, at least when it comes to gameplay.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Fortunately, this won&#39;t be too long. Concord has a beta in July
-            and releases on August 23 for only $34.99. So for now, I&#39;m still
-            cautiously optimistic until I can try it out myself.
+            Fortunately, we don&#39;t have to wait too long to play Concord
+            ourselves. It has a beta in July and releases on August 23 for only
+            $34.99. So for now, I&#39;ll be cautiously optimistic until July.
           </Paragraph>
         </div>
         <div>

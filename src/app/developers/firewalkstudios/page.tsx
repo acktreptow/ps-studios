@@ -24,19 +24,19 @@ function FirewalkStudiosPage(): JSX.Element {
       <Title title="Firewalk Studios" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Firewalk was founded in Washington, in 2018. Its founders are
-        experienced veterans of popular multiplayer shooters, having worked on
-        Halo and Destiny.
+        This Washington-based developer was founded in 2018 by senior veterans
+        of popular multiplayer shooters, who had previously worked on Halo and
+        Destiny.
       </Paragraph>
       <Paragraph>
-        With this expertise and Sony&#39;s increased focus on live-service
-        multiplayer games for PS5, it&#39;s no surprise they acquired Firewalk
-        in 2023.
+        With this prestige multiplayer expertise and Sony&#39;s increased focus
+        on live-service games for PS5, it&#39;s therefore no surprise they
+        acquired Firewalk in 2023.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Firewalk then announced their first game: Concord. A live-service 5 vs 5
-        PVP shooter with a 70&#39;s sci-fi aesthetic. It launches on PS5 and PC
-        in 2024.
+        Firewalk then announced their first game, Concord, shortly after.
+        It&#39;s a live-service 5vs5 PVP shooter with a 70&#39;s sci-fi
+        aesthetic for PS5 and PC in 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -51,12 +51,12 @@ function FirewalkStudiosPage(): JSX.Element {
             Guardians of the Galaxy. The hero shooter gameplay was seen as a
             poor clone of Overwatch.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             Despite this poor initial deep dive however, the pedigree of
             Firewalk&#39;s founders instills some confidence. They know how to
             make a good shooter, at least when it comes to the gameplay.
           </Paragraph>
-          <Paragraph>
+          <Paragraph marginBottom={8}>
             Fortunately, this won&#39;t be too long. Concord has a beta in July
             and releases on August 23 for only $34.99. So for now, I&#39;m still
             cautiously optimistic until I can try it out myself.

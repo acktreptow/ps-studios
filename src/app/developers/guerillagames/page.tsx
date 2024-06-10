@@ -55,6 +55,7 @@ function GuerillaGamesPage(): JSX.Element {
               Horizon FW&#39;s ending sets up a sequel that serves as the final
               act of a trilogy.
             </li>
+            <li>A lego Horizon game is being co-developed with Studio Gobo.</li>
             <li>Netflix is working on a live action Horizon TV series.</li>
             <li>
               A remake of the first Horizon is likely being developed at Nixxes.
@@ -63,7 +64,6 @@ function GuerillaGamesPage(): JSX.Element {
               A Horizon online MMO is almost certainly being worked on at
               NCSoft.
             </li>
-            <li>A lego Horizon game has been leaked.</li>
           </List>
           <Paragraph>
             Clearly, Sony are bullish on Horizon with so many projects in
@@ -77,14 +77,10 @@ function GuerillaGamesPage(): JSX.Element {
             2025 at the earliest.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            <span className="font-bold">Update: June 7, 2024</span> Lego Horizon
-            Adventures has officially been announced at the Summer Games Fest
-            showcase. It&#39;s a (primarily) co-op standalone game set in the
-            Horizon universe that is set to release this holiday. Perhaps most
-            surprisingly, it will also be releasing day and date on not only PC,
-            but also the Nintendo Switch! Considering the Lego IP, it does make
-            sense even though no one expected that. Either way, we will find out
-            how it performs soon enough.
+            As for Lego Horizon, it&#39;s primarily a Studio Gobo game so we
+            can&#39;t put its outcome on Guerrilla. It&#39;ll be interesting to
+            see if it brings in a new audience due to the Lego IP and Switch
+            port though.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

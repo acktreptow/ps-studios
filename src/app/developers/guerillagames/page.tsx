@@ -31,7 +31,7 @@ function GuerillaGamesPage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         Sony acquired Guerilla in 2005, one year after the original Killzone
-        released for the PS2. Which makes them one of the oldest PlayStation
+        released for the PS2. This makes them one of the oldest PlayStation
         developers.
       </Paragraph>
       <Paragraph>

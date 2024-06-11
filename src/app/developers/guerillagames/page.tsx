@@ -31,7 +31,7 @@ function GuerillaGamesPage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         Sony acquired Guerilla in 2005, one year after the original Killzone
-        released for the PS2 - making them one of the oldest PlayStation
+        released for the PS2. Which makes them one of the oldest PlayStation
         developers.
       </Paragraph>
       <Paragraph>
@@ -55,7 +55,9 @@ function GuerillaGamesPage(): JSX.Element {
               Horizon FW&#39;s ending sets up a sequel that serves as the final
               act of a trilogy.
             </li>
-            <li>A lego Horizon game is being co-developed with Studio Gobo.</li>
+            <li>
+              Lego Horizon Adventures is being co-developed with Studio Gobo.
+            </li>
             <li>Netflix is working on a live action Horizon TV series.</li>
             <li>
               A remake of the first Horizon is likely being developed at Nixxes.
@@ -67,8 +69,8 @@ function GuerillaGamesPage(): JSX.Element {
           </List>
           <Paragraph>
             Clearly, Sony are bullish on Horizon with so many projects in
-            development. It would therefore be nonsensical for Guerilla to move
-            on right now.
+            development. Horizon FW also sold over 10 million copies. It would
+            therefore be nonsensical for Guerilla to move on right now.
           </Paragraph>
           <Paragraph>
             You can expect &#39;Horizon 3&#39; in roughly 2027 that plays

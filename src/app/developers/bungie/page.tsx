@@ -75,7 +75,7 @@ function BungiePage(): JSX.Element {
             Since then, D2&#39;s &#39;The Final Shape&#39; released to critical
             acclaim, but we don&#39;t know how well it sold. Sony could still
             take over depending on this crucial fact. It&#39;s therefore hard to
-            believe Marathon can succeed under these circumstances.
+            believe Marathon can succeed under these conditions.
           </Paragraph>
         </div>
         <div>

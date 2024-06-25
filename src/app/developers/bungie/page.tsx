@@ -66,17 +66,16 @@ function BungiePage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             There&#39;s reasons to be wary of Marathon though. Sony paid a lot
-            for Bungie&#39;s live-service knowledge, but Destiny 2 has been
-            severely underperforming. This forced layoffs just to ensure certain
-            targets were met that prevented a Sony takeover of Bungie&#39;s
-            board.
+            for Bungie&#39;s live-service knowledge, but D2 has been severely
+            underperforming since the acquisition. This situation forced layoffs
+            to ensure Bungie hit internal targets and prevent a Sony takeover of
+            their board.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Destiny 2&#39;s last expansion called The Final Shape did release in
-            early June to critical acclaim, but we don&#39;t know how well it
-            sold. Sony still might take over depending on this crucial fact.
-            It&#39;s therefore hard to believe Marathon will succeed under those
-            circumstances.
+            Since then, D2&#39;s &#39;The Final Shape&#39; released to critical
+            acclaim, but we don&#39;t know how well it sold. Sony could still
+            take over depending on this crucial fact. It&#39;s therefore hard to
+            believe Marathon can succeed under these circumstances.
           </Paragraph>
         </div>
         <div>

@@ -72,9 +72,11 @@ function BungiePage(): JSX.Element {
             board.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Further layoffs will also likely occur once Destiny 2&#39;s last
-            expansion releases, and Sony still might take over. It&#39;s hard to
-            believe Marathon will succeed under those circumstances.
+            Destiny 2&#39;s last expansion called The Final Shape did release in
+            early June to critical acclaim, but we don&#39;t know how well it
+            sold. Sony still might take over depending on this crucial fact.
+            It&#39;s therefore hard to believe Marathon will succeed under those
+            circumstances.
           </Paragraph>
         </div>
         <div>

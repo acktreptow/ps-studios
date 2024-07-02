@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Container from "./components/Container";
 import Title from "./components/Title";
-import Paragraph from "./components/Paragraph";
 
 function NotFound() {
   return (
@@ -17,7 +16,7 @@ function NotFound() {
         type="submit"
         className="block mx-auto border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation"
       >
-        <Link href="/">Return Home</Link>
+        <Link href="/">Return To Home</Link>
       </button>
     </Container>
   );

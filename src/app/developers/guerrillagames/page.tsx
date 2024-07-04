@@ -30,24 +30,24 @@ function GuerillaGamesPage(): JSX.Element {
         &#39;Horizon&#39;.
       </Paragraph>
       <Paragraph>
-        Sony acquired Guerilla in 2005, one year after the original Killzone
+        Sony acquired Guerrilla in 2005, one year after the original Killzone
         released for the PS2. This makes them one of the oldest PlayStation
         developers.
       </Paragraph>
       <Paragraph>
-        On PS5, Guerilla have only released the cross-gen title &#39;Horizon
+        On PS5, Guerrilla have only released the cross-gen title &#39;Horizon
         Forbidden West&#39;, in early 2022. Its DLC &#39;Burning Shores&#39; was
         however a PS5 exclusive.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Since the 2023 DLC, Guerilla have been silent. We don&#39;t even have a
+        Since the 2023 DLC, Guerrilla have been silent. We don&#39;t even have a
         name for their next project.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite no concrete information, I predict Guerilla&#39;s next game
+            Despite no concrete information, I predict Guerrilla&#39;s next game
             is Horizon 3 for the following reasons:
           </Paragraph>
           <List>
@@ -70,7 +70,7 @@ function GuerillaGamesPage(): JSX.Element {
           <Paragraph>
             Clearly, Sony are bullish on Horizon with so many projects in
             development. Horizon FW also sold over 10 million copies. It would
-            therefore be nonsensical for Guerilla to move on right now.
+            therefore be nonsensical for Guerrilla to move on right now.
           </Paragraph>
           <Paragraph>
             You can expect &#39;Horizon 3&#39; in roughly 2027 that plays

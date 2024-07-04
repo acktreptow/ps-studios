@@ -12,9 +12,9 @@ import List from "../../components/List";
 import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
-  title: "Guerilla Games",
+  title: "Guerrilla Games",
   description:
-    "The history and future of Guerilla Games, a first-party developer for PlayStation Studios.",
+    "The history and future of Guerrilla Games, a first-party developer for PlayStation Studios.",
 };
 
 const gamesArray: Game[] = gamesData;

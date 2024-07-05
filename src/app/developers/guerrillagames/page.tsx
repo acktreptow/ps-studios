@@ -64,6 +64,7 @@ function GuerillaGamesPage(): JSX.Element {
               <Link
                 href="https://www.ign.com/articles/horizon-zero-dawn-tv-series-no-longer-moving-forward-at-netflix-report"
                 target="_blank"
+                className="underline text-sky-500 hover:text-sky-700"
               >
                 cancelled
               </Link>

@@ -10,6 +10,7 @@ import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import List from "../../components/List";
 import GamesSection from "../../components/GamesSection";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Guerrilla Games",
@@ -58,7 +59,16 @@ function GuerillaGamesPage(): JSX.Element {
             <li>
               Lego Horizon Adventures is being co-developed with Studio Gobo.
             </li>
-            <li>Netflix is working on a live action Horizon TV series.</li>
+            <li>
+              Netflix is working on a Horizon TV series, although it might be{" "}
+              <Link
+                href="https://www.ign.com/articles/horizon-zero-dawn-tv-series-no-longer-moving-forward-at-netflix-report"
+                target="_blank"
+              >
+                cancelled
+              </Link>
+              .
+            </li>
             <li>
               A remake of the first Horizon is likely being developed at Nixxes.
             </li>

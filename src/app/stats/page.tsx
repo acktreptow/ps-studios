@@ -171,7 +171,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li className="mb-1">Five studios least likely to close:</li>
             <StatsList isNumbered={true}>
-              <li>Guerilla Games</li>
+              <li>Guerrilla Games</li>
               <li>Insomniac Games</li>
               <li>Polyphony Digital</li>
               <li>Sony Santa Monica</li>

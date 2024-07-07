@@ -24,7 +24,7 @@ function Header(): JSX.Element {
 
   return (
     <header
-      className={`container mx-auto bg-playstation text-white flex sm:px-10 items-center ${
+      className={` bg-playstation text-white flex sm:px-10 lg:px-12 items-center ${
         isOpen ? "justify-center" : "justify-between"
       }`}
     >

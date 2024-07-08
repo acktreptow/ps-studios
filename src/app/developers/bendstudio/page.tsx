@@ -7,6 +7,7 @@ import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import List from "../../components/List";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Bend Studio",
@@ -18,6 +19,16 @@ function BendStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="Bend Studio" />
+      <div className="flex flex-col items-center justify-end align-middle md:flex-row lg:text-lg">
+        <button className="border p-4 mb-5 md:mb-8 md:mr-3 lg:mr-6 bg-playstation text-white rounded-full  hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation">
+          <Link href="/developers">Back to Devs</Link>
+        </button>
+        <button className="border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation">
+          <Link href="https://www.bendstudio.com/" target="_blank">
+            Bend Website
+          </Link>
+        </button>
+      </div>
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1992, this Oregon-based developer is best known for

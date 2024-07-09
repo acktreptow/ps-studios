@@ -19,14 +19,14 @@ function BendStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="Bend Studio" />
-      <div className="flex flex-col items-center justify-end align-middle md:flex-row space-x-2">
-        <button className="border p-3 mb-5 md:mb-8 bg-playstation text-white rounded-full  hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation">
-          <Link href="/developers">Back to Devs</Link>
-        </button>
-        <button className="border p-3 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation">
+      <div className="flex align-middle items-center justify-center space-x-2 mb-12 text-sm font-semibold md:justify-start lg:justify-end lg:text-base">
+        <button className="border p-3 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
           <Link href="https://www.bendstudio.com/" target="_blank">
             Bend Website
           </Link>
+        </button>
+        <button className="border p-3  bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
+          <Link href="/developers">Back to Devs</Link>
         </button>
       </div>
       <SubTitle subtitle="History" />

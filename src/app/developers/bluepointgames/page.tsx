@@ -9,6 +9,7 @@ import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Bluepoint Games",
@@ -22,6 +23,16 @@ function BluepointGamesPage(): JSX.Element {
   return (
     <Container>
       <Title title="Bluepoint Games" />
+      <div className="flex align-middle items-center justify-center space-x-2 mb-12 text-sm font-semibold md:justify-start lg:justify-end lg:text-base">
+        <button className="border p-3 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
+          <Link href="https://www.bluepointgames.com/" target="_blank">
+            Bluepoint Website
+          </Link>
+        </button>
+        <button className="border p-3  bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
+          <Link href="/developers">Back to Devs</Link>
+        </button>
+      </div>
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2006, this Texas-based developer is known for its excellent

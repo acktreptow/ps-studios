@@ -2,12 +2,12 @@ import { Metadata } from "next";
 import Image from "next/image";
 import daysGone from "../../../../public/images/dev-pages/days-gone.png";
 import Container from "../../components/Container";
+import DeveloperButton from "../../components/DeveloperButton";
 import Title from "../../components/Title";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import List from "../../components/List";
-import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Bend Studio",
@@ -19,16 +19,7 @@ function BendStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="Bend Studio" />
-      <div className="flex align-middle items-center justify-center space-x-2 mb-12 text-sm font-semibold md:justify-start lg:justify-end lg:text-base">
-        <button className="border p-3 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
-          <Link href="https://www.bendstudio.com/" target="_blank">
-            Bend Website
-          </Link>
-        </button>
-        <button className="border p-3  bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
-          <Link href="/developers">Back to Devs</Link>
-        </button>
-      </div>
+      <DeveloperButton developer="Bend" urlPath="https://www.bendstudio.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1992, this Oregon-based developer is best known for

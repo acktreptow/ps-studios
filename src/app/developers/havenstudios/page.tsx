@@ -6,6 +6,7 @@ import jadeRaymond from "../../../../public/images/dev-pages/jade-raymond.png";
 import fairGames from "../../../../public/images/dev-pages/fairgames.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "@/app/components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -23,6 +24,7 @@ function HavenStudiosPage(): JSX.Element {
   return (
     <Container>
       <Title title="Haven Studios" />
+      <DeveloperButton developer="Haven" urlPath="https://havenstudios.com/" />
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="History" />

@@ -5,6 +5,7 @@ import Image from "next/image";
 import seleneVassos from "../../../../public/images/dev-pages/selene-vassos.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "@/app/components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,10 @@ function HousemarquePage(): JSX.Element {
   return (
     <Container>
       <Title title="Housemarque" />
+      <DeveloperButton
+        developer="Housemarque"
+        urlPath="https://housemarque.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1995, this Finnish-based developer has released a myriad of

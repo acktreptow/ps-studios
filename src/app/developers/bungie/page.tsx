@@ -4,13 +4,13 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
 import Container from "../../components/Container";
+import DeveloperButton from "@/app/components/DeveloperButton";
 import Title from "../../components/Title";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import List from "../../components/List";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
-import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Bungie",
@@ -24,16 +24,7 @@ function BungiePage(): JSX.Element {
   return (
     <Container>
       <Title title="Bungie" />
-      <div className="flex align-middle items-center justify-center space-x-2 mb-12 text-sm font-semibold md:justify-start lg:justify-end lg:text-base">
-        <button className="border p-3 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
-          <Link href="https://www.bungie.net" target="_blank">
-            Bungie Website
-          </Link>
-        </button>
-        <button className="border p-3  bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
-          <Link href="/developers">Back to Devs</Link>
-        </button>
-      </div>
+      <DeveloperButton developer="Bungie" urlPath="https://www.bungie.net" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1991, this Washington-based developer is the most unique

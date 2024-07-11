@@ -4,12 +4,12 @@ import { Game } from "../../types/Game";
 import Image from "next/image";
 import insomniacPortfolio from "../../../../public/images/dev-pages/insomniac-portfolio.png";
 import Container from "../../components/Container";
+import DeveloperButton from "../../components/DeveloperButton";
 import Title from "../../components/Title";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
-import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Insomniac Games",
@@ -23,16 +23,10 @@ function InsomniacGamesPage(): JSX.Element {
   return (
     <Container>
       <Title title="Insomniac Games" />
-      <div className="flex align-middle items-center justify-center space-x-2 mb-12 text-sm font-semibold md:justify-start lg:justify-end lg:text-base">
-        <button className="border p-3 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
-          <Link href="https://insomniac.games/" target="_blank">
-            Insomniac Website
-          </Link>
-        </button>
-        <button className="border p-3  bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-sm shadow-playstation">
-          <Link href="/developers">Back to Devs</Link>
-        </button>
-      </div>
+      <DeveloperButton
+        developer="Insomniac"
+        urlPath="https://insomniac.games/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1994, this California-based studio had been developing

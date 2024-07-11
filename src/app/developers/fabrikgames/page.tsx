@@ -3,6 +3,7 @@ import Image from "next/image";
 import thePersistence from "../../../../public/images/dev-pages/the-persistence.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "@/app/components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -17,6 +18,7 @@ function FabrikGamesPage(): JSX.Element {
   return (
     <Container>
       <Title title="Fabrik Games" />
+      <DeveloperButton developer="Fabrik" urlPath="https://firesprite.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2014, this Manchester-based developer has shipped games like

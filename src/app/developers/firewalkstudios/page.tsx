@@ -5,6 +5,7 @@ import Image from "next/image";
 import concord from "../../../../public/images/dev-pages/concord.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "@/app/components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,10 @@ function FirewalkStudiosPage(): JSX.Element {
   return (
     <Container>
       <Title title="Firewalk Studios" />
+      <DeveloperButton
+        developer="Firewalk"
+        urlPath="https://firewalkstudios.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         This Washington-based developer was founded in 2018 by senior veterans

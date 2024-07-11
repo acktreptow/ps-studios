@@ -5,6 +5,7 @@ import Image from "next/image";
 import horizonCoTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "@/app/components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,10 @@ function FirespritePage(): JSX.Element {
   return (
     <Container>
       <Title title="Firesprite" />
+      <DeveloperButton
+        developer="Firesprite"
+        urlPath="https://firesprite.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2012, Firesprite is a Liverpool-based developer formed by

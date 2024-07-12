@@ -5,7 +5,7 @@ import Image from "next/image";
 import burningShores from "../../../../public/images/dev-pages/burning-shores.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
-import DeveloperButton from "@/app/components/DeveloperButton";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";

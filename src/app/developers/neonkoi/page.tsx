@@ -3,7 +3,7 @@ import Image from "next/image";
 import savageLogo from "../../../../public/images/dev-pages/savage-logo.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
-import DeveloperButton from "@/app/components/DeveloperButton";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -18,7 +18,10 @@ function NeonKoiPage(): JSX.Element {
   return (
     <Container>
       <Title title="Neon Koi" />
-      <DeveloperButton developer="Neon Koi" urlPath="https://www.neonkoi.com/" />
+      <DeveloperButton
+        developer="Neon Koi"
+        urlPath="https://www.neonkoi.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Neon Koi is a German-Finnish developer that was founded in 2020 under

@@ -3,6 +3,7 @@ import Image from "next/image";
 import sackboy from "../../../../public/images/dev-pages/sackboy.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -17,6 +18,10 @@ function MediaMoleculePage(): JSX.Element {
   return (
     <Container>
       <Title title="Media Molecule" />
+      <DeveloperButton
+        developer="Media Molecule"
+        urlPath="https://www.mediamolecule.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2006, this Surrey-based developer is primarily known for the

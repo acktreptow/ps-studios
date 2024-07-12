@@ -3,6 +3,7 @@ import Image from "next/image";
 import concreteGenie from "../../../../public/images/dev-pages/concrete-genie.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -17,6 +18,10 @@ function SanMateoStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="San Mateo Studio" />
+      <DeveloperButton
+        developer="SM Studio"
+        urlPath="https://playstation-studios.fandom.com/wiki/San_Mateo_Studio"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1998, San Mateo Studio (formerly Foster City Studio) works

@@ -5,6 +5,7 @@ import Image from "next/image";
 import gotDC from "../../../../public/images/dev-pages/got-dc.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,10 @@ function SuckerPunchProductionsPage(): JSX.Element {
   return (
     <Container>
       <Title title="Sucker Punch Productions" />
+      <DeveloperButton
+        developer="Sucker Punch"
+        urlPath="https://www.suckerpunch.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Sucker Punch are a Washington-based developer that was founded in 1997,

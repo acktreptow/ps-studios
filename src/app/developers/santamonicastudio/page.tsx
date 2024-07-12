@@ -5,6 +5,7 @@ import Image from "next/image";
 import gowRagnarok from "../../../../public/images/dev-pages/gow-ragnarok.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,7 @@ function SantaMonicaStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="Santa Monica Studio" />
+      <DeveloperButton developer="SM Studio" urlPath="https://sms.playstation.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Santa Monica Studio is an LA-based developer founded in 1999. Outside of

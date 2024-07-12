@@ -24,8 +24,8 @@ function SanDiegoStudioPage(): JSX.Element {
     <Container>
       <Title title="San Diego Studio" />
       <DeveloperButton
-        developer="SD Studio"
-        urlPath="https://www.sandiegostudio.com/"
+        developer="San Diego"
+        urlPath="https://sonysandiegostudio.games/"
       />
       <SubTitle subtitle="History" />
       <Paragraph>

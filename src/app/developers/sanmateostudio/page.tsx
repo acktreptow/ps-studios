@@ -19,7 +19,7 @@ function SanMateoStudioPage(): JSX.Element {
     <Container>
       <Title title="San Mateo Studio" />
       <DeveloperButton
-        developer="SM Studio"
+        developer="San Mateo"
         urlPath="https://playstation-studios.fandom.com/wiki/San_Mateo_Studio"
       />
       <SubTitle subtitle="History" />

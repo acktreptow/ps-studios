@@ -23,7 +23,10 @@ function SantaMonicaStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="Santa Monica Studio" />
-      <DeveloperButton developer="SM Studio" urlPath="https://sms.playstation.com/" />
+      <DeveloperButton
+        developer="Santa Monica"
+        urlPath="https://sms.playstation.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Santa Monica Studio is an LA-based developer founded in 1999. Outside of

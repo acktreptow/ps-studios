@@ -5,6 +5,7 @@ import Image from "next/image";
 import gotTrophies from "../../../../public/images/dev-pages/got-trophies.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,7 @@ function NixxesSoftwarePage(): JSX.Element {
   return (
     <Container>
       <Title title="Nixxes Software" />
+      <DeveloperButton developer="Nixxes" urlPath="https://nixxes.com" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1999, this Utrecht-based studio holds a unique position

@@ -6,6 +6,7 @@ import kazunoriYamauchi from "../../../../public/images/dev-pages/kazunori-yamau
 import gt7PSVR2 from "../../../../public/images/dev-pages/gt7-psvr2.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -23,6 +24,10 @@ function PolyphonyDigitalPage(): JSX.Element {
   return (
     <Container>
       <Title title="Polyphony Digital" />
+      <DeveloperButton
+        developer="Polyphony"
+        urlPath="https://www.polyphony.co.jp/"
+      />
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="History" />

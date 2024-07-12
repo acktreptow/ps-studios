@@ -5,6 +5,7 @@ import Image from "next/image";
 import mlb24 from "../../../../public/images/dev-pages/mlb-24.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,10 @@ function SanDiegoStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="San Diego Studio" />
+      <DeveloperButton
+        developer="SD Studio"
+        urlPath="https://www.sandiegostudio.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2001, San Diego Studio is (obviously) a San Diego-based

@@ -5,6 +5,7 @@ import Image from "next/image";
 import ds2OTB from "../../../../public/images/dev-pages/ds2.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,10 @@ function XDevpage(): JSX.Element {
   return (
     <Container>
       <Title title="XDev" />
+      <DeveloperButton
+        developer="XDev"
+        urlPath="https://www.playstation.com/en-gb/develop/xdev/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t

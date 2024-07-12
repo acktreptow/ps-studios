@@ -5,6 +5,7 @@ import Image from "next/image";
 import astroBot from "../../../../public/images/dev-pages/astro-bot.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -22,6 +23,7 @@ function TeamAsobiPage(): JSX.Element {
   return (
     <Container>
       <Title title="Team Asobi" />
+      <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Team Asobi is a Tokyo-based developer that technically, was formed in

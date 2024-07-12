@@ -3,6 +3,7 @@ import Image from "next/image";
 import gunsUpGameplay from "../../../../public/images/dev-pages/guns-up.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
+import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
@@ -17,6 +18,10 @@ function ValkyrieEntertainmentPage(): JSX.Element {
   return (
     <Container>
       <Title title="Valkyrie Entertainment" />
+      <DeveloperButton
+        developer="Valkyrie"
+        urlPath="https://www.valkyrie-entertainment.com/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Valkyrie Entertainment are a Seattle-based developer who were founded in

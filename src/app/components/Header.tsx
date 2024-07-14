@@ -26,7 +26,7 @@ function Header(): JSX.Element {
     <header
       className={` bg-playstation text-white flex sm:px-10 lg:px-12 items-center ${
         isOpen ? "justify-center" : "justify-between"
-      }`}
+      } border-b-8 border-amber-300`}
     >
       <div>
         <Link href="/">

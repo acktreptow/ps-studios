@@ -27,7 +27,7 @@ function DevelopersPage(): JSX.Element {
             )
             .map((developer: Developer) => (
               <Link key={developer.id} href={`developers/${developer.urlPath}`}>
-                <li className="font-semibold p-1 hover:text-blue-200 transition duration-200">
+                <li className="font-semibold p-1 hover:text-amber-300 transition duration-200">
                   {developer.name}
                 </li>
               </Link>

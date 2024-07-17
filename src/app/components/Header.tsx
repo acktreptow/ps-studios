@@ -24,7 +24,7 @@ function Header(): JSX.Element {
 
   return (
     <header
-      className={` bg-gradient-to-b from-blue-700 to-playstation text-white flex sm:px-10 lg:px-12 items-center ${
+      className={` bg-gradient-to-b from-blue-700 to-playstation text-white flex items-center sm:flex-col sm:pb-4  ${
         isOpen ? "justify-center" : "justify-between"
       } border-b-8 border-amber-300`}
     >
@@ -33,9 +33,7 @@ function Header(): JSX.Element {
           <Image
             src={psStudiosLogo}
             alt="PS Studios Logo"
-            className={`${
-              isOpen ? "hidden" : "w-32 sm:w-60 sm:-ml-16 lg:-ml-14"
-            }`}
+            className={`${isOpen ? "hidden" : "w-32 sm:w-48"}`}
           />
         </Link>
       </div>

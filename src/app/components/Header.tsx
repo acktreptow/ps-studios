@@ -24,7 +24,7 @@ function Header(): JSX.Element {
 
   return (
     <header
-      className={` bg-gradient-to-b from-blue-700 to-playstation text-white flex items-center sm:flex-col sm:pb-4  ${
+      className={` bg-gradient-to-b from-blue-700 to-playstation text-white flex items-center sm:flex-col sm:pb-4 ${
         isOpen ? "justify-center" : "justify-between"
       } border-b-8 border-amber-300`}
     >
@@ -47,7 +47,7 @@ function Header(): JSX.Element {
           <div className="w-6 border-t-2 border-white"></div>
         </button>
         <ul
-          className={`gap-5 font-semibold sm:flex md:text-lg ${
+          className={`gap-5 font-semibold sm:flex md:text-lg lg:text-xl lg:space-x-2 ${
             isOpen ? "flex flex-col items-center my-3 gap-3" : "hidden"
           }`}
         >
@@ -56,7 +56,7 @@ function Header(): JSX.Element {
               key={link.name}
               className={`hover:text-gray-200 ${
                 activeLink === link.path ? "border-b-2 border-white" : ""
-              }`}
+              } `}
               onClick={() => {
                 setIsOpen(!open);
                 setActiveLink(link.path);

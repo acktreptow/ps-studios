@@ -17,7 +17,7 @@ function DevelopersPage(): JSX.Element {
       <h1 className="text-3xl font-bold py-2 mb-3 md:text-5xl md:mb-10">
         PlayStation Developers
       </h1>
-      <div className="bg-playstation p-4 rounded-3xl xl mx-auto w-3/4 md:w-1/2 lg:w-1/3">
+      <div className="bg-gradient-to-r from-blue-800 to-playstation p-4 rounded-3xl xl mx-auto w-3/4 md:w-1/2 lg:w-1/3">
         <ul className="text-white text-xl leading-6 md:leading-7 md:text-2xl lg:left-8">
           {developers
             .filter(

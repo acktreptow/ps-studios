@@ -24,7 +24,7 @@ function Header(): JSX.Element {
 
   return (
     <header
-      className={` bg-gradient-to-b from-blue-700 to-playstation text-white flex items-center sm:flex-col sm:pb-4 ${
+      className={`bg-gradient-to-b from-blue-700 to-playstation text-white flex items-center sm:flex-col sm:pb-4 ${
         isOpen ? "justify-center" : "justify-between"
       } border-b-8 border-amber-300`}
     >

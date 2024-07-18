@@ -53,7 +53,7 @@ function HomepageClient(): JSX.Element {
         </select>
         <button
           type="submit"
-          className="block mx-auto border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation"
+          className="block mx-auto border font-semibold p-4 mb-8 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
         >
           Go To Developer
         </button>

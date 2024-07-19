@@ -20,13 +20,13 @@ function PS5GamesClient(): JSX.Element {
       <div className="flex flex-col items-center align-middle md:flex-row lg:text-lg">
         <button
           onClick={() => setMetacritic(false)}
-          className="border p-4 mb-5 md:mb-8 md:mr-3 lg:mr-6 bg-playstation text-white rounded-full  hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation"
+          className="border p-4 mb-5 font-semibold md:mb-8 md:mr-3 lg:mr-6 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full  hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
         >
           Sort by Release Date
         </button>
         <button
           onClick={() => setMetacritic(true)}
-          className="border p-4 mb-8 bg-playstation text-white rounded-full hover:bg-blue-900 transition-colors duration-200 shadow-md shadow-playstation"
+          className="border p-4 mb-8 font-semibold bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
         >
           Sort by Metacritic Score
         </button>

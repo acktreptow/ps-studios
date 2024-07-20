@@ -54,7 +54,7 @@ function Header(): JSX.Element {
           {links.map((link: LinkI) => (
             <li
               key={link.name}
-              className={`hover:text-gray-200 ${
+              className={`hover:text-amber-300 ${
                 activeLink === link.path ? "border-b-2 border-white" : ""
               } `}
               onClick={() => {
@@ -65,7 +65,7 @@ function Header(): JSX.Element {
               <Link href={link.path}>{link.name}</Link>
             </li>
           ))}
-          <li className="hover:text-gray-200" onClick={() => setIsOpen(!open)}>
+          <li className="hover:text-amber-300" onClick={() => setIsOpen(!open)}>
             <Link
               href="https://github.com/acktreptow/ps-studios"
               target="_blank"

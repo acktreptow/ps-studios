@@ -14,7 +14,7 @@ function PS5GamesClient(): JSX.Element {
 
   return (
     <Container>
-      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 md:mb-14 tracking-wide md:leading-relaxed">
+      <h1 className="text-4xl text-center font-bold mb-10 text-gray-950 md:mb-14 tracking-wide md:leading-relaxed lg:text-6xl">
         Every PlayStation Studios PS5 Game
       </h1>
       <div className="flex flex-col items-center align-middle md:flex-row lg:text-lg">

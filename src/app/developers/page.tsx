@@ -14,7 +14,7 @@ const developers: Developer[] = developersData;
 function DevelopersPage(): JSX.Element {
   return (
     <div className="bg-white text-center py-6 flex-grow container mx-auto md:py-10">
-      <h1 className="text-3xl font-bold py-2 mb-3 md:text-5xl md:mb-10">
+      <h1 className="text-3xl font-bold py-2 mt-2 mb-3 md:text-5xl md:mb-10 lg:text-6xl">
         PlayStation Developers
       </h1>
       <div className="bg-gradient-to-r from-blue-800 to-playstation p-4 rounded-3xl xl mx-auto w-3/4 md:w-1/2 lg:w-1/3">

@@ -59,12 +59,12 @@ function FirewalkStudiosPage(): JSX.Element {
           <Paragraph>
             Despite this underwhelming deep dive though, I still have some
             confidence due to the pedigree of Firewalk&#39;s founders. They know
-            how to make a good shooter, at least when it comes to gameplay.
+            how to make competitive FPS gameplay feel great.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Fortunately, we don&#39;t have to wait too long to play Concord
-            ourselves. It has a beta in July and releases on August 23 for only
-            $34.99. So for now, I&#39;ll be cautiously optimistic until July.
+            This is at least what I thought when playing Concord&#39;s open
+            beta. But if its low player count is any indication, it might be DOA
+            in August despite any quality gameplay and/or story.
           </Paragraph>
         </div>
         <div>

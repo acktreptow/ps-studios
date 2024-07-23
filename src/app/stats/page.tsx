@@ -93,7 +93,10 @@ function StatsPage(): JSX.Element {
             <li>Studios in JP: 2</li>
             <li>Oldest studio: Naughty Dog (founded 1984)</li>
             <li>Newest studio: Haven Studios (founded 2021)</li>
-            <li className="mb-3">First acquired studio: Bend Studio (2000)</li>
+            <li>First acquired studio: Bend Studio (2000)</li>
+            <li className="mb-3">
+              Last acquired studio: Firewalk Studios (2023)
+            </li>
             <li className="mb-1">Studios created internally: 6</li>
             <StatsList isNumbered={true}>
               <li>Polyphony (1998)</li>
@@ -171,7 +174,9 @@ function StatsPage(): JSX.Element {
               <li>Media Molecule</li>
               <li>Neon Koi</li>
             </StatsList>
-            <li className="mb-1">Five studios least likely to close (no particular order):</li>
+            <li className="mb-1">
+              Five studios least likely to close (no particular order):
+            </li>
             <StatsList isNumbered={true}>
               <li>Guerrilla Games</li>
               <li>Insomniac Games</li>

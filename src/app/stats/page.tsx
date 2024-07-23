@@ -121,7 +121,7 @@ function StatsPage(): JSX.Element {
               <li>Neon Koi (August, 2022)</li>
               <li>Firewalk Studios (April, 2023)</li>
             </StatsList>
-            <li className="mb-1">Studios closed in PS5 generation: 3</li>
+            <li className="m-1">Studios closed in PS5 generation: 3</li>
             <StatsList isNumbered={true}>
               <li>Japan Studio (April, 2021) *</li>
               <li>Pixelopus (May, 2023)</li>
@@ -183,6 +183,16 @@ function StatsPage(): JSX.Element {
               <li>Polyphony Digital</li>
               <li>Sony Santa Monica</li>
               <li>Sucker Punch</li>
+            </StatsList>
+            <li className="mb-1">Studios waiting to be announced:</li>
+            <StatsList isNumbered={true}>
+              <li>
+                The Southern California team who is working on the next
+                Uncharted.
+              </li>
+              <li>
+                Jason Blundell&#39;s team (COD Zombies creator, ex-Deviation)
+              </li>
             </StatsList>
           </StatsList>
         </div>

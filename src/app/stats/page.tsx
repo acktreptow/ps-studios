@@ -161,7 +161,9 @@ function StatsPage(): JSX.Element {
               Studio with highest average Metacritic score (no
               remasters/remakes): Insomniac Games (87.67)
             </li>
-            <li className="mb-1">Five studios most likely to close:</li>
+            <li className="mb-1">
+              Five studios most likely to close (no particular order):
+            </li>
             <StatsList isNumbered={true}>
               <li>Bend Studio</li>
               <li>Firewalk Studios</li>
@@ -169,7 +171,7 @@ function StatsPage(): JSX.Element {
               <li>Media Molecule</li>
               <li>Neon Koi</li>
             </StatsList>
-            <li className="mb-1">Five studios least likely to close:</li>
+            <li className="mb-1">Five studios least likely to close (no particular order):</li>
             <StatsList isNumbered={true}>
               <li>Guerrilla Games</li>
               <li>Insomniac Games</li>

@@ -164,8 +164,8 @@ function StatsPage(): JSX.Element {
             <li className="mb-1">Five studios most likely to close:</li>
             <StatsList isNumbered={true}>
               <li>Bend Studio</li>
-              <li>Fabrik Games</li>
-              <li>Firesprite</li>
+              <li>Firewalk Studios</li>
+              <li>Firesprite/Fabrik Games</li>
               <li>Media Molecule</li>
               <li>Neon Koi</li>
             </StatsList>

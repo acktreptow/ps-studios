@@ -21,7 +21,8 @@ function StatsPage(): JSX.Element {
       <Title title="PS Studios Stats" />
       <SubTitle subtitle="Overview" />
       <Paragraph>
-        Here are various stats across PS Studios over the PS5 generation.
+        Here are a variety of stats across PS Studios and their
+        released/upcoming games over the PS5 generation.
       </Paragraph>
       <Paragraph>
         There&#39;s 22 first-party developers under the PS Studios umbrella. The

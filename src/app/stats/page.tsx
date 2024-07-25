@@ -194,6 +194,12 @@ function StatsPage(): JSX.Element {
                 Jason Blundell&#39;s team (COD Zombies creator, ex-Deviation)
               </li>
             </StatsList>
+            <li className="mb-1">Studios most likely to be acquired:</li>
+            <StatsList isNumbered={true}>
+              <li>Arrowhead Game Studios (Helldivers 2 developer)</li>
+              <li>SHIFT UP (Stellar Blade developer)</li>
+              <li>Ballistic Moon (Until Dawn Remake developer)</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

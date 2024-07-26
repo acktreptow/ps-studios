@@ -149,6 +149,10 @@ function StatsPage(): JSX.Element {
               Studio with the shortest duration since their last release:
               Insomniac Games with Spider-Man 2 (October 2023)
             </li>
+            <li>Largest studio by headcount: Bungie (1400+)</li>
+            <li>
+              Smallest studio by headcount: Neon Koi most likely (fewer than 50)
+            </li>
             <li>
               Most recent PlayStation Studios game (including second-party):
               XDev with Shift Up&#39;s Stellar Blade (April 2024)

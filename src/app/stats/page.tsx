@@ -27,7 +27,7 @@ function StatsPage(): JSX.Element {
       <Paragraph>
         There&#39;s 22 first-party developers under the PS Studios umbrella. The
         following list are their names and their number of{" "}
-        <span className="font-bold">released</span> games on the PS5:
+        <span className="font-bold">released</span> games on PS5:
       </Paragraph>
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
         {developers
@@ -140,6 +140,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Studio with most new releases: Insomniac Games (4)</li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
+            <li>Number of studios with 0 PS5 games: 9</li>
             <li>
               Studio with the longest duration since their last release: Bend
               Studio with Days Gone (April 2019)

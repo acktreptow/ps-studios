@@ -205,6 +205,8 @@ function StatsPage(): JSX.Element {
               <li>Arrowhead Game Studios (Helldivers 2 developer)</li>
               <li>SHIFT UP (Stellar Blade developer)</li>
               <li>Ballistic Moon (Until Dawn Remake developer)</li>
+              <li>Ember Lab (Kena: Bridge of Spirits developer)</li>
+              <li>Ironwood Studios (Pacific Drive developer)</li>
             </StatsList>
             <li>
               Publisher most likely to be acquire: Square Enix (still very

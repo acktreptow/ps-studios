@@ -206,6 +206,10 @@ function StatsPage(): JSX.Element {
               <li>SHIFT UP (Stellar Blade developer)</li>
               <li>Ballistic Moon (Until Dawn Remake developer)</li>
             </StatsList>
+            <li>
+              Publisher most likely to be acquire: Square Enix (still very
+              unlikely).
+            </li>
           </StatsList>
         </div>
       </div>

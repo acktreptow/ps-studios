@@ -6,6 +6,7 @@ import Title from "../components/Title";
 import SubTitle from "../components/SubTitle";
 import Paragraph from "../components/Paragraph";
 import StatsList from "../components/StatsList";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -21,10 +22,10 @@ function StatsPage(): JSX.Element {
       <Title title="PS Studios Stats" />
       <div className="flex flex-col items-center align-middle md:flex-row lg:text-lg">
         <button className="border p-4 mb-5 font-semibold md:mb-8 md:mr-3 lg:mr-6 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full  hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
-          PS5 Game Stats
+          <Link href="#gamestats">PS5 Game Stats</Link>
         </button>
         <button className="border p-4 mb-8 font-semibold bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
-          PS Studios Stats
+          <Link href="#studiostats">PS Studios Stats</Link>
         </button>
       </div>
       <SubTitle subtitle="Overview" />
@@ -55,7 +56,10 @@ function StatsPage(): JSX.Element {
       <div className="lg:flex items-center">
         <div>
           <SubTitle subtitle="Other Stats" marginBottom={5} />
-          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
+          <h3
+            className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
+            id="gamestats"
+          >
             Game Stats:
           </h3>
           <StatsList isNumbered={false}>
@@ -93,7 +97,10 @@ function StatsPage(): JSX.Element {
             <li>XDev released PS5 games: 8</li>
             <li>XDev released PS5 games: 2</li>
           </StatsList>
-          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
+          <h3
+            className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
+            id="studiostats"
+          >
             Studio Stats:
           </h3>
           <StatsList isNumbered={false}>

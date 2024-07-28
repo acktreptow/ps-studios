@@ -24,8 +24,11 @@ function StatsPage(): JSX.Element {
         <button className="border p-4 mb-5 font-semibold md:mb-8 md:mr-3 lg:mr-6 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full  hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
           <Link href="#gamestats">PS5 Game Stats</Link>
         </button>
-        <button className="border p-4 mb-8 font-semibold bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
+        <button className="border p-4 mb-5 font-semibold md:mb-8 md:mr-3 lg:mr-6 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full  hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
           <Link href="#studiostats">PS Studios Stats</Link>
+        </button>
+        <button className="border p-4 mb-8 font-semibold bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
+          <Link href="#psplusstats">PS+ Premium Stats</Link>
         </button>
       </div>
       <SubTitle subtitle="Overview" />
@@ -230,7 +233,7 @@ function StatsPage(): JSX.Element {
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
-            id="studiostats"
+            id="psplusstats"
           >
             PS+ Premium Stats:
           </h3>

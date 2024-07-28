@@ -228,6 +228,15 @@ function StatsPage(): JSX.Element {
               unlikely).
             </li>
           </StatsList>
+          <h3
+            className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
+            id="studiostats"
+          >
+            PS+ Premium Stats:
+          </h3>
+          <StatsList isNumbered={false}>
+            <li>Coming soon!</li>
+          </StatsList>
         </div>
       </div>
     </Container>

@@ -19,6 +19,14 @@ function StatsPage(): JSX.Element {
   return (
     <Container>
       <Title title="PS Studios Stats" />
+      <div className="flex flex-col items-center align-middle md:flex-row lg:text-lg">
+        <button className="border p-4 mb-5 font-semibold md:mb-8 md:mr-3 lg:mr-6 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full  hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
+          PS5 Game Stats
+        </button>
+        <button className="border p-4 mb-8 font-semibold bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation">
+          PS Studios Stats
+        </button>
+      </div>
       <SubTitle subtitle="Overview" />
       <Paragraph>
         Here are a variety of stats across PS Studios and their

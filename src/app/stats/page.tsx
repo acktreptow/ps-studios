@@ -237,6 +237,13 @@ function StatsPage(): JSX.Element {
           >
             PS+ Premium Stats:
           </h3>
+          <Paragraph>
+            Many retro games from PS Studios now have a native PS5 port that are
+            included with a PS+ Premium subscription or bought a la carte.
+            Although it makes no sense to include them in other pages of this
+            site due to the retro nature, there are still some interesting facts
+            to glean from. So here they are!
+          </Paragraph>
           <StatsList isNumbered={false}>
             <li>Coming soon!</li>
           </StatsList>

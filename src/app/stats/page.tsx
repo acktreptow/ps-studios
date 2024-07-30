@@ -231,12 +231,9 @@ function StatsPage(): JSX.Element {
               unlikely).
             </li>
           </StatsList>
-          <h3
-            className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
-            id="psplusstats"
-          >
-            PS+ Premium Stats:
-          </h3>
+          <span id="psplusstats">
+            <SubTitle subtitle="PS+ Premium Stats" marginBottom={5} />
+          </span>
           <Paragraph>
             Many retro games from PS Studios now have a native PS5 port that are
             included with a PS+ Premium subscription or bought a la carte.
@@ -244,8 +241,18 @@ function StatsPage(): JSX.Element {
             site due to the retro nature, there are still some interesting facts
             to glean from. So here they are!
           </Paragraph>
+          <h3
+            className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
+            id="studiostats"
+          >
+            Defunct PS Studios Games:
+          </h3>
           <StatsList isNumbered={false}>
-            <li>Coming soon!</li>
+            <li>Bigbig Studios:</li>
+            <StatsList isNumbered={true}>
+              <li>Pursuit Force</li>
+              <li>Pursuit Force: Extreme Justice</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

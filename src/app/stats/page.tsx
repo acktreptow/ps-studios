@@ -281,6 +281,10 @@ function StatsPage(): JSX.Element {
               <li>No Heroes Allowed</li>
               <li>LocoRoco Midnight Carnival</li>
             </StatsList>
+            <li>Psygnosis</li>
+            <StatsList isNumbered={true}>
+              <li>G-Police</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

@@ -253,6 +253,12 @@ function StatsPage(): JSX.Element {
               <li>Pursuit Force</li>
               <li>Pursuit Force: Extreme Justice</li>
             </StatsList>
+            <li>SCE Studio Cambridge</li>
+            <StatsList isNumbered={true}>
+              <li>MediEvil</li>
+              <li>MediEvil: Resurrection</li>
+              <li>Ghosthunter</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

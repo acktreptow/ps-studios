@@ -7,6 +7,7 @@ import SubTitle from "../components/SubTitle";
 import Paragraph from "../components/Paragraph";
 import StatsList from "../components/StatsList";
 import Link from "next/link";
+import { Stats } from "fs";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -258,6 +259,27 @@ function StatsPage(): JSX.Element {
               <li>MediEvil</li>
               <li>MediEvil: Resurrection</li>
               <li>Ghosthunter</li>
+            </StatsList>
+            <li>Japan Studio</li>
+            <StatsList isNumbered={true}>
+              <li>Jumping Flash!</li>
+              <li>Wild Arms</li>
+              <li>Wild Arms 2</li>
+              <li>Intelligent Qube</li>
+              <li>Everybody&#39;s Golf</li>
+              <li>Everybody&#39;s Golf 2</li>
+              <li>Intelligent Qube: Final</li>
+              <li>Ape Escape</li>
+              <li>The Legend of Dragoon</li>
+              <li>Ape Escape: On the Loose</li>
+              <li>Blade Dancer: Lineage of Light</li>
+              <li>Jeanne d&#39;Arc</li>
+              <li>Echochrome</li>
+              <li>Echoshift</li>
+              <li>Ape Escape Academy</li>
+              <li>Ape Escape Academy 2</li>
+              <li>No Heroes Allowed</li>
+              <li>LocoRoco Midnight Carnival</li>
             </StatsList>
           </StatsList>
         </div>

@@ -251,14 +251,14 @@ function StatsPage(): JSX.Element {
           <StatsList isNumbered={false}>
             <li>Bigbig Studios:</li>
             <StatsList isNumbered={true}>
-              <li>Pursuit Force</li>
-              <li>Pursuit Force: Extreme Justice</li>
+              <li>Pursuit Force (PSP)</li>
+              <li>Pursuit Force: Extreme Justice (PSP)</li>
             </StatsList>
             <li>SCE Studio Cambridge</li>
             <StatsList isNumbered={true}>
-              <li>Ghosthunter</li>
-              <li>MediEvil</li>
-              <li>MediEvil: Resurrection</li>
+              <li>Ghosthunter (PS2)</li>
+              <li>MediEvil (PS1)</li>
+              <li>MediEvil: Resurrection (PSP)</li>
             </StatsList>
             <li>Sony Interactive Studios America</li>
             <StatsList isNumbered={true}>

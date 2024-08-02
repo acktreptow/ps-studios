@@ -256,20 +256,20 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>SCE Studio Cambridge</li>
             <StatsList isNumbered={true}>
+              <li>Ghosthunter</li>
               <li>MediEvil</li>
               <li>MediEvil: Resurrection</li>
-              <li>Ghosthunter</li>
             </StatsList>
             <li>Sony Interactive Studios America</li>
             <StatsList isNumbered={true}>
-              <li>Twisted Metal</li>
-              <li>Twisted Metal World Tour</li>
               <li>2Xtreme</li>
+              <li>Cool Boarders</li>
               <li>Jet Moto</li>
               <li>Jet Moto 2</li>
-              <li>Cool Boarders</li>
-              <li>Rally Cross</li>
               <li>Key of Heaven</li>
+              <li>Rally Cross</li>
+              <li>Twisted Metal</li>
+              <li>Twisted Metal World Tour</li>
             </StatsList>
             <li>Japan Studio</li>
             <StatsList isNumbered={true}>

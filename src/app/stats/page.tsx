@@ -305,6 +305,10 @@ function StatsPage(): JSX.Element {
               <li>Gravity Crash Portable</li>
               <li>Pinball Heroes</li>
             </StatsList>
+            <li>Incognito</li>
+            <StatsList isNumbered={true}>
+              <li>War of the Monsters</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

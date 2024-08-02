@@ -296,6 +296,15 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>G-Police</li>
             </StatsList>
+            <li>Second-party</li>
+            <StatsList isNumbered={true}>
+              <li>Sly Racoon</li>
+              <li>Daxter</li>
+              <li>Jak & Daxter: The Lost Frontier</li>
+              <li>Ratchet & Clank: Size Matters</li>
+              <li>Gravity Crash Portable</li>
+              <li>Pinball Heroes</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

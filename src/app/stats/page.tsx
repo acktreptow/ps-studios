@@ -262,14 +262,14 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Sony Interactive Studios America</li>
             <StatsList isNumbered={true}>
-              <li>2Xtreme</li>
-              <li>Cool Boarders</li>
-              <li>Jet Moto</li>
-              <li>Jet Moto 2</li>
-              <li>Key of Heaven</li>
-              <li>Rally Cross</li>
-              <li>Twisted Metal</li>
-              <li>Twisted Metal World Tour</li>
+              <li>2Xtreme (PS1)</li>
+              <li>Cool Boarders (PS1)</li>
+              <li>Jet Moto (PS1)</li>
+              <li>Jet Moto 2 (PS1)</li>
+              <li>Key of Heaven (PSP)</li>
+              <li>Rally Cross (PS1)</li>
+              <li>Twisted Metal (PS1)</li>
+              <li>Twisted Metal World Tour (PS1)</li>
             </StatsList>
             <li>Japan Studio</li>
             <StatsList isNumbered={true}>

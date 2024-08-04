@@ -307,7 +307,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Incognito</li>
             <StatsList isNumbered={true}>
-              <li>War of the Monsters</li>
+              <li>War of the Monsters (PS2)</li>
             </StatsList>
           </StatsList>
         </div>

@@ -294,7 +294,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Psygnosis</li>
             <StatsList isNumbered={true}>
-              <li>G-Police</li>
+              <li>G-Police (PS1)</li>
             </StatsList>
             <li>Second-party</li>
             <StatsList isNumbered={true}>

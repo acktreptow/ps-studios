@@ -310,6 +310,12 @@ function StatsPage(): JSX.Element {
               <li>War of the Monsters (PS2)</li>
             </StatsList>
           </StatsList>
+          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
+            Current PS Studios Legacy Games:
+          </h3>
+          <StatsList isNumbered={false}>
+            <li>Coming soon!</li>
+          </StatsList>
         </div>
       </div>
     </Container>

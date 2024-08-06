@@ -298,12 +298,12 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Second-party</li>
             <StatsList isNumbered={true}>
-              <li>Sly Racoon</li>
-              <li>Daxter</li>
-              <li>Jak & Daxter: The Lost Frontier</li>
-              <li>Ratchet & Clank: Size Matters</li>
-              <li>Gravity Crash Portable</li>
-              <li>Pinball Heroes</li>
+              <li>Sly Racoon (PS2)</li>
+              <li>Daxter (PSP)</li>
+              <li>Jak & Daxter: The Lost Frontier (PSP)</li>
+              <li>Ratchet & Clank: Size Matters (PSP)</li>
+              <li>Gravity Crash Portable (PSP)</li>
+              <li>Pinball Heroes (PSP)</li>
             </StatsList>
             <li>Incognito</li>
             <StatsList isNumbered={true}>

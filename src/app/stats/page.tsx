@@ -314,7 +314,15 @@ function StatsPage(): JSX.Element {
             Current PS Studios Legacy Games:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Coming soon!</li>
+            <li>Bend Studio</li>
+            <StatsList isNumbered={true}>
+              <li>Resistance Retribution</li>
+              <li>Syphon Filter</li>
+              <li>Syphon Filter 2</li>
+              <li>Syphon Filter 3</li>
+              <li>Syphon Filter: Dark Mirror</li>
+              <li>Syphon Filter: Logan&#39;s Shadow</li>
+            </StatsList>
           </StatsList>
         </div>
       </div>

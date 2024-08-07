@@ -324,6 +324,12 @@ function StatsPage(): JSX.Element {
               <li>Syphon Filter: Logan&#39;s Shadow</li>
             </StatsList>
           </StatsList>
+          <StatsList isNumbered={false}>
+            <li>Housemarque</li>
+            <StatsList isNumbered={true}>
+              <li>Super Stardust Portable</li>
+            </StatsList>
+          </StatsList>
         </div>
       </div>
     </Container>

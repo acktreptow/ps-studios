@@ -330,6 +330,12 @@ function StatsPage(): JSX.Element {
               <li>Super Stardust Portable</li>
             </StatsList>
           </StatsList>
+          <StatsList isNumbered={false}>
+            <li>San Diego Studio</li>
+            <StatsList isNumbered={true}>
+              <li>The Mark of Kri</li>
+            </StatsList>
+          </StatsList>
         </div>
       </div>
     </Container>

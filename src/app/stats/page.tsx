@@ -325,6 +325,12 @@ function StatsPage(): JSX.Element {
             </StatsList>
           </StatsList>
           <StatsList isNumbered={false}>
+            <li>Guerrilla Games</li>
+            <StatsList isNumbered={true}>
+              <li>Killzone: Liberation</li>
+            </StatsList>
+          </StatsList>
+          <StatsList isNumbered={false}>
             <li>Housemarque</li>
             <StatsList isNumbered={true}>
               <li>Super Stardust Portable</li>

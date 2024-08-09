@@ -327,19 +327,19 @@ function StatsPage(): JSX.Element {
           <StatsList isNumbered={false}>
             <li>Guerrilla Games</li>
             <StatsList isNumbered={true}>
-              <li>Killzone: Liberation</li>
+              <li>Killzone: Liberation (PSP)</li>
             </StatsList>
           </StatsList>
           <StatsList isNumbered={false}>
             <li>Housemarque</li>
             <StatsList isNumbered={true}>
-              <li>Super Stardust Portable</li>
+              <li>Super Stardust Portable (PSP)</li>
             </StatsList>
           </StatsList>
           <StatsList isNumbered={false}>
             <li>San Diego Studio</li>
             <StatsList isNumbered={true}>
-              <li>The Mark of Kri</li>
+              <li>The Mark of Kri (PS2)</li>
             </StatsList>
           </StatsList>
         </div>

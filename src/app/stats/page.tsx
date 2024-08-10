@@ -274,10 +274,10 @@ function StatsPage(): JSX.Element {
             <li>Japan Studio</li>
             <StatsList isNumbered={true}>
               <li>Jumping Flash! (PS1)</li>
+              <li>Everybody&#39;s Golf (PS1)</li>
               <li>Wild Arms (PS1)</li>
               <li>Wild Arms 2 (PS1)</li>
               <li>Intelligent Qube (PS1)</li>
-              <li>Everybody&#39;s Golf (PS1)</li>
               <li>Everybody&#39;s Golf 2 (PS1)</li>
               <li>Intelligent Qube: Final (PS1)</li>
               <li>Ape Escape (PS1)</li>
@@ -316,12 +316,12 @@ function StatsPage(): JSX.Element {
           <StatsList isNumbered={false}>
             <li>Bend Studio</li>
             <StatsList isNumbered={true}>
-              <li>Resistance Retribution</li>
-              <li>Syphon Filter</li>
-              <li>Syphon Filter 2</li>
-              <li>Syphon Filter 3</li>
-              <li>Syphon Filter: Dark Mirror</li>
-              <li>Syphon Filter: Logan&#39;s Shadow</li>
+              <li>Resistance Retribution (PSP)</li>
+              <li>Syphon Filter (PS1)</li>
+              <li>Syphon Filter 2 (PS1)</li>
+              <li>Syphon Filter 3 (PS1)</li>
+              <li>Syphon Filter: Dark Mirror (PSP)</li>
+              <li>Syphon Filter: Logan&#39;s Shadow (PSP)</li>
             </StatsList>
           </StatsList>
           <StatsList isNumbered={false}>

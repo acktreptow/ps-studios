@@ -273,24 +273,24 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Japan Studio</li>
             <StatsList isNumbered={true}>
-              <li>Jumping Flash! (PS1)</li>
-              <li>Everybody&#39;s Golf (PS1)</li>
-              <li>Wild Arms (PS1)</li>
-              <li>Wild Arms 2 (PS1)</li>
-              <li>Intelligent Qube (PS1)</li>
-              <li>Everybody&#39;s Golf 2 (PS1)</li>
-              <li>Intelligent Qube: Final (PS1)</li>
               <li>Ape Escape (PS1)</li>
-              <li>The Legend of Dragoon (PS1)</li>
-              <li>Ape Escape: On the Loose (PSP)</li>
-              <li>Blade Dancer: Lineage of Light (PSP)</li>
-              <li>Jeanne d&#39;Arc (PSP)</li>
-              <li>Echochrome (PSP)</li>
-              <li>Echoshift (PSP)</li>
               <li>Ape Escape Academy (PSP)</li>
               <li>Ape Escape Academy 2 (PSP)</li>
-              <li>No Heroes Allowed (PSP)</li>
+              <li>Ape Escape: On the Loose (PSP)</li>
+              <li>Blade Dancer: Lineage of Light (PSP)</li>
+              <li>Echochrome (PSP)</li>
+              <li>Echoshift (PSP)</li>
+              <li>Everybody&#39;s Golf (PS1)</li>
+              <li>Everybody&#39;s Golf 2 (PS1)</li>
+              <li>Intelligent Qube (PS1)</li>
+              <li>Intelligent Qube: Final (PS1)</li>
+              <li>Jeanne d&#39;Arc (PSP)</li>
+              <li>Jumping Flash! (PS1)</li>
               <li>LocoRoco Midnight Carnival (PSP)</li>
+              <li>No Heroes Allowed (PSP)</li>
+              <li>The Legend of Dragoon (PS1)</li>
+              <li>Wild Arms (PS1)</li>
+              <li>Wild Arms 2 (PS1)</li>
             </StatsList>
             <li>Psygnosis</li>
             <StatsList isNumbered={true}>

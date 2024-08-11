@@ -342,6 +342,14 @@ function StatsPage(): JSX.Element {
               <li>The Mark of Kri (PS2)</li>
             </StatsList>
           </StatsList>
+          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
+            Different names for games:
+          </h3>
+          <Paragraph>
+            Due to the more closed world of the 90s and early 2000s, some games
+            had different names in different regions. Here are the games that
+            had multiple names depending on the region:
+          </Paragraph>
         </div>
       </div>
     </Container>

@@ -351,6 +351,10 @@ function StatsPage(): JSX.Element {
             had multiple names depending on the region:
           </Paragraph>
         </div>
+        <StatsList isNumbered={true}>
+          <li>Jet Moto / Jet Rider (PAL)</li>
+          <li>Jet Moto 2 / Jet Rider 2 (PAL)</li>
+        </StatsList>
       </div>
     </Container>
   );

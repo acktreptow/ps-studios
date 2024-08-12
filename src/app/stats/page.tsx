@@ -350,11 +350,14 @@ function StatsPage(): JSX.Element {
             had different names in different regions. Here are the games that
             had multiple names depending on the region:
           </Paragraph>
+          <StatsList isNumbered={true}>
+            <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
+            <li>Jet Moto 2 (NA/JP) / Jet Rider 2 (EU)</li>
+            <li>
+              Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
+            </li>
+          </StatsList>
         </div>
-        <StatsList isNumbered={true}>
-          <li>Jet Moto / Jet Rider (PAL)</li>
-          <li>Jet Moto 2 / Jet Rider 2 (PAL)</li>
-        </StatsList>
       </div>
     </Container>
   );

@@ -356,6 +356,7 @@ function StatsPage(): JSX.Element {
             <li>
               Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
             </li>
+            <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
           </StatsList>
         </div>
       </div>

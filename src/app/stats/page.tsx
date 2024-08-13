@@ -360,6 +360,10 @@ function StatsPage(): JSX.Element {
             <li>
               Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)
             </li>
+            <li>
+              Blade Dancer: Lineage of Light (NA/EU) / Blade Dancer:
+              Thousand-Year Promise
+            </li>
           </StatsList>
         </div>
       </div>

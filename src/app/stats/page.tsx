@@ -357,6 +357,9 @@ function StatsPage(): JSX.Element {
               Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
             </li>
             <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
+            <li>
+              Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)
+            </li>
           </StatsList>
         </div>
       </div>

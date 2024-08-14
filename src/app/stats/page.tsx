@@ -372,6 +372,12 @@ function StatsPage(): JSX.Element {
               Ape Academy 2 (EU) / Piposaru Academia 2: Aiai Sarugē Janken
               Battle! (JP)
             </li>
+            <li>
+              Ape Escape: On the Loose (NA) / Ape Escape P (EU) / Saru Get You
+              P! (JP)
+            </li>
+            <li>Ape Escape (NA/EU) / Saru Get You (JP)</li>
+            <li>Ape Escape 2 (NA/EU) / Saru Get You 2 (JP)</li>
           </StatsList>
         </div>
       </div>

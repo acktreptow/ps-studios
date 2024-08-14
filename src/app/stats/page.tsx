@@ -362,7 +362,15 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Blade Dancer: Lineage of Light (NA/EU) / Blade Dancer:
-              Thousand-Year Promise
+              Thousand-Year Promise (JP)
+            </li>
+            <li>
+              Ape Escape Academy (NA) / Ape Academy (EU) / Piposaru Academia:
+              Dossari! Sarugē Daizenshū (JP)
+            </li>
+            <li>
+              Ape Academy 2 (EU) / Piposaru Academia 2: Aiai Sarugē Janken
+              Battle! (JP)
             </li>
           </StatsList>
         </div>

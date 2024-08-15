@@ -378,6 +378,14 @@ function StatsPage(): JSX.Element {
             </li>
             <li>Ape Escape (NA/EU) / Saru Get You (JP)</li>
             <li>Ape Escape 2 (NA/EU) / Saru Get You 2 (JP)</li>
+            <li>
+              Hot Shots Golf (NA) / Everybody&#39;s Golf (EU) / Minna no Golf
+              (JP)
+            </li>
+            <li>
+              Hot Shots Golf 2(NA) / Everybody&#39;s Golf 2(EU) / Minna no Golf
+              2 (JP)
+            </li>
           </StatsList>
         </div>
       </div>

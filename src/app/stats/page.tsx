@@ -343,7 +343,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
-            Different names for games:
+            Different names for the same games:
           </h3>
           <Paragraph>
             Due to the more closed world of the 90s and early 2000s, some games

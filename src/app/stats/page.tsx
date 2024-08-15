@@ -386,6 +386,10 @@ function StatsPage(): JSX.Element {
               Hot Shots Golf 2(NA) / Everybody&#39;s Golf 2(EU) / Minna no Golf
               2 (JP)
             </li>
+            <li>
+              Jumping Flash! 2 (NA/EU) / Jumping Flash! 2: Big Trouble in Little
+              Muu (JP)
+            </li>
           </StatsList>
         </div>
       </div>

@@ -390,6 +390,10 @@ function StatsPage(): JSX.Element {
               Jumping Flash! 2 (NA/EU) / Jumping Flash! 2: Big Trouble in Little
               Muu (JP)
             </li>
+            <li>
+              Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /
+              Kaitou Sly Cooper (JP)
+            </li>
           </StatsList>
         </div>
       </div>

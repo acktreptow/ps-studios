@@ -351,19 +351,6 @@ function StatsPage(): JSX.Element {
             had multiple names depending on the region:
           </Paragraph>
           <StatsList isNumbered={true}>
-            <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
-            <li>Jet Moto 2 (NA/JP) / Jet Rider 2 (EU)</li>
-            <li>
-              Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
-            </li>
-            <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
-            <li>
-              Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)
-            </li>
-            <li>
-              Blade Dancer: Lineage of Light (NA/EU) / Blade Dancer:
-              Thousand-Year Promise (JP)
-            </li>
             <li>
               Ape Escape Academy (NA) / Ape Academy (EU) / Piposaru Academia:
               Dossari! Sarugē Daizenshū (JP)
@@ -379,6 +366,13 @@ function StatsPage(): JSX.Element {
             <li>Ape Escape (NA/EU) / Saru Get You (JP)</li>
             <li>Ape Escape 2 (NA/EU) / Saru Get You 2 (JP)</li>
             <li>
+              Blade Dancer: Lineage of Light (NA/EU) / Blade Dancer:
+              Thousand-Year Promise (JP)
+            </li>
+            <li>
+              Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
+            </li>
+            <li>
               Hot Shots Golf (NA) / Everybody&#39;s Golf (EU) / Minna no Golf
               (JP)
             </li>
@@ -386,9 +380,16 @@ function StatsPage(): JSX.Element {
               Hot Shots Golf 2(NA) / Everybody&#39;s Golf 2(EU) / Minna no Golf
               2 (JP)
             </li>
+            <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
+            <li>Jet Moto 2 (NA/JP) / Jet Rider 2 (EU)</li>
             <li>
               Jumping Flash! 2 (NA/EU) / Jumping Flash! 2: Big Trouble in Little
               Muu (JP)
+              <li>
+                Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon
+                (JP)
+              </li>
+              <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
             </li>
             <li>
               Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /

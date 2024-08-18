@@ -48,14 +48,14 @@ function XDevpage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             XDev have two games publicly in development. A remake of 2015&#39;s
-            Until Dawn by Ballistic Moon and Death Stranding 2 by Kojima
-            Productions.
+            Until Dawn by Ballistic Moon that&#39;s releasing in October and
+            Death Stranding 2 by Kojima Productions.
           </Paragraph>
           <Paragraph>
             Analytically, XDev&#39;s collaborations have been inconsistent this
             gen, with 2022&#39;s VR FPS &#39;Firewall Ultra&#39; being the
-            biggest disappointment. It&#39;s actually the lowest rated PS5 game
-            by all of PS Studios.
+            biggest disappointment at 61. It&#39;s actually the lowest rated PS5
+            game by all of PS Studios.
           </Paragraph>
           <Paragraph>
             However, all three of XDev&#39;s 2024 games have been successful.

@@ -216,7 +216,11 @@ function StatsPage(): JSX.Element {
                 Uncharted.
               </li>
               <li>
-                Jason Blundell&#39;s team (COD Zombies creator, ex-Deviation)
+                Jason Blundell&#39;s team (COD Zombies creator, ex-Deviation).
+              </li>
+              <li>
+                The team of ex-Bungie employees who were spun out of the
+                developer to create a new studio.
               </li>
             </StatsList>
             <li className="mb-1">Studios most likely to be acquired:</li>

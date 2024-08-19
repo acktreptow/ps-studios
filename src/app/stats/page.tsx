@@ -350,14 +350,13 @@ function StatsPage(): JSX.Element {
             Different names for the same games:
           </h3>
           <Paragraph>
-            The world was a very different place in the 90s and early 2000s. The
-            internet was still in its infancy, let alone broadband-enabled
-            online gaming. Gaming production pipelines were also more closed off
-            as the world was a lot less globalized. As a result, many games not
-            only released months (and sometimes years) apart in differrent
-            regions, but they would also often release under different names.
-            Here are the legacy games that had multiple names depending on the
-            region:
+            The world was different in the 90s and early 2000s. The internet was
+            still in its infancy, let alone broadband-enabled online gaming.
+            Game development pipelines were also more closed off as the world
+            was less globalized. As a result, many games not only released
+            months (sometimes years) apart in different regions, but also under
+            different names. Here are the legacy games that had multiple names
+            depending on the region:
           </Paragraph>
           <StatsList isNumbered={true}>
             <li>

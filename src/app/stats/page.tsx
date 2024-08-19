@@ -404,6 +404,10 @@ function StatsPage(): JSX.Element {
               Kaitou Sly Cooper (JP)
             </li>
           </StatsList>
+          <Paragraph>
+            As you can see with games such Kurushi Final, it was much more
+            likely back then for game to not be localized for every region.
+          </Paragraph>
         </div>
       </div>
     </Container>

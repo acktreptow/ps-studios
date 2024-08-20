@@ -360,7 +360,16 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               For example, getting all the Pursuit Force and Syphon Filter games
-              ported before moving to others games from those respective devs.
+              ported before moving to others games from those respective
+              developers.
+            </li>
+            <li>
+              Even if a game didn&#39;t initially release in a particular
+              region, they still received the PS+ port.
+            </li>
+            <li>
+              For example, NA regions received the second Intelligent Qube and
+              Ape Academy 2
             </li>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">

@@ -63,8 +63,9 @@ function FirewalkStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             This is at least what I thought when playing Concord&#39;s open
-            beta. But if its low player count is any indication, it might be DOA
-            in August despite any quality gameplay and/or story.
+            beta. But if its low Steam player count and PSN pre-order numbers
+            are any indication, it&#39;s already DOA in August despite any
+            quality gameplay and/or story.
           </Paragraph>
         </div>
         <div>

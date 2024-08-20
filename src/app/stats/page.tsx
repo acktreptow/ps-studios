@@ -347,6 +347,15 @@ function StatsPage(): JSX.Element {
             </StatsList>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
+            What can be taken from this:
+          </h3>
+          <StatsList isNumbered={false}>
+            <li>
+              The vast majority of the games have been ported over from defunct
+              studios like BigBig and SCE Cambridge
+            </li>
+          </StatsList>
+          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Different names for the same games:
           </h3>
           <Paragraph>

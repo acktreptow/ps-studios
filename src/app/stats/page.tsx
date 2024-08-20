@@ -354,6 +354,14 @@ function StatsPage(): JSX.Element {
               The vast majority of the games have been ported over from defunct
               studios like BigBig and SCE Cambridge
             </li>
+            <li>
+              It seems like when a game is chosen, Sony like to finish off the
+              whole series before moving on to another.
+            </li>
+            <li>
+              For example, getting all the Pursuit Force and Syphon Filter games
+              ported before moving to others games from those respective devs.
+            </li>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
             Different names for the same games:

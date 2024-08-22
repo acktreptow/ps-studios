@@ -78,17 +78,17 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2021: 8</li>
             <li>PS5 games released in 2022: 6</li>
             <li>PS5 games released in 2023: 4</li>
-            <li>PS5 games released in 2024 so far: 5</li>
+            <li>PS5 games released in 2024 so far: 6</li>
             <li>PS5 games that are remasters/remakes: 10</li>
             <li>PS5 games that are on Xbox: 6</li>
             <li>PS5 games that are on Nintendo Switch: 4</li>
-            <li>PS5 games that are on PC: 15</li>
+            <li>PS5 games that are on PC: 16</li>
             <li>PS5 games that originated on PS3: 2</li>
             <li>PS5 games that originated on PS4: 8</li>
             <li>PSVR2 games: 2</li>
             <li>PS5 games from JP studios: 3</li>
             <li>PS5 games from EU studios: 4</li>
-            <li>PS5 games from NA studios: 29</li>
+            <li>PS5 games from NA studios: 30</li>
             <li>PS5 games from JP studios (only released): 2</li>
             <li>PS5 games from EU studios (only released): 4</li>
             <li>PS5 games from NA studios (only released): 23</li>
@@ -96,7 +96,7 @@ function StatsPage(): JSX.Element {
               PS5 games that have a VR mode: 4 (The Persistence is only PSVR1)
             </li>
             <li>Unreleased announced PS5 games: 7</li>
-            <li>Most recent released PS5 game: Stellar Blade (April 2024)</li>
+            <li>Most recent released PS5 game: Concord (August 2024)</li>
             <li>Next PS5 game: Concord from Firewalk - August 23, 2024</li>
             <li>XDev released PS5 games: 8</li>
             <li>XDev released PS5 games: 2</li>

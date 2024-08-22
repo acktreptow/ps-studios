@@ -97,7 +97,9 @@ function StatsPage(): JSX.Element {
             </li>
             <li>Unreleased announced PS5 games: 7</li>
             <li>Most recent released PS5 game: Concord (August 2024)</li>
-            <li>Next PS5 game: Concord from Firewalk - August 23, 2024</li>
+            <li>
+              Next PS5 game: Astro Bot from Team Asobi - September 6, 2024
+            </li>
             <li>XDev released PS5 games: 8</li>
             <li>XDev released PS5 games: 2</li>
           </StatsList>
@@ -159,14 +161,14 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Studio with most new releases: Insomniac Games (4)</li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
-            <li>Number of studios with 0 PS5 games: 9</li>
+            <li>Number of studios with 0 PS5 games: 8</li>
             <li>
               Studio with the longest duration since their last release: Bend
               Studio with Days Gone (April 2019)
             </li>
             <li>
               Studio with the shortest duration since their last release:
-              Insomniac Games with Spider-Man 2 (October 2023)
+              Firewalk Studios with Concord (August 2024)
             </li>
             <li>Largest studio by headcount: Bungie (1400+)</li>
             <li>

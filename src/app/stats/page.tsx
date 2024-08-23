@@ -170,7 +170,7 @@ function StatsPage(): JSX.Element {
               Studio with the shortest duration since their last release:
               Firewalk Studios with Concord (August 2024)
             </li>
-            <li>Largest studio by headcount: Bungie (1400+)</li>
+            <li>Largest studio by headcount: Bungie (850+)</li>
             <li>
               Smallest studio by headcount: Neon Koi most likely (fewer than 50)
             </li>
@@ -187,9 +187,13 @@ function StatsPage(): JSX.Element {
               Studio with highest average Metacritic score (more than 1 game):
               Insomniac Games (87.5)
             </li>
-            <li className="mb-3">
+            <li>
               Studio with highest average Metacritic score (no
               remasters/remakes): Insomniac Games (87.67)
+            </li>
+            <li className="mb-3">
+              Studio with lowest average Metacritic score (no
+              remasters/remakes): Firewalk Studios (69)
             </li>
             <li className="mb-1">
               Five studios most likely to close (no particular order):

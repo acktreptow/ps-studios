@@ -71,7 +71,15 @@ function StatsPage(): JSX.Element {
             <li>
               Game with highest Metacritic score: God of War: Ragnarök (94)
             </li>
-            <li>Game with lowest Metacritic score: Firewall Ultra (61)</li>
+            <li>Game with lowest Metacritic score: Concord (69)</li>
+            <li>
+              Game with highest Metacritic score (second-party): The Nioh
+              Collection (87)
+            </li>
+            <li>
+              Game with lowest Metacritic score (second-party): Firewall Ultra
+              (61)
+            </li>
             <li>Total 90+ PS5 games on Metacritic: 4</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>
             <li>PS5 games released in 2020: 6</li>

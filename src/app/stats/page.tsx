@@ -257,7 +257,7 @@ function StatsPage(): JSX.Element {
             <SubTitle subtitle="PS+ Premium Stats" marginBottom={5} />
           </span>
           <Paragraph>
-            Many retro games from PS Studios now have a native PS5 port that are
+            Many retro games from PS Studios now have a PS5 port that are
             included with a PS+ Premium subscription or bought a la carte.
             Although it makes no sense to include them in other pages of this
             site due to the retro nature, there are still some interesting facts
@@ -364,11 +364,11 @@ function StatsPage(): JSX.Element {
             </StatsList>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
-            What can be taken from this:
+            Takeaways:
           </h3>
           <StatsList isNumbered={false}>
             <li>
-              The vast majority of the games have been ported over from defunct
+              The majority of games that have been ported over from defunct
               studios like BigBig and SCE Cambridge
             </li>
             <li>

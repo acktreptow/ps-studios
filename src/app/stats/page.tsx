@@ -89,7 +89,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2021: 8</li>
             <li>PS5 games released in 2022: 6</li>
             <li>PS5 games released in 2023: 4</li>
-            <li>PS5 games released in 2024 so far: 6</li> 
+            <li>PS5 games released in 2024 so far: 6</li>
             <li>PS5 games that are remasters/remakes: 10</li>
             <li>PS5 games that are on Xbox: 6</li>
             <li>PS5 games that are on Nintendo Switch: 4</li>
@@ -186,7 +186,8 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Most recent PlayStation Studios game (including second-party):
-              XDev with Shift Up&#39;s Stellar Blade (April 2024)
+              Firewalk Studios with Concord (August 2024) (prev XDev with Shift
+              Up&#39;s Stellar Blade (April 2024))
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>

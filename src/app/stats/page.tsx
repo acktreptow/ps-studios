@@ -112,7 +112,6 @@ function StatsPage(): JSX.Element {
               Next PS5 game: Astro Bot from Team Asobi - September 6, 2024
             </li>
             <li>XDev released PS5 games: 8</li>
-            <li>XDev released PS5 games: 2</li>
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

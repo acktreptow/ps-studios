@@ -38,8 +38,8 @@ function StatsPage(): JSX.Element {
         released/upcoming games over the PS5 generation.
       </Paragraph>
       <Paragraph>
-        There&#39;s 22 first-party developers under the PS Studios umbrella. The
-        following list are their names and their number of{" "}
+        There&#39;s 22 (announced) first-party developers under the PS Studios umbrella. The
+        following list are their names and their number of
         <span className="font-bold">released</span> games on PS5:
       </Paragraph>
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
@@ -103,9 +103,6 @@ function StatsPage(): JSX.Element {
             <li>PS5 games from JP studios (only released): 2</li>
             <li>PS5 games from EU studios (only released): 4</li>
             <li>PS5 games from NA studios (only released): 23</li>
-            <li>
-              PS5 games that have a VR mode: 4 (The Persistence is only PSVR1)
-            </li>
             <li>Unreleased announced PS5 games: 7</li>
             <li>Most recent released PS5 game: Concord (August 2024)</li>
             <li>
@@ -204,7 +201,7 @@ function StatsPage(): JSX.Element {
             </li>
             <li className="mb-3">
               Studio with lowest average Metacritic score (no
-              remasters/remakes): Firewalk Studios (69)
+              remasters/remakes): Firewalk Studios (65)
             </li>
             <li className="mb-1">
               Five studios most likely to close (no particular order):

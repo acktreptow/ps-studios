@@ -40,8 +40,8 @@ function FirewalkStudiosPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Firewalk then announced their first game, Concord, shortly after.
-        It&#39;s a 70&#39;s aesthetic sci-fi live-service 5vs5 PVP shooter
-        coming to PS5 and PC in 2024.
+        It&#39;s a 70&#39;s aesthetic sci-fi live-service 5vs5 PVP shooter that
+        released on PS5 and PC in August 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

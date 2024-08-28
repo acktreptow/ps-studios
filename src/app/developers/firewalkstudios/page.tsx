@@ -57,15 +57,20 @@ function FirewalkStudiosPage(): JSX.Element {
             poor clone of Overwatch.
           </Paragraph>
           <Paragraph>
-            Despite this underwhelming deep dive though, I still have some
-            confidence due to the pedigree of Firewalk&#39;s founders. They know
-            how to make competitive FPS gameplay feel great.
+            Unfortunately for Firewalk, the beta in July actually worsened this
+            perception. The story and design of the characters were mostly
+            negative and the gameplay, though fun, was not good enough to
+            justify its $40 price tag. Especially comapared to its F2P
+            competitors like Fortnite and Apex Legends.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This is at least what I thought when playing Concord&#39;s open
-            beta. But if its low Steam player count and PSN pre-order numbers
-            are any indication, it&#39;s already DOA in August despite any
-            quality gameplay and/or story.
+            All this led to historically poor launch for Sony, both commercially
+            and critically. It currently has the lowest Metacritic score for a
+            first-party PS5 game at 65. But its sales are even worse, peaking at
+            just 697 concurrent players on Steam and now can even crack over 250
+            players less than a week after launch. The game is already
+            completely DOA and Firewalk will need to find a way to pivot fast if
+            it hopes to survive.
           </Paragraph>
         </div>
         <div>

@@ -38,8 +38,8 @@ function StatsPage(): JSX.Element {
         released/upcoming games over the PS5 generation.
       </Paragraph>
       <Paragraph>
-        There&#39;s 22 (announced) first-party developers under the PS Studios umbrella. The
-        following list are their names and their number of
+        There&#39;s 22 (announced) first-party developers under the PS Studios
+        umbrella. The following list are their names and their number of
         <span className="font-bold">released</span> games on PS5:
       </Paragraph>
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
@@ -71,7 +71,7 @@ function StatsPage(): JSX.Element {
             <li>
               Game with highest Metacritic score: God of War: Ragnarök (94)
             </li>
-            <li>Game with lowest Metacritic score: Concord (69)</li>
+            <li>Game with lowest Metacritic score: Concord (63)</li>
             <li>
               Game with highest Metacritic score (second-party): The Nioh
               Collection (87)
@@ -201,14 +201,14 @@ function StatsPage(): JSX.Element {
             </li>
             <li className="mb-3">
               Studio with lowest average Metacritic score (no
-              remasters/remakes): Firewalk Studios (65)
+              remasters/remakes): Firewalk Studios (63)
             </li>
             <li className="mb-1">
               Five studios most likely to close (no particular order):
             </li>
             <StatsList isNumbered={true}>
-              <li>Bend Studio</li>
               <li>Firewalk Studios</li>
+              <li>Bend Studio</li>
               <li>Firesprite/Fabrik Games</li>
               <li>Media Molecule</li>
               <li>Neon Koi</li>

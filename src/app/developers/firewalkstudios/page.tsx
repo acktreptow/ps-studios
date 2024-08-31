@@ -30,17 +30,16 @@ function FirewalkStudiosPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         This Washington-based developer was founded in 2018 by senior veterans
-        of popular multiplayer shooters, who had previously worked on Halo and
-        Destiny.
+        of popular multiplayer shooters like Halo and Destiny.
       </Paragraph>
       <Paragraph>
         With this prestige multiplayer expertise and Sony&#39;s increased focus
-        on live-service games for PS5, it&#39;s therefore no surprise they
-        acquired Firewalk in 2023.
+        on live-service games for PS5 & PC, it&#39;s therefore no surprise they
+        acquired Firewalk in early 2023.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Firewalk then announced their first game, Concord, shortly after.
-        It&#39;s a 70&#39;s aesthetic sci-fi live-service 5vs5 PVP shooter that
+        It&#39;s a 70&#39;s aesthetic sci-fi live-service 5vs5 shooter that
         released on PS5 and PC in August 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>

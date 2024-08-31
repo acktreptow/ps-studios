@@ -7,7 +7,6 @@ import SubTitle from "../components/SubTitle";
 import Paragraph from "../components/Paragraph";
 import StatsList from "../components/StatsList";
 import Link from "next/link";
-import { Stats } from "fs";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -71,14 +70,14 @@ function StatsPage(): JSX.Element {
             <li>
               Game with highest Metacritic score: God of War: Ragnarök (94)
             </li>
-            <li>Game with lowest Metacritic score: Concord (63)</li>
+            <li>Game with lowest Metacritic score: Concord (62)</li>
             <li>
               Game with highest Metacritic score (second-party): The Nioh
               Collection (87)
             </li>
             <li>
               Game with lowest Metacritic score (second-party): Firewall Ultra
-              (61)
+              (62)
             </li>
             <li>Total 90+ PS5 games on Metacritic: 4</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>
@@ -201,7 +200,7 @@ function StatsPage(): JSX.Element {
             </li>
             <li className="mb-3">
               Studio with lowest average Metacritic score (no
-              remasters/remakes): Firewalk Studios (63)
+              remasters/remakes): Firewalk Studios (62)
             </li>
             <li className="mb-1">
               Five studios most likely to close (no particular order):

@@ -46,9 +46,9 @@ function FirewalkStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It took over a year, but we finally got an in-depth look at Concord
-            in May 2024 with a CG story trailer and a gameplay one - both were
-            very poorly received.
+            It wasn&#39;t until May 2024 before we actually saw Concord with a
+            CG story trailer and a gameplay one. Unfortunately despite
+            Concord&#39;s release in 3 months, both were very poorly received.
           </Paragraph>
           <Paragraph>
             The story was seen as a poor clone of Marvel writing - specifically
@@ -56,20 +56,36 @@ function FirewalkStudiosPage(): JSX.Element {
             poor clone of Overwatch.
           </Paragraph>
           <Paragraph>
-            Unfortunately for Firewalk, the beta in July actually worsened this
-            perception. The story and design of the characters were mostly
-            negative and the gameplay, though fun, was not good enough to
-            justify its $40 price tag. Especially comapared to its F2P
-            competitors like Fortnite and Apex Legends.
+            The playable betas in July then worsened this perception. The story
+            and design of the characters were universally negative and the
+            gameplay, though fun, was not good enough to justify its $40 price
+            tag. Especially compared to its F2P competitors like Fortnite and
+            Overwatch 2.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            All this led to historically poor launch for Sony, both commercially
-            and critically. It currently has the lowest Metacritic score for a
-            first-party PS5 game at 65. But its sales are even worse, peaking at
-            just 697 concurrent players on Steam and now can even crack over 250
-            players less than a week after launch. The game is already
-            completely DOA and Firewalk will need to find a way to pivot fast if
-            it hopes to survive.
+            All this led to a historically poor launch for Sony. It&#39;s
+            currently tied with Firewall Ultra for the worst reviewed first or
+            second-party PS5 game on Metacritic at 62. However this unwanted
+            stats pales in comparison to it&#39;s commercial failure.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            Concord peaked at just 697 concurrent players on Steam and now
+            can&#39;t even crack 200 concurrent players a week after launch. The
+            game is already completely DOA and Firewalk will need to find a way
+            to pivot fast if it hopes to survive.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            Concord peaked at just 697 concurrent players on Steam and now
+            can&#39;t even crack 200 concurrent players a week after launch.
+            It&#39;s estimated to have soly 25k copies between PC and PS5,
+            totalling less than $1 million in revenue despite a roughly $200
+            million budget.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            Concord is not only already completely DOA, but it might go down as
+            PlayStation Studios&#39; worst selling AAA game of all time.
+            Firewalk will need to find a way to pivot fast if it hopes to
+            survive.
           </Paragraph>
         </div>
         <div>

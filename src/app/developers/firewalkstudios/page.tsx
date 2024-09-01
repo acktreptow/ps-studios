@@ -42,7 +42,7 @@ function FirewalkStudiosPage(): JSX.Element {
         It&#39;s a 70&#39;s aesthetic sci-fi live-service 5vs5 shooter that
         released on PS5 and PC in August 2024.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -88,7 +88,7 @@ function FirewalkStudiosPage(): JSX.Element {
             survive.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={concord}
             alt="Concord key art"

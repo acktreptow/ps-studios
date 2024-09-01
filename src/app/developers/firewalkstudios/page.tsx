@@ -63,23 +63,15 @@ function FirewalkStudiosPage(): JSX.Element {
             Overwatch 2.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            All this led to a historically poor launch for Sony. It&#39;s
-            currently tied with Firewall Ultra for the worst reviewed first or
-            second-party PS5 game on Metacritic at 62. However this unwanted
-            stats pales in comparison to it&#39;s commercial failure.
+            This led to a historically poor launch for Sony. It&#39;s tied with
+            Firewall Ultra as the worst reviewed PS Studios PS5 game on
+            Metacritic at 62, and its commercial failure is even larger.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Concord peaked at just 697 concurrent players on Steam and now
-            can&#39;t even crack 200 concurrent players a week after launch. The
-            game is already completely DOA and Firewalk will need to find a way
-            to pivot fast if it hopes to survive.
-          </Paragraph>
-          <Paragraph marginBottom={8}>
-            Concord peaked at just 697 concurrent players on Steam and now
-            can&#39;t even crack 200 concurrent players a week after launch.
-            It&#39;s estimated to have soly 25k copies between PC and PS5,
-            totalling less than $1 million in revenue despite a roughly $200
-            million budget.
+            Concord peaked at 697 concurrent players on Steam and can&#39;t even
+            crack 200 concurrent players a week after launch. It&#39;s estimated
+            to have sold 25k copies between PC and PS5, totalling less than $1
+            million in revenue despite a roughly $200 million budget.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Concord is not only already completely DOA, but it might go down as

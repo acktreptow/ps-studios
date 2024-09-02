@@ -51,9 +51,8 @@ function FirewalkStudiosPage(): JSX.Element {
             Concord&#39;s release in 3 months, both were very poorly received.
           </Paragraph>
           <Paragraph>
-            The story was seen as a poor clone of Marvel writing - specifically
-            Guardians of the Galaxy. The hero shooter gameplay was seen as a
-            poor clone of Overwatch.
+            The story was seen as a poor clone of Guardians of the Galaxy and
+            the hero shooter gameplay was seen as a worse Overwatch.
           </Paragraph>
           <Paragraph>
             The playable betas in July then worsened this perception. The story
@@ -62,12 +61,12 @@ function FirewalkStudiosPage(): JSX.Element {
             tag. Especially compared to its F2P competitors like Fortnite and
             Overwatch 2.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             This led to a historically poor launch for Sony. It&#39;s tied with
             Firewall Ultra as the worst reviewed PS Studios PS5 game on
             Metacritic at 62, and its commercial failure is even larger.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             Concord peaked at 697 concurrent players on Steam and can&#39;t even
             crack 200 concurrent players a week after launch. It&#39;s estimated
             to have sold 25k copies between PC and PS5, totalling less than $1

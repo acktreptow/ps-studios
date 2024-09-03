@@ -53,10 +53,9 @@ function FirewalkStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             The playable betas in July then worsened this perception. The story
-            and design of the characters were universally negative and the
-            gameplay, though fun, was not good enough to justify its $40 price
-            tag. Especially compared to its F2P competitors like Fortnite and
-            Overwatch 2.
+            and character design were universally negative and the gameplay,
+            though fun, was not good enough to justify its $40 price tag.
+            Especially compared to its F2P competitors like Fortnite.
           </Paragraph>
           <Paragraph>
             This led to a historically poor launch for Sony. It&#39;s tied with
@@ -65,15 +64,14 @@ function FirewalkStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Concord peaked at 697 concurrent players on Steam and can&#39;t even
-            crack 200 concurrent players a week after launch. It&#39;s estimated
-            to have sold 25k copies between PC and PS5, totalling less than $1
-            million in revenue despite a roughly $200 million budget.
+            crack 200 a week after launch. It&#39;s sold roughly 25k copies
+            between PC and PS5, totalling less than $1 million in revenue
+            despite an estimated $200 million budget.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Concord is not only already completely DOA, but it might go down as
-            PlayStation Studios&#39; worst selling AAA game of all time.
-            Firewalk will need to find a way to pivot fast if it hopes to
-            survive.
+            Concord is not only already completely DOA, but might become
+            PlayStation Studios&#39; worst selling AAA game ever. Firewalk needs
+            to find a way to pivot fast if it hopes to survive.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -68,6 +68,12 @@ function FirewalkStudiosPage(): JSX.Element {
             between PC and PS5, totalling less than $1 million in revenue
             despite an estimated $200 million budget.
           </Paragraph>
+          <Paragraph>
+            In fact it was so bad that PlayStation decided to take the game off
+            the PS Store and refund all purchases on September 3rd. Only 11 days
+            after Concord launched. This is the first time a PlayStation Studios
+            game has ever been delisted.
+          </Paragraph>
           <Paragraph marginBottom={8}>
             Concord is not only already completely DOA, but might become
             PlayStation Studios&#39; worst selling AAA game ever. Firewalk needs

@@ -63,21 +63,20 @@ function FirewalkStudiosPage(): JSX.Element {
             Metacritic at 62, and its commercial failure is even larger.
           </Paragraph>
           <Paragraph>
-            Concord peaked at 697 concurrent players on Steam and can&#39;t even
-            crack 200 a week after launch. It&#39;s sold roughly 25k copies
-            between PC and PS5, totalling less than $1 million in revenue
-            despite an estimated $200 million budget.
-          </Paragraph>
-          <Paragraph>
-            In fact it was so bad that PlayStation decided to take the game off
-            the PS Store and refund all purchases on September 3rd. Only 11 days
-            after Concord launched. This is the first time a PlayStation Studios
-            game has ever been delisted.
+            Concord peaked at 697 concurrent players on Steam and sold roughly
+            25k copies between PC and PS5, totalling less than $1 million in
+            revenue despite an estimated $200 million budget. This result was so
+            bad that PlayStation decided to take the game off the PS Store and
+            refund all purchases on September 3rd. Only 11 days after Concord
+            launched.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Concord is not only already completely DOA, but might become
-            PlayStation Studios&#39; worst selling AAA game ever. Firewalk needs
-            to find a way to pivot fast if it hopes to survive.
+            This was a monumental move for PlayStation as it&#39;s the first
+            time a PlayStation Studios game has ever been delisted so close to
+            its launch. Firewalk claims they are exploring options on how to
+            bring back Concord in a way that resonates, but there is no
+            guarantee it comes back at all. Regardless, Firewalk needs to find a
+            way to pivot fast if it hopes to survive.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

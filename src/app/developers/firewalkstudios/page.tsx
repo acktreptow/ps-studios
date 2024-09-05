@@ -60,23 +60,21 @@ function FirewalkStudiosPage(): JSX.Element {
           <Paragraph>
             This led to a historically poor launch for Sony. It&#39;s tied with
             Firewall Ultra as the worst reviewed PS Studios PS5 game on
-            Metacritic at 62, and its commercial failure is even larger.
+            Metacritic at 62, and only sold roughly 25k copies between PC and
+            PS5. Totalling less than $1 million in revenue despite an estimated
+            $200 million budget.
           </Paragraph>
           <Paragraph>
-            Concord peaked at 697 concurrent players on Steam and sold roughly
-            25k copies between PC and PS5, totalling less than $1 million in
-            revenue despite an estimated $200 million budget. This result was so
-            bad that PlayStation decided to take the game off the PS Store and
-            refund all purchases on September 3rd. Only 11 days after Concord
-            launched.
+            This result was so bad that on September 3rd, 11 days after Concord
+            launched, PlayStation removed it off all storefronts and refunded
+            all purchases. A monumental move for Sony as it&#39;s the first time
+            a PlayStation Studios game has ever been refunded due to its
+            reception.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This was a monumental move for PlayStation as it&#39;s the first
-            time a PlayStation Studios game has ever been delisted so close to
-            its launch. Firewalk claims they are exploring options on how to
-            bring back Concord in a way that resonates, but there is no
-            guarantee it comes back at all. Regardless, Firewalk needs to find a
-            way to pivot fast if it hopes to survive.
+            Firewalk are exploring options on how to bring back Concord in a way
+            that resonates, but there&#39;s no guarantee it comes back at all.
+            Regardless, they need to pivot fast if they hope to survive.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -66,9 +66,10 @@ function StatsPage(): JSX.Element {
             Game Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Total PS5 games released: 29</li>
+            <li>Total PS5 games released: 30</li>
             <li>
-              Game with highest Metacritic score: God of War: Ragnarök (94)
+              Game with highest Metacritic score: God of War: Ragnarök & Astro
+              Bot (94)
             </li>
             <li>Game with lowest Metacritic score: Concord (62)</li>
             <li>
@@ -79,7 +80,7 @@ function StatsPage(): JSX.Element {
               Game with lowest Metacritic score (second-party): Firewall Ultra
               (62)
             </li>
-            <li>Total 90+ PS5 games on Metacritic: 4</li>
+            <li>Total 90+ PS5 games on Metacritic: 5</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>
             <li>Total 70-79 PS5 games on Metacritic:6</li>
             <li>Total 70- PS5 games on Metacritic: 3</li>
@@ -88,7 +89,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2021: 8</li>
             <li>PS5 games released in 2022: 6</li>
             <li>PS5 games released in 2023: 4</li>
-            <li>PS5 games released in 2024 so far: 6</li>
+            <li>PS5 games released in 2024 so far: 7</li>
             <li>PS5 games that are remasters/remakes: 10</li>
             <li>PS5 games that are on Xbox: 6</li>
             <li>PS5 games that are on Nintendo Switch: 4</li>
@@ -96,7 +97,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games that originated on PS3: 2</li>
             <li>PS5 games that originated on PS4: 8</li>
             <li>PSVR2 games: 2</li>
-            <li>PS5 games from JP studios: 3</li>
+            <li>PS5 games from JP studios: 4</li>
             <li>PS5 games from EU studios: 4</li>
             <li>PS5 games from NA studios: 30</li>
             <li>PS5 games from JP studios (only released): 2</li>

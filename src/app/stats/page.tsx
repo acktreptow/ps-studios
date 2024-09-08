@@ -100,13 +100,13 @@ function StatsPage(): JSX.Element {
             <li>PS5 games from JP studios: 4</li>
             <li>PS5 games from EU studios: 4</li>
             <li>PS5 games from NA studios: 30</li>
-            <li>PS5 games from JP studios (only released): 2</li>
+            <li>PS5 games from JP studios (only released): 3</li>
             <li>PS5 games from EU studios (only released): 4</li>
             <li>PS5 games from NA studios (only released): 23</li>
-            <li>Unreleased announced PS5 games: 7</li>
-            <li>Most recent released PS5 game: Concord (August 2024)</li>
+            <li>Unreleased announced PS5 games: 6</li>
+            <li>Most recent released PS5 game: Astro Bot (September 2024)</li>
             <li>
-              Next PS5 game: Astro Bot from Team Asobi - September 6, 2024
+              Next PS5 game: Lego Horizon Adventures - Date is currently N/A
             </li>
             <li>XDev released PS5 games: 8</li>
           </StatsList>
@@ -174,8 +174,8 @@ function StatsPage(): JSX.Element {
               Studio with Days Gone (April 2019)
             </li>
             <li>
-              Studio with the shortest duration since their last release:
-              Firewalk Studios with Concord (August 2024)
+              Studio with the shortest duration since their last release: Team
+              Asobi with Astro Bot (September 2024)
             </li>
             <li>Largest studio by headcount: Bungie (850+)</li>
             <li>

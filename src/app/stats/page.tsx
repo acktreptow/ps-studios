@@ -183,21 +183,21 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Most recent PlayStation Studios game (including second-party):
-              Firewalk Studios with Concord (August 2024) (prev XDev with Shift
-              Up&#39;s Stellar Blade (April 2024))
+              Team Asobi with Astro Bot (September 2024) (prev Firewalk Studios
+              with Concord (August 2024))
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>
-              Studio with highest average Metacritic score: Sony Santa Monica
-              (94)
+              Studio with highest average Metacritic score: Sony Santa Monica &
+              Team Asobi (94)
             </li>
             <li>
               Studio with highest average Metacritic score (more than 1 game):
-              Insomniac Games (87.5)
+              Team Asobi (88.5)
             </li>
             <li>
               Studio with highest average Metacritic score (no
-              remasters/remakes): Insomniac Games (87.67)
+              remasters/remakes): Team Asobi (88.5)
             </li>
             <li className="mb-3">
               Studio with lowest average Metacritic score (no

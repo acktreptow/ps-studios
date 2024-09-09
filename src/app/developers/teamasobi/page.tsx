@@ -44,15 +44,14 @@ function TeamAsobiPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Astro&#39;s Playroom releasing over three years ago, it took
-            until May 2024 for Team Asobi to announce their next game, simply
-            called Astro Bot - their biggest game yet that released on September
-            6.
+            Despite Astro&#39;s Playroom releasing in 2020, it took until May
+            2024 for Team Asobi to announce their next game, simply called Astro
+            Bot - their biggest game yet which released in September.
           </Paragraph>
           <Paragraph>
-            Astro&#39;s Playroom was an incredible game that even after hundreds
-            of PS5 games later, still has made the best use of the DualSense.
-            It&#39;s why Asobi survived the Japan Studio closure.
+            Astro&#39;s Playroom was a great game that even after 4 years, has
+            still made the best use of the DualSense. It&#39;s why Asobi
+            survived the Japan Studio closure.
           </Paragraph>
           <Paragraph>
             It&#39;s therefore no surprise that with this experience, plus Astro

@@ -54,18 +54,16 @@ function TeamAsobiPage(): JSX.Element {
             survived the Japan Studio closure.
           </Paragraph>
           <Paragraph>
-            It&#39;s therefore no surprise that with this experience, plus Astro
-            Bot having double the development time, it&#39;s been received
-            monumentally well by both critics and fans. Scoring a 94 on
-            Metacritic, which places it as the highest rated game of 2024 and
-            tied of with God of War: Ragnarok as the highest rated first-party
-            PS5 game.
+            It&#39;s therefore no surprise that this experience, combined with
+            Astro Bot having double the development time, resulted in a 94 on
+            Metacritic. This places Astro Bot as the highest rated game of 2024
+            and tied of with God of War: Ragnarok as the highest rated
+            first-party PS5 game.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s still too early to know actual sales, but its position in
-            best seller charts from around the world should prove to be great.
-            Pour one out for PSVR2 though - Astro Bot is confirmed to never have
-            a VR mode. A very bad sign for the future of PSVR2.
+            It&#39;s still too early for sales figures, but it&#39;s been at the
+            top of sales charts worldwide. Pour one out for PSVR2 though. Astro
+            Bot will never get a VR mode - a bad sign for the future of PSVR2.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

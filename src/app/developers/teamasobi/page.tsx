@@ -45,12 +45,9 @@ function TeamAsobiPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Astro&#39;s Playroom releasing over three years ago, it took
-            until May 2024 for Team Asobi to announce their next game - simply
-            called Astro Bot.
-          </Paragraph>
-          <Paragraph>
-            The rumors of its scope and quick release also proved to be true.
-            Astro Bot is their biggest game yet and is releasing on September 6.
+            until May 2024 for Team Asobi to announce their next game, simply
+            called Astro Bot - their biggest game yet that released on September
+            6.
           </Paragraph>
           <Paragraph>
             Astro&#39;s Playroom was an incredible game that even after hundreds

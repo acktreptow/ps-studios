@@ -33,10 +33,11 @@ function TeamAsobiPage(): JSX.Element {
       <Paragraph>
         They&#39;re known for smaller-scoped games that focus on new PlayStation
         hardware. For example, The PlayRoom to show off the DualShock 4 and
-        Astro Bot Rescue Mission for PSVR.
+        Astro Bot Rescue Mission for PSVR. Asobi are also one of the smallest PS
+        Studios with a headcount at around 65.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Their most recent game is Astro&#39;s Playroom. A free PS5 launch title
+        Their first PS5 game was Astro&#39;s Playroom. A free PS5 launch title
         that comes pre-installed. Its gameplay was developed in a way to show
         off the PS5&#39;s new features like haptic feedback.
       </Paragraph>

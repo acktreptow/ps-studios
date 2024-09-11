@@ -105,9 +105,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games from NA studios (only released): 23</li>
             <li>Unreleased announced PS5 games: 6</li>
             <li>Most recent released PS5 game: Astro Bot (September 2024)</li>
-            <li>
-              Next PS5 game: Lego Horizon Adventures - Date is currently N/A
-            </li>
+            <li>Next PS5 game: Lego Horizon Adventures - Date currently N/A</li>
             <li>XDev released PS5 games: 8</li>
           </StatsList>
           <h3
@@ -149,6 +147,7 @@ function StatsPage(): JSX.Element {
               <li>Haven Studios (July, 2022)</li>
               <li>Neon Koi (August, 2022)</li>
               <li>Firewalk Studios (April, 2023)</li>
+              <li>Bungie v2 (TBA)</li>
             </StatsList>
             <li className="m-1">Studios closed in PS5 generation: 3</li>
             <StatsList isNumbered={true}>
@@ -178,13 +177,15 @@ function StatsPage(): JSX.Element {
               Asobi with Astro Bot (September 2024)
             </li>
             <li>Largest studio by headcount: Bungie (850+)</li>
+            <li>Smallest studio by headcount: Neon Koi most likely (50-)</li>
             <li>
-              Smallest studio by headcount: Neon Koi most likely (fewer than 50)
+              Most recent PlayStation Studios game: Team Asobi with Astro Bot
+              (September 2024) (prev Firewalk Studios with Concord (August
+              2024))
             </li>
             <li>
-              Most recent PlayStation Studios game (including second-party):
-              Team Asobi with Astro Bot (September 2024) (prev Firewalk Studios
-              with Concord (August 2024))
+              Most recent second-party game: Shift Up with Stellar Blade (April
+              2024) (prev Team Ninja with Rise of the Ronin) (March 2024)
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>

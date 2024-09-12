@@ -180,8 +180,8 @@ function StatsPage(): JSX.Element {
             <li>Smallest studio by headcount: Neon Koi most likely (50-)</li>
             <li>
               Most recent PlayStation Studios game: Team Asobi with Astro Bot
-              (September 2024) (prev Firewalk Studios with Concord (August
-              2024))
+              (September 2024) (prev Firewalk Studios with Concord) (August
+              2024)
             </li>
             <li>
               Most recent second-party game: Shift Up with Stellar Blade (April
@@ -255,11 +255,11 @@ function StatsPage(): JSX.Element {
             <SubTitle subtitle="PS+ Premium Stats" marginBottom={5} />
           </span>
           <Paragraph>
-            Many retro games from PS Studios now have a PS5 port that are
+            Many PS1/2/3/PSP games from PS Studios now have a PS5 port that are
             included with a PS+ Premium subscription or bought a la carte.
-            Although it makes no sense to include them in other pages of this
-            site due to the retro nature, there are still some interesting facts
-            to glean from. So here they are!
+            Although it makes no sense to include them in other pages due to
+            their retro nature, there&#39;s still some interesting facts, so
+            here they are!
           </Paragraph>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

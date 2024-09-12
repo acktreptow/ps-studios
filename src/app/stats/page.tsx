@@ -391,13 +391,12 @@ function StatsPage(): JSX.Element {
             Different names for the same games:
           </h3>
           <Paragraph>
-            The world was different in the 90s and early 2000s. The internet was
-            still in its infancy, let alone broadband-enabled online gaming.
-            Game development pipelines were also more closed off as the world
-            was less globalized. As a result, many games not only released
-            months (sometimes years) apart in different regions, but also under
-            different names. Here are the legacy games that had multiple names
-            depending on the region:
+            The less globalized world was different in the 90s and early 2000s.
+            The internet was in its infancy, let alone broadband-enabled online
+            gaming, and game development pipelines were also more closed off. As
+            a result, many games not only released months/sometimes years apart
+            in different regions, but also under different names. Here are the
+            legacy games that had multiple names depending on the region:
           </Paragraph>
           <StatsList isNumbered={true}>
             <li>
@@ -446,8 +445,8 @@ function StatsPage(): JSX.Element {
             </li>
           </StatsList>
           <Paragraph>
-            As you can see with games such Kurushi Final, it was much more
-            likely back then for game to not be localized for every region.
+            As you can see with games such as Kurushi Final, it was also much
+            more likely back then for game to not be localized for every region.
           </Paragraph>
         </div>
       </div>

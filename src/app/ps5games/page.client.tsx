@@ -50,7 +50,11 @@ function PS5GamesClient(): JSX.Element {
               );
             }
           })
-          .filter((game: Game) => game.developer !== "Nixxes Software")
+          .filter(
+            (game: Game) =>
+              game.developer !== "Nixxes Software" ||
+              game.name === "Horizon Zero Dawn Remastered"
+          )
           .map((game: Game) => (
             <div
               key={game.id}

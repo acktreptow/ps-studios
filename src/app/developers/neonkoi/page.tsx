@@ -49,11 +49,15 @@ function NeonKoiPage(): JSX.Element {
             and an SGS founder abruptly left PlayStation under suspicious
             circumstances, in quick succession.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             These headlines probably contributed to the rebranding to Neon Koi
             in November, 2023. Between that and the revamped website, hopefully
             it means that at the least, a game announcement is coming soon. We
             can then start determining if Neon Koi are worth keeping an eye on.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            On October 29th, Neon Koi was officially shut down without ever
+            releasing a game.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

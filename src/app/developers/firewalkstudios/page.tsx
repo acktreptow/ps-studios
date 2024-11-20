@@ -71,10 +71,14 @@ function FirewalkStudiosPage(): JSX.Element {
             a PlayStation Studios game has ever been refunded due to its
             reception.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             Firewalk are exploring options on how to bring back Concord in a way
             that resonates, but there&#39;s no guarantee it comes back at all.
             Regardless, they need to pivot fast if they hope to survive.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            On October 29th, Firewalk was officially shut down along with
+            confirmation that Concord will not be returning.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

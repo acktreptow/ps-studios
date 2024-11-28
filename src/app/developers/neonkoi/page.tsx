@@ -54,8 +54,6 @@ function NeonKoiPage(): JSX.Element {
             in November, 2023. Between that and the revamped website, hopefully
             it means that at the least, a game announcement is coming soon. We
             can then start determining if Neon Koi are worth keeping an eye on.
-          </Paragraph>
-          <Paragraph marginBottom={8}>
             On October 29th, Neon Koi was officially shut down without ever
             releasing a game.
           </Paragraph>

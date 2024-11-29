@@ -24,13 +24,13 @@ function NeonKoiPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Neon Koi is a German-Finnish developer that was founded in 2020 under
+        Neon Koi was a German-Finnish developer that was founded in 2020 under
         the name &#39;Savage Game Studios&#39;. It was under this initial name
         when the developer was acquired by Sony in August, 2022.
       </Paragraph>
       <Paragraph marginBottom={8}>
         When it comes to Neon Koi&#39;s PS5 output, they haven&#39;t released
-        anything, nor should you expect them to. This is because Neon Koi are a
+        anything. This is because Neon Koi are a
         founding member of PlayStation Studios&#39;s Mobile Division and were
         purchased to exclusively develop mobile games.
       </Paragraph>

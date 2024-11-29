@@ -38,18 +38,20 @@ function NeonKoiPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Still interested in Neon Koi&#39;s mobile offerings? Well, don&#39;t your breath. On October 29th, Neon Koi was officially shut down. So despite forming over four years ago, Neon Koi didn&#39;t even announce a game, let alone show gameplay or
+            Still interested in Neon Koi&#39;s mobile offerings? Well, don&#39;t your breath. 
+            On October 29th, Neon Koi was officially shut down. 
+            So despite forming over four years ago, Neon Koi didn&#39;t even announce a game, 
+            let alone show gameplay or
             actually release something.
           </Paragraph>
           <Paragraph>
-            In fact, Neon Koi has primarily been in the news for negative
+            In fact, Neon Koi was only in the news for negative
             headlines. Like when the head of PlayStation&#39;s Mobile Division
             and an SGS founder abruptly left PlayStation under suspicious
-            circumstances, in quick succession.
+            circumstances, or their failed rebranding in November 2023.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            These headlines probably contributed to the rebranding to Neon Koi
-            in November, 2023. Between that and the revamped website, hopefully
+            Between that and the revamped website, hopefully
             it means that at the least, a game announcement is coming soon. We
             can then start determining if Neon Koi are worth keeping an eye on.
           </Paragraph>

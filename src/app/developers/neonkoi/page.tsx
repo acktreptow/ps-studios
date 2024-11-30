@@ -38,11 +38,11 @@ function NeonKoiPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Still interested in Neon Koi&#39;s mobile offerings? Well, don&#39;t your breath. 
-            On October 29th, Neon Koi was officially shut down. 
-            So despite forming over four years ago, Neon Koi didn&#39;t even announce a game, 
+            Still interested in their mobile offerings? Well, don&#39;t hold your breath 
+            as Neon Koi was closed by PlayStation in October, 2024. 
+            In the end, Neon Koi didn&#39;t even announce a game, 
             let alone show gameplay or
-            actually release something.
+            actually release something. Despite forming over four years ago
           </Paragraph>
           <Paragraph>
             In fact, Neon Koi was only in the news for negative

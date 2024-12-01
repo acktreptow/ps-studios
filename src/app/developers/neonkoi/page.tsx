@@ -42,13 +42,13 @@ function NeonKoiPage(): JSX.Element {
             as Neon Koi was closed by PlayStation in October, 2024. 
             In the end, Neon Koi didn&#39;t even announce a game, 
             let alone show gameplay or
-            actually release something. Despite forming over four years ago
+            actually release something. Despite forming over four years ago.
           </Paragraph>
           <Paragraph>
             In fact, Neon Koi was only in the news for negative
             headlines. Like when the head of PlayStation&#39;s Mobile Division
-            and an SGS founder abruptly left PlayStation under suspicious
-            circumstances, or their failed rebranding in November 2023.
+            and an SGS founder abruptly left under suspicious
+            circumstances, or the failed rebranding in 2023.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Between that and the revamped website, hopefully

@@ -51,9 +51,8 @@ function NeonKoiPage(): JSX.Element {
             circumstances, or the failed rebranding in 2023.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Between that and the revamped website, hopefully
-            it means that at the least, a game announcement is coming soon. We
-            can then start determining if Neon Koi are worth keeping an eye on.
+            In the end, Neon Koi will be remembered as an insiginificant footnote 
+            in PlayStation&#39;s history during the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -43,10 +43,8 @@ function FirewalkStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It wasn&#39;t until May 2024 before we actually saw Concord with a
-            story and a gameplay trailer - both were horrendously received. The
-            story was seen as a poor clone of Guardians of the Galaxy and the
-            hero shooter gameplay was seen as a worse Overwatch.
+            It wasn&#39;t until May 2024 before we actually saw Concord, via trailers that had the story and gameplay
+           look like a Temu Guardians of the Galaxy and Overwatch respectively.
           </Paragraph>
           <Paragraph>
             The playable betas in July then worsened this perception. The story

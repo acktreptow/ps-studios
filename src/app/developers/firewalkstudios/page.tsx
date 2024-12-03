@@ -47,9 +47,8 @@ function FirewalkStudiosPage(): JSX.Element {
            look like a Temu Guardians of the Galaxy and Overwatch respectively.
           </Paragraph>
           <Paragraph>
-            The playable betas in July then worsened this perception. The story
-            and character design were universally negative and the gameplay,
-            though fun, was not good enough to justify its $40 price tag.
+            The playable betas in July didn&#39;t help either. Character designs were universally negative 
+            and the gameplay wasn&#39;t good enough to justify $40.
             Especially compared to its F2P competitors like Fortnite.
           </Paragraph>
           <Paragraph>

@@ -54,9 +54,8 @@ function FirewalkStudiosPage(): JSX.Element {
           <Paragraph>
             This led to a historically poor launch for Sony. It&#39;s tied with
             Firewall Ultra as the worst reviewed PS Studios PS5 game on
-            Metacritic at 62, and only sold roughly 25k copies between PC and
-            PS5. Totalling less than $1 million in revenue despite an estimated
-            $200 million budget.
+            Metacritic at 62 and only sold 25k copies. Totalling around $1 million in revenue
+            despite a $200 million+ budget.
           </Paragraph>
           <Paragraph>
             This result was so bad that on September 3rd, 11 days after Concord

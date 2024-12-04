@@ -59,14 +59,16 @@ function FirewalkStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             It was so bad that Sony removed Concord from sale 
-            and refunded all purchases just 11 days later. A monumental move considering it&#39;s the first time
+            and refunded all purchases just 11 days later.Firewalk were exploring options on how to bring back Concord in a way
+            that resonates, but on October 29th, Firewalk was officially shut down along with
+            confirmation that Concord will not be returning. A monumental move considering it&#39;s the first time
             a PlayStation Studios game has ever been refunded due to its
             reception. 
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Firewalk were exploring options on how to bring back Concord in a way
-            that resonates, but on October 29th, Firewalk was officially shut down along with
-            confirmation that Concord will not be returning.
+            A monumental move considering it&#39;s the first time
+            a PlayStation Studios game has ever been refunded due to its
+            reception. 
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

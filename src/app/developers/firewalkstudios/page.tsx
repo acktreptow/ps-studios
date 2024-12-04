@@ -58,11 +58,10 @@ function FirewalkStudiosPage(): JSX.Element {
             despite a $200 million+ budget.
           </Paragraph>
           <Paragraph>
-            This result was so bad that on September 3rd, 11 days after Concord
-            launched, PlayStation removed it off all storefronts and refunded
-            all purchases. A monumental move for Sony as it&#39;s the first time
+            It was so bad that Sony removed Concord from sale 
+            and refunded all purchases just 11 days later. A monumental move considering it&#39;s the first time
             a PlayStation Studios game has ever been refunded due to its
-            reception.
+            reception. 
           </Paragraph>
           <Paragraph marginBottom={8}>
             Firewalk were exploring options on how to bring back Concord in a way

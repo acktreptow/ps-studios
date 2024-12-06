@@ -64,8 +64,9 @@ function FirewalkStudiosPage(): JSX.Element {
             confirmation that Concord won&#39;t return. 
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This was the first time a PlayStation Studios game has ever been refunded due to its
-            reception. It also cost Sony over $200 million in losses and led to Firealk being shut down. They therefore are the biggest disapoinet for PS Studios during the PS5 era despite many other developer closures.
+            This was the first time Sony refunded a game due to its
+            reception. It also resulted in over $200 million in losses and led to Firewalk closing. Concord and Firewalk are therefore 
+            easily the biggest PS Studios disappointment of the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

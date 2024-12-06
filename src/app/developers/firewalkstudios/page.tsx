@@ -44,7 +44,7 @@ function FirewalkStudiosPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             It wasn&#39;t until May 2024 before we actually saw Concord, via trailers that had the story and gameplay
-           look like a Temu Guardians of the Galaxy and Overwatch respectively.
+           resemble a Temu Guardians of the Galaxy and Overwatch respectively.
           </Paragraph>
           <Paragraph>
             The playable betas in July didn&#39;t help either. Character designs were universally negative 
@@ -52,7 +52,7 @@ function FirewalkStudiosPage(): JSX.Element {
             Especially compared to its F2P competitors like Fortnite.
           </Paragraph>
           <Paragraph>
-            This led to a historically poor launch for Sony. It&#39;s tied with
+            This all led to a historically poor launch for Sony. It&#39;s tied with
             Firewall Ultra as the worst reviewed PS Studios PS5 game on
             Metacritic at 62 and only sold 25k copies. Totalling around $1 million in revenue
             despite a $200 million+ budget.

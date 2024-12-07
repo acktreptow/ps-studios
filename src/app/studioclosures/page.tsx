@@ -6,6 +6,8 @@ function studioClosuresPage() {
       <ul>
         <li>Firewalk Studios</li>
         <li>Neon Koi</li>
+        <li>Pixelopus</li>
+        <li>London Studio</li>
       </ul>
     </div>
   );

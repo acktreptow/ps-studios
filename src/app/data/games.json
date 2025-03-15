@@ -90,6 +90,15 @@
     "metacritic": 86
   },
   {
+    "developer": "Housemarque",
+    "name": "Saros",
+    "id": "Saros",
+    "genre": "Roguelite TPS",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
     "developer": "Insomniac Games",
     "name": "Spider-Man: Miles Morales",
     "id": "Spider-Man: MM",

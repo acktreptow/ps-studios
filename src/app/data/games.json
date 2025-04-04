@@ -180,6 +180,15 @@
     "metacritic": 90
   },
   {
+    "developer": "Naughty Dog",
+    "name": "Intergalactic: The Heretic Prophet",
+    "id": "Intergalactic",
+    "genre": "Action-Adventure",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
     "developer": "Nixxes Software",
     "name": "Spider-Man Remastered PC",
     "id": "Spider-Man PC",

@@ -1,4 +1,6 @@
 import { Metadata } from "next";
+import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import daysGone from "../../../../public/images/dev-pages/days-gone.png";
 import Container from "../../components/Container";
@@ -7,6 +9,7 @@ import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 import List from "../../components/List";
 
 export const metadata: Metadata = {
@@ -14,6 +17,8 @@ export const metadata: Metadata = {
   description:
     "The history and future of Bend Studio, a first-party developer for PlayStation Studios.",
 };
+
+const gamesArray: Game[] = gamesData;
 
 function BendStudioPage(): JSX.Element {
   return (
@@ -78,6 +83,8 @@ function BendStudioPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Bend Studio" />
     </Container>
   );
 }

@@ -29,9 +29,10 @@ function BendStudioPage(): JSX.Element {
         Retribution (Insomniac).
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Bend&#39;s last game was 2019&#39;s Days Gone for the PS4. They&#39;ve
-        therefore not released a native PS5 game yet. However, Days Gone did
-        receive a 60fps patch that doubles the framerate of the PS4 application.
+        Bend&#39;s last game was 2019&#39;s Days Gone on PS4. They&#39;ve
+        therefore not released a native PS5 game yet. However, a remaster of
+        Days Gone is launching on April 25 that includes resolution/framerate
+        upgrades, a new horde mode and other small things like new trophies.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

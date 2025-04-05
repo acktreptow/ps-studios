@@ -235,8 +235,8 @@
   },
   {
     "developer": "Nixxes Software",
-    "name": "Horizon Zero Dawn Remastered",
-    "id": "Horizon ZD Remastered",
+    "name": "Horizon Zero Dawn Remastered PC",
+    "id": "Horizon ZD Remastered PC",
     "genre": "Action RPG",
     "releaseDate": "October 31, 2024",
     "daysBetweenReleases": 169,
@@ -250,6 +250,15 @@
     "releaseDate": "January 30, 2025",
     "daysBetweenReleases": 92,
     "metacritic": 76
+  },
+  {
+    "developer": "Nixxes Software",
+    "name": "The Last of Us Part II Remastered PC",
+    "id": "TLOU II PC",
+    "genre": "Action-Adventure",
+    "releaseDate": "April 3, 2025",
+    "daysBetweenReleases": 64,
+    "metacritic": 88
   },
   {
     "developer": "Polyphony Digital",

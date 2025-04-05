@@ -297,6 +297,15 @@
     "metacritic": 80
   },
   {
+    "developer": "San Diego Studio",
+    "name": "MLB The Show 25",
+    "id": "MLB 2025",
+    "genre": "Sports Simulation (Baseball)",
+    "releaseDate": "March 18, 2025",
+    "daysBetweenReleases": 365,
+    "metacritic": 83
+  },
+  {
     "developer": "Santa Monica Studio",
     "name": "God of War: Ragnarök",
     "id": "GOW: R",

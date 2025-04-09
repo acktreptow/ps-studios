@@ -33,33 +33,33 @@ function MediaMoleculePage(): JSX.Element {
         therefore has yet to release a PS5 title.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        In regards to their next game, we don&#39;t even have a name, let alone
-        gameplay, despite Dreams releasing 4 years ago.
+        Despite Dreams releasing over 5 years go, MM still hasn&#39;t even
+        announced the name of their next game, let alone shown gameplay.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Whatever Media Molecule&#39;s next game is, I wouldn&#39;t expect
-            much as they&#39;re far removed from their heyday during the PS3
-            generation.
+            Whatever Media Molecule&#39;s next game is, to call it important for
+            the studio would be a severe understatement. For one, they&#39;re
+            far removed from their greatest successes seen on PS3.
           </Paragraph>
           <Paragraph>
-            Dreams wasn&#39;t close to a commercial success, the vast majority
-            of Media Molecule&#39;s founders have left, and it&#39;s been
-            reported that they were extremely close to being shuttered in late
-            2023, instead of London Studio.
+            Additionally, Dreams wasn&#39;t close to a commercial success, the
+            vast majority of Media Molecule&#39;s founders have left, and
+            it&#39;s been reported that they were extremely close to being
+            shuttered in late 2023, instead of London Studio.
           </Paragraph>
           <Paragraph>
-            With rising development costs, smaller profit margins, and Media
-            Molecule&#39;s games not being commercially viable to a mainstream
-            audience, it&#39;s far more likely the studio will close before it
-            releases another game.
+            These struggles combined with rising development costs and their
+            games not being commercially mainstream means it&#39;s far more
+            likely MM closes before shipping another game.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            For what it&#39;s worth, I hope I&#39;m wrong. Even if they
-            don&#39;t sell well, Sony needs the types of games Media Molecule
-            makes to have a diverse portfolio.
+            However, Sony currently desperately needs the types of games Media
+            Molecule makes to have a diverse portfolio. That combined with their
+            many BAFTA awards might keep them afloat as they bring other types
+            of benefits to PlayStation Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -48,17 +48,17 @@ function BluepointGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Demon&#39;s Souls releasing over 4 years ago, all we knew
-            was that Bluepoint&#39;s next game was &#39;original content&#39;.
-            In January 2025, we found out this meant a live-service God of War
-            game that was now cancelled.
+            Despite Demon&#39;s Souls releasing in 2020, all we knew was that
+            Bluepoint&#39;s next game was &#39;original content&#39;. In January
+            2025, we found out this meant a now cancelled live-service God of
+            War.
           </Paragraph>
           <Paragraph>
-            Considering Bluepoint&#39;s history, most found it somewhat
-            disappointing to see they moved to original content. However, the
-            industry was shocked, even insulted that they&#39;d not only been
-            co-opted into Sony&#39;s poorly executed live-service push, but that
-            4 years were now wasted on the cancelled game.
+            Considering Bluepoint&#39;s history, most were a little disappointed
+            with the pivot to original content. However, the industry was
+            shocked, even insulted, that were not only co-opted into Sony&#39;s
+            poorly executed live-service push, but that 4 years were now wasted
+            on the cancelled game.
           </Paragraph>
           <Paragraph>
             Even if Bluepoint return to remakes, which would be the best case

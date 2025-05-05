@@ -47,25 +47,30 @@ function FirespritePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Firesprite hasn&#39;t announced anything since Horizon CoTM shipped
-            15 months ago. This is likely because of the studio&#39;s dire
+            Firesprite hasn&#39;t announced anything since Horizon CoTM launched
+            alongside PSVR2 in February 2023. Most likely because of their dire
             situation, post-acquisition.
           </Paragraph>
           <Paragraph>
-            Crunch was apparently necessary to finish Horizon. Additionally, all
-            but one founder and many other staff left once retention bonuses
+            Crunch was apparently necessary to finish Horizon VR. Additionally,
+            all but one founder and many other staff left once retention bonuses
             were paid out.
           </Paragraph>
           <Paragraph>
-            Finally, further layoffs took place a year later and it was reported
-            that Firesprite&#39;s unrevealed Twisted Metal live service game had
-            been cancelled.
+            Finally, further layoffs took place a year later after it was
+            reported that Firesprite&#39;s unannounced live-service Twisted
+            Metal game was cancelled.
+          </Paragraph>
+          <Paragraph>
+            Since then, Firesprite has been linked to a sequel to 2015&#39;s
+            Until Dawn. A horror/interactive drama that was remade in 2024 and
+            included a new ending teasing the project.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Considering this toxic environment, plus the fact that their games
-            weren&#39;t great beforehand, I don&#39;t see anything good coming
-            out of Firesprite soon. Even if early leaks of a potential horror
-            game do sound promising in a vacuum.
+            However, between the layoffs, loss of leadership, cancellations, and
+            none of Firesprite&#39;s games getting above 80 on Metacritic,
+            it&#39;s hard to put faith in them that they&#39;ll get Until Dawn 2
+            right.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

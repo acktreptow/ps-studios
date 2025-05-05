@@ -32,19 +32,14 @@ function PolyphonyDigitalPage(): JSX.Element {
         <div>
           <SubTitle subtitle="History" />
           <Paragraph>
-            Founded internally by Sony auteur Kazunori Yamauchi in 1998, this
-            Tokyo-based developer are renowned for their racing series Gran
-            Turismo. It&#39;s also PlayStation&#39;s highest-selling franchise.
-          </Paragraph>
-          <Paragraph>
-            At least one GT has shipped on every PlayStation console, so
-            it&#39;s no surprise there&#39;s already one on the PS5. 2022&#39;s
-            cross-gen Gran Turismo 7.
+            Founded internally by auteur Kazunori Yamauchi in 1998, this
+            Tokyo-based developer are known for PlayStation&#39;s
+            highest-selling franchise - the racing series Gran Turismo.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Despite a few (mostly self-inflicted) issues at launch, GT7 was
-            critically and commercially acclaimed. It&#39;s also seen as the
-            premier experience on PSVR2.
+            At least one GT has shipped on every PlayStation console. For PS5,
+            that&#39;s 2022&#39;s critically and commercially acclaimed Gran
+            Turismo 7, which is also viewed as the premier PSVR2 experience.
           </Paragraph>
         </div>
         <div>

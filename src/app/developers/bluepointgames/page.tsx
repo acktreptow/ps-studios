@@ -48,30 +48,28 @@ function BluepointGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Demon&#39;s Souls releasing over 4 years ago, we didn&#39;t
-            even have a name for Bluepoint&#39;s next game. All we knew was that
-            it was &#39;original content&#39;. In January 2025, we found out
-            what this meant. A live-service God of War game that was now
-            cancelled.
+            Despite Demon&#39;s Souls releasing over 4 years ago, all we knew
+            was that Bluepoint&#39;s next game was &#39;original content&#39;.
+            In January 2025, we found out this meant a live-service God of War
+            game that was now cancelled.
           </Paragraph>
           <Paragraph>
-            Considering Bluepoint&#39;s track record with remakes, it was a
-            little disappointing to see they had moved to original content, but
-            they had earned that right to do so. However, when I found out they
-            had not only been co-opted into Sony&#39;s poorly executed
-            live-service push, but that these years were now completely wasted
-            as the game was cancelled, I was actually insulted by this level of
-            incompetence. A shocking feeling I shared with other pundits in the
-            industry.
+            Considering Bluepoint&#39;s history, most found it somewhat
+            disappointing to see they moved to original content. However, the
+            industry was shocked, even insulted that they&#39;d not only been
+            co-opted into Sony&#39;s poorly executed live-service push, but that
+            4 years were now wasted on the cancelled game.
           </Paragraph>
           <Paragraph>
-            If it wasn&#39;t for Demon&#39;s Souls, this generation would be a
-            completely wasted one for Bluepoint. But what makes the situation
-            even more depressing is that this all could have been avoided.
-            Bluepoint should never have dipped their toes into live-service, let
-            alone spend years wasting away on one as their next game. It&#39;s
-            hard to believe any but PlayStation&#39;s old leadership would allow
-            this to happen because it made no sense.
+            Even if Bluepoint return to remakes, which would be the best case
+            scenario, I would expect it on PS6 now. If it wasn&#39;t for
+            Demon&#39;s Souls, the PS5 generation would be a completely wasted
+            one for Bluepoint. But what makes the situation even more depressing
+            is that this all could have been avoided. Bluepoint should never
+            have dipped their toes into live-service, let alone spend years
+            wasting away on one as their next game. It&#39;s hard to believe any
+            but PlayStation&#39;s old leadership would allow this to happen
+            because it made no sense.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Hopefully, with Sony&#39;s new leadership, this insulting set of

@@ -43,9 +43,9 @@ function BendStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Days Gone releasing 5 years ago, we still know very little
-            about their next title. But due to internal leaks and some
-            investigative-reporting, here&#39;s what we do know:
+            Despite Days Gone shipping over 6 years ago, there&#39;s a reason
+            why we don&#39;t even have a name for Bend&#39;s next game. It&#39;s
+            been a very long string of bad luck:
           </Paragraph>
           <List>
             <li>
@@ -53,22 +53,37 @@ function BendStudioPage(): JSX.Element {
               reception of Days Gone.
             </li>
             <li>
-              A power struggle occurred in 2020 resulting in the writer and
+              A power struggle occurred in 2020, resulting in the writer and
               creative director leaving.
             </li>
-            <li>It will be a new IP under new leadership.</li>
-            <li>It will be a live service game.</li>
+            <li>
+              All this led to new leadership greenlighting a new IP that would
+              be a live-service game.
+            </li>
+            <li>
+              The game was then cancelled in January 2025. Likely due (at least
+              in part) to Sony leadership getting cold feet about their chances
+              for success in live-service post-Concord.
+            </li>
           </List>
           <Paragraph>
-            The vast majority of Days Gone&#39;s criticisms could be attributed
-            to those who lost the power struggle and left Bend. Between that and
-            the fact that it&#39;s already been 5 years, I believe that
-            regardless of the move to live service, Bend&#39;s next game will
-            fare better than Days Gone. At least critically.
+            Much of Days Gone&#39;s criticisms could be attributed to those who
+            lost the power struggle and left Bend. Between that,
+            PlayStation&#39;s new-found reluctance in live-service, the fact
+            that Days Gone eventually got a remaster, and that the general
+            consensus around the IP is a lot more positive these days,
+            there&#39;s a very good chance Days Gone 2 might be greenlit now.
+            This would be the best case scenario.
+          </Paragraph>
+          <Paragraph>
+            Regardless of what it is, the fact remains that they&#39;ve gone the
+            longest out of all PS Studios without releasing a new game.
+            Furthermore, we shouldn&#39;t even expect it until PS6.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            We should expect to see something soon as Bend have gone the longest
-            out of all PS Studios without releasing a game.
+            Due to Bend&#39;s poor ex-leadership and Sony&#39;s poor execution
+            of its live-service strategy, the PS5 generation has been a truly
+            wasted one for this developer.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

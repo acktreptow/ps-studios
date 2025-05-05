@@ -29,31 +29,25 @@ function FirewalkStudiosPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        This Washington-based developer was founded in 2018 by senior veterans
+        This Washington-based developer was founded in 2018, by senior veterans
         of popular shooters like Halo and Destiny. With this prestige
         multiplayer expertise and Sony&#39;s increased focus on live-service
-        games for PS5 & PC, it&#39;s no surprise they acquired
-        Firewalk in early 2023.
+        games, it&#39;s no surprise they acquired Firewalk in April 2023.
+      </Paragraph>
+      <Paragraph>
+        Firewalk then announced their first game, Concord, shortly after in May
+        2023. A 5vs5 live-service shooter that released on PS5/PC in August
+        2024. Yet it took until May 2024 before we actually saw Concord, via
+        story and gameplay trailers that were universally hated.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Firewalk then announced their first game, Concord, shortly after. A
-        sci-fi 5vs5 live-service shooter that released on PS5 and PC in August
-        2024.
+        Playable betas in July didn&#39;t help either. Character designs were
+        particularly slated and the gameplay wasn&#39;t good enough to justify
+        $40. Especially compared to its F2P competitors like Fortnite.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
-          <Paragraph>
-            It wasn&#39;t until May 2024 before we actually saw Concord, via
-            trailers that had the story and gameplay resemble a Temu Guardians
-            of the Galaxy and Overwatch respectively.
-          </Paragraph>
-          <Paragraph>
-            The playable betas in July didn&#39;t help either. Character designs
-            were universally negative and the gameplay wasn&#39;t good enough to
-            justify $40. Especially compared to its F2P competitors like
-            Fortnite.
-          </Paragraph>
           <Paragraph>
             This all led to a historically poor launch for Sony. It&#39;s tied
             with Firewall Ultra as the worst reviewed PS Studios PS5 game on

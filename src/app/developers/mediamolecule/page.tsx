@@ -40,26 +40,28 @@ function MediaMoleculePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Whatever Media Molecule&#39;s next game is, to call it important for
-            the studio would be a severe understatement. For one, they&#39;re
-            far removed from their greatest successes seen on PS3.
+            Whatever Media Molecule&#39;s next game is, to just call it
+            important is a severe understatement because they&#39;re far removed
+            from their greatest successes seen on PS3.
           </Paragraph>
           <Paragraph>
-            Additionally, Dreams wasn&#39;t close to a commercial success, the
-            vast majority of Media Molecule&#39;s founders have left, and
-            it&#39;s been reported that they were extremely close to being
-            shuttered in late 2023, instead of London Studio.
+            Dreams wasn&#39;t close to a commercial success, the vast majority
+            of MM&#39;s founders have left, and it&#39;s been reported that they
+            were extremely close to being shuttered in late 2023, instead of
+            London Studio.
           </Paragraph>
           <Paragraph>
-            These struggles combined with rising development costs and their
-            games not being commercially mainstream means it&#39;s far more
-            likely MM closes before shipping another game.
+            However, Sony does need the types of games Media Molecule makes,
+            even if it&#39;s not in their DNA to be commercially mainstream. For
+            one, their many BAFTA awards provide a benefit that can&#39;t be
+            quantified with money in/out. It also helps to diversify the
+            PlayStation Studios portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            However, Sony currently desperately needs the types of games Media
-            Molecule makes to have a diverse portfolio. That combined with their
-            many BAFTA awards might keep them afloat as they bring other types
-            of benefits to PlayStation Studios.
+            Yet with rising development costs and other external economic
+            factors at play, these more prestigious reasons may not be strong
+            enough in 2025. It&#39;s therefore far more likely MM closes before
+            shipping another game.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

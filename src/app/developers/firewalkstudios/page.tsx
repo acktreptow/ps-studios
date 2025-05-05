@@ -49,17 +49,17 @@ function FirewalkStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            This all led to a historically poor launch for Sony. It&#39;s tied
-            with Firewall Ultra as the worst reviewed PS Studios PS5 game on
-            Metacritic at 62 and only sold 25k copies. Totalling around $1
-            million in revenue despite a $200 million+ budget.
+            Concord was a historically poor launch for Sony. It&#39;s tied with
+            Firewall Ultra as the worst reviewed PS Studios PS5 game on
+            Metacritic at 62 and only sold 25k copies. These results were so bad
+            that Sony removed Concord from sale and refunded all purchases just
+            11 days later.
           </Paragraph>
           <Paragraph>
-            It was so bad that Sony removed Concord from sale and refunded all
-            purchases just 11 days later. Firewalk explored options on how to
-            bring back Concord in a way that resonates, but on October 29th,
-            Firewalk was shut down along with confirmation that Concord
-            won&#39;t return.
+            Firewalk explored how to bring back Concord in a way that resonates,
+            but on October 29th, Firewalk closed along with confirmation that
+            Concord wouldn&#39;t return. It therefore easy to predict that
+            they&#39;ll be no more more Firewalk games on PS5.
           </Paragraph>
           <Paragraph marginBottom={8}>
             This was the first time Sony refunded a game due to its reception.

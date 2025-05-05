@@ -33,18 +33,16 @@ function BluepointGamesPage(): JSX.Element {
         remasters and remakes.
       </Paragraph>
       <Paragraph>
-        Even before Sony acquired them in 2021, the majority of these reworks
-        were PlayStation IP. For example, remastering God of War 1 and 2 for PS3
-        and Uncharted 1-3 for PS4.
-      </Paragraph>
-      <Paragraph>
-        Their largest non-PlayStation remaster was the Metal Gear Solid HD
-        Collection for PS3 and Xbox 360.
+        Even before Sony acquired Bluepoint in 2021, they mostly worked on
+        PlayStation IP. For example, remastering God of War 1/2 for PS3 and
+        Uncharted 1-3 for PS4. Their largest multiplatform remaster was the
+        Metal Gear Solid HD Collection for PS3 and Xbox 360.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Bluepoint&#39;s most recent projects have been remakes such as
-        2018&#39;s Shadow of the Colossus on the PS4 and 2020&#39;s Demon&#39;s
-        Souls. A PS5 launch title that was highly praised.
+        Bluepoint&#39;s most recent projects have been full remakes, such as
+        2018&#39;s Shadow of the Colossus on PS4 and 2020&#39;s Demon&#39;s
+        Souls. A PS5 launch title that was highly praised and still considered
+        as one of the best looking games of the generation.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

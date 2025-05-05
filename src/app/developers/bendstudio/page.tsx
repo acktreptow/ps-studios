@@ -49,41 +49,37 @@ function BendStudioPage(): JSX.Element {
           </Paragraph>
           <List>
             <li>
-              Bend pitched Days Gone 2, which Sony rejected due to poor critical
+              Bend pitched Days Gone 2, which Sony rejected due to the initial
               reception of Days Gone.
             </li>
             <li>
-              A power struggle occurred in 2020, resulting in the writer and
-              creative director leaving.
+              A 2020 internal power struggle resulted in the writer and creative
+              director leaving.
             </li>
             <li>
-              All this led to new leadership greenlighting a new IP that would
-              be a live-service game.
+              This led to new leadership greenlighting a live-service game
+              within a new IP.
             </li>
             <li>
-              The game was then cancelled in January 2025. Likely due (at least
-              in part) to Sony leadership getting cold feet about their chances
-              for success in live-service post-Concord.
+              The game was then cancelled in January 2025. Likely due to Sony
+              leadership&#39;s cold feet about their chances for success in
+              live-service, post-Concord.
             </li>
           </List>
           <Paragraph>
-            Much of Days Gone&#39;s criticisms could be attributed to those who
-            lost the power struggle and left Bend. Between that,
-            PlayStation&#39;s new-found reluctance in live-service, the fact
-            that Days Gone eventually got a remaster, and that the general
-            consensus around the IP is a lot more positive these days,
-            there&#39;s a very good chance Days Gone 2 might be greenlit now.
-            This would be the best case scenario.
-          </Paragraph>
-          <Paragraph>
-            Regardless of what it is, the fact remains that they&#39;ve gone the
-            longest out of all PS Studios without releasing a new game.
-            Furthermore, we shouldn&#39;t even expect it until PS6.
+            Fortunately, much of DG&#39;s criticisms stem from those who lost
+            the power struggle. Between that, Sony&#39;s new-found reluctance in
+            live-service, Days Gone getting a remaster, and the general
+            consensus around the IP is a lot more positive in 2025, there&#39;s
+            a very good chance Days Gone 2 could be greenlit now and launch to a
+            much better critical reception.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Due to Bend&#39;s poor ex-leadership and Sony&#39;s poor execution
-            of its live-service strategy, the PS5 generation has been a truly
-            wasted one for this developer.
+            This would be the best case scenario, but don&#39;t expect it until
+            PS6. Meaning out of all PS Studios, Bend will go the longest without
+            releasing a new game. Due to their ex-leadership and Sony&#39;s poor
+            live-service execution, the PS5 has been a truly wasted generation
+            for Bend.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

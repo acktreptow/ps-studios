@@ -48,8 +48,10 @@ function FabrikGamesPage(): JSX.Element {
             unforeseen circumstances.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            We&#39;ll indirectly here from them whenever Firesprite announce
-            their next game, which should (hopefully) be soon.
+            We&#39;ll indirectly hear from them whenever Firesprite announce
+            their next game, which based on rumors, is a sequel to 2015&#39;s
+            Until Dawn. The horror/interactive drama was remade in 2024 and
+            included a new ending teasing Until Dawn 2.
           </Paragraph>
         </div>
         <div>

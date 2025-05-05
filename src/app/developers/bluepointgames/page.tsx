@@ -48,20 +48,36 @@ function BluepointGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Demon&#39;s Souls releasing over 3 years ago, we don&#39;t
-            even have the name for Bluepoint&#39;s next game. All we know is
-            that it&#39;ll be &#39;original content&#39;.
+            Despite Demon&#39;s Souls releasing over 4 years ago, we didn&#39;t
+            even have a name for Bluepoint&#39;s next game. All we knew was that
+            it was &#39;original content&#39;. In January 2025, we found out
+            what this meant. A live-service God of War game that was now
+            cancelled.
           </Paragraph>
           <Paragraph>
-            Considering this is Bluepoint&#39;s first non-remaster/remake,
-            it&#39;s not too surprising that development is taking longer than
-            their previous games. I&#39;m also optimistic due to their excellent
-            track record.
+            Considering Bluepoint&#39;s track record with remakes, it was a
+            little disappointing to see they had moved to original content, but
+            they had earned that right to do so. However, when I found out they
+            had not only been co-opted into Sony&#39;s poorly executed
+            live-service push, but that these years were now completely wasted
+            as the game was cancelled, I was actually insulted by this level of
+            incompetence. A shocking feeling I shared with other pundits in the
+            industry.
+          </Paragraph>
+          <Paragraph>
+            If it wasn&#39;t for Demon&#39;s Souls, this generation would be a
+            completely wasted one for Bluepoint. But what makes the situation
+            even more depressing is that this all could have been avoided.
+            Bluepoint should never have dipped their toes into live-service, let
+            alone spend years wasting away on one as their next game. It&#39;s
+            hard to believe any but PlayStation&#39;s old leadership would allow
+            this to happen because it made no sense.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            That outlook might change if we go another year without any news
-            though. 4 years is too long for Bluepoint to go without an
-            announcement.
+            Hopefully, with Sony&#39;s new leadership, this insulting set of
+            events is now truly done and Bluepoint can get back to what they do
+            best. Whatever it is, it&#39;s likely not seeing the light of day
+            until the PS6.
           </Paragraph>
         </div>
         <div>

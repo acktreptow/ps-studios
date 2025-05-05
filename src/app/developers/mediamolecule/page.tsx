@@ -40,26 +40,25 @@ function MediaMoleculePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Whatever Media Molecule&#39;s next game is, to just call it
-            important is a severe understatement because they&#39;re far removed
-            from their greatest successes seen on PS3.
+            Whatever Media Molecule&#39;s next game is, to call it important is
+            an understatement as they&#39;re far removed from their greatest
+            successes seen on PS3.
           </Paragraph>
           <Paragraph>
             Dreams wasn&#39;t close to a commercial success, the vast majority
-            of MM&#39;s founders have left, and it&#39;s been reported that they
-            were extremely close to being shuttered in late 2023, instead of
-            London Studio.
+            of founders have left, and it was reported that MM were nearly
+            shuttered instead of London Studio, in late 2023.
           </Paragraph>
           <Paragraph>
-            However, Sony does need the types of games Media Molecule makes,
-            even if it&#39;s not in their DNA to be commercially mainstream. For
-            one, their many BAFTA awards provide a benefit that can&#39;t be
-            quantified with money in/out. It also helps to diversify the
+            However, Sony needs the types of games MM make, even if it&#39;s not
+            in their DNA to be commercially mainstream. For one, their many
+            BAFTA awards provide utility that can&#39;t be quantified with money
+            in/out. Experiments like Dreams also help to diversify the
             PlayStation Studios portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Yet with rising development costs and other external economic
-            factors at play, these more prestigious reasons may not be strong
+            factors at play, these more prestigious reasons may not be
             enough in 2025. It&#39;s therefore far more likely MM closes before
             shipping another game.
           </Paragraph>

@@ -56,26 +56,24 @@ function BluepointGamesPage(): JSX.Element {
           <Paragraph>
             Considering Bluepoint&#39;s history, most were a little disappointed
             with the pivot to original content. However, the industry was
-            shocked, even insulted, that were not only co-opted into Sony&#39;s
-            poorly executed live-service push, but that 4 years were now wasted
-            on the cancelled game.
+            shocked, even insulted, that they were not only co-opted into
+            Sony&#39;s poorly executed live-service push, but that 4 years were
+            now wasted on a cancelled game.
           </Paragraph>
           <Paragraph>
             Even if Bluepoint return to remakes, which would be the best case
-            scenario, I would expect it on PS6 now. If it wasn&#39;t for
-            Demon&#39;s Souls, the PS5 generation would be a completely wasted
-            one for Bluepoint. But what makes the situation even more depressing
-            is that this all could have been avoided. Bluepoint should never
-            have dipped their toes into live-service, let alone spend years
-            wasting away on one as their next game. It&#39;s hard to believe any
-            but PlayStation&#39;s old leadership would allow this to happen
-            because it made no sense.
+            scenario, it&#39;s likely a PS6 title given how long it takes to
+            ship a game. Therefore outside of PS5&#39;s launch, Bluepoint has
+            completely wasted the generation. A worst case outcome that was
+            easily avoided if not for the incompetence of ex-PlayStation
+            leadership.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Hopefully, with Sony&#39;s new leadership, this insulting set of
-            events is now truly done and Bluepoint can get back to what they do
-            best. Whatever it is, it&#39;s likely not seeing the light of day
-            until the PS6.
+            If there was one PS Studio that should never have centered their
+            next project around live-service, it was Bluepoint. It doesn&#39;t
+            take a genius to not greenlight a live-service game out of a remake
+            studio. The best we can hope for is Sony&#39;s new leadership clears
+            that very low bar.
           </Paragraph>
         </div>
         <div>

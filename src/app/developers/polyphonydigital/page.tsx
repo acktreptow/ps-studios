@@ -59,30 +59,25 @@ function PolyphonyDigitalPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             It takes around four years for Polyphony to release a new GT, so I
-            imagine we&#39;ll see GT8 close to the end of the PS5 gen.
+            predict we&#39;ll see GT8 close to the end of the PS5 gen. If
+            you&#39;re a fan, I&#39;d be even more excited this time too.
           </Paragraph>
           <Paragraph>
-            If you&#39;re a driving game fan, I would be even more excited this
-            time too. GT8 will be PS5 only and should take an even further
-            graphical leap with the PS5 Pro.
+            GT8 will be PS5 only and take an even further graphical leap on PS5
+            Pro. They&#39;ve also learned from GT7&#39;s launch issues, which
+            will improve the gameplay loop.
           </Paragraph>
           <Paragraph>
-            They&#39;ve also learned from GT7&#39;s launch issues which will
-            improve the gameplay loop, and the PSVR 2 mode could end up as the
-            hardware&#39;s best experience.
-          </Paragraph>
-          <Paragraph>
-            If you&#39;ve never played a Gran Turismo, or are perhaps a lapsed
-            fan, it also might be worth trying 2024&#39;s &#39;My First Gran
-            Turismo&#39;. It&#39;s what Polyphony describe as a
-            &#39;free-to-play beginner-friendly introduction to the world of
-            Gran Turismo&#39;. Basically, an expanded demo with a limited number
-            of cars and racetracks.
+            Never played GT or are a lapsed fan? It might be worth trying
+            2024&#39;s &#39;My First Gran Turismo&#39;. Polyphony describe it as
+            a &#39;free-to-play beginner-friendly introduction to the world of
+            GT&#39;. Basically, an expanded demo with a limited number of cars
+            and racetracks.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Otherwise, I would just move on. There&#39;s zero confirmation
-            Polyphony&#39;s next game is GT8, but it&#39;s a safe bet
-            considering their track record.
+            Otherwise, I would look to other PS Studios for your next
+            first-party game. There&#39;s no confirmation Polyphony&#39;s next
+            game is GT8, but it&#39;s a safe bet considering their track record.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

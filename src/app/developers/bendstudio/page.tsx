@@ -27,17 +27,17 @@ function BendStudioPage(): JSX.Element {
       <DeveloperButton developer="Bend" urlPath="https://www.bendstudio.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1992, this Oregon-based developer is best known for
-        developing the Syphon Filter series on PS1, PS2 and PSP. They&#39;ve
-        also developed spin-off games from IP created at other first-party
-        studios, like Uncharted: Golden Abyss (Naughty Dog) and Resistance:
-        Retribution (Insomniac).
+        Founded in 1992, this Oregon-based developer is best known for their
+        Syphon Filter series on PS1, PS2 and PSP. They&#39;ve also developed
+        spin-off games from IP created at other first-party studios, like
+        Uncharted: Golden Abyss (Naughty Dog) and Resistance: Retribution
+        (Insomniac).
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Bend&#39;s last game was 2019&#39;s Days Gone on PS4. They&#39;ve
-        therefore not released a native PS5 game yet. However, a remaster of
-        Days Gone is launching on April 25 that includes resolution/framerate
-        upgrades, a new horde mode and other small things like new trophies.
+        Bend&#39;s last game was 2019&#39;s Days Gone on PS4, which got
+        remastered in April 2025. This native PS5 re-release includes
+        resolution/framerate upgrades, a new horde mode, and other small
+        elements like new trophies.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

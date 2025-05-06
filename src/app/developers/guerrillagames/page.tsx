@@ -31,23 +31,22 @@ function GuerillaGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2000, this Amsterdam-based developer is primarily known for
-        the FPS series &#39;Killzone&#39;, and third-person action RPG series
-        &#39;Horizon&#39;.
-      </Paragraph>
-      <Paragraph>
-        Sony acquired Guerrilla in 2005, one year after the original Killzone
-        released for the PS2. This makes them one of the oldest PlayStation
+        Founded in 2000, Guerrilla Games is known for its FPS series
+        &#39;Killzone&#39; and third-person action RPG series &#39;Horizon&#39;.
+        Sony acquired the Amsterdam studio just one year after Killzone released
+        on PS2 in 2004, which makes them one of the oldest PlayStation
         developers.
       </Paragraph>
       <Paragraph>
         On PS5, Guerrilla have only released the cross-gen title &#39;Horizon
-        Forbidden West&#39;, in early 2022. Its DLC &#39;Burning Shores&#39; was
-        however a PS5 exclusive.
+        Forbidden West&#39; in early 2022. They did work with other studios on
+        2024&#39;s &#39;Lego Horizon Adventures&#39; and a remake of
+        &#39;Horizon Zero Dawn&#39;, but they weren&#39;t the primary developer.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Since the 2023 DLC, Guerrilla have been silent. We don&#39;t even have a
-        name for their next project.
+        Outside of collaborations and 2023&#39;s PS5 exclusive &#39;Burning
+        Shores&#39; DLC for Forbidden West, Guerrilla have been silent about
+        their next project.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

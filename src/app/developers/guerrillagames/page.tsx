@@ -77,8 +77,8 @@ function GuerillaGamesPage(): JSX.Element {
               A Horizon MMO is almost certainly being worked on at NCSoft.
             </li>
             <li>
-              Columbia Pictures and PlayStation Productions are adapting
-              Horizon Zero Dawn into a movie.
+              Columbia Pictures and PlayStation Productions are adapting Horizon
+              Zero Dawn into a movie.
             </li>
             <li>
               A Horizon TV series was going to be produced by Netflix, and its
@@ -89,13 +89,13 @@ function GuerillaGamesPage(): JSX.Element {
             Clearly, Sony are bullish on the Horizon IP with so many projects
             across different mediums being greenlit. Horizon FW also sold over
             10 million copies. It would therefore be nonsensical for Guerrilla
-            to move on right now.
+            to move on right now. 
           </Paragraph>
           <Paragraph marginBottom={8}>
-            You can expect &#39;Horizon 3&#39; in roughly 2027 that plays
-            similar to the first two. It&#39;s only been two years since
-            Forbidden West though, so don&#39;t expect to see anything until
-            2025 at the earliest.
+            I predict &#39;Horizon 3&#39; will launch around 2027 and that it
+            plays similar to the first two. It&#39;s also been over 3 years
+            since Forbidden West launched so we might see something this year,
+            but it&#39;s unlikely.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

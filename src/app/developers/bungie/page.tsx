@@ -68,22 +68,26 @@ function BungiePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            On PS5, Bungie has only released a port of Destiny 2. In 2023, they
-            announced a live-service extraction shooter called Marathon, but
-            it&#39;s not been seen since.
+            On PS5, Bungie has only released a port of Destiny 2 in 2020.
+            Although its final paid expansion, 2024&#39;s The Final Shape, was
+            critically acclaimed, it failed to sell anywhere close to project
+            targets and essentially kickstarted the hollowing out of Bungie as
+            it was further integrated into PS Studios.
           </Paragraph>
           <Paragraph>
-            There&#39;s reasons to be wary of Marathon though. Sony paid a lot
-            for Bungie&#39;s live-service knowledge, but D2 has been severely
-            underperforming since the acquisition. This situation forced layoffs
-            to ensure Bungie hit internal targets and prevent a Sony takeover of
-            their board.
+            Bungie also has the live-service extraction shooter Marathon which
+            was revealed in 2023. It then took until March 2025 to be properly
+            shown off with numerous playtests going on before its release in
+            September 2025. So far, the response has been decent.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Since then, D2&#39;s &#39;The Final Shape&#39; released to critical
-            acclaim, but we don&#39;t know how well it sold. Sony could still
-            take over depending on this crucial fact. It&#39;s therefore hard to
-            believe Marathon can succeed under these conditions.
+            To call Marathon important for Bungie is an unstatement. If Bungie
+            want to keep any remaining autonomy, it must do well from a
+            commercial standpoint. However, the response to it so far has been
+            lukewarm, which is certainly not enough to justify its likely $40
+            price tag. I therefore predict that while Marathon won&#39;t get the
+            Concord treatment, it won&#39;t prevent Sony from further making
+            changes to Bungie in order to extract as much as it can.
           </Paragraph>
         </div>
         <div>

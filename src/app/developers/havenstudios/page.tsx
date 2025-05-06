@@ -35,12 +35,13 @@ function HavenStudiosPage(): JSX.Element {
             console &#39;Stadia&#39;.
           </Paragraph>
           <Paragraph>
-            Raymond then took this cloud infrastructure knowledge to Haven,
-            which caught the attention of Sony. They immediately started funding
-            their first game and acquired Haven a year later.
+            Raymond then took this cloud infrastructure knowledge and founded
+            Haven Studios, which caught the attention of Sony. They immediately
+            started funding Haven&#39;s first game and acquired them a year
+            later.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This game turned out to be FairGame$. A live service competitive
+            This game turned out to be FairGame$. A live-service competitive
             heist shooter that will launch simultaneously on PS5 and PC. It
             currently has no release date.
           </Paragraph>

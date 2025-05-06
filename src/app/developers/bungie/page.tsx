@@ -36,9 +36,6 @@ function BungiePage(): JSX.Element {
           &#39;Halo&#39;.
         </li>
         <li>
-          Activision also use to own Bungie during initial work on Destiny.
-        </li>
-        <li>
           Sony acquired Bungie in 2022, but they&#39;re the only first-party
           developer not part of PS Studios. They&#39;re an independent Sony
           subsidiary.
@@ -51,12 +48,21 @@ function BungiePage(): JSX.Element {
       <Paragraph>
         Why does Bungie have more freedom than all of PS Studios? Desperation.
         Sony saw the money live-service games like Destiny were making, but had
-        no in-house knowledge to make their own.
+        no in-house knowledge to make their own. To get Bungie to sell, Sony
+        overpaid at $3.6 billion and accepted all their terms.
+      </Paragraph>
+      <Paragraph>
+        Bungie was meant to advise PS Studios on their live-service games while
+        simultaneously raking in revenue from Destiny 2, but it turns out that
+        the emperor has no clothes. D2 has been severely underperforming since
+        the acquisition.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        To get Bungie to sell, Sony overpaid at $3.6 billion and accepted all
-        their terms. Bungie now advises other PS Studios on how to make a
-        live-service game.
+        Since 2023, there&#39;s been many rounds of layoffs, a board takeover by
+        Sony, and incubation teams being spun out into PlayStation Studios, like
+        the MOBA Project Gummybears. Sony are doing all they can to recoup what
+        they can from Bungie once it became clear they wouldn&#39;t see a return
+        on investment through their live-service expertise.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

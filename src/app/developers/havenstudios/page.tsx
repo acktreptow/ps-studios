@@ -65,16 +65,20 @@ function HavenStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            We haven&#39;t seen Fairgame$ since the first trailer, which even
-            then was only CGI. Haven is also a new studio, and the first to
-            emphasize the cloud. It&#39;s therefore hard to predict how
-            Fairgame$ will do, but I&#39;m optimistic.
+            We haven&#39;t seen Fairgame$ since the first trailer in 2023, which
+            even then was only CGI. Haven is also a new studio, and the first to
+            emphasize the cloud. Considering the 2 years of silence, Sony&#39;s
+            cold feet with live-service post-Concord, Fairgame$ being
+            Haven&#39;s first game, and it using cloud tech as a key development
+            pillar, it&#39;s hard not to be pessimistic.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Mark Cerny, architect of the PS5, has taken an interest in Haven and
-            is assisting with Fairgame$ and general R&D. Between his interest
-            and Sony investing so quickly, I&#39;m cautiously confident despite
-            a lack of concrete info.
+            However, Mark Cerny, architect of the PS5, has taken a special
+            interest in Haven and is assisting with FairGame$ and general R&D.
+            His involvement does spark some optimism, but at this point,
+            it&#39;s more likely Haven gets the Concord treatment and shuts down
+            than FairGame$ shipping to critical and commercial success.
+            Especially if they continue into 2026 with the silent treatment .
           </Paragraph>
         </div>
         <div>

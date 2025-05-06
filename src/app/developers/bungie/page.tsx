@@ -58,11 +58,12 @@ function BungiePage(): JSX.Element {
         the acquisition.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Since 2023, there&#39;s been many rounds of layoffs, a board takeover by
-        Sony, and incubation teams being spun out into PlayStation Studios, like
-        the MOBA Project Gummybears. Sony are doing all they can to recoup what
-        they can from Bungie once it became clear they wouldn&#39;t see a return
-        on investment through their live-service expertise.
+        Since 2023, there&#39;s been many rounds of layoffs, Sony taking board
+        seats, a migration of Bungie employers to other PS Studios, and a whole
+        incubation team spun out into a new developer under PS Studios, (the
+        MOBA Project Gummybears). Essentially, Sony are recouping what they can
+        from Bungie once it became clear they wouldn&#39;t see ROI through their
+        live-service expertise.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -70,24 +71,26 @@ function BungiePage(): JSX.Element {
           <Paragraph>
             On PS5, Bungie has only released a port of Destiny 2 in 2020.
             Although its final paid expansion, 2024&#39;s The Final Shape, was
-            critically acclaimed, it failed to sell anywhere close to project
-            targets and essentially kickstarted the hollowing out of Bungie as
-            it was further integrated into PS Studios.
+            critically acclaimed, its underwhelming sales led to the hollowing
+            out of Bungie and further integration into PS Studios.
           </Paragraph>
           <Paragraph>
-            Bungie also has the live-service extraction shooter Marathon which
-            was revealed in 2023. It then took until March 2025 to be properly
-            shown off with numerous playtests going on before its release in
-            September 2025. So far, the response has been decent.
+            Bungie also revealed Marathon, a live-service extraction shooter, in
+            2023. It then took until March 2025 to be showcased, with many
+            playtests going on before releasing in September 2025.
+          </Paragraph>
+          <Paragraph>
+            To call Marathon important for Bungie is an understatement. For
+            Bungie to keep any remaining autonomy, it must do well commercially
+            and help justify the $3.6 billion acquisition. However, the lukewarm
+            response so far suggests its not good enough to justify its $40
+            price tag.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            To call Marathon important for Bungie is an unstatement. If Bungie
-            want to keep any remaining autonomy, it must do well from a
-            commercial standpoint. However, the response to it so far has been
-            lukewarm, which is certainly not enough to justify its likely $40
-            price tag. I therefore predict that while Marathon won&#39;t get the
-            Concord treatment, it won&#39;t prevent Sony from further making
-            changes to Bungie in order to extract as much as it can.
+            I therefore predict that while Marathon won&#39;t reach Concord
+            levels of failure, it won&#39;t prevent Sony from further making
+            changes to Bungie and recoup as much as it can from a failed
+            acquisition.
           </Paragraph>
         </div>
         <div>

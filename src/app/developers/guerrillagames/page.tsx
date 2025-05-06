@@ -40,8 +40,9 @@ function GuerillaGamesPage(): JSX.Element {
       <Paragraph>
         On PS5, Guerrilla have only released the cross-gen title &#39;Horizon
         Forbidden West&#39; in early 2022. They did work with other studios on
-        2024&#39;s &#39;Lego Horizon Adventures&#39; and a remake of
-        &#39;Horizon Zero Dawn&#39;, but they weren&#39;t the primary developer.
+        2023&#39;s &#39;Horizon Call of the Mountain&#39;, 2024&#39;s &#39;Lego
+        Horizon Adventures&#39; and a remake of &#39;Horizon Zero Dawn&#39;, but
+        they weren&#39;t the primary developer.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Outside of collaborations and 2023&#39;s PS5 exclusive &#39;Burning
@@ -53,7 +54,7 @@ function GuerillaGamesPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite no concrete information, I predict Guerrilla&#39;s next game
-            is Horizon 3 for the following reasons:
+            is Horizon 3 due to the following:
           </Paragraph>
           <List>
             <li>
@@ -61,44 +62,40 @@ function GuerillaGamesPage(): JSX.Element {
               act of a trilogy.
             </li>
             <li>
-              Lego Horizon Adventures is being co-developed with Studio Gobo.
+              Horizon CotM was co-developed with Firesprite and launched
+              alongside PSVR2 in 2023.
             </li>
             <li>
-              Netflix is working on a Horizon TV series, although it might be{" "}
-              <Link
-                href="https://www.ign.com/articles/horizon-zero-dawn-tv-series-no-longer-moving-forward-at-netflix-report"
-                target="_blank"
-              >
-                <span className="border-b-2 border-b-sky-500 hover:border-b-sky-700 text-sky-500 hover:text-sky-700">
-                  cancelled
-                </span>
-              </Link>
-              .
+              Lego Horizon Adventures was co-developed with Studio Gobo and
+              released in 2024.
             </li>
             <li>
-              A remake of the first Horizon is likely being developed at Nixxes.
+              A Horizon Zero Dawn remake was co-developed with Nixxes and
+              released in 2024.
             </li>
             <li>
-              A Horizon online MMO is almost certainly being worked on at
-              NCSoft.
+              A Horizon MMO is almost certainly being worked on at NCSoft.
+            </li>
+            <li>
+              Columbia Pictures and PlayStation Productions are adapting
+              Horizon Zero Dawn into a movie.
+            </li>
+            <li>
+              A Horizon TV series was going to be produced by Netflix, and its
+              cancellation were for reasons outside of Sony&#39;s control.
             </li>
           </List>
           <Paragraph>
-            Clearly, Sony are bullish on Horizon with so many projects in
-            development. Horizon FW also sold over 10 million copies. It would
-            therefore be nonsensical for Guerrilla to move on right now.
+            Clearly, Sony are bullish on the Horizon IP with so many projects
+            across different mediums being greenlit. Horizon FW also sold over
+            10 million copies. It would therefore be nonsensical for Guerrilla
+            to move on right now.
           </Paragraph>
-          <Paragraph>
+          <Paragraph marginBottom={8}>
             You can expect &#39;Horizon 3&#39; in roughly 2027 that plays
             similar to the first two. It&#39;s only been two years since
             Forbidden West though, so don&#39;t expect to see anything until
             2025 at the earliest.
-          </Paragraph>
-          <Paragraph marginBottom={8}>
-            As for Lego Horizon, it&#39;s primarily a Studio Gobo game so we
-            can&#39;t put its outcome on Guerrilla. It&#39;ll be interesting to
-            see if it brings in a new audience due to the Lego IP and Switch
-            port though.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

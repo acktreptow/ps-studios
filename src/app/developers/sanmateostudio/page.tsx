@@ -24,18 +24,15 @@ function SanMateoStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1998, San Mateo Studio (formerly Foster City Studio) works
-        out of San Mateo, California (shock I know).
-      </Paragraph>
-      <Paragraph>
-        Unlike the majority of PlayStation first-party developers, San Mateo are
-        only a support studio. They therefore haven&#39;t shipped a PS5 game,
-        nor should you expect them to.
+        Founded in 1998, San Mateo Studio (formerly Foster City Studio) work out
+        of California as a support studio for other PlayStation first-party
+        developers. They therefore haven&#39;t shipped a PS5 game, nor should
+        you expect them to.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        They did spin off a small team in 2014 called Pixelopus who released two
-        games before the PS5 launched, but a lack of sales resulted in Sony
-        closing the studio down in June 2023.
+        San Mateo Studio did spin off a small team in 2014 called Pixelopus, who
+        released two games before the PS5 launched. However, very low sales
+        resulted in Sony closing the studio down in June 2023.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

@@ -65,20 +65,23 @@ function HavenStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            We haven&#39;t seen Fairgame$ since the first trailer in 2023, which
-            even then was only CGI. Haven is also a new studio, and the first to
-            emphasize the cloud. Considering the 2 years of silence, Sony&#39;s
-            cold feet with live-service post-Concord, Fairgame$ being
-            Haven&#39;s first game, and it using cloud tech as a key development
-            pillar, it&#39;s hard not to be pessimistic.
+            We haven&#39;t seen Fairgame$ since the first trailer in May 2023,
+            which even then, was only CGI. Haven is also a new studio and the
+            first within PS Studios to emphasize the cloud.
+          </Paragraph>
+          <Paragraph>
+            Considering the 2 years of silence, Sony&#39;s cold feet with
+            live-service post-Concord, Fairgame$ being Haven&#39;s first game,
+            using unproven cloud tech as a key pillar, and the consumer&#39;s
+            already very negative opinion, it&#39;s hard not to be pessimistic.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            However, Mark Cerny, architect of the PS5, has taken a special
-            interest in Haven and is assisting with FairGame$ and general R&D.
-            His involvement does spark some optimism, but at this point,
-            it&#39;s more likely Haven gets the Concord treatment and shuts down
-            than FairGame$ shipping to critical and commercial success.
-            Especially if they continue into 2026 with the silent treatment .
+            However, Mark Cerny, architect of the PS5, has taken an interest in
+            Haven and is assisting with FairGame$ and general R&D. His
+            involvement sparks some optimism, but at this point, it&#39;s more
+            likely Haven closes than FairGame$ shipping to critical and
+            commercial success. Especially if they continue into 2026 with the
+            silent treatment.
           </Paragraph>
         </div>
         <div>

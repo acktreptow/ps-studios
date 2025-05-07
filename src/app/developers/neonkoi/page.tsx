@@ -30,29 +30,34 @@ function NeonKoiPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         When it comes to Neon Koi&#39;s PS5 output, they haven&#39;t released
-        anything. This is because they were a
-        founding member of PlayStation Studios&#39;s Mobile Division and
-        purchased to exclusively develop mobile games.
+        anything. This is because they were a founding member of PlayStation
+        Studios&#39;s Mobile Division and purchased to exclusively develop
+        mobile games.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Still interested in their mobile offerings? Well, don&#39;t hold your breath 
-            as Neon Koi was closed by PlayStation in October, 2024. 
-            In the end, Neon Koi didn&#39;t even announce a game, 
-            let alone show gameplay or
-            actually release something. Despite forming over four years ago.
+            Still interested in their mobile offerings? Well, don&#39;t hold
+            your breath as Neon Koi was shut down by PlayStation in October,
+            2024. Despite forming over four years before closure, Neon Koi
+            didn&#39;t even announce a game, let alone show gameplay or actually
+            release something.
           </Paragraph>
           <Paragraph>
-            In fact, Neon Koi was only in the news for negative
-            headlines. Like when the head of PlayStation&#39;s Mobile Division
-            and an SGS founder abruptly left under suspicious
-            circumstances, or the failed rebranding in 2023.
+            In fact, Neon Koi was only in the news for negative headlines. Like
+            when the head of PlayStation&#39;s Mobile Division and an SGS
+            founder abruptly left under suspicious circumstances, or the failed
+            rebranding to Neon Koi in 2023.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            In the end, Neon Koi will be remembered as an insiginificant footnote 
-            in PlayStation&#39;s history during the PS5 era.
+            In the end, at best, Neon Koi will be remembered as an insignificant
+            footnote in PlayStation&#39;s history during the PS5 era — and at
+            worst, as a glaring example of the mistakes made by former
+            PlayStation leadership. From short-sighted, poorly researched
+            acquisitions to wasted spending on games that were cancelled before
+            they were even announced, the studio embodies the missteps of the
+            Jim Ryan era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

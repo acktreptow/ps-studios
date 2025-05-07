@@ -38,17 +38,16 @@ function SuckerPunchProductionsPage(): JSX.Element {
         partnership, Sony acquired the studio in 2011.
       </Paragraph>
       <Paragraph>
-        SP have since moved on from inFamous to 2020&#39;s Ghost of Tsushima. A
-        third-person samurai action-adventure that at 2.4 million copies sold in
-        3 days, was the PS4&#39;s fastest-selling first-party debut.
+        SP have since moved on from inFamous to 2020&#39;s Ghost of Tsushima.
+        This third-person samurai action-adventure is the PS4&#39;s
+        fastest-selling first-party debut at 2.4 million copies sold in 3 days.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        GoT then got a PS5 Director&#39;s Cut in 2021, which is Sucker
-        Punch&#39;s only released PS5 title currently. It added around 10 more
-        hours of gameplay via a new island to explore. This version was even
-        better critically received, which helped has helped the game sell 13
-        million copies by September 2024. Leading to around $300 million in
-        total profit.
+        Tsushima then got a PS5 Director&#39;s Cut in 2021, which is currently
+        SP&#39;s only released PS5 game. It added around 10 more hours of
+        gameplay via a new island to explore and was even better critically
+        received. A PS5 native version also helped sell 13 million copies by
+        September 2024, making Tsushima extremely profitable.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

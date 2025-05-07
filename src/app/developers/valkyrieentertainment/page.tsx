@@ -44,14 +44,11 @@ function ValkyrieEntertainmentPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            This one&#39;s easy to forecast. Due to Valkyrie Entertainment&#39;s
-            status as a support studio, they haven&#39;t shipped their own PS5
-            game.
-          </Paragraph>
-          <Paragraph>
-            Based off the critical and commercial failure of Guns Up!, it&#39;s
-            also unlikely they&#39;ll ever get a chance to. Especially if their
-            unoptimized, bare-bones website is anything to go by.
+            This one&#39;s easy to predict. Valkyrie&#39;s support studio status
+            means they haven&#39;t shipped their own PS5 game. Based off the
+            critical and commercial failure of Guns Up!, it&#39;s also unlikely
+            they&#39;ll ever get a chance to. Especially if their unoptimized,
+            bare-bones website is anything to go by.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next great first-party PS5 game to

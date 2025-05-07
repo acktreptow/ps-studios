@@ -53,20 +53,19 @@ function SuckerPunchProductionsPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            GoT was Sucker Punch&#39;s highest selling game of all time.
-            It&#39;s therefore not surprising that they&#39;ve stuck with the IP
-            for their next game in Ghost of Yōtei. It&#39;s a standalone sequel
-            that takes place 329 years after Tsushima and despite only being
-            revealed in September 2024, is coming out very soon, on October 2,
-            2025.
+            Tsushima is Sucker Punch&#39;s best selling game, so it&#39;s not
+            surprising that they&#39;ve stuck with the IP for Ghost of Yōtei - a
+            standalone sequel that takes place 329 years after Tsushima. Despite
+            being revealed in September 2024, Yōtei is already coming out on
+            October 2, 2025.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Considering this is Sucker Punch&#39;s second go around with the IP
-            and that the IP is well-regarded amongst fans, I predict Yōtei will
-            surpass Tsushima as the developer&#39;s fastest selling game of all
-            time. However, considering the length of game development these days
-            as well as how far we&#39;re in to the PS5 lifecycle, I imagine
-            Yōtei is the final game coming to PS5 by Sucker Punch.
+            As this is SP&#39;s second time with the IP, I predict Yōtei
+            surpasses Tsushima critically because they can now correct any
+            mistakes made the first time. However, when comparing the length of
+            game development with how far we&#39;re into the PS5 lifecycle, I
+            imagine Yōtei is SP&#39;s final PS5 game. Though the larger PS5
+            install base means Yōtei should surpass Tsushima commercially too.
           </Paragraph>
         </div>
         <div>

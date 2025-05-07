@@ -28,19 +28,17 @@ function ValkyrieEntertainmentPage(): JSX.Element {
         2002 and acquired by Sony in 2021.
       </Paragraph>
       <Paragraph>
-        Never heard of Valkyrie or their games? Makes sense. That&#39;s because
-        Valkyrie only act as a support studio for PlayStation games developed at
-        other first-party studios.
-      </Paragraph>
-      <Paragraph>
-        In fact despite being founded over 20 years ago, Valkyrie has only been
-        the main developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN
-        and mobile, which came and went with no fanfare.
+        Haven&#39;t heard of Valkyrie or their games? Makes sense. That&#39;s
+        because Valkyrie only act as a support studio for games developed at
+        other PlayStation first-party studios. For PS5, that&#39;s been
+        2022&#39;s God of War: Ragnarök from Sony Santa Monica and 2024&#39;s
+        ill-fated Concord from Firewalk Studios.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        You&#39;re far more likely to have seen their support work on titles
-        from other PlayStation developers like God of War: Ragnarök from Sony
-        Santa Monica.
+        In fact, despite being founded over 20 years ago, Valkyrie has only been
+        the main developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN
+        and mobile, which only got a 54 on Metacritic and came and went with no
+        commercial fanfare.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

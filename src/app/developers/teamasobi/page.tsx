@@ -54,18 +54,16 @@ function TeamAsobiPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Critically, Astro Bot received a 94 on Metacritic, making it the
+            Critically, Astro Bot achieved a 94 on Metacritic, making it the
             highest rated game of 2024 and tying God of War: Ragnarök as the
             highest rated first-party PS5 game. Astro Bot is also the most
-            awarded platformer of all time with 195 Game of the Year nominations
-            and wins, including winning Game of the Year at the 2024 Game
-            Awards.
+            awarded platformer of all time with 195 nominations/wins, including
+            winning Game of the Year at the 2024 Game Awards.
           </Paragraph>
           <Paragraph>
-            Commercially, 2.5 million copies have been sold so far, and it&#39;s
-            now part of numerous PS5 bundles. Considering the small development
-            budget of around $50 million, Astro Bot has returned tens of
-            millions in profit.
+            Commercially, 2.5 million copies have sold, and it&#39;s now part of
+            many PS5 bundles. Considering the small development budget of around
+            $50 million, Astro Bot has returned tens of millions in profit.
           </Paragraph>
           <Paragraph marginBottom={8}>
             The world is Asboi&#39;s oyster after this unprecedented success. So

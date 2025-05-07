@@ -31,27 +31,25 @@ function TeamAsobiPage(): JSX.Element {
         became independent when Japan Studio closed in 2020.
       </Paragraph>
       <Paragraph>
-        Asobi are primarily known for smaller-scoped games that focus on new
-        PlayStation hardware. For example, The PlayRoom to show off the
-        DualShock 4 and Astro Bot Rescue Mission for PSVR. They&#39;re are also
-        one of the smallest PS Studios with a headcount at around 65.
+        Asobi are primarily known for smaller games that showcase new
+        PlayStation hardware, like 2013&#39;s The PlayRoom for DualShock 4 and
+        2018&#39;s Astro Bot Rescue Mission for PSVR. They&#39;re are also one
+        of the smallest PS Studios with a headcount of around 65.
       </Paragraph>
       <Paragraph>
         So far, Asobi has released 2 PS5 games, the first being 2020&#39;s
-        Astro&#39;s Playroom - a free PS5 launch title that&#39;s pre-installed.
-        Its gameplay was primarily developed to show off the PS5&#39;s new
-        features like haptic feedback and was very well received. Even after 4
-        years, it&#39;s still one of the best uses of the DualSense and the
+        Astro&#39;s Playroom - a free pre-installed PS5 launch title. Its
+        gameplay showcased new PS5 features like haptic feedback and even after
+        4 years, it&#39;s still one of the best uses of the DualSense. The
         game&#39;s positive reception is why Asobi survived the Japan Studio
         closure.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Asobi&#39;s next game, Astro Bot, came out very recently in September
-        2024. Its nearly 4-year development cycle resulted in it being
-        Asobi&#39;s biggest game to date. But most importantly, it led to an
-        excellent 94 on Metacritic, making Astro Bot the highest rated game of
-        2024 and tying with God of War: Ragnarök as the highest rated
-        first-party PS5 game.
+        Asobi&#39;s next game, Astro Bot, came out recently in September 2024.
+        The near 4-year development cycle resulted in it being Asobi&#39;s
+        biggest game to date. But most importantly, it led to an excellent 94 on
+        Metacritic, making Astro Bot the highest rated game of 2024 and tying
+        with God of War: Ragnarök as the highest rated first-party PS5 game.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

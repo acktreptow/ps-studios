@@ -32,20 +32,22 @@ function SanMateoStudioPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         San Mateo Studio did spin off a small team in 2014 called Pixelopus, who
         released two games before the PS5 launched. However, very low sales and
-         mediocre critical reception resulted in Sony closing the studio
-        down in June 2023.
+        mediocre critical reception resulted in Sony closing the studio down in
+        June 2023.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Due to their support status, San Mateo haven&#39;t released a PS5
-            game where they were the main developer. This situation is also very
-            unlikely to change if the shuttering of Pixelopus is any indication.
+            Due to San Mateo Studio&#39;s support status, they haven&#39;t
+            shipped a PS5 game where they were the primary developer. In fact,
+            that last game where they were the main was 2004&#39;s Jet Li: Rise
+            to Honor for the PS2.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
-            probably look elsewhere.
+            probably look elsewhere. If anything, San Mateo are more likely to
+            shut down than release their own game if the shuttering of Pixelopus is any indication.
           </Paragraph>
         </div>
         <div>

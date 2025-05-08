@@ -41,13 +41,13 @@ function SanMateoStudioPage(): JSX.Element {
           <Paragraph>
             Due to San Mateo Studio&#39;s support status, they haven&#39;t
             shipped a PS5 game where they were the primary developer. In fact,
-            that last game where they were the main was 2004&#39;s Jet Li: Rise
-            to Honor for the PS2.
+            that last game where they were is 2004&#39;s Jet Li: Rise to Honor
+            on PS2.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
-            probably look elsewhere. If anything, San Mateo are more likely to
-            shut down than release their own game if the shuttering of Pixelopus is any indication.
+            look elsewhere. If anything, San Mateo are more likely to close if
+            Pixelopus and 2004&#39;s Jet Li are any indications.
           </Paragraph>
         </div>
         <div>

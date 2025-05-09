@@ -31,21 +31,20 @@ function SanDiegoStudioPage(): JSX.Element {
       <Paragraph>
         Founded in 2001, San Diego Studio is the first-party developer
         responsible for the MLB: The Show series. The annualized baseball game
-        is the only IP they work on, so naturally, there&#39;s been 5 MLB games
-        for the PS5 that have come out since 2021. All shipping in the same
-        March/April timeframe.
+        is the only IP they work on, meaning 5 MLB games have shipped on PS5
+        since 2021. All releasing in the same March/April timeframe.
       </Paragraph>
       <Paragraph>
-        This generation has been different in one aspect though. Despite being a
-        Sony first-party developer, the MLB have forced PlayStation to develop
-        an Xbox and Nintendo port since MLB 21, or they would lose the license.
-        Furthermore, Xbox were able to secure a deal with the MLB to have the
-        game arrive into their Gamepass subscription service day 1.
+        This generation has been different though. Despite SDS being
+        first-party, the MLB has forced PlayStation to develop an Xbox and
+        Nintendo port since MLB 21 or they would lose the license. Furthermore,
+        Xbox initially went around Sony and secured a deal with the MLB to have
+        the game arrive day 1 into their Gamepass subscription.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Clearly, these changes MLB enforced onto the IP was the better
-        alternative to losing the license as the MLB The Show has continued to
-        release annually.
+        Despite these enforced monumental changes to the IP&#39;s business
+        model, clearly, they were the better alternative to losing the license
+        as MLB The Show has continued to release annually.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

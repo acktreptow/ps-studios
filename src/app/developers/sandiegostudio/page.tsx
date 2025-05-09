@@ -50,26 +50,24 @@ function SanDiegoStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            This one is easy to predict. SD Studio hasn&#39;t been the primary
-            developer on a non-MLB game since 2016&#39;s Kill Strain.
-            Considering rising development costs coupled with external economic
-            factors like tariffs and inflation, it&#39;s also unlikely they
-            would be allowed to experiment with something new, even if they want
-            to.
+            This one is easy to predict. San Diego Studio hasn&#39;t been the
+            primary developer of a non-MLB game since 2016&#39;s Kill Strain.
+            Rising development costs coupled with external economic factors then
+            further make it unlikely that SDS would work on something new, even
+            if they wanted to.
           </Paragraph>
           <Paragraph>
-            We&#39;re also 5 games deep into the series becoming multiplatform
-            and nothing has materially changed. MLB going into Xbox Gamepass was
-            the one change that could have altered SD Studio&#39;s trajectory,
-            but even that didn&#39;t, with Xbox obviously not seeing the
-            benefits as they didn&#39;t renew their original contract to have it
-            appear day 1 in their subscription service.
+            We&#39;re now also 5 games into the multiplatform MLB strategy and
+            nothing has materially changed. Going into Gamepass was the one
+            aspect that could&#39;ve shifted SDS&#39;s focus, but considering
+            Xbox didn&#39;t renew that contract past MLB 24, its ability to move
+            PS5 owners to the Xbox subscription didn&#39;t happen in numbers for
+            either Sony or Microsoft to care.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s therefore safe to assume they&#39;ll continue with MLB: The
-            Show for the foreseeable future. However, MLB 25 was the first to
-            skip the PS4/Xbox One, so the only big change is the move from
-            Switch 1 to Switch 2 for MLB The Show 26.
+            It&#39;s therefore safe to assume SDS will continue with MLB: The
+            Show for the foreseeable future, with the only big change likely
+            being a move from Switch to Switch 2 for MLB 26.
           </Paragraph>
         </div>
         <div>

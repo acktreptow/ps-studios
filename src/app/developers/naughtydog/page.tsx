@@ -45,31 +45,28 @@ function NaughtyDogPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Like Insomniac, Naughty Dog have released the most PS5 games from
-            first-party with 4. Unlike Insomniac though, all 4 games are
-            remasters/remakes of PS4 Uncharted/TLOU games. And while nice, these
-            PS5 editions are somewhat unnecessary due to the PS4 versions still
-            playing great on PS5.
+            Like Insomniac, Naughty Dog have released the most first-party PS5
+            games with 4. Unlike Insomniac though, all 4 are remasters/remakes
+            of PS4 Uncharted/TLOU games. While nice, these PS5 editions are
+            somewhat unnecessary as the PS4 versions still play great on PS5.
           </Paragraph>
           <Paragraph>
-            Naughty Dog were meant to have already released their first new PS5
-            game with The Last of Us Online, however this was cancelled 4 years
-            into development. Essentially wasting over half the PS5 generation
-            on a failed project. Since then, Naughty Dog has announced their
-            first new IP in over a decade - Intergalactic: The Heretic Prophet.
-            A third-person action-adventure that&#39;s taking exploration queues
-            from Elden Ring as is centered around religion as its theme that has
-            a rough release year of 2027.{" "}
+            ND were meant to have already released their first new PS5 game with
+            The Last of Us Online. However, this was cancelled 4 years into
+            development, therefore wasting over half the PS5 generation. Since
+            then, ND has announced their first new IP in over a decade -
+            Intergalactic: The Heretic Prophet. It&#39;s a religious-themed,
+            third-person action-adventure that takes gameplay inspiration from
+            Elden Ring and is likely to release around 2027/28.{" "}
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Although it&#39;s highly likely that Intergalactic will retain the
-            industry-defining quality Naughty Dog is known for, the fact remains
-            that if all goes well, Naughty Dog are only releasing 1 new game for
-            the PS5 and it&#39;s arriving in the twilight of the console. Other
+            It&#39;s very likely that Intergalactic retains the
+            industry-defining quality Naughty Dog is known for, but the fact
+            remains that Naughty Dog are almost certainly only releasing 1 new
+            game on PS5 and it&#39;s shipping in its final years. Other
             first-party developers like Insomniac have already begun supplanting
-            them this generation then. Something unthinkable when TLOU released
-            in 2013. Hopefully they&#39;re able to return to their former glory
-            for the PS6.
+            them this generation, which was unthinkable when TLOU released in
+            2013. Hopefully they&#39;re able to return to form on the PS6.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

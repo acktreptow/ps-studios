@@ -29,26 +29,24 @@ function InsomniacGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1994, this California-based studio had been developing
-        PlayStation exclusives decades before being officially acquired by Sony
-        in 2019.
-      </Paragraph>
-      <Paragraph>
-        These exclusives include the Spyro the Dragon (PS1) and Resistance (PS3)
-        trilogies, as well as Ratchet & Clank on PS2/3. All funded by Sony.
+        Founded in 1994, this California-based studio was developing PlayStation
+        exclusives decades before being acquired by Sony in 2019. These include
+        the Spyro the Dragon (PS1) and Resistance (PS3) trilogies, as well as
+        Ratchet & Clank on PS2/3. All funded by Sony.
       </Paragraph>
       <Paragraph>
         In the early 2010s, the latter two IP started to flounder which caused
-        Insomniac to branch out. Developing games funded by EA, Xbox and Oculus.
-      </Paragraph>
-      <Paragraph>
-        Insomniac would however find solid ground again with 2018&#39;s
-        Spider-Man for the PS4. It was not only their highest selling game ever,
-        but was also the highest selling PS4 first-party game.
+        Insomniac to branch out and develop games funded by EA (2013&#39;s
+        Fuse), Xbox (2014&#39;s Sunsert Overdrive), Oculus (2016&#39;s Edge of
+        Nowhere) and others. Insomniac would however find solid ground again
+        with 2018&#39;s Spider-Man for the PS4. It was not only their highest
+        selling game ever, but it also became the highest selling PS4
+        first-party game.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Naturally Sony, after seeing this success, acquired them the following
-        year. They&#39;ve been on fire ever since!
+        With this unprecedented success, it&#39;s no surprise that Sony acquired
+        them just a year later to start work on PS5 games. They&#39;ve been on
+        fire ever since!
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

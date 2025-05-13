@@ -51,24 +51,32 @@ function InsomniacGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Most people agree that Insomniac have been the most important
-            PlayStation studio this generation. That&#39;s because they&#39;ve
-            already shipped four games to critical and commercial success.
+            Most agree that Insomniac has been the most important PlayStation
+            studio this generation. That&#39;s because they&#39;ve already
+            shipped 4 games to critical and commercial success. Furthermore,
+            even though Insomniac has already produced more PS5 games than most
+            developers will this entire generation, we know their next game -
+            Marvel&#39;s Wolverine.
           </Paragraph>
           <Paragraph>
-            Furthermore, even though Insomniac have already released more titles
-            than most developers will this entire generation, we know their next
-            game - Marvel&#39;s Wolverine in (likely) 2025.
-          </Paragraph>
-          <Paragraph>
-            Between Insomniac&#39;s current track record and what&#39;s already
-            out there about Wolverine, it&#39;s an easy prediction to say that
-            it will be a hit.
+            Unfortunately, the game has had a troublesome development. Despite
+            being announced in 2021, the game has not been officially show
+            again. In fact, the game has only been in the news for negative
+            headlines. Like the original directors who worked on Miles Morales
+            either leaving or being replaced by the Ratchet and Clank Rift Apart
+            team. Or the huge Insomniac leak that led to playable development
+            builds leaking online and other news like the reveal that Wolverine
+            is intended to act as the first game in a planned trilogy centered
+            around the X-Men which Sony have locked up as an exclusive.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            I really can&#39;t see them not surpassing Naughty Dog and Santa
-            Monica as the most important first-party developer for the PS5 when
-            all is said and done.
+            Regardless of what happens with Wolverine and when it releases
+            though, with 4 games already released on PS5, Insomniac have more
+            than pulled their weight this generation to the point where
+            they&#39;ve been the most important developer for PS Studios. And
+            considering the problems other prestige studios like Naughty Dog,
+            they may well continue to hold this title when the PS5 is said and
+            done.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

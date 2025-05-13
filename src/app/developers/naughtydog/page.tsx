@@ -30,19 +30,17 @@ function NaughtyDogPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Naughty Dog are a California-based developer that was founded back in
-        1984. Over a decade before the PS1!
-      </Paragraph>
-      <Paragraph>
-        They&#39;re also one of the earliest first-party developers as Sony
-        acquired them in 2001. An easy decision considering the critical and
-        commercial success of their Crash Bandicoot trilogy on the PS1.
+        1984 - over a decade before the PS1! They&#39;re also one of the
+        earliest first-party developers as Sony acquired them in 2001. An easy
+        decision considering the critical and commercial success of their Crash
+        Bandicoot trilogy on the PS1.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Naughty Dog had a fine PS2 gen with the Jak & Daxter series. However, it
-        was the PS3 gen, with the Uncharted trilogy and The Last of Us, where
-        their prestige grew to the point that many consider them the premier
-        PlayStation studio. This continued into the PS4 gen with sequels in both
-        IP.
+        Naughty Dog had a good PS2 generation output with the Jak & Daxter
+        series. However, it was the PS3 gen, with the Uncharted trilogy and The
+        Last of Us, where their prestige grew to the point that many consider
+        them the premier PlayStation studio. This continued into the PS4 gen
+        with sequels in both IP.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

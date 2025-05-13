@@ -60,23 +60,20 @@ function InsomniacGamesPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Unfortunately, the game has had a troublesome development. Despite
-            being announced in 2021, the game has not been officially show
-            again. In fact, the game has only been in the news for negative
-            headlines. Like the original directors who worked on Miles Morales
-            either leaving or being replaced by the Ratchet and Clank Rift Apart
-            team. Or the huge Insomniac leak that led to playable development
-            builds leaking online and other news like the reveal that Wolverine
-            is intended to act as the first game in a planned trilogy centered
-            around the X-Men which Sony have locked up as an exclusive.
+            being announced in 2021, the game has not been officially shown
+            again, but has been in the news for negative headlines like the
+            original directors leaving or being replaced. The huge Insomniac
+            leak also led to playable development builds leaking online along
+            with the early reveal that Wolverine is to be the first game in a
+            PlayStation-exclusive trilogy centered around the X-Men.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Regardless of what happens with Wolverine and when it releases
-            though, with 4 games already released on PS5, Insomniac have more
-            than pulled their weight this generation to the point where
-            they&#39;ve been the most important developer for PS Studios. And
-            considering the problems other prestige studios like Naughty Dog,
-            they may well continue to hold this title when the PS5 is said and
-            done.
+            Whatever happens with Wolverine though, with 4 games already
+            released on PS5, Insomniac have more than pulled their weight this
+            generation. To the point where they&#39;ve been the most important
+            developer inside PS Studios. Considering the problems at other
+            prestige studios like Naughty Dog, they will also likely hold this
+            title when the PS5 is said and done.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

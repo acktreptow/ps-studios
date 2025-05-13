@@ -38,34 +38,36 @@ function NaughtyDogPage(): JSX.Element {
         ND had a good PS2 generation with the Jak & Daxter IP. But it was the
         PS3 gen, with the Uncharted trilogy and The Last of Us, where their
         prestige grew to the point that many consider them the premier
-        PlayStation studio. This continued into the PS4 gen with sequels in
-        both IP.
+        PlayStation studio. This continued into the PS4 gen with sequels in both
+        IP.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Like Insomniac, Naughty Dog have released four games on PS5. A
-            record for first-party. Unlike Insomniac though, all four games are
-            remasters/remakes of PS4 Uncharted/TLOU games.
+            Like Insomniac, Naughty Dog have released the most PS5 games from
+            first-party with 4. Unlike Insomniac though, all 4 games are
+            remasters/remakes of PS4 Uncharted/TLOU games. And while nice, these
+            PS5 editions are somewhat unnecessary due to the PS4 versions still
+            playing great on PS5.
           </Paragraph>
           <Paragraph>
-            While remakes/remasters are nice, they were somewhat unnecessary due
-            to the PS4 versions still playing great on PS5.
-          </Paragraph>
-          <Paragraph>
-            Furthermore, ND&#39;s only announced new game, TLOU Online, was
-            cancelled four years into development. It&#39;s therefore hard to be
-            confident despite the pedigree over the past two gens.
-          </Paragraph>
-          <Paragraph>
-            Unfortunately, it looks like ND have time for only one new game on
-            PS5. A huge drop-off from previous output, although I&#39;m sure it
-            will retain their premier quality.
+            Naughty Dog were meant to have already released their first new PS5
+            game with The Last of Us Online, however this was cancelled 4 years
+            into development. Essentially wasting over half the PS5 generation
+            on a failed project. Since then, Naughty Dog has announced their
+            first new IP in over a decade - Intergalactic: The Heretic Prophet.
+            A third-person action-adventure that&#39;s taking exploration queues
+            from Elden Ring as is centered around religion as its theme that has
+            a rough release year of 2027.{" "}
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Regardless, first-party developers like Insomniac have already begun
-            supplanting them this gen. Something unthinkable when TLOU released
+            Although it&#39;s highly likely that Intergalactic will retain the
+            industry-defining quality Naughty Dog is known for, the fact remains
+            that if all goes well, Naughty Dog are only releasing 1 new game for
+            the PS5 and it&#39;s arriving in the twilight of the console. Other
+            first-party developers like Insomniac have already begun supplanting
+            them this generation then. Something unthinkable when TLOU released
             in 2013. Hopefully they&#39;re able to return to their former glory
             for the PS6.
           </Paragraph>

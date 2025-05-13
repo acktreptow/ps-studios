@@ -31,13 +31,19 @@ function SantaMonicaStudioPage(): JSX.Element {
       <Paragraph>
         Santa Monica Studio is an LA-based developer founded in 1999. Outside of
         its first game, 2001&#39;s Kinetica, the studio has exclusively
-        developed games for its very successful God of War series.
+        developed games for its very successful God of War series. There was a
+        department that acted as a publisher/incubator for indie game studios
+        like 2012&#39;s Journey from Thathamecompany, but this was shut down
+        long before the PS5, in 2016.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        SM&#39;s most recent game was 2022&#39;s God of War Ragnarök - a
+        SMS&#39;s most recent game was 2022&#39;s God of War Ragnarök - a
         cross-gen title and the only game they&#39;ve released on the PS5. Like
         the 2018 semi-reboot, it was a monumental critical and commercial
-        success.
+        success with a 94 on Metacritic, which makes it tied with Astro Bot as
+        the highest-rated first-party game on PS5 and the fastest-selling
+        first-party game in PlayStation history, selling 5.1 million units in
+        its first week.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

@@ -47,23 +47,22 @@ function SantaMonicaStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            While Santa Monica Studio continued to support Ragnarok with a PS5
-            Pro patch, a PC version and free Valhalla epilogue expansion, we
-            don&#39;t know what SM&#39;s next game is other than it being in
-            third-person. There&#39;s rumors that predict a new IP, a sequel to
-            Ragnarök, and a smaller-scoped GoW game in the vein of Spider-Man
-            Miles-Morales.
+            While Santa Monica Studio continued to support Ragnarök with a PS5
+            Pro patch, a PC version and a free Valhalla expansion, we don&#39;t
+            know their next game. Currently, rumors predict a new IP, a Ragnarök
+            sequel, a God of War 2005 remake, or a smaller game like SM: Miles
+            Morales.
           </Paragraph>
           <Paragraph>
-            Regardless of what it is, there&#39;s no reason to be skeptical. For
-            many, SMS&#39;s last two games were so critically acclaimed that
-            they usurped Naughty Dog as PlayStation&#39;s premier studio.
+            Many of these rumors could pan out to be true, but regardless of
+            which comes first, there&#39;s no reason to be skeptical. For many,
+            SMS&#39;s last two games were so critically acclaimed that they
+            usurped Naughty Dog as PlayStation&#39;s premier studio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök did only ship 2.5 years ago though, with Valhalla coming
-            1.5 years ago so it&#39;s unlikely they&#39;ll be talking about
-            their next game any time soon. There&#39;s many PS Studios that need
-            to talk first before SMS feel any pressure.
+            Ragnarök shipped 2.5 years ago, so there&#39;s around a 50/50 chance
+            SMS reveal their next game this year. However, there&#39;s still
+            many PS Studios that must talk first before SMS feels any pressure.
           </Paragraph>
         </div>
         <div>

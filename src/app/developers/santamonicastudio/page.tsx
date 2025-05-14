@@ -40,29 +40,30 @@ function SantaMonicaStudioPage(): JSX.Element {
         cross-gen title and the only game they&#39;ve shipped on PS5. Like the
         2018 semi-reboot, it was a monumental critical and commercial success.
         It ties Astro Bot as the highest-rated first-party game PS5 game on
-        Metacritic with 94, and is the fastest-selling first-party game in
+        Metacritic with 94 and is the fastest-selling first-party game in
         PlayStation history, selling 5.1 million units in its first week.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            As of now, we don&#39;t know what SM&#39;s next game is other than
-            it being in third-person. There&#39;s rumours that predict a new IP,
-            a sequel to Ragnarök, and a smaller-scoped GoW game in the vein of
-            Spider-Man Miles-Morales.
+            While Santa Monica Studio continued to support Ragnarok with a PS5
+            Pro patch, a PC version and free Valhalla epilogue expansion, we
+            don&#39;t know what SM&#39;s next game is other than it being in
+            third-person. There&#39;s rumors that predict a new IP, a sequel to
+            Ragnarök, and a smaller-scoped GoW game in the vein of Spider-Man
+            Miles-Morales.
           </Paragraph>
           <Paragraph>
-            Regardless of what it is, there&#39;s no reason to think it
-            won&#39;t be great. To many, SM&#39;s last two games were so
-            critically acclaimed that they usurped Naughty Dog as Sony&#39;s
-            premier studio.
+            Regardless of what it is, there&#39;s no reason to be skeptical. For
+            many, SMS&#39;s last two games were so critically acclaimed that
+            they usurped Naughty Dog as PlayStation&#39;s premier studio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök did only ship 1.5 years ago though, so don&#39;t expect to
-            hear anything soon. There&#39;s A LOT of PS studios that need to
-            talk before SM, as they&#39;re going on 4-5 years without a shipped
-            game.
+            Ragnarök did only ship 2.5 years ago though, with Valhalla coming
+            1.5 years ago so it&#39;s unlikely they&#39;ll be talking about
+            their next game any time soon. There&#39;s many PS Studios that need
+            to talk first before SMS feel any pressure.
           </Paragraph>
         </div>
         <div>

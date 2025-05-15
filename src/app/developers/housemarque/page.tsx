@@ -30,20 +30,24 @@ function HousemarquePage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1995, this Finnish-based developer has released a myriad of
-        games on PlayStation consoles including Super Stardust and Resogun.
+        games on PlayStation consoles including Super Stardust and Resogun. In
+        fact, despite being acquired by Sony in June 2021, that last time they
+        released a game on an Xbox or Nintendo platform was 2011&#39;s Outland.
       </Paragraph>
       <Paragraph>
-        Housemarque most recently released 2021&#39;s Returnal for the PS5. It
-        kept the roguelike elements seen in previous games, but moved to a
-        third-person perspective with more focus on story.
-      </Paragraph>
-      <Paragraph>
-        This helped Returnal have a more mainstream appeal and thus became
-        Housemarque&#39;s best selling game.
+        So far, Housemarque have only released 1 game on PS5, 2021&#39;s
+        Returnal. It kept the roguelike elements seen in previous games, but
+        moved to a third-person perspective with more focus on story. This
+        helped Returnal have a more mainstream appeal and thus became
+        Housemarque&#39;s best selling game with over 560k copies sold in 3
+        months. This step up in success led to Sony acquiring them.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Clearly, Sony were happy with this pivot as they purchased Housemarque
-        two months after Returnal released.
+        Housemarque continued to support Returnal with a PC version and new
+        co-op mode before announcing their next game, Saros, in February 2025.
+        While Saros was only announced with a CG trailer, Housemarque have
+        confirmed it will play very similar to Returnal, except this time, it
+        will be a roguelite instead of a roguelike.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

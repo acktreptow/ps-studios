@@ -51,20 +51,21 @@ function HousemarquePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Returnal is Housemarque&#39;s only PS5 title. Yet despite releasing
-            three years ago, we know nothing about the next game. Nonetheless,
-            Returnal&#39;s quality is the reason to still be excited.
-          </Paragraph>
-          <Paragraph>
             With Returnal, Housemarque proved they could take the elements that
             made their older, smaller-scoped games critically acclaimed, and
-            repackage them into a more mainstream title.
+            repackage them into a more mainstream title. By now making Saros a
+            roguelite, the mainstream appeal should be even broader and that
+            coupled with the much larger install base should mean even better
+            commercial success.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            With this experience under their belt, plus the backing of Sony as
-            an official first-party developer, their next game should fare even
-            better. It has been 3 years though, so we should (hopefully) hear
-            about it soon.
+            Housemarque are easily one of the bright spots for PS Studios this
+            PS5 generation, especially as they were part of the acquisition
+            frenzy when Sony were also laser focused on live-service.
+            Thankfully, Housemarque didn&#39;t get caught up in that and Saros
+            should arrive in 2026, meaning we should see more of it very soon.
+            Making Housemarque one of the few PS Studios really worth keeping an
+            eye on currently.
           </Paragraph>
         </div>
         <div>

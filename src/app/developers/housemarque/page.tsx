@@ -51,21 +51,18 @@ function HousemarquePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            With Returnal, Housemarque proved they could take the elements that
-            made their older, smaller-scoped games critically acclaimed, and
-            repackage them into a more mainstream title. By now making Saros a
-            roguelite, the mainstream appeal should be even broader and that
-            coupled with the much larger install base should mean even better
-            commercial success.
+            With Returnal, Housemarque proved they could repackage the arcade
+            DNA of their older/smaller games into a AAA mainstream title. Saros
+            being a roguelite also furthers its mainstream appeal on a much
+            larger 2026 PS5 install base, resulting in even higher sales.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Housemarque are easily one of the bright spots for PS Studios this
-            PS5 generation, especially as they were part of the acquisition
-            frenzy when Sony were also laser focused on live-service.
-            Thankfully, Housemarque didn&#39;t get caught up in that and Saros
-            should arrive in 2026, meaning we should see more of it very soon.
-            Making Housemarque one of the few PS Studios really worth keeping an
-            eye on currently.
+            generation, especially as they were acquired during the frenzy when
+            Sony were laser focused on live-service. Thankfully, they
+            weren&#39;t get caught up in that. Saros also ships in 2026 meaning
+            we should see more very soon. Housemarque are therefore one of the
+            few PS Studios worth watching currently.
           </Paragraph>
         </div>
         <div>

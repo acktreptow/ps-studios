@@ -29,25 +29,23 @@ function HousemarquePage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1995, this Finnish-based developer has released a myriad of
-        games on PlayStation consoles including Super Stardust and Resogun. In
-        fact, despite being acquired by Sony in June 2021, that last time they
-        released a game on an Xbox or Nintendo platform was 2011&#39;s Outland.
+        Founded in 1995, this Finnish-based developer has released many games
+        exclusively on PlayStation, including Super Stardust and Resogun. In
+        fact, that last time they released a game on Xbox/Nintendo was
+        2011&#39;s Outland.
       </Paragraph>
       <Paragraph>
-        So far, Housemarque have only released 1 game on PS5, 2021&#39;s
-        Returnal. It kept the roguelike elements seen in previous games, but
-        moved to a third-person perspective with more focus on story. This
-        helped Returnal have a more mainstream appeal and thus became
-        Housemarque&#39;s best selling game with over 560k copies sold in 3
-        months. This step up in success led to Sony acquiring them.
+        So far, Housemarque has only released 2021&#39;s Returnal on PS5. It
+        kept the roguelike/arcade DNA seen in their previous games, but moved to
+        third-person with more focus on story. This gave Returnal more
+        mainstream appeal, resulting in it becoming their best selling game at
+        560k copies sold in 3 months and Sony acquiring them very shortly after.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Housemarque continued to support Returnal with a PC version and new
-        co-op mode before announcing their next game, Saros, in February 2025.
-        While Saros was only announced with a CG trailer, Housemarque have
-        confirmed it will play very similar to Returnal, except this time, it
-        will be a roguelite instead of a roguelike.
+        Housemarque continued to support Returnal with a PC version and a new
+        co-op mode before announcing their next game, Saros, in February 2025
+        via a CG trailer. Saros will play very similar to Returnal, except this
+        time, it will be a roguelite instead of a roguelike.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

@@ -30,19 +30,17 @@ function XDevpage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t
-        develop games themselves, but instead collaborate with external studios
-        to fund the development of exclusive games for PlayStation.
-      </Paragraph>
-      <Paragraph>
-        Due to XDev just funding the games, it means they can work with many
-        different developers simultaneously to produce an eclectic selection.
+        develop games, but instead collaborate with external studios by funding
+        their development of exclusive games for PlayStation. This hands-off
+        approach means XDev ships more games than other PS Studios whilst
+        simultaneously producing an eclectic selection from the very different
+        developers.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        On PS5 alone, XDev has already shipped 9 games, with their next being
-        Death Stranding 2: On the Beach in June 2025. Although XDev have another
-        game shipping this called Lost Soul Aside in September, it is unlikely
-        that they beat their highest output seen in 2024 with 4 games, unless
-        many are announced and released in a very short timeframe.
+        On PS5 alone, XDev has already shipped 9 games, with 2024 being their
+        highest output at 4. In 2025, XDev currently have 2 announced games.
+        Strand game &#39;Death Stranding 2: On The Beach&#39; in June and
+        Action-Adventure &#39;Lost Soul Aside&#39; in September.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

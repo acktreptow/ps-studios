@@ -47,33 +47,32 @@ function NixxesSoftwarePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Nixxes are an incredibly important studio for PlayStation as this is
-            the easiest way Sony finds growth outside of the console market. A
-            necessity as AAA game development costs continue to rise.
+            Nixxes are a very important studio for PlayStation as PC is the
+            easiest way Sony finds growth outside of the console market. A
+            necessity as AAA development costs continue to rise.
           </Paragraph>
           <Paragraph>
-            However, with the PC ports of PS5 games starting to dry up, Nixxes
-            are in a unique position to go back into PlayStations PS3/PS4
-            catalogue and reintroduce them to a new audience.
+            However, with PS5 games that need a PC port drying up, Nixxes are in
+            a unique position to go back into the PS3/PS4 catalogue and
+            reintroduce classics to a new audience.
           </Paragraph>
           <Paragraph>
-            I predict this is a more likely outcome over them working on PC
-            ports of upcoming PS5 games and simultaneously releasing them. I
-            highly doubt this comes to be as logistically, this is a nightmare
-            for an external studio to do so effectively. Unless the PS5 version
-            is held until their PC port is ready. It&#39;s also still unclear if
-            Sony believe this is an effective strategy, or it could be a
-            detrimental one that results in fewer PS5s sold long-term.
+            I predict this is more likely than Nixxes simultaneously releasing
+            PC ports of new PS5 games. Logistically, this is a nightmare for an
+            external studio to do so effectively unless the main PS Studio holds
+            their finished PS5 version until the PC port is ready. It&#39;s also
+            unclear if Sony even believe day 1 PC ports is what&#39;s best for
+            their singleplayer games, or if it results in fewer PS5s sold.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Regardless, It&#39;s great to see Nixxes finally break the ice with
-            a PS5 game. Considering the excellent reception of the Horizon Zero
-            Dawn remaster, despite the original only being 8 years old, it bodes
-            well for any other games from around this era that Nixxes work on.
-            Especially older PS4 titles that were released before the PS4 Pro
-            like Killzone: Shadow Fall. That along with the Killzone trilogy
-            would be a best case scenario outcome as Nixxes wait for more
-            first-party PS5 games to come out and make a PC port of.
+            Regardless, it&#39;s great to see Nixxes finally ship a PS5 game.
+            Considering the excellent reception of the HZD remaster, despite the
+            original launching only 8 years ago, it bodes well for other games
+            around this era that Nixxes could port. Especially older PS4 titles
+            that released before the PS4 Pro, like Killzone: Shadow Fall. That
+            along with the PS2/3 Killzone trilogy would be a best case scenario
+            as Nixxes wait for more first-party PS5 games to come out and port
+            to PC.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

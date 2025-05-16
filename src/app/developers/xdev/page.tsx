@@ -81,7 +81,7 @@ function XDevpage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="d2s-otb" className="block text-center mb-8">
-            XDev&#39;s Upcoming Death Stranding 2
+            XDev&#39;s Death Stranding 2: On the Beach
           </label>
         </div>
       </ImageSection>

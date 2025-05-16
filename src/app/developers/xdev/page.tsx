@@ -46,26 +46,35 @@ function XDevpage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            XDev have two games publicly in development. A remake of 2015&#39;s
-            Until Dawn by Ballistic Moon that&#39;s releasing in October and
-            Death Stranding 2 by Kojima Productions.
+            XDev&#39;s collaborations have been inconsistent on PS5. While
+            2022&#39;s VR FPS &#39;Firewall Ultra&#39; is the lowest rated PS5
+            game by all of PS Studios on Metacritic at 61, 2024 games like
+            Helldivers 2 and Stellar Blade far exceeded their critical and
+            commercial expectations.
           </Paragraph>
           <Paragraph>
-            Analytically, XDev&#39;s collaborations have been inconsistent this
-            gen, with 2022&#39;s VR FPS &#39;Firewall Ultra&#39; being the
-            biggest disappointment at 61. It&#39;s actually the lowest rated PS5
-            game by all of PS Studios.
+            The upcoming DS2 is by however by far, their most AAA game
+            they&#39;ve produced on PS5. Despite it also being a
+            cinematic/story-focused game PS Studios are best known for, thanks
+            to ex-PlayStation leadership&#39;s live-service push, it&#39;s
+            actually been years since a game like this has some. I therefore
+            predict that it will end up with the highest critical reception of
+            all XDev games and only be surpassed by Helldivers 2&#39;s
+            commercial reception of over 12 million copies sold.
           </Paragraph>
           <Paragraph>
-            However, all three of XDev&#39;s 2024 games have been successful.
-            Helldivers 2 in particular far exceeded anyone&#39;s expectations
-            and easily stands amongst PS Studios&#39;s best games.
+            Lost Soul Aside is also shaping up to be a great, but not an
+            industry-defining action-adventure/souls game. If I had to guess,
+            I&#39;d say its critical and commercial performance will be very
+            similar to Stellar Blade.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Between this recent track record, Until Dawn being a remake, and DS2
-            being a sequel of a critically acclaimed game, I predict both games
-            will be well received and strengthen XDev&#39;s ascent as the PS5
-            gen continues.
+            In terms of 2026 and beyond, the nature of what XDev does makes it
+            hard to predict their future when it comes to specific games and
+            genres. But that&#39;s what makes them such an interesting studio to
+            follow. As long as they stay away from VRs and vehicular combat,
+            their PS5 history dictates that their 2026 releases will at least be
+            good.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

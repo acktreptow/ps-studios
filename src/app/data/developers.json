@@ -4,7 +4,7 @@
     "name": "Bend Studio",
     "urlPath": "bendstudio",
     "img": "/images/logos/bend-logo.png",
-    "ps5Games": 0
+    "ps5Games": 1
   },
   {
     "id": 2,
@@ -46,7 +46,7 @@
     "name": "Guerrilla Games",
     "urlPath": "guerrillagames",
     "img": "/images/logos/guerrilla-logo.png",
-    "ps5Games": 1
+    "ps5Games": 2
   },
   {
     "id": 8,
@@ -95,21 +95,21 @@
     "name": "Nixxes Software",
     "urlPath": "nixxessoftware",
     "img": "/images/logos/nixxes-logo.png",
-    "ps5Games": 0
+    "ps5Games": 1
   },
   {
     "id": 15,
     "name": "Polyphony Digital",
     "urlPath": "polyphonydigital",
     "img": "/images/logos/polyphony-logo.png",
-    "ps5Games": 1
+    "ps5Games": 2
   },
   {
     "id": 16,
     "name": "San Diego Studio",
     "urlPath": "sandiegostudio",
     "img": "/images/logos/san-diego-logo.png",
-    "ps5Games": 4
+    "ps5Games": 5
   },
   {
     "id": 17,
@@ -165,6 +165,6 @@
     "name": "PS5 Logo",
     "urlPath": "/",
     "img": "/images/logos/ps5-logo.png",
-    "ps5Games": 0
+    "ps5Games": 9
   }
 ]

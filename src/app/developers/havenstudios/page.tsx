@@ -42,8 +42,7 @@ function HavenStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             This game turned out to be FairGame$. A live-service competitive
-            heist shooter that will launch simultaneously on PS5 and PC. It
-            currently has no release date.
+            heist shooter that will launch simultaneously on PS5 and PC.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
@@ -66,22 +65,31 @@ function HavenStudiosPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             We haven&#39;t seen Fairgame$ since the first trailer in May 2023,
-            which even then, was only CGI. Haven is also a new studio and the
-            first within PS Studios to emphasize the cloud.
+            which even then, was only CGI. Since then, Haven has been silent
+            about the project, but that does not mean information has not come
+            out and boy, is it bad.
           </Paragraph>
           <Paragraph>
-            Considering the 2 years of silence, Sony&#39;s cold feet with
-            live-service post-Concord, Fairgame$ being Haven&#39;s first game,
-            using unproven cloud tech as a key pillar, and the consumer&#39;s
-            already very negative opinion, it&#39;s hard not to be pessimistic.
+            In February 2025, it was reported by well known sources that
+            Fairgames$ had been delayed from a private release date of fall 2025
+            to Spring 2026. Then in May 2025, a full 2 years after the first and
+            only time we saw FairGame$, Sony announced that Jade Raymond had
+            left Haven and nor give a reason why. Not even to Haven staff who
+            where it was reported by Bloomberg. Speaking of the report, it also
+            went on to say that Jade Raymond was exited a few weeks after an
+            external private playtest of Fairgame$ was not well received,
+            forcing staff to be concerned about its progress. It&#39;s
+            apparently also dropped the dollar sign and been retitled as
+            Fairgames.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            However, Mark Cerny, architect of the PS5, has taken an interest in
-            Haven and is assisting with FairGame$ and general R&D. His
-            involvement sparks some optimism, but at this point, it&#39;s more
-            likely Haven closes than FairGame$ shipping to critical and
-            commercial success. Especially if they continue into 2026 with the
-            silent treatment.
+            Between the unofficial delay to 2026, Jade Raymond likely being
+            forced out due to Fargames&#39;s progress, Sony&#39;s cold feet with
+            live-service post-Concord, Fairgames being Haven&#39;s first game,
+            using unproven cloud tech as a key pillar, and the consumer&#39;s
+            already very negative opinion, it&#39;s hard not to be extremely
+            pessimistic. At this point, it&#39;s far more likely Haven closes
+            than Fairgames shipping to critical or commercial success.
           </Paragraph>
         </div>
         <div>

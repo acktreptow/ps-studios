@@ -158,13 +158,13 @@
     "name": "XDev",
     "urlPath": "xdev",
     "img": "/images/logos/xdev-logo.png",
-    "ps5Games": 8
+    "ps5Games": 9
   },
   {
     "id": 24,
     "name": "PS5 Logo",
     "urlPath": "/",
     "img": "/images/logos/ps5-logo.png",
-    "ps5Games": 9
+    "ps5Games": 0
   }
 ]

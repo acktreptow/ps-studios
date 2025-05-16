@@ -82,10 +82,10 @@ function HavenStudiosPage(): JSX.Element {
             Between the internal delay, Jade Raymond leaving, a poor playtest,
             Sony&#39;s cold feet in live-service post-Concord, Fairgames being
             Haven&#39;s first game, using unproven cloud tech as a key pillar,
-            and the consumer&#39;s already negative opinion, it&#39;s hard
-            not to be extremely pessimistic. At this point, it&#39;s far more
-            likely Haven closes than Fairgames shipping to critical or
-            commercial success.
+            and the consumer&#39;s already negative opinion, it&#39;s hard not
+            to be extremely pessimistic. At this point, it&#39;s far more likely
+            Haven closes than Fairgames shipping to critical or commercial
+            success.
           </Paragraph>
         </div>
         <div>
@@ -98,7 +98,7 @@ function HavenStudiosPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="fairgames" className="block text-center mb-8">
-            Fairgame$ Only Has A CGI Trailer
+            Fairgames Only Has A CGI Trailer
           </label>
         </div>
       </ImageSection>

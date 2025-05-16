@@ -444,9 +444,18 @@
     "developer": "XDev",
     "name": "Death Stranding 2: OTB",
     "id": "DS2: OTB",
-    "genre": "Action-Adventure",
+    "genre": "Action-Adventure Strand",
     "releaseDate": "June 26, 2025",
     "daysBetweenReleases": 265,
+    "metacritic": "N/A"
+  },
+  {
+    "developer": "XDev",
+    "name": "Lost Soul Aside",
+    "id": "LSA",
+    "genre": "Action-Adventure",
+    "releaseDate": "August 29, 2025",
+    "daysBetweenReleases": 65,
     "metacritic": "N/A"
   }
 ]

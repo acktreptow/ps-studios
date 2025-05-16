@@ -48,24 +48,32 @@ function NixxesSoftwarePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Nixxes are an incredibly important studio for PlayStation as this is
-            the easiest way Sony finds growth outside of the console market.
-            Something needed as AAA game development costs continue to rise.
+            the easiest way Sony finds growth outside of the console market. A
+            necessity as AAA game development costs continue to rise.
           </Paragraph>
           <Paragraph>
-            I highly doubt we&#39;ll see Nixxes PC ports ship simultaneously
-            with the PS5 version however. Logistically, this is a nightmare for
-            an external studio to do so effectively. Unless the PS5 version is
-            held until their PC port is ready.
+            However, with the PC ports of PS5 games starting to dry up, Nixxes
+            are in a unique position to go back into PlayStations PS3/PS4
+            catalogue and reintroduce them to a new audience.
           </Paragraph>
           <Paragraph>
-            What if you don&#39;t play on PC? Well, there&#39;s still a reason
-            to keep an eye on them! In 2023, Nixxes confirmed that it&#39;s
-            started working on remasters too.
+            I predict this is a more likely outcome over them working on PC
+            ports of upcoming PS5 games and simultaneously releasing them. I
+            highly doubt this comes to be as logistically, this is a nightmare
+            for an external studio to do so effectively. Unless the PS5 version
+            is held until their PC port is ready. It&#39;s also still unclear if
+            Sony believe this is an effective strategy, or it could be a
+            detrimental one that results in fewer PS5s sold long-term.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Hopefully that means we get some great PS5 remasters of marque
-            PS3/PS4 games that deserve a fresh coat of paint from this expert
-            developer!
+            Regardless, It&#39;s great to see Nixxes finally break the ice with
+            a PS5 game. Considering the excellent reception of the Horizon Zero
+            Dawn remaster, despite the original only being 8 years old, it bodes
+            well for any other games from around this era that Nixxes work on.
+            Especially older PS4 titles that were released before the PS4 Pro
+            like Killzone: Shadow Fall. That along with the Killzone trilogy
+            would be a best case scenario outcome as Nixxes wait for more
+            first-party PS5 games to come out and make a PC port of.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

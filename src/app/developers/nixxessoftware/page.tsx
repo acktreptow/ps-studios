@@ -27,23 +27,21 @@ function NixxesSoftwarePage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1999, this Utrecht-based studio holds a unique position
-        within PlayStation Studios ever since being acquired in 2021. Unlike
-        other first-party studios who develop new PS5 games, remakes, and
-        remasters, Nixxes primarily develop the PC ports of them.
+        within PlayStation Studios since being acquired in 2021. Unlike other
+        first-party studios who develop new PS5 games, remakes, and remasters,
+        Nixxes primarily develop the PC ports of them.
       </Paragraph>
       <Paragraph>
-        Since 2022, they&#39;ve already released 8 ports with all the bells and
-        whistles you&#39;d expect from a PC version. It&#39;s also hard to
-        predict what the next port will be as the timeframe from announcement to
-        release is very short. Most likely because they&#39;re just ports, not
-        new games that need a marketing cycle to make the general audience
-        aware.
+        Since 2022, Nixxes has already shipped 8 fully-featured (DLSS etc) PC
+        ports. As they aren&#39;t new games that need a big marketing cycle, the
+        time from announcement to release is very short. It&#39;s therefore hard
+        to predict their next port.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Out of the 8 PC ports, there is one that stands out that should be of
-        interest to PS5 fans. A remaster of 2017&#39;s Horizon Zero Dawn. This
-        marks the first time a Nixxes port also got a PS5 version since being
-        acquired, and is almost certainly a sign of things to come.
+        However, there&#39;s one port that stands out for PS5 fans - 2017&#39;s
+        Horizon Zero Dawn remaster. Since acquisition, this is is the first port
+        where Nixxes simultaneously shipped a PS5 version and is certainly a
+        sign of things to come.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

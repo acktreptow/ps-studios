@@ -27,21 +27,23 @@ function NixxesSoftwarePage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 1999, this Utrecht-based studio holds a unique position
-        within PlayStation Studios ever since being acquired in 2021.
+        within PlayStation Studios ever since being acquired in 2021. Unlike
+        other first-party studios who develop new PS5 games, remakes, and
+        remasters, Nixxes primarily develop the PC ports of them.
       </Paragraph>
       <Paragraph>
-        Unlike all other first-party studios who develop new PS5 games, remakes,
-        and remasters, Nixxes have exclusively created PC ports of them.
-      </Paragraph>
-      <Paragraph>
-        Since 2022, they&#39;ve already released 5 ports with all the bells and
-        whistles you&#39;d expect in a PC version. However, we don&#39;t know
-        their next port.
+        Since 2022, they&#39;ve already released 8 ports with all the bells and
+        whistles you&#39;d expect from a PC version. It&#39;s also hard to
+        predict what the next port will be as the timeframe from announcement to
+        release is very short. Most likely because they&#39;re just ports, not
+        new games that need a marketing cycle to make the general audience
+        aware.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Nixxes PC ports have also been far more critically acclaimed compared to
-        others that were done in-house by the game&#39;s actual developer. For
-        example, The Last of Us Part 2&#39;s PC port by Naughty Dog.
+        Out of the 8 PC ports, there is one that stands out that should be of
+        interest to PS5 fans. A remaster of 2017&#39;s Horizon Zero Dawn. This
+        marks the first time a Nixxes port also got a PS5 version since being
+        acquired, and is almost certainly a sign of things to come.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

@@ -45,35 +45,32 @@ function XDevpage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            XDev&#39;s collaborations have been inconsistent on PS5. While
-            2022&#39;s VR FPS &#39;Firewall Ultra&#39; is the lowest rated PS5
-            game by all of PS Studios on Metacritic at 61, 2024 games like
-            Helldivers 2 and Stellar Blade far exceeded their critical and
-            commercial expectations.
+            XDev&#39;s PS5 collaborations have been inconsistent. While
+            2021&#39;s &#39;Destruction AllStars&#39; and 2022&#39;s
+            &#39;Firewall Ultra&#39; share the lowest rated PS Studios PS5 game
+            on Metacritic at 62, 2024 games like &#39;Helldivers 2&#39; and
+            &#39;Stellar Blade&#39; far exceeded critical and commercial
+            expectations.
           </Paragraph>
           <Paragraph>
-            The upcoming DS2 is by however by far, their most AAA game
-            they&#39;ve produced on PS5. Despite it also being a
-            cinematic/story-focused game PS Studios are best known for, thanks
-            to ex-PlayStation leadership&#39;s live-service push, it&#39;s
-            actually been years since a game like this has some. I therefore
-            predict that it will end up with the highest critical reception of
-            all XDev games and only be surpassed by Helldivers 2&#39;s
-            commercial reception of over 12 million copies sold.
+            XDev&#39;s next game, DS2, is however by far, their most AAA PS5
+            game. It&#39;s also a more cinematic game that PS Studios are known
+            for, but due to ex-PlayStation leadership&#39;s live-service push,
+            it&#39;s actually been years since first-party has released one. It
+            will therefore likely receive the highest Metacritic score of
+            XDev&#39;s games and only be surpassed by Helldivers 2 commercially.
           </Paragraph>
           <Paragraph>
-            Lost Soul Aside is also shaping up to be a great, but not an
-            industry-defining action-adventure/souls game. If I had to guess,
-            I&#39;d say its critical and commercial performance will be very
-            similar to Stellar Blade.
+            Lost Soul Aside is also shaping up to be a great, but not
+            industry-defining action-adventure/souls game. It&#39;s critical and
+            commercial performance will likely be very similar to Stellar Blade.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            In terms of 2026 and beyond, the nature of what XDev does makes it
-            hard to predict their future when it comes to specific games and
-            genres. But that&#39;s what makes them such an interesting studio to
-            follow. As long as they stay away from VRs and vehicular combat,
-            their PS5 history dictates that their 2026 releases will at least be
-            good.
+            In terms of 2026 and beyond, XDev&#39;s nature makes it hard to
+            predict future games and genres, but that&#39;s what makes them such
+            an interesting studio. As long as they stay away from VR and
+            vehicular combat, their PS5 history indicates that their 2026
+            releases will at least be good.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

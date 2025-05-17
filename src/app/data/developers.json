@@ -4,153 +4,175 @@
     "name": "Bend Studio",
     "urlPath": "bendstudio",
     "img": "/images/logos/bend-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 2,
     "name": "Bluepoint Games",
     "urlPath": "bluepointgames",
     "img": "/images/logos/bluepoint-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 3,
     "name": "Bungie",
     "urlPath": "bungie",
     "img": "/images/logos/bungie-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 4,
     "name": "Fabrik Games",
     "urlPath": "fabrikgames",
     "img": "/images/logos/fabrik-logo.png",
-    "ps5Games": 0
+    "ps5Games": 0,
+    "hasClosed": false
   },
   {
     "id": 5,
     "name": "Firesprite",
     "urlPath": "firesprite",
     "img": "/images/logos/firesprite-logo.png",
-    "ps5Games": 2
+    "ps5Games": 2,
+    "hasClosed": false
   },
   {
     "id": 6,
     "name": "Firewalk Studios",
     "urlPath": "firewalkstudios",
     "img": "/images/logos/firewalk-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": true
   },
   {
     "id": 7,
     "name": "Guerrilla Games",
     "urlPath": "guerrillagames",
     "img": "/images/logos/guerrilla-logo.png",
-    "ps5Games": 2
+    "ps5Games": 2,
+    "hasClosed": false
   },
   {
     "id": 8,
     "name": "Haven Studios",
     "urlPath": "havenstudios",
     "img": "/images/logos/haven-logo.png",
-    "ps5Games": 0
+    "ps5Games": 0,
+    "hasClosed": false
   },
   {
     "id": 9,
     "name": "Housemarque",
     "urlPath": "housemarque",
     "img": "/images/logos/housemarque-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 10,
     "name": "Insomniac Games",
     "urlPath": "insomniacgames",
     "img": "/images/logos/insomniac-logo.png",
-    "ps5Games": 4
+    "ps5Games": 4,
+    "hasClosed": false
   },
   {
     "id": 11,
     "name": "Media Molecule",
     "urlPath": "mediamolecule",
     "img": "/images/logos/media-molecule-logo.png",
-    "ps5Games": 0
+    "ps5Games": 0,
+    "hasClosed": false
   },
   {
     "id": 12,
     "name": "Naughty Dog",
     "urlPath": "naughtydog",
     "img": "/images/logos/naughty-dog-logo.png",
-    "ps5Games": 3
+    "ps5Games": 3,
+    "hasClosed": false
   },
   {
     "id": 13,
     "name": "Neon Koi",
     "urlPath": "neonkoi",
     "img": "/images/logos/neon-koi-logo.png",
-    "ps5Games": 0
+    "ps5Games": 0,
+    "hasClosed": true
   },
   {
     "id": 14,
     "name": "Nixxes Software",
     "urlPath": "nixxessoftware",
     "img": "/images/logos/nixxes-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 15,
     "name": "Polyphony Digital",
     "urlPath": "polyphonydigital",
     "img": "/images/logos/polyphony-logo.png",
-    "ps5Games": 2
+    "ps5Games": 2,
+    "hasClosed": false
   },
   {
     "id": 16,
     "name": "San Diego Studio",
     "urlPath": "sandiegostudio",
     "img": "/images/logos/san-diego-logo.png",
-    "ps5Games": 5
+    "ps5Games": 5,
+    "hasClosed": false
   },
   {
     "id": 17,
     "name": "San Mateo Studio",
     "urlPath": "sanmateostudio",
     "img": "/images/logos/san-mateo-logo.png",
-    "ps5Games": 0
+    "ps5Games": 0,
+    "hasClosed": false
   },
   {
     "id": 18,
     "name": "Santa Monica Studio",
     "urlPath": "santamonicastudio",
     "img": "/images/logos/santa-monica-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 19,
     "name": "Sucker Punch",
     "urlPath": "suckerpunchproductions",
     "img": "/images/logos/sucker-punch-logo.png",
-    "ps5Games": 1
+    "ps5Games": 1,
+    "hasClosed": false
   },
   {
     "id": 20,
     "name": "Team Asobi",
     "urlPath": "teamasobi",
     "img": "/images/logos/asobi-logo.png",
-    "ps5Games": 2
+    "ps5Games": 2,
+    "hasClosed": false
   },
   {
     "id": 21,
     "name": "Valkyrie Entertainment",
     "urlPath": "valkyrieentertainment",
     "img": "/images/logos/valkyrie-logo.png",
-    "ps5Games": 0
+    "ps5Games": 0,
+    "hasClosed": false
   },
   {
     "id": 22,
     "name": "XDev",
     "urlPath": "xdev",
     "img": "/images/logos/xdev-logo.png",
-    "ps5Games": 9
+    "ps5Games": 9,
+    "hasClosed": false
   }
 ]

@@ -59,24 +59,26 @@ function HomepageClient(): JSX.Element {
         </button>
       </form>
       <div className="grid grid-cols-3 mb-6 md:grid-cols-4 lg:grid-cols-6">
-        {developers.map((developer: Developer) => (
-          <Link
-            key={developer.id}
-            href={
-              developer.name === "PlayStation Logo"
-                ? `${developer.urlPath}`
-                : `/developers/${developer.urlPath}`
-            }
-          >
-            <Image
-              src={developer.img}
-              width={500}
-              height={500}
-              alt={`${developer.name} Logo`}
-              className="transform scale-90 rounded-lg"
-            />
-          </Link>
-        ))}
+        {developers
+          .filter((developer: Developer) => !developer.hasClosed)
+          .map((developer: Developer) => (
+            <Link
+              key={developer.id}
+              href={
+                developer.name === "PlayStation Logo"
+                  ? `${developer.urlPath}`
+                  : `/developers/${developer.urlPath}`
+              }
+            >
+              <Image
+                src={developer.img}
+                width={500}
+                height={500}
+                alt={`${developer.name} Logo`}
+                className="transform scale-90 rounded-lg"
+              />
+            </Link>
+          ))}
       </div>
     </main>
   );

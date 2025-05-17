@@ -43,11 +43,7 @@ function StatsPage(): JSX.Element {
       </Paragraph>
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
         {developers
-          .filter(
-            (developer: Developer) =>
-              developer.name !== "PlayStation Logo" &&
-              developer.name !== "PS5 Logo"
-          )
+          .filter((developer: Developer) => developer.hasClosed === false)
           .map((developer: Developer) => (
             <li key={developer.id} className="mb-1">
               <span className="font-semibold">{developer.name}</span>:{" "}

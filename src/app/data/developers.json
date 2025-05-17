@@ -24,7 +24,7 @@
     "hasClosed": false
   },
   {
-    "id": 23,
+    "id": 4,
     "name": "Dark Outlaw Games",
     "urlPath": "darkoutlawgames",
     "img": "/images/logos/playstation-logo.png",
@@ -32,7 +32,7 @@
     "hasClosed": false
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Fabrik Games",
     "urlPath": "fabrikgames",
     "img": "/images/logos/fabrik-logo.png",
@@ -40,7 +40,7 @@
     "hasClosed": false
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Firesprite",
     "urlPath": "firesprite",
     "img": "/images/logos/firesprite-logo.png",
@@ -96,7 +96,7 @@
     "hasClosed": false
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Nixxes Software",
     "urlPath": "nixxessoftware",
     "img": "/images/logos/nixxes-logo.png",
@@ -104,7 +104,7 @@
     "hasClosed": false
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Polyphony Digital",
     "urlPath": "polyphonydigital",
     "img": "/images/logos/polyphony-logo.png",
@@ -112,7 +112,7 @@
     "hasClosed": false
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "San Diego Studio",
     "urlPath": "sandiegostudio",
     "img": "/images/logos/san-diego-logo.png",
@@ -120,7 +120,7 @@
     "hasClosed": false
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "San Mateo Studio",
     "urlPath": "sanmateostudio",
     "img": "/images/logos/san-mateo-logo.png",
@@ -128,7 +128,7 @@
     "hasClosed": false
   },
   {
-    "id": 18,
+    "id": 17,
     "name": "Santa Monica Studio",
     "urlPath": "santamonicastudio",
     "img": "/images/logos/santa-monica-logo.png",
@@ -136,7 +136,7 @@
     "hasClosed": false
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "Sucker Punch",
     "urlPath": "suckerpunchproductions",
     "img": "/images/logos/sucker-punch-logo.png",
@@ -144,7 +144,7 @@
     "hasClosed": false
   },
   {
-    "id": 20,
+    "id": 19,
     "name": "Team Asobi",
     "urlPath": "teamasobi",
     "img": "/images/logos/asobi-logo.png",
@@ -152,7 +152,7 @@
     "hasClosed": false
   },
   {
-    "id": 24,
+    "id": 20,
     "name": "teamLFG",
     "urlPath": "teamlfg",
     "img": "/images/logos/ps5-logo.png",
@@ -176,7 +176,7 @@
     "hasClosed": false
   },
   {
-    "id": 6,
+    "id": 23,
     "name": "Firewalk Studios",
     "urlPath": "firewalkstudios",
     "img": "/images/logos/firewalk-logo.png",
@@ -184,7 +184,7 @@
     "hasClosed": true
   },
   {
-    "id": 13,
+    "id": 24,
     "name": "Neon Koi",
     "urlPath": "neonkoi",
     "img": "/images/logos/neon-koi-logo.png",

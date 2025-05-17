@@ -4,4 +4,5 @@ export type Developer = {
   urlPath: string;
   img: string;
   ps5Games: number;
+  hasClosed: boolean;
 };

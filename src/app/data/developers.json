@@ -201,6 +201,14 @@
   },
   {
     "id": 26,
+    "name": "Manchester Studio",
+    "urlPath": "manchesterstudio",
+    "img": "/images/logos/firewalk-logo.png",
+    "ps5Games": 0,
+    "hasClosed": true
+  },
+  {
+    "id": 27,
     "name": "Neon Koi",
     "urlPath": "neonkoi",
     "img": "/images/logos/neon-koi-logo.png",
@@ -208,7 +216,7 @@
     "hasClosed": true
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "Pixelopus",
     "urlPath": "pixelopus",
     "img": "/images/logos/neon-koi-logo.png",

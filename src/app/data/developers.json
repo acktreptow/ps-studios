@@ -148,23 +148,9 @@
   },
   {
     "id": 22,
-    "name": "PlayStation Logo",
-    "urlPath": "/about",
-    "img": "/images/logos/playstation-logo.png",
-    "ps5Games": 0
-  },
-  {
-    "id": 23,
     "name": "XDev",
     "urlPath": "xdev",
     "img": "/images/logos/xdev-logo.png",
     "ps5Games": 9
-  },
-  {
-    "id": 24,
-    "name": "PS5 Logo",
-    "urlPath": "/",
-    "img": "/images/logos/ps5-logo.png",
-    "ps5Games": 0
   }
 ]

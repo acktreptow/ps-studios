@@ -40,14 +40,6 @@
     "hasClosed": false
   },
   {
-    "id": 6,
-    "name": "Firewalk Studios",
-    "urlPath": "firewalkstudios",
-    "img": "/images/logos/firewalk-logo.png",
-    "ps5Games": 1,
-    "hasClosed": true
-  },
-  {
     "id": 7,
     "name": "Guerrilla Games",
     "urlPath": "guerrillagames",
@@ -94,14 +86,6 @@
     "img": "/images/logos/naughty-dog-logo.png",
     "ps5Games": 3,
     "hasClosed": false
-  },
-  {
-    "id": 13,
-    "name": "Neon Koi",
-    "urlPath": "neonkoi",
-    "img": "/images/logos/neon-koi-logo.png",
-    "ps5Games": 0,
-    "hasClosed": true
   },
   {
     "id": 14,
@@ -174,5 +158,21 @@
     "img": "/images/logos/xdev-logo.png",
     "ps5Games": 9,
     "hasClosed": false
+  },
+  {
+    "id": 6,
+    "name": "Firewalk Studios",
+    "urlPath": "firewalkstudios",
+    "img": "/images/logos/firewalk-logo.png",
+    "ps5Games": 1,
+    "hasClosed": true
+  },
+  {
+    "id": 13,
+    "name": "Neon Koi",
+    "urlPath": "neonkoi",
+    "img": "/images/logos/neon-koi-logo.png",
+    "ps5Games": 0,
+    "hasClosed": true
   }
 ]

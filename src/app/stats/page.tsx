@@ -51,7 +51,22 @@ function StatsPage(): JSX.Element {
             </li>
           ))}
       </ul>
-
+      <h3
+        className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
+        id="gamestats"
+      >
+        Closed Developers:
+      </h3>
+      <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">
+        {developers
+          .filter((developer: Developer) => developer.hasClosed === true)
+          .map((developer: Developer) => (
+            <li key={developer.id} className="mb-1">
+              <span className="font-semibold">{developer.name}</span>:{" "}
+              {developer.ps5Games}
+            </li>
+          ))}
+      </ul>
       <div className="lg:flex items-center">
         <div>
           <SubTitle subtitle="Other Stats" marginBottom={5} />

@@ -35,9 +35,9 @@ function BendStudioPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Bend&#39;s last game was 2019&#39;s Days Gone on PS4, which got
-        remastered in April 2025. This native PS5 re-release includes
-        resolution/framerate upgrades, a new horde mode, and other small
-        elements like new trophies.
+        remastered on PS5 in April 2025. This native PS5 re-release includes
+        resolution and framerate upgrades, a new horde mode, and other small
+        elements like a PS5 trophy list.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -62,22 +62,21 @@ function BendStudioPage(): JSX.Element {
             </li>
             <li>
               The game was then cancelled in January 2025. Likely due to Sony
-              leadership&#39;s cold feet about their chances for success in
-              live-service, post-Concord.
+              leadership&#39;s cold feet in live-service post-Concord.
             </li>
           </List>
           <Paragraph>
             Fortunately, much of DG&#39;s criticisms stem from those who lost
             the power struggle. Between that, Sony&#39;s new-found reluctance in
-            live-service, Days Gone getting a remaster, and the general
-            consensus around the IP is a lot more positive in 2025, there&#39;s
-            a very good chance Days Gone 2 could be greenlit now and launch to a
-            much better critical reception.
+            live-service, DG getting a remaster, and the more positive general
+            consensus around the IP in 2025, there&#39;s a good chance Days Gone
+            2 could now be greenlit and launch to much better critical
+            reception.
           </Paragraph>
           <Paragraph marginBottom={8}>
             This would be the best case scenario, but don&#39;t expect it until
             PS6. Meaning out of all PS Studios, Bend will go the longest without
-            releasing a new game. Due to their ex-leadership and Sony&#39;s poor
+            releasing a new game. Due to ex-leadership and Sony&#39;s poor
             live-service execution, the PS5 has been a truly wasted generation
             for Bend.
           </Paragraph>

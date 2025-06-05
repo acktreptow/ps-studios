@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import seleneVassos from "../../../../public/images/dev-pages/selene-vassos.png";
+import sarosConceptArt from "../../../../public/images/dev-pages/saros-concept-art.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -67,13 +67,13 @@ function HousemarquePage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={seleneVassos}
-            alt="Returnal's Selene Vassos"
-            id="selene-vassos"
+            src={sarosConceptArt}
+            alt="Saros Concept Art"
+            id="saros-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="selene-vassos" className="block text-center mb-8">
-            Returnal&#39;s Main Character, Selene Vassos
+          <label htmlFor="saros-concept-art" className="block text-center mb-8">
+            Saros Concept Art
           </label>
         </div>
       </ImageSection>

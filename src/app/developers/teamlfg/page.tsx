@@ -2,14 +2,13 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import astroBot from "../../../../public/images/dev-pages/astro-bot.png";
+import gummyBears from "../../../../public/images/dev-pages/gummy-bears.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
-import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "teamLFG",
@@ -23,7 +22,10 @@ function TeamLFGPage(): JSX.Element {
   return (
     <Container>
       <Title title="teamLFG" />
-      <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
+      <DeveloperButton
+        developer="teamLFG"
+        urlPath="https://www.playstation.com/corporate/playstation-studios/teamlfg/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
@@ -55,13 +57,13 @@ function TeamLFGPage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={astroBot}
-            alt="Team Asobi with their mascot Astro Bot"
-            id="astro-bot"
+            src={gummyBears}
+            alt="Gummy Bears concept art"
+            id="gummy-bears"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="astro-bot" className="block text-center mb-8">
-            Team Asobi With Mascot Astro Bot
+          <label htmlFor="gummy-bears" className="block text-center mb-8">
+            The Only Concept Art Of Project Gummy Bears Currently
           </label>
         </div>
       </ImageSection>

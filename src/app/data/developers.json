@@ -169,6 +169,14 @@
   },
   {
     "id": 22,
+    "name": "Visual Arts",
+    "urlPath": "visualarts",
+    "img": "/images/logos/valkyrie-logo.png",
+    "ps5Games": 0,
+    "hasClosed": false
+  },
+  {
+    "id": 23,
     "name": "XDev",
     "urlPath": "xdev",
     "img": "/images/logos/xdev-logo.png",
@@ -176,7 +184,7 @@
     "hasClosed": false
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "Firewalk Studios",
     "urlPath": "firewalkstudios",
     "img": "/images/logos/firewalk-logo.png",
@@ -184,7 +192,7 @@
     "hasClosed": true
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Japan Studio",
     "urlPath": "japanstudio",
     "img": "/images/logos/japan-studio-logo.png",
@@ -192,7 +200,7 @@
     "hasClosed": true
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "London Studio",
     "urlPath": "londonstudio",
     "img": "/images/logos/london-studio-logo.png",
@@ -200,7 +208,7 @@
     "hasClosed": true
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "Manchester Studio",
     "urlPath": "manchesterstudio",
     "img": "/images/logos/manchester-studio-logo2.png",
@@ -208,7 +216,7 @@
     "hasClosed": true
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "Neon Koi",
     "urlPath": "neonkoi",
     "img": "/images/logos/neon-koi-logo.png",
@@ -216,7 +224,7 @@
     "hasClosed": true
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "Pixelopus",
     "urlPath": "pixelopus",
     "img": "/images/logos/pixelopus-logo3.png",

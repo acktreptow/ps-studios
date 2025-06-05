@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import concreteGenie from "../../../../public/images/dev-pages/concrete-genie.png";
+import csr from "../../../../public/images/dev-pages/combat-search-rescue.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -19,8 +19,8 @@ function SanMateoStudioPage(): JSX.Element {
     <Container>
       <Title title="Manchester Studio" />
       <DeveloperButton
-        developer="Pixelopus"
-        urlPath="https://x.com/pixelopus?lang=en"
+        developer="Manchester Studio"
+        urlPath="https://playstation-studios.fandom.com/wiki/Manchester_Studio"
       />
       <SubTitle subtitle="History" />
       <Paragraph>
@@ -50,13 +50,13 @@ function SanMateoStudioPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={concreteGenie}
+            src={csr}
             alt="Concrete Genie"
             id="concrete-genie"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="concrete-genie" className="block text-center">
-            Pixelopus&#39;s Final Game: Concrete Genie
+            The Only CSAR: Combat, Search, and Rescue Concept Art
           </label>
         </div>
       </ImageSection>

@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import csr from "../../../../public/images/dev-pages/combat-search-rescue.png";
+import japanstudioholidays from "../../../../public/images/dev-pages/japan-studio-holidays.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -20,7 +20,7 @@ function JapanStudioPage(): JSX.Element {
       <Title title="Japan Studio" />
       <DeveloperButton
         developer="Japan Studio"
-        urlPath="https://en.wikipedia.org/wiki/Japan_Studio"
+        urlPath="https://x.com/sonyjapanstudio"
       />
       <SubTitle subtitle="History" />
       <Paragraph>Japan Studio was founded in 2025.</Paragraph>
@@ -45,13 +45,13 @@ function JapanStudioPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={csr}
+            src={japanstudioholidays}
             alt="Concrete Genie"
             id="concrete-genie"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="concrete-genie" className="block text-center">
-            The Only CSAR: Combat, Search, and Rescue Concept Art
+            Some of JS&#39;s many IP wishing happy holidays a final time.
           </label>
         </div>
       </ImageSection>

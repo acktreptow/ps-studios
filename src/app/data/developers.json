@@ -195,7 +195,7 @@
     "id": 25,
     "name": "London Studio",
     "urlPath": "londonstudio",
-    "img": "/images/logos/london-studio-logo6.png",
+    "img": "/images/logos/london-studio-logo.png",
     "ps5Games": 0,
     "hasClosed": true
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "name": "Manchester Studio",
     "urlPath": "manchesterstudio",
-    "img": "/images/logos/firewalk-logo.png",
+    "img": "/images/logos/manchester-studio-logo2.png",
     "ps5Games": 0,
     "hasClosed": true
   },

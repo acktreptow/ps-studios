@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import concreteGenie from "../../../../public/images/dev-pages/concrete-genie.png";
+import jetLiPS2 from "../../../../public/images/dev-pages/jet-li-ps2.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -52,13 +52,13 @@ function SanMateoStudioPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={concreteGenie}
-            alt="Concrete Genie"
-            id="concrete-genie"
+            src={jetLiPS2}
+            alt="Jet Li PS2"
+            id="jet-li-ps2"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="concrete-genie" className="block text-center">
-            Pixelopus&#39;s Final Game: Concrete Genie
+          <label htmlFor="jet-li-ps2" className="block text-center">
+            San Mateo Studio&#39;s Only Game. 68 On Metacritic.
           </label>
         </div>
       </ImageSection>

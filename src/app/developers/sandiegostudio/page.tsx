@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import mlb24 from "../../../../public/images/dev-pages/mlb-24.png";
+import mlb25 from "../../../../public/images/dev-pages/mlb-25.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -72,13 +72,13 @@ function SanDiegoStudioPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={mlb24}
-            alt="MLB The Show 24 promotional material"
-            id="mlb-24"
+            src={mlb25}
+            alt="MLB 25 box art for all platforms"
+            id="mlb-25"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="mlb-24" className="block text-center mb-8">
-            MLB The Show 24 Advertisement
+          <label htmlFor="mlb-25" className="block text-center mb-8">
+            MLB 25&#39;s Box Art For All 3 Console Ecosystems
           </label>
         </div>
       </ImageSection>

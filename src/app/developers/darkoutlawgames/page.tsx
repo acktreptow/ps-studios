@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import thePersistence from "../../../../public/images/dev-pages/the-persistence.png";
+import deviationGames from "../../../../public/images/dev-pages/deviation-games.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -18,7 +18,10 @@ function DarkOutlawGamesPage(): JSX.Element {
   return (
     <Container>
       <Title title="Dark Outlaw Games" />
-      <DeveloperButton developer="Fabrik" urlPath="https://firesprite.com/" />
+      <DeveloperButton
+        developer="Dark Outlaw"
+        urlPath="https://www.playstation.com/en-gb/corporate/playstation-studios/dark-outlaw-games/"
+      />
       <SubTitle subtitle="History" />
       <Paragraph>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
@@ -56,13 +59,13 @@ function DarkOutlawGamesPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={thePersistence}
-            alt="The Persistence"
-            id="the-persistence"
+            src={deviationGames}
+            alt="Deviation Games Announcement"
+            id="deviation-games"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="the-persistence" className="block text-center">
-            The Persistence Cover Art
+          <label htmlFor="deviation-games" className="block text-center">
+            Blundell (right) announcing his previous dev/game at SGF 21
           </label>
         </div>
       </ImageSection>

@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import csr from "../../../../public/images/dev-pages/combat-search-rescue.png";
+import londonStudioConceptArt from "../../../../public/images/dev-pages/london-studio-cancelled-game.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -19,8 +19,8 @@ function LondonStudioPage(): JSX.Element {
     <Container>
       <Title title="London Studio" />
       <DeveloperButton
-        developer="Manchester Studio"
-        urlPath="https://playstation-studios.fandom.com/wiki/Manchester_Studio"
+        developer="London Studio"
+        urlPath="https://x.com/londonstudiohq"
       />
       <SubTitle subtitle="History" />
       <Paragraph>
@@ -53,13 +53,16 @@ function LondonStudioPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={csr}
-            alt="Concrete Genie"
-            id="concrete-genie"
+            src={londonStudioConceptArt}
+            alt="Concept art of cancelled live service game"
+            id="cancelled-game-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="concrete-genie" className="block text-center">
-            The Only CSAR: Combat, Search, and Rescue Concept Art
+          <label
+            htmlFor="cancelled-game-concept-art"
+            className="block text-center"
+          >
+            Concept Art Of London Studio&#39;s Cancelled Live Service Game
           </label>
         </div>
       </ImageSection>

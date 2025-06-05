@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import finalShape from "../../../../public/images/dev-pages/the-final-shape.png";
+import marathonStolenArt from "../../../../public/images/dev-pages/marathon-stolen-art.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -95,13 +95,13 @@ function BungiePage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={finalShape}
-            alt="Destiny 2: The Final Shape key art"
-            id="final-shape"
+            src={marathonStolenArt}
+            alt="Stolen Marathon art assets"
+            id="marathon-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="final-shape" className="block text-center mb-8">
-            Destiny 2&#39;s Last Expansion
+          <label htmlFor="marathon-art" className="block text-center mb-8">
+            Some Examples Of Stolen Marathon Art Assets
           </label>
         </div>
       </ImageSection>

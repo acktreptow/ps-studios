@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import concord from "../../../../public/images/dev-pages/concord.png";
+import concordCharacters from "../../../../public/images/dev-pages/concord-characters.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -70,13 +70,16 @@ function FirewalkStudiosPage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={concord}
-            alt="Concord key art"
-            id="concord"
+            src={concordCharacters}
+            alt="Concord playable characters"
+            id="concord-characters"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="concord" className="block text-center mb-8">
-            Concord Primary Key Art
+          <label
+            htmlFor="concord-characters"
+            className="block text-center mb-8"
+          >
+            Concord&#39;s Uninspired Character Design Was Widely Panned
           </label>
         </div>
       </ImageSection>

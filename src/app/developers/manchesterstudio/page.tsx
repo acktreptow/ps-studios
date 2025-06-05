@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "The history of Manchester Studio, a former first-party developer for PlayStation Studios.",
 };
 
-function SanMateoStudioPage(): JSX.Element {
+function ManchesterStudioPage(): JSX.Element {
   return (
     <Container>
       <Title title="Manchester Studio" />
@@ -64,4 +64,4 @@ function SanMateoStudioPage(): JSX.Element {
   );
 }
 
-export default SanMateoStudioPage;
+export default ManchesterStudioPage;

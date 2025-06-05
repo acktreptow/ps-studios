@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "The history of Pixelopus, a former first-party developer for PlayStation Studios.",
 };
 
-function SanMateoStudioPage(): JSX.Element {
+function PixelopusPage(): JSX.Element {
   return (
     <Container>
       <Title title="Pixelopus" />
@@ -61,4 +61,4 @@ function SanMateoStudioPage(): JSX.Element {
   );
 }
 
-export default SanMateoStudioPage;
+export default PixelopusPage;

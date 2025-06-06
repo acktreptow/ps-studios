@@ -9,6 +9,7 @@ import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "teamLFG",
@@ -67,6 +68,8 @@ function TeamLFGPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="teamLFG" />
     </Container>
   );
 }

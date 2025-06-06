@@ -369,6 +369,15 @@
     "metacritic": 94
   },
   {
+    "developer": "teamLFG",
+    "name": "Project Gummy Bears",
+    "id": "Gummy Bears",
+    "genre": "Team-based Action",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
     "developer": "XDev",
     "name": "Sackboy: A Big Adventure",
     "id": "Sackboy",

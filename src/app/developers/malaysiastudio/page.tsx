@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import csr from "../../../../public/images/dev-pages/combat-search-rescue.png";
+import tlouComparison from "../../../../public/images/dev-pages/tlou1.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -19,8 +19,8 @@ function MalaysiaStudioPage(): JSX.Element {
     <Container>
       <Title title="Malaysia Studio" />
       <DeveloperButton
-        developer="Manchester Studio"
-        urlPath="https://playstation-studios.fandom.com/wiki/Manchester_Studio"
+        developer="Malaysia Studio"
+        urlPath="https://www.linkedin.com/company/pssmy/"
       />
       <SubTitle subtitle="History" />
       <Paragraph>
@@ -50,13 +50,13 @@ function MalaysiaStudioPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={csr}
-            alt="Concrete Genie"
-            id="concrete-genie"
+            src={tlouComparison}
+            alt="Comparing TLOU 1 on PS3/PS4/PS5"
+            id="tlou1"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="concrete-genie" className="block text-center">
-            The Only CSAR: Combat, Search, and Rescue Concept Art
+          <label htmlFor="tlou1" className="block text-center">
+            TLOU Comparison Between PS3, PS4 & PS5
           </label>
         </div>
       </ImageSection>

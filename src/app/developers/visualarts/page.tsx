@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import gummyBears from "../../../../public/images/dev-pages/gummy-bears.png";
+import bendLeak from "../../../../public/images/dev-pages/bend-leak.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -23,8 +23,8 @@ function VisualArtsPage(): JSX.Element {
     <Container>
       <Title title="Visual Arts" />
       <DeveloperButton
-        developer="teamLFG"
-        urlPath="https://www.playstation.com/corporate/playstation-studios/teamlfg/"
+        developer="Visual Arts"
+        urlPath="https://playstation-studios.fandom.com/wiki/Visual_Arts_Service_Group"
       />
       <SubTitle subtitle="History" />
       <Paragraph>
@@ -57,13 +57,13 @@ function VisualArtsPage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={gummyBears}
-            alt="Gummy Bears concept art"
-            id="gummy-bears"
+            src={bendLeak}
+            alt="Leaked screenshot of Bend's cancelled live service game"
+            id="bend-leak"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="gummy-bears" className="block text-center mb-8">
-            The Only Concept Art Of Project Gummy Bears Currently
+          <label htmlFor="bend-leak" className="block text-center mb-8">
+            Leaked Screenshot Of Bend&#39;s Cancelled Live Service Game
           </label>
         </div>
       </ImageSection>

@@ -1,4 +1,6 @@
 import { Metadata } from "next";
+import gamesData from "../../data/games.json";
+import { Game } from "../../types/Game";
 import Image from "next/image";
 import deviationGames from "../../../../public/images/dev-pages/deviation-games.png";
 import Container from "../../components/Container";
@@ -7,12 +9,15 @@ import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
+import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
   title: "Dark Outlaw Games",
   description:
     "The history and future of Dark Outlaw Games, a first-party developer for PlayStation Studios.",
 };
+
+const gamesArray: Game[] = gamesData;
 
 function DarkOutlawGamesPage(): JSX.Element {
   return (
@@ -68,7 +73,9 @@ function DarkOutlawGamesPage(): JSX.Element {
             Blundell (right) announcing his previous dev/game at SGF 21
           </label>
         </div>
-      </ImageSection>
+      </ImageSection>{" "}
+      <SubTitle subtitle="PS5 Games" marginBottom={5} />
+      <GamesSection games={gamesArray} developer="Dark Outlaw Games" />
     </Container>
   );
 }

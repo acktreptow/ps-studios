@@ -466,5 +466,14 @@
     "releaseDate": "August 29, 2025",
     "daysBetweenReleases": 65,
     "metacritic": "N/A"
+  },
+  {
+    "developer": "XDev",
+    "name": "Marvel Tōkon: Fighting Souls",
+    "id": "Marvel Tōkon",
+    "genre": "2D Fighter",
+    "releaseDate": "2026",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
   }
 ]

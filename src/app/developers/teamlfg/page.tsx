@@ -55,20 +55,30 @@ function TeamLFGPage(): JSX.Element {
             described the game as a team-based action game that draws
             inspiration from fighting games, platformers, MOBAs, life sims, and
             frog-type games. All within a lighthearted, comedic world set in
-            brand-new, mythic, science-fantasy universe. Earlier leaks suggests
-            its Project Gummybears, a well known incubation game that&#39;s been
-            in Bungie for years.
+            brand-new, mythic, science-fantasy universe. They want to use early
+            access playtests. Earlier leaks suggests its Project Gummybears, a
+            well known incubation game that&#39;s been in Bungie for years. A
+            PvP team-based competitive game. While fundamentally a MOBA, the
+            games “Smash Bros.” influences mean it feels distinct from other
+            entries in the genre; falling off maps, and replacing health-bar
+            eliminations. Multiple game modes are planned. Gummy Bears is
+            described as having lo-fi and cozy vibes, a sharp departure from
+            Bungies usual dramatic, high-stakes sci-fi worlds. The project has
+            been praised internally as Bungies “most fun” project out of
+            incubation.
           </Paragraph>
           <Paragraph>
-            Considering Project Gummybears history, I have higher hopes than
-            most games within Sony&#39;s live-service strategy. Meaning I still
-            don&#39;t have a lot of hope. With how much Sony have hacked away at
-            Bungie&#39;s headcount, they clearly saw something at Gummybears to
-            extract the game and talent from Bungie to give it the best chance.
-            However based off numerous live-service cancellations and horrific
-            issues with one that were announced/shipped like Concord and
-            Marathon, Sony&#39;s eye on what makes a great live-service game
-            cannopt be trusted.
+            Considering Project Gummybears history 40-person strong and been
+            around since at least August 2023, I have higher hopes than most
+            games within Sony&#39;s live-service strategy. Meaning I still
+            don&#39;t have a lot of hope meant to be more lighthearted and
+            comical in tone. With how much Sony have hacked away at Bungie&#39;s
+            headcount, they clearly saw something at Gummybears to extract the
+            game and talent from Bungie to give it the best chance. Internally
+            at Bungie it was far better recieved than Marathon. However based
+            off numerous live-service cancellations and horrific issues with one
+            that were announced/shipped like Concord and Marathon, Sony&#39;s
+            eye on what makes a great live-service game cannopt be trusted.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Regardless, as teamLFG are so new, Project Gummybears likely

@@ -29,22 +29,23 @@ function DarkOutlawGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-        expedita facere libero voluptates veniam recusandae dolor, harum ad?
-        Quidem eaque unde distinctio nam eos necessitatibus laborum inventore
-        ducimus. Amet, ex!
+        Dark Outlaw Games is a Los Angeles-based studio that was technically
+        founded in 2025. However, their history goes deeper than one would
+        expect from a developer that is less than a year old.
       </Paragraph>
       <Paragraph>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-        expedita facere libero voluptates veniam recusandae dolor, harum ad?
-        Quidem eaque unde distinctio nam eos necessitatibus laborum inventore
-        ducimus. Amet, ex!
+        Dark Outlaw was founded by Jason Blundell, who is well known for his
+        work on Call of Duty&#39;s very popular zombies mode. However, he left
+        Activision/Treyarch all the way back in 2020 to found Deviation Games
+        with fellow COD Veteran, David Anthony. A year later at SGF 2021, they
+        announced a partnership at with Sony to fund their first game, which
+        would be a new IP. This would be the last time we saw Deviation.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-        expedita facere libero voluptates veniam recusandae dolor, harum ad?
-        Quidem eaque unde distinctio nam eos necessitatibus laborum inventore
-        ducimus. Amet, ex!
+        Blundell left Deviation in 2022, which then followed its unofficial
+        closure in 2024. During this time however, there were rumors that
+        Blundell left to form an internal studio within PS Studios and had begun
+        poaching Deviation employees to form what became Day Outlaw Games.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

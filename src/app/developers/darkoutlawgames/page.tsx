@@ -51,16 +51,29 @@ function DarkOutlawGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Not much is known about Dark Outlaw as Blundell has only done one
+            interview which is where the developer and its name were officially
+            announced. Blundell did state that they have been staffing up for a
+            while now, getting the team to gel and seeing which ideas rise to
+            the top.
+          </Paragraph>
+          <Paragraph>
+            Considering Deviation&#39;s history, however. It seems likely that
+            they&#39;ll be picking up where they left off. A live-service game
+            that will also be a new PlayStation IP. Based off his comments, it
+            seems like the game is a ways off, which is probably a good thing.
+            Considering how PlayStation&#39;s live-service strategy has gone so
+            far, they need as much time as possible to figure out the mistakes
+            made and react to them
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Considering just how bad this live-service strategy has gone
+            hwowever, there&#39;s just as good of a chance that Dark Outlaw goes
+            the way of Deviation and closes before launching their debut game
+            than it is coming out to both positive critical and commercial
+            reception. As Blundell worked on the co-op focused Zombies mode
+            however, hopefully they follow the blueprint of fellow co-op
+            live-service game Helldivers 2 to actual success in this arena.
           </Paragraph>
         </div>
         <div>

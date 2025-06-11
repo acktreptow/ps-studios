@@ -51,16 +51,36 @@ function TeamLFGPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            teamLFG has not announced their first game yet. However, they have
+            described the game as a team-based action game that draws
+            inspiration from fighting games, platformers, MOBAs, life sims, and
+            frog-type games. All within a lighthearted, comedic world set in
+            brand-new, mythic, science-fantasy universe. Earlier leaks suggests
+            its Project Gummybears, a well known incubation game that&#39;s been
+            in Bungie for years.
+          </Paragraph>
+          <Paragraph>
+            Considering Project Gummybears history, I have higher hopes than
+            most games within Sony&#39;s live-service strategy. Meaning I still
+            don&#39;t have a lot of hope. With how much Sony have hacked away at
+            Bungie&#39;s headcount, they clearly saw something at Gummybears to
+            extract the game and talent from Bungie to give it the best chance.
+            However based off numerous live-service cancellations and horrific
+            issues with one that were announced/shipped like Concord and
+            Marathon, Sony&#39;s eye on what makes a great live-service game
+            cannopt be trusted.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Regardless, as teamLFG are so new, Project Gummybears likely
+            won&#39;t ship for years. This gives plently of time for Sony to
+            learn from their live-service mistakes. I just dont klnow if
+            that&#39;s enough to ensure success given the volatility of the
+            live-service market. Therefore, while I think it is more like that
+            teamLFG ship Gummybears than close before doing so, I still have
+            very little hope that it will launch to the critical/commercial
+            success Sony need it to be. If this bears out, teamLFG will have
+            walked their first step into a years long path to eventually
+            shutting down.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

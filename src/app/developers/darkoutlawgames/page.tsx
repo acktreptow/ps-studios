@@ -30,22 +30,26 @@ function DarkOutlawGamesPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Dark Outlaw Games is a Los Angeles-based studio that was technically
-        founded in 2025. However, their history goes deeper than one would
-        expect from a developer that is less than a year old.
+        first announced in 2025. However, their history goes deeper than one
+        would expect from a developer that is less than a year old.
       </Paragraph>
       <Paragraph>
-        Dark Outlaw was founded by Jason Blundell, who is well known for his
-        work on Call of Duty&#39;s very popular zombies mode. However, he left
-        Activision/Treyarch all the way back in 2020 to found Deviation Games
-        with fellow COD Veteran, David Anthony. A year later at SGF 2021, they
-        announced a partnership at with Sony to fund their first game, which
-        would be a new IP. This would be the last time we saw Deviation.
+        Dark Outlaw was founded by Jason Blundell, who was the co-studio head of
+        Treyarch, but before that worked on the Black Ops 1/2 campaign before
+        becoming the director of Call of Duty&#39;s very popular zombies mode
+        for Black Ops 3/4. However, he left Activision/Treyarch all the way back
+        in 2020 to found Deviation Games with fellow COD Veteran, David Anthony.
+        A year later at SGF 2021, they announced a partnership at with Sony to
+        fund their first game, which would be a new IP. This would be the last
+        time we saw Deviation.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Blundell left Deviation in 2022, which then followed its unofficial
-        closure in 2024. During this time however, there were rumors that
-        Blundell left to form an internal studio within PS Studios and had begun
-        poaching Deviation employees to form what became Day Outlaw Games.
+        Blundell left Deviation in 2022, which then followed its closure in
+        2024, just after mass layoffs in 2023. During this time however, there
+        were rumors that Blundell left to form an internal studio within PS
+        Studios and had begun poaching Deviation employees to form what became
+        Day Outlaw Games. LinkedIn profiles suggest Dark Outlaw was already up
+        and running as early as June 2023.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -64,7 +68,8 @@ function DarkOutlawGamesPage(): JSX.Element {
             seems like the game is a ways off, which is probably a good thing.
             Considering how PlayStation&#39;s live-service strategy has gone so
             far, they need as much time as possible to figure out the mistakes
-            made and react to them
+            made and react to them. Based off job lsitings, we know it is a AAA
+            game.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Considering just how bad this live-service strategy has gone

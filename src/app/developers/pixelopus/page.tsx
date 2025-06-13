@@ -55,16 +55,26 @@ function PixelopusPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Obviously as Pixelopus are shut down, it&#39;s easy to predict that
+            we won&#39;t see any PS5 games from them. However, it&#39;s worth
+            examining whether the shuttering was justified.
+          </Paragraph>
+          <Paragraph>
+            Despite Sony&#39;s focus on live-service at this time, it would be
+            easy to say this was unfair just because their singleplayer-focused
+            portfolio didn&#39;t match. However, in the case of Pixelopus, the
+            unfortunate reality is that shuttering them down was justified.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Neither of Pixelopus&#39;s games sold well and being in San Mateo,
+            it would cost a lot to keep the studio going despite the limited
+            headcount. Furthermore, the cancelled game they were working on was
+            leaked to be a licensed IP that whey were collaborating with Sony
+            Pictures Animation on. This likely would incur extra fees that
+            wouldn&#39;t be there if it was their own IP, like Spider-Man is for
+            Insomniac. Therefore, even if Sony&#39;s live-strategy didn&#39;t
+            crash and burn, one could still find it hard to argue that Pixelopus
+            was worth keeping around in this economy.
           </Paragraph>
         </div>
         <div>

@@ -56,28 +56,45 @@ function LondonStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            While London Studio will never end up shipping a PS5 game, it&#39;s
+            perhaps not surprising that their pivot to live-service wouldn&#39;t
+            work out. This cancelled live-service game (Project Camden) was
+            described as a co-op multiplayer game set in a modern fantasy London
+            and would use the studio&#39;s Soho engine they built (mostly) from
+            the ground up for the PS5. It was described by studio head Tara
+            Saunders as the company&#39;s &#39;most ambitious project to-date
+            and specifically stated that a VR headset wouldn&#39;t be
+            needed.&#39; &#39;It is our most ambitious game to-date,&#39;
+            Saunders says. We&#39;re going to take all of that innovation DNA
+            and apply that into this online co-op combat game. The game was
+            still in early stages of production in early 2022 as they were
+            trying to figure out where to go after 2019&#39;s Erica.
           </Paragraph>
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Considering the description, it makes total sense why this was
+            greenlit back in 2020. However in early 2024, following a much worse
+            economy, being in one of the most expensive cities in the world,
+            stagnant playtime amongst live-service games as people were out of
+            lockdown and a growing hatred amongst the audience for Sony&#39;s
+            live-service push that came to ahead with Concord later in the year.
+            It makes sense why Sony would target London Studio for closure.
           </Paragraph>
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            It&#39;s a shame for London Studio because while the closure makes
+            sense, there was a path for incredible success for them back during
+            the PS3-era. Unfortunately for London Studio, both of their
+            traditional AAA games in The Getaway 3 and Eight Days were cancelled
+            by Sony Europe to relocate resources to other first-party games. Had
+            these more serious/traditional/cinematic games have come out and
+            reached their potential, London Studio could easily be in the upper
+            echelon of PS Studios, with these IP standing side-by-side with The
+            Last of Us/God of War etc.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            It wasn&#39;t to be though, and London Studio&#39;s legacy will
+            forever be a studio with some great IP that outside of Singstar,
+            could never past the barriers a peripheral puts on them and become
+            successful enough that they would still be around.
           </Paragraph>
         </div>
         <div>

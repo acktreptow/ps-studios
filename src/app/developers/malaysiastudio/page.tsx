@@ -50,16 +50,32 @@ function MalaysiaStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Malaysia (the country not studio) has become a prime location for
+            videogame development support over the past decade. Whilst this is
+            great in providing more opportunities for game developers in that
+            region than one would expect, these companies (PS Malaysia included)
+            are not built to developer their own games as the primary developer.
+            You should therefore not expect PS Malaysia to develop their own PS5
+            games. Especially as around 20 staff were let go in March 2025
+            during a round of Sony layoffs, which included asset and concept
+            artists.
+          </Paragraph>
+          <Paragraph>
+            However, considering the talent pool in Malaysia that extends to
+            other companies such as Larian (Baldur&#39;s Gate 3), Codemasters
+            and Bandai Namco, it&#39;s not out of the realm of possibility that
+            over the long-term, PS Malaysia could grow into a developer that one
+            day might develop their own PS6 game. In regards to the layoffs,
+            staff were notified via an email of the layoffs, being told that it
+            wasn&#39;t due to the studio&#39;s performance and rather about
+            reducing the overall workforce. Clearly, there&#39;s talent there.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Until then, we can enjoy their small contributions in a wide variety
+            of other PS Studios PS5 games. After all, PlayStation Studios
+            Malaysia head Hasnul Hadi Samsudin said it himself: &#39;There&#39;s
+            nothing that can be done in our world of AAA games that can&#39;t be
+            done here in Malaysia&#39;.
           </Paragraph>
         </div>
         <div>

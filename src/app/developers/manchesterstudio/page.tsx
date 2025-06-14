@@ -24,13 +24,24 @@ function ManchesterStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Manchester was founded internally in Sony Interactive in 2015. The UK
-        developer was created with the sole purpose of developing virtual
-        reality titles for the upcoming PSVR.
+        Manchester Studio (formerly North West Studio) was founded internally in
+        2015 to primarily develop virtual reality titles for the upcoming PSVR.
+        The first (and only) game they worked on was the helicopter-based CSAR:
+        Combat, Search, and Rescue.
+      </Paragraph>
+      <Paragraph>
+        In this unannounced title, the player would fly around and rescue people
+        from the helicopter whilst shooting at enemies. Whilst interesting, the
+        game had a troubled development with concerns around big areas like art
+        style and gameplay. What exacerbated this issue was the fact that the
+        co-lead designers Resided in Lond and would only visit the studio around
+        once a week, but when there would severely micromanage the project.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Manchester Studio were shut down in 2020, before they even released a
-        game.
+        It&#39;s therefore not surprising that when Herman Hulst took over
+        PlayStation Studios, Manchester Studio was under harsher scrutiny to see
+        why a VR game was taking this long. All this led to the cancellation of
+        CSAR and the closure of Manchester studio in 2020.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

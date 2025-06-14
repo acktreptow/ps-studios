@@ -58,16 +58,47 @@ function JapanStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            While it made somewhat made sense for Japan Studio to be reorganized
+            around Team Asobi. After all, Astro Bot and Astro&#39;s Playroom saw
+            more success than any JS game had over the past decade, the simple
+            fact is that it was a short-sighted move as Japan Studio
+            would&#39;ve been a tremendous attribute to the PS5 first-party
+            ecosystem right now.
+          </Paragraph>
+          <Paragraph>
+            To call Sony execution of it&#39;s live-service strategy a failure
+            would be a sever understatement. Not only has external partnerships
+            like with Deviation been hit or miss, not only has newly acquired
+            teams failed time and time again with Concord/FairGames etc, but
+            even PS Studios who had no right to being this arena have
+            essentially been completely wasted this generation like Bend and
+            Bluepoint.
+          </Paragraph>
+          <Paragraph>
+            Due to these failures, Sony&#39;s first-party output since 2021 has
+            been dreadful. Instead, they&#39;ve had to resort to numerous
+            second-party collaborations to pick up the slack, like Stellar
+            Blade, Rise of the Ronin and Helldivers 2 in 2024 alone.
+          </Paragraph>
+          <Paragraph>
+            Given this dearth, Japan Studio&#39;s AA DNA would have been a great
+            asset right now. Although these games wouldn&#39;t set the world on
+            fire critically or commercially, they would still be well received
+            given the lack of other games and most importantly, it would allow
+            Sony to have a consistent slate of first-party games. Something
+            sorely missing, especially in contrast to Xbox&#39;s output since
+            the second half of 2023. One just needs to look at Astro Bot to see
+            the potential of these AA games currently.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Regardless, with Sony&#39;s live-service being severely downscaled,
+            there&#39;s at least a chance that someone else could join the AA
+            arena with the likes of Team Asobi and get PS Studios back to its
+            roots. And fortunately for Japan Studio&#39;s main players its
+            legacy lives on in other companies now. Like Toyama going from Siren
+            and Gravity Rush to Slitterhead at his new Bokeh Studio. The
+            developers of the Patapon series also continue its legacy with a
+            spiritual sequel &#39;Ratatan&#39; under the Ratata Arts name.
           </Paragraph>
         </div>
         <div>

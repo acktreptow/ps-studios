@@ -24,13 +24,27 @@ function MalaysiaStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Manchester was founded internally in Sony Interactive in 2015. The UK
-        developer was created with the sole purpose of developing virtual
-        reality titles for the upcoming PSVR.
+        Founded in 2020, PlayStation Studios Malaysia was created from the
+        ground up by Sony for a unique reason, to work on everything. The Last
+        of Us Part 1/2 and MLB The Show are just 2 examples.
+      </Paragraph>
+      <Paragraph>
+        This new Malaysian studio was founded in Kuala Lumpur as a support
+        studio, working closely with PlayStation&#39;s Visual Arts team based in
+        San Diego. PS Studios Malaysia was founded in 2020 to work alongside
+        Visual Arts, which itself provides art and technical support to
+        first-party PS studios. Malaysia is a small studio with under 100
+        employees (who now work in-office as opposed to remote during the
+        pandemic) creating character models and other visual assets as well as
+        motion capture and more.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Manchester Studio were shut down in 2020, before they even released a
-        game.
+        While Malaysia do work on pretty much everything, their contributions to
+        game are small. For example with The Last of Us, they worked on hints
+        the player would receive when they died in order to get past whatever
+        obstacle they were at. There&#39;s also various MLB art assets that need
+        some attention to be updated year-to-year, but don&#39;t require to be
+        created from scratch.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

@@ -23,9 +23,36 @@ function JapanStudioPage(): JSX.Element {
         urlPath="https://x.com/sonyjapanstudio"
       />
       <SubTitle subtitle="History" />
-      <Paragraph>Japan Studio was founded in 2025.</Paragraph>
+      <Paragraph>
+        Japan Studio was technically founded in 2005, with their first game
+        under that name being 2006&#39;s Genji: Days of the Blade for the PS3
+        launch. However, they were a part of Sony Computer Entertainment all the
+        way back at the beginning since 1993. Japan Studio was just a rebrand
+        that still incorporated several development teams like Team, Ico.
+      </Paragraph>
+      <Paragraph>
+        Japan Studio&#39;s most well known IP are Ape Escape, Gravity Rush,
+        Knack and Ueda&#39;s trilogy. They would continue to make and
+        collaborate with other developers up until the PS5 launch with Demons
+        Souls (Bluepoint) and Astro&#39;s Playroom (Team Asobi). However, in
+        April 2021, it was announced that Japan Studio would be reorganized with
+        Team Asobi as the main arm. SIE Japan Studio served as a collaborator or
+        overseer of game projects commissioned to external developers, and has
+        developed to all gaming platforms released by parent company Sony. It is
+        responsible for several collaborations with third-party developers like
+        Clap Handz, Acquire, FromSoftware, Level-5, Arc Entertainment,
+        Media.Vision, NanaOn-Sha and Bluepoint Games, which produced titles such
+        as the Everybody&#39;s Golf franchise, Demon&#39;s Souls, Dark Cloud and
+        Dark Chronicle, the Arc the Lad series, Bloodborne, the Alundara series,
+        PaRappa the Rapper and Soul Sacrifice.
+      </Paragraph>
       <Paragraph marginBottom={8}>
-        Japan Studio was shut down in 2021.
+        The reason for this closure was simple. Sony leadership didn&#39;t think
+        there was a market for the AA games they were known for anymore.
+        Instead, PS Studios would continue with AAA cinematic games whilst
+        delving head-first into the live-service arena, while allowing
+        independent studios to work in the indy space that every now and then
+        would reach the budget of a AA game.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

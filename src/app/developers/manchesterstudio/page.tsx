@@ -47,16 +47,25 @@ function ManchesterStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            Sony has closed 6 PS Studios down during this generation, but
+            it&#39;s no surprise Manchester Studio was one of them, and for many
+            in the same position, would have been the first once closed.
+          </Paragraph>
+          <Paragraph>
+            By 2020, PSVR had already reached its saturation point and had over
+            3 years to show there a3wasn&#39;t much money to be made in it. CSAR
+            could have transitioned to PSVR2, but this would mean a 2023 release
+            date at the earliest. An 8-year development for a VR by an unproven
+            studio makes no sense regardless of what angle you look at it. And
+            now with hindsight, even a PSVR2 version wouldn&#39;t turn the game
+            profitable considering Sony&#39;s severe lack of first-party support
+            for the hardware.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore
-            expedita facere libero voluptates veniam recusandae dolor, harum ad?
-            Quidem eaque unde distinctio nam eos necessitatibus laborum
-            inventore ducimus. Amet, ex!
+            It&#39;s always a shame to see people lost their jobs, but the
+            unfortunate reality is that it made total sense to shut down
+            Manchester Studios, regardless of whether Sony&#39;s pivot to
+            live-service worked this generation or not.
           </Paragraph>
         </div>
         <div>

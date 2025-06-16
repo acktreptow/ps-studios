@@ -51,32 +51,45 @@ function MalaysiaStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Malaysia (the country not studio) has become a prime location for
-            videogame development support over the past decade. Whilst this is
-            great in providing more opportunities for game developers in that
-            region than one would expect, these companies (PS Malaysia included)
-            are not built to developer their own games as the primary developer.
-            You should therefore not expect PS Malaysia to develop their own PS5
-            games. Especially as around 20 staff were let go in March 2025
-            during a round of Sony layoffs, which included asset and concept
-            artists.
+            Over the past decade, Malaysia has become a popular country for
+            support developers to form and work alongside the primary developer
+            to help them achieve their vision for their videogame. Whilst this
+            is great in providing more opportunities for game developers in a
+            country you wouldn&#39;t necessarily expect, as developers like
+            Malaysia Studio aren&#39;t built to be the primary developer of
+            videogames, you therefore shouldn&#39;t expect them to develop their
+            own PS5 game any time soon.
           </Paragraph>
           <Paragraph>
-            However, considering the talent pool in Malaysia that extends to
-            other companies such as Larian (Baldur&#39;s Gate 3), Codemasters
-            and Bandai Namco, it&#39;s not out of the realm of possibility that
-            over the long-term, PS Malaysia could grow into a developer that one
-            day might develop their own PS6 game. In regards to the layoffs,
-            staff were notified via an email of the layoffs, being told that it
-            wasn&#39;t due to the studio&#39;s performance and rather about
-            reducing the overall workforce. Clearly, there&#39;s talent there.
+            These studios are also not immune from the multiple rounds of
+            layoffs the industry has seen over the past couple of years. Just in
+            March 2025 alone, around 20 Malaysia studio staff were let go. This
+            included asset and concept artists as well as project managers who
+            were specifically told this wasn&#39;t due to performance, but
+            rather about needing to reduce the workforce in this economy. It
+            would be a near-impossible task for a studio originally meant for
+            support work to start their own game up when they have to deal with
+            these type of layoffs that are out of their control.
+          </Paragraph>
+          <Paragraph>
+            However, these unfortunate circumstances may not always be the case
+            long-term. In Malaysia alone, the talent pool extends to other
+            companies such as Larian (Baldur&#39;s Gate 3), Codemasters and
+            Bandai Namco. It&#39;s therefore not out of the realm of possibility
+            that Malaysia Studio, under better circumstances, could grow into a
+            developer that one day might develop their own PS6 game. The intent
+            already seems to be there, evidenced by Malaysia Studios head Hasnul
+            Hadi Samsudin when he said: &#39;There&#39;s nothing that can be
+            done in our world of AAA games that can&#39;t be done here in
+            Malaysia&#39;.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Until then, we can enjoy their small contributions in a wide variety
-            of other PS Studios PS5 games. After all, PlayStation Studios
-            Malaysia head Hasnul Hadi Samsudin said it himself: &#39;There&#39;s
-            nothing that can be done in our world of AAA games that can&#39;t be
-            done here in Malaysia&#39;.
+            Clearly, the talent is there, and their traditionally non-gaming
+            place in the world could generate new game ideas that would stand
+            out. Similar to what we see with Sony&#39;s China, India and MENA
+            Hero Projects. Until then, you can enjoy Malaysia Studios&#39;s
+            small contributions on a variety of PS5 games across most of the PS
+            Studios portfolio.
           </Paragraph>
         </div>
         <div>

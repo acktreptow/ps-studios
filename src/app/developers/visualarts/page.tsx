@@ -29,85 +29,71 @@ function VisualArtsPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2007, this San Diego-based developer started as part of
-        PlayStation&#39;s visual arts group. The Visual Arts team in San Diego
-        also touches every first-party game that comes out of PlayStation, as
-        well as other Sony projects such as aiding CG animation tech for
-        Netflix&#39;s Love, Death & Robots series. Ingram said his team “works
-        on 15 to 25 games at any one time”. The San Diego-based operation helps
-        finish off games designed at other Sony-owned studios with animation,
-        art or other content and development. But about three years ago, a
-        handful of influential figures within the Visual Arts Service Group
-        decided they wanted to have more creative control and lead game
-        direction rather than being supporting actors on popular titles such as
-        Spider-Man and Uncharted. Then, once Mumbauer&#39;s group had
-        established itself, it could go on to remake the first Uncharted game
-        and other titles down the road.
+        PlayStation&#39;s visual arts group. As the Visual Arts team, they help
+        with games designed at other Sony-owned studios with animation, art or
+        other content and development. Due to these small contributions, studio
+        head Ingram said his team “works on 15 to 25 games at any one time”. And
+        this is in addition to other assistance like CG animation tech for
+        Netflix&#39;s Love, Death & Robots series.
       </Paragraph>
       <Paragraph>
-        It wasn&#39;t until 2018, with former PlayStation staff Michael
-        Mumbouer, that Visual Arts had aspirations of acting like a proper
-        studio within PlayStation first-party. to establish a development team
-        within VASG and managed to assemble around 30 developers from
-        neighboring studios. Visual Arts didn&#39;t have the manpower to create
-        their own game, so wanted to remake a classic in order to get their feet
-        wet. They initially decided on remaking 2007&#39;s Uncharted 1, however
-        even that project was deemed too big as it would take a lot to get a
-        PS3-launch window title up to PS5-generation standards. So instead, they
-        went with The Last of Us. Development began in 2019 at a team within
-        Sony&#39;s Visual Arts Services Group to prove its ability to produce
-        video games, but moved to Naughty Dog after newly-elected PlayStation
-        Studios Hermen Hulst examined the project and its budget. Naughty
-        Dog&#39;s involvement gradually outplaced VASG&#39;s work as the remake
-        moved to be produced on Naughty Dog&#39;s budget. By November 2020,
-        several members of VASG including Mumbauer left the team due to the new
-        development dynamics. That&#39;s just what Sony did. Mumbauer&#39;s
-        project, code-named T1X, was approved on a probationary basis, but Sony
-        kept the team&#39;s existence a secret, and refused to give them a
-        budget to hire more people, leading many to wonder if the company was
-        really committed to letting the team build a new studio. Still, the
-        small team kept working and by the spring of 2019 they had completed a
-        section of the game designed to showcase how the rest would look and
-        feel. He thought the remake project was too expensive, according to
-        people familiar with the matter, and asked why the planned budget for
-        T1X was so much higher than remakes Sony had made in the past. The
-        reason was that this one was on a brand new graphical engine for the
-        PlayStation 5. Mumbauer needed to hire more people to help rework the
-        graphics on new technology as well as redesign gameplay mechanics. Hulst
-        wasn&#39;t convinced, the people said.
+        This is obviously not the role of a traditional PS Studios developer,
+        but back in 2018, there was a failed pivot to become one. Michael
+        Mumbouer, who was high up in Visual Arts, along with a few other
+        influential Sony staff, had aspirations of acting like a proper studio
+        within PlayStation first-party. A studio that had more creative control
+        and lead game direction rather than just supporting popular titles such
+        as Spider-Man and Uncharted. In order to attempt this, VASG managed to
+        assemble around 30 developers from neighboring studios. However, this
+        wasn&#39;t enough staff to create their own game, so they decided to
+        remake a classic as a starting off point to prove they could do so. They
+        initially decided on remaking 2007&#39;s Uncharted 1, however even that
+        project was deemed too big as it would take a lot of resources to
+        modernize a PS3-launch window title up to PS5-generation standards. So
+        instead, they went with The Last of Us. Still a PS3 title, but one that
+        came out 6 years later and was far more modern. Then, once
+        Mumbauer&#39;s group had established itself, it could go on to remake
+        the first Uncharted game and other titles down the road.
       </Paragraph>
       <Paragraph>
-        The remake project, dubbed &#39;T1X&#39;, was approved by Sony
-        Interactive Entertainment on a probationary basis, but Mumbauer&#39;s
-        team received little support in recruiting and budgeting while the
-        existence of the studio was never officially acknowledged. Issues with
-        Naughty Dog&#39;s next project, The Last of Us Part II, necessitated the
-        involvement of VASG and Mumbauer&#39;s employees to help finish the
-        project after its internal delay from 2019 to 2020. By November 2019,
-        then-new PlayStation Studios head Hermen Hulst inspected project T1X and
-        assigned Naughty Dog to support Mumbauer&#39;s team, which Mumbauer saw
-        as stripping his team from their autonomy. The game was moved under
-        Naughty Dog&#39;s budget, which Sony gave more leeway than the Visual
-        Arts Service Group.
+        Mumbauer&#39;s project T1X was approved, but only on a probationary
+        basis, Sony also kept their existence a secret and refused to give them
+        a budget to hire more people. This made Mumbauer and others question if
+        Sony were really committed to letting VASG build into a new studio that
+        could produce their own videogame. Still, they kept working and by the
+        spring of 2019 they had completed a section of the game designed to
+        showcase how the rest would look and feel. But things changed at Sony as
+        Herman Hulst took over as head of first-party studios, resulting in an
+        audit of all first-party studios so he knew exactly what was going on.
+        He examined the project and was alerted to such a high planned budget
+        for a remake project. Furthermore, he wasn&#39;t convinced by Mumbaeur
+        trying to argue for the budget by stating it was on a brand new engine
+        and that VASG needed to hire more people to work on the new engine and
+        redesign gameplay mechanics.
       </Paragraph>
       <Paragraph>
-        Work began on TLOU, but development was slow as Visual Arts needed to
-        staff up during it. Sony grew dissatisfied with the studio&#39;s
-        progress on the game. Sony reconfigured them into a support studio and
-        tasked Naughty Dog with developing the project, partially due to their
-        other planned titles being at various stages in pre-production and a
-        lack of familiarity with the PS5&#39;s hardware. Naughty Dog were then
-        brought onboard in 2020 to support the remake, which VA leadership
-        didn&#39;t like as to them, it felt like autonomy was taken away. A lot
-        of them decided to leave, which did eventual bring that into reality
-        with Naughty Dog taking over the project with VA acting as support with
-        various assets etc. Mumbauer also left. They were jokingly referred to
-        as Naughty Dog South.
+        Instead, VASG was brought on to Naughty Dog&#39;s upcoming The Last of
+        Us Part 2 following its internal delay from 2019 to 2020. After this,
+        instead of hiring up, Naughty Dog would be brought into T1X in a support
+        role, partially due to their other planned titles being at various
+        stages in pre-production and VASG&#39;s lack of familiarity with the
+        PS5&#39;s hardware. T1X would now also be under Naughty Dog&#39;s
+        budget. Mumbauer rightfully didn&#39;t like this arrangement as he
+        believed this was stripping his team from their autonomy. Especially as
+        T1X would now also be under Naughty Dog&#39;s budget, which Sony gave
+        more leeway than the Visual Arts Service Group. Sure enough, due to
+        their size and experience with the IP, Naughty Dog&#39;s involvement
+        gradually outplaced VASG&#39;s work. Between being forced onto TLOU2 and
+        having ND forced onto T1X, many people in Sony were already jokingly
+        referring to VASG as Naught Dog South. By November 2020, now realizing
+        his dream of turning VASG into its own studio, Mumbauer, along with
+        several members of his team, left due to the new development dynamics.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Since then, VA have continued this support role. Working on numerous
-        projects within PS Studios by creating art assets etc. For example, both
-        TLOU remasters, Spider-Man 2 and even third-party support for PS5
-        versions of The Callisto Protocol.
+        Since then, VA have continued in the support role Sony always saw them
+        in. Working on numerous projects within PS Studios by creating art
+        assets etc. For example, both TLOU remasters, Spider-Man 2 and even
+        third-party support for PS5 versions of The Callisto Protocol.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

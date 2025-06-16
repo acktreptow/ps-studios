@@ -29,23 +29,38 @@ function TeamLFGPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Announced in May 2025, teamLFG are the newest addition to PD Studios.
-        The LFG stands for looking for group as they are driven by a mission to
-        create games where players can find friendship, community, and
-        belonging.. However, their unique history before this official
-        announcement provides the backdrop for a developer worth paying
-        attention to. That&#39;s because teamLFG are&#39;t a new studio,
-        they&#39;re small team born out of Bungie.
+        Announced in May 2025, teamLFG are the newest addition to PS Studios.
+        The LFG stands for &#39;looking for group&#39; as according to their
+        announcement press release, they are &#39;driven by a mission to create
+        games where players can find friendship, community, and belonging&#39;.
+        This gives us a solid idea about their debut game, but their unique
+        pre-announcement history must be discussed first as it provides the
+        backdrop for a developer worth paying attention to. That&#39;s because
+        teamLFG aren&#39;t a new studio, in fact, they&#39;ve been around for
+        years as small incubation team within Bungie.
+      </Paragraph>
+      <Paragraph>
+        As a part of Bungie, it means teamLFG has a lot of experience with IP
+        like Destiny and Halo. But many of the developers have experience with
+        other non-shooter live-service games such as League of Legends and
+        Roblox. It&#39;s therefore not surprising that this Bungie incubation
+        team was working on Project Gummy Bears. A team-based action game that
+        draws inspiration from fighting games, platformers, MOBAs, life sims,
+        and frog-type games. All within a light-hearted, comedic world set in
+        brand-new, mythic, science-fantasy universe.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        This means that this Washington-based studio has a lot of history with
-        IP like Destiny and Halo, but also with other live-service such as
-        League of Legends and Roblox. However, due to Bungies iussues, they were
-        the lone internal group who were working on something promising. As Sony
-        want to extract as much value as they can from the failed Bungie
-        acquisition, they were brought into PS Studios where they would have
-        full control over the team. This means that despite originating from
-        Bungie, their games have no onus to come to Xbox or Nintendo consoles.
+        Despite not even being close to announcement, early internal playtests
+        of Gummy Bears was so good that its name was making the rounds around
+        the whole of PS Studios. It&#39;s therefore not surprising then that
+        when Bungie&#39;s major financial issues came to light, Sony started
+        carving away at the developer to extract as much value as they could.
+        With Gummy Bears seemingly the most promising project at Bungie
+        currently, it was natural for Sony to extract them from Bungie as a new
+        40-person studio and have them directly under PS Studios where they
+        would have full control over the team. This means that despite
+        originating from Bungie who are allowed to be multiplatform,
+        teamLFG&#39;s games have no onus to come to Xbox or Nintendo consoles.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

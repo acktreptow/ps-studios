@@ -72,30 +72,46 @@ function DarkOutlawGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Not much is known about Dark Outlaw as Blundell has only done one
-            interview which is where the developer and its name were officially
-            announced. Blundell did state that they have been staffing up for a
-            while now, getting the team to gel and seeing which ideas rise to
-            the top.
+            Not much is known about Dark Outlaw&#39;s game as the developer
+            itself has barely been brought up. In fact, since DO&#39;s
+            formation, Blundell has only done one interview with an industry
+            legend in a relatively niche sphere, not even an IGN, let alone a
+            GQ. It was actually this interview where Dark Outlaw was officially
+            announced, but the interview itself was far more focused on his
+            overall career and not DO. There were some relevant remarks though.
           </Paragraph>
           <Paragraph>
-            Considering Deviation&#39;s history, however. It seems likely that
-            they&#39;ll be picking up where they left off. A live-service game
-            that will also be a new PlayStation IP. Based off his comments, it
-            seems like the game is a ways off, which is probably a good thing.
-            Considering how PlayStation&#39;s live-service strategy has gone so
-            far, they need as much time as possible to figure out the mistakes
-            made and react to them. Based off job lsitings, we know it is a AAA
-            game.
+            In the interview, Blundell did state that Dark Outlaw has been
+            staffing up for a while, which makes sense considering people have
+            been working there since at least June 2023. However, he is
+            purposely slowly ramping up the game&#39;s development that will be
+            AAA - instead focusing and prioritizing getting the team to gel
+            first and see which of their ideas rise to the top. Considering
+            Deviation&#39;s history, however. I&#39;d speculate that much of
+            their final game will share a lot of the DNA of what was done with
+            Deviation, which in turn probably took a lot of inspiration from
+            their Black Ops work. A live-service game that will also be a new
+            PlayStation IP. Based off his comments, it also seems like the game
+            is a ways off, which is probably a good thing. Considering how
+            PlayStation&#39;s live-service strategy has gone so far, Sony
+            themselves need as much time as possible to figure out the mistakes
+            made and correct them. DO also need to make sure they don&#39;t
+            repeat Deviation&#39;s mistakes.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Considering just how bad this live-service strategy has gone
-            hwowever, there&#39;s just as good of a chance that Dark Outlaw goes
-            the way of Deviation and closes before launching their debut game
-            than it is coming out to both positive critical and commercial
-            reception. As Blundell worked on the co-op focused Zombies mode
-            however, hopefully they follow the blueprint of fellow co-op
-            live-service game Helldivers 2 to actual success in this arena.
+            Unfortunately, considering just how bad Sony&#39;s live-service
+            strategy has been executed, there&#39;s just as good of a chance
+            that Dark Outlaw goes the way of Deviation and closes before
+            launching their debut game than it is coming out to both positive
+            critical and commercial reception. What gives me slightly more hope
+            for DO over Haven&#39;s Fairgames or Bungie&#39;s Marathon however
+            is Blundell&#39;s history. As Blundell led the co-op focused
+            well-received Zombies modes when working on various CODs, he knows
+            how to make a good co-op experience. Hopefully, he can utilize this
+            history and follow the blueprint of fellow co-op live-service game
+            Helldivers 2&#39;s success. This would give DO&#39;s game the best
+            chance of success in the wasteland that is Sony&#39;s live-service -
+            especially in the competitive multiplayer sphere.
           </Paragraph>
         </div>
         <div>

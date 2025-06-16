@@ -56,53 +56,76 @@ function JapanStudioPage(): JSX.Element {
         Asobi weren&#39;t renewed. Instead, PS Studios would continue with AAA
         cinematic games, whilst simultaneously diving head-first into the
         live-service arena. Therefore, leaving the AA and indie space to
-        independent game creators and third-party publishers.
+        independent game creators, third-party publishers, and second-party XDev
+        collaborations.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            While it made somewhat made sense for Japan Studio to be reorganized
-            around Team Asobi. After all, Astro Bot and Astro&#39;s Playroom saw
-            more success than any JS game had over the past decade, the simple
-            fact is that it was a short-sighted move as Japan Studio
-            would&#39;ve been a tremendous attribute to the PS5 first-party
-            ecosystem right now.
+            To be fair to Sony, in early 2021, it somewhat made sense to
+            reorganize Japan Studio around Team Asobi. Astro&#39;s Playroom was
+            so good that it could have been a traditionally released game
+            instead of a pack-in. It also showcased a lot of Asobi&#39;s
+            potential that was eventually realized with 2024&#39;s Astro Bot and
+            its numerous Game of the Year awards. This Asobi success was so much
+            more than anything internally developed by Japan Studio over the
+            last decade, where even their biggest IP like Knack were so poorly
+            received that it was basically a laughing stock. Finally, PS Studios
+            also still had XDev to work on second-party collaborations so
+            didn&#39;t have to rely on Japan Studio for that game development
+            path. However, while one could play devil&#39;s advocate with the
+            arguments, the more persuasive viewpoint is that it was an
+            incredibly short-sighted move as Japan Studio would&#39;ve been a
+            tremendous attribute to the PS5 first-party ecosystem right now.
           </Paragraph>
           <Paragraph>
-            To call Sony execution of it&#39;s live-service strategy a failure
-            would be a sever understatement. Not only has external partnerships
-            like with Deviation been hit or miss, not only has newly acquired
-            teams failed time and time again with Concord/FairGames etc, but
-            even PS Studios who had no right to being this arena have
-            essentially been completely wasted this generation like Bend and
-            Bluepoint.
-          </Paragraph>
-          <Paragraph>
-            Due to these failures, Sony&#39;s first-party output since 2021 has
-            been dreadful. Instead, they&#39;ve had to resort to numerous
-            second-party collaborations to pick up the slack, like Stellar
+            To describe Sony&#39;s execution of its live-service strategy a
+            failure would be a sever understatement. At best, external
+            partnerships have been hit or miss. As successful as Helldivers 2
+            was, there were also many cancellations like Deviation&#39;s and
+            Lucid Games&#39;s projects. Its newly acquired teams have also
+            universally failed, whether that was the released Concord or the
+            upcoming Fairgames/Marathon that are anchored with continuous bad
+            press. Finally, there&#39;s also numerous established PS Studios
+            that have no reason to even dip their toe into live service and have
+            essentially been wasted this generation like Bend and Bluepoint. Due
+            to these failures, Sony&#39;s first-party output since 2021 has been
+            a sporadic wasteland of releases. So, they&#39;ve had to resort to
+            numerous second-party collaborations to fill the gaps - like Stellar
             Blade, Rise of the Ronin and Helldivers 2 in 2024 alone.
           </Paragraph>
           <Paragraph>
-            Given this dearth, Japan Studio&#39;s AA DNA would have been a great
-            asset right now. Although these games wouldn&#39;t set the world on
-            fire critically or commercially, they would still be well received
-            given the lack of other games and most importantly, it would allow
-            Sony to have a consistent slate of first-party games. Something
-            sorely missing, especially in contrast to Xbox&#39;s output since
-            the second half of 2023. One just needs to look at Astro Bot to see
-            the potential of these AA games currently.
+            Given this dearth of first-party output, the prestige of PS Studios
+            has taken a significant hit, which could&#39;ve been so bad that it
+            could have cost Sony the dominant market position if not for the
+            even worse mistakes from Xbox. Japan Studio&#39;s AA DNA therefore
+            would have been a tremendous asset right now. Although these games
+            wouldn&#39;t set the world on fire critically or commercially, they
+            would still be well received given the lack of other games and most
+            importantly, it would allow Sony to have a consistent slate of
+            first-party games. Something sorely missing, especially in contrast
+            to Xbox&#39;s output since the second half of 2023. One just needs
+            to look at Astro Bot to see the potential of AA first-party games
+            currently.
+          </Paragraph>
+          <Paragraph>
+            Fortunately for gamers, Japan Studio&#39;s legacy lives on through
+            various third-party developers that were formed in the wake of
+            JS&#39;s closure. For example, Team Gravity developers formed Bokeh
+            Studio to release Slitterhead and the developers of the Patapon
+            continue its legacy with a spiritual sequel &#39;Ratatan&#39; under
+            the Ratata Arts name. We&#39;re also getting direct sequels and/or
+            ports of Everybody&#39;s Golf, Freedom Wars and Patapon thanks to
+            Bandai Namco seeing the value of the AA space and licensing these IP
+            to bring them back from Sony&#39;s graveyard.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Regardless, with Sony&#39;s live-service being severely downscaled,
-            there&#39;s at least a chance that someone else could join the AA
-            arena with the likes of Team Asobi and get PS Studios back to its
-            roots. And fortunately for Japan Studio&#39;s main players its
-            legacy lives on in other companies now. Like Toyama going from Siren
-            and Gravity Rush to Slitterhead at his new Bokeh Studio. The
-            developers of the Patapon series also continue its legacy with a
-            spiritual sequel &#39;Ratatan&#39; under the Ratata Arts name.
+            Between these examples and Asobi, Japan Studio still somewhat lives
+            on - certainly more than the other 5 studios that have been closed
+            during the PS5 generation. However, Sony&#39;s mistakes guarantee
+            they get very little credit for this while taking every piece of
+            criticism for the severe lack of first-party games since 2021.
           </Paragraph>
         </div>
         <div>

@@ -59,26 +59,40 @@ function PixelopusPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Obviously as Pixelopus are shut down, it&#39;s easy to predict that
-            we won&#39;t see any PS5 games from them. However, it&#39;s worth
-            examining whether the shuttering was justified.
+            Obviously, as Pixelopus is closed, it&#39;s easy to predict that
+            they&#39;ll never ship a PS5 game. However, it&#39;s still worth
+            examining whether their closure by Sony was justified.
           </Paragraph>
           <Paragraph>
-            Despite Sony&#39;s focus on live-service at this time, it would be
-            easy to say this was unfair just because their singleplayer-focused
-            portfolio didn&#39;t match. However, in the case of Pixelopus, the
-            unfortunate reality is that shuttering them down was justified.
+            In 2023, PlayStation were full-steam ahead with their live-service
+            strategy. Considering Pixelopus&#39;s single-player, more artistic
+            DNA, it&#39;s not surprising why they were one of the first
+            developers to go this generation, but it was short-sighted. As
+            we&#39;ve seen Concord and the missteps with Fairgames/Marathon
+            before they&#39;ve even released, PlayStation&#39;s execution of
+            their live-service strategy has been horrendous. Now more than ever,
+            PlayStation could have used the type of AA games Pixelopus was known
+            for to fill the wasteland that is their first-party output right now
+            due to so many live-service cancellations.
+          </Paragraph>
+          <Paragraph>
+            However, even taking the live-service execution into account, the
+            unfortunate reality is that shuttering Pixelopus is still somewhat
+            justified. Neither of their games sold well, but they did provide
+            utility that goes beyond money in/out, such as prestige gained from
+            awards. But the studio&#39;s expensive San Mateo location and the
+            worsening economy. Furthermore, Pixelopus&#39;s cancelled PS5 game
+            was a licensed IP in collaboration with Sony Pictures Animation. The
+            project therefore would incur extra fees/red tape that their own IP
+            wouldn&#39;t, like Spider-Man does for Insomniac. Award nominations
+            are just not enough when companies are looking everywhere to save
+            money and it&#39;s not like the audience have shown they&#39;ll buy
+            Pixelopus games that are their own IP anyways.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Neither of Pixelopus&#39;s games sold well and being in San Mateo,
-            it would cost a lot to keep the studio going despite the limited
-            headcount. Furthermore, the cancelled game they were working on was
-            leaked to be a licensed IP that whey were collaborating with Sony
-            Pictures Animation on. This likely would incur extra fees that
-            wouldn&#39;t be there if it was their own IP, like Spider-Man is for
-            Insomniac. Therefore, even if Sony&#39;s live-strategy didn&#39;t
-            crash and burn, one could still find it hard to argue that Pixelopus
-            was worth keeping around in this economy.
+            Therefore, even if Sony&#39;s live-strategy didn&#39;t crash and
+            burn, the unfortunate reality is one could still find it hard to
+            argue that Pixelopus was worth keeping around in this economy.
           </Paragraph>
         </div>
         <div>

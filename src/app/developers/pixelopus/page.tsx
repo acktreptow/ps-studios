@@ -24,32 +24,36 @@ function PixelopusPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Pixelopus was a California-based developer that was founded in 2014 and
-        they have a very unique history within PS Studios due to how they were
-        created. Due to Thatgamecompany&#39;s critical and commercial success
-        with 2012&#39;s Journey, fellow PS Studios first-party developer San
-        Mateo Studio were inspired to fund small development teams to try and
-        recreated the success.
+        Pixelopus was a California-based developer that was founded in 2014.
+        What makes them particularly interesting is the unique way they were
+        created within PS Studios. In 2012, Thatgamecompany&#39;s released the
+        PS3 indie adventure game &#39;Journey&#39; to monumental critical and
+        commercial success. The whole industry took note, and it inspired the
+        PlayStation first-party developer &#39;Foster City Studio&#39; (now
+        known as San Mateo Studio) to use some of its money to fund small
+        development teams in the hope of recreating this success.
       </Paragraph>
       <Paragraph>
-        One such example was their funding of a game development program at
-        Carnegie Mellon University, which eventually led to student at other
-        universities plus a couple of industry veterans to created the 9-man
-        Pixelopus.
+        One place where they executed this strategy was at Carnegie Mellon
+        University in Pittsburgh, where they provided PS Vitas to experiment
+        with. This led to the hiring of six students, along with three from San
+        Jose University and two industry veterans to form Pixelopus.
       </Paragraph>
       <Paragraph>
         Pixelopus released their first game the same year they were founded,
         2014&#39;s Entwined for PS3, PS4 and PS Vita. This twin-stick rhythm
-        game was a shadow-drop at Sony&#39;s 2014 E3 showcase, but only received
+        game was shadow-dropped at Sony&#39;s 2014 E3 showcase but only received
         mediocre critical and commercial success.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Pixelopus then followed-up Entwined with 2019&#39;s Concrete Genie. An
-        action-adventure that was heavily inspired by Jet Set Radio and street
-        art. Concrete Genie received good reviews and was nominated for many
-        awards due to its artistry. However, it again didn&#39;t sell well. It
-        would also be Pixelopus&#39;s last game as theyu were closed down in
-        2023.
+        Pixelopus followed up Entwined with 2019&#39;s Concrete Genie on PS4.
+        This action-adventure was heavily inspired by Jet Set Radio and street
+        art, which isn&#39;t particularly surprising considering the game was
+        nominated for numerous awards due to its artistry. It also received good
+        reviews in general, but like Entwined, it wasn&#39;t a commercial hit.
+        While Concrete Genie was a step in the right direction, at least
+        critically, it was unfortunately also Pixelopus&#39;s final game as Sony
+        shuttered them four years later in 2023.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

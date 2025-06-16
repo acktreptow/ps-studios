@@ -24,24 +24,36 @@ function ManchesterStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Manchester Studio (formerly North West Studio) was founded internally in
-        2015 to primarily develop virtual reality titles for the upcoming PSVR.
-        The first (and only) game they worked on was the helicopter-based CSAR:
-        Combat, Search, and Rescue.
+        In 2015, Sony internally formed Manchester Studio (formerly North West
+        Studio) to develop AAA virtual reality games for their upcoming PSVR
+        headset. The first (and only) game they worked on was the unannounced
+        helicopter-centered CSAR: Combat, Search, and Rescue.
       </Paragraph>
       <Paragraph>
-        In this unannounced title, the player would fly around and rescue people
-        from the helicopter whilst shooting at enemies. Whilst interesting, the
-        game had a troubled development with concerns around big areas like art
-        style and gameplay. What exacerbated this issue was the fact that the
-        co-lead designers Resided in Lond and would only visit the studio around
-        once a week, but when there would severely micromanage the project.
+        In CSAR, the player would fly the helicopter around rescuing people in
+        need of help, whilst simultaneously shooting at enemies. It&#39;s an
+        interesting premise, especially for VR, but the game had a troubled
+        development with concerns around numerous vital decisions like art style
+        and moment-to-moment gameplay. What exacerbated the troubled development
+        was the fact that the co-lead designers resided in London and would only
+        visit the studio around once a week. Furthermore, when they were there,
+        they&#39;d severely micromanage the differing prototypes. The disconnect
+        between them and their staff was so bad that some hires were made in
+        London to streamline development, but all it did was create further
+        division and breakdown in communications.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        It&#39;s therefore not surprising that when Herman Hulst took over
-        PlayStation Studios, Manchester Studio was under harsher scrutiny to see
-        why a VR game was taking this long. All this led to the cancellation of
-        CSAR and the closure of Manchester studio in 2020.
+        Despite the troublesome development, Manchester Studio were mostly left
+        alone by Sony due to its small headcount of around 30 people, who were
+        only working in a rented space. However, this protection changed when
+        Herman Hulst took over PlayStation Studios in 2019. Regardless of how
+        cheap their running costs were, Manchester Studio underwent harsher
+        scrutiny as due to being new in the role, Hulst needed to do a thorough
+        review of the entire PS Studios portfolio. Hulst didn&#39;t like that
+        there was nothing tangible of the VR game despite its 5 years of
+        development. Especially as PSVR&#39;s lifecycle was close to its end due
+        to the upcoming PS5 and PSVR2. This ultimately led to the cancellation
+        of CSAR and the closure of Manchester studio in February 2020.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

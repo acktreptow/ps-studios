@@ -59,25 +59,33 @@ function ManchesterStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Sony has closed 6 PS Studios down during this generation, but
-            it&#39;s no surprise Manchester Studio was one of them, and for many
-            in the same position, would have been the first once closed.
+            Sony has shut down 5 PS Studios since the PS5 launched, with
+            Manchester Studio actually closing a few months prior. However,
+            their closure shouldn&#39;t be particularly surprising as most
+            people in Hulst&#39;s position would have come to the same decision.
           </Paragraph>
           <Paragraph>
-            By 2020, PSVR had already reached its saturation point and had over
-            3 years to show there a3wasn&#39;t much money to be made in it. CSAR
-            could have transitioned to PSVR2, but this would mean a 2023 release
-            date at the earliest. An 8-year development for a VR by an unproven
-            studio makes no sense regardless of what angle you look at it. And
-            now with hindsight, even a PSVR2 version wouldn&#39;t turn the game
-            profitable considering Sony&#39;s severe lack of first-party support
-            for the hardware.
+            By 2020, 2016&#39;s PSVR had already reached its saturation point
+            and was years past its peak in popularity. Therefore, even if CSAR
+            shipped, there was no money to be made due to its almost guaranteed
+            lack of sales.
+          </Paragraph>
+          <Paragraph>
+            CSAR could have transitioned to PSVR2, but this would mean a
+            February 2023 release date at the earliest. An 8-year cycle for a VR
+            game by an unproven studio with a track record of development issues
+            makes no sense from a fiscal perspective. Additionally with 2025
+            hindsight, even a PSVR2 version wouldn&#39;t have improved sales.
+            Other, bigger PSVR2 first-party titles like Horizon Call of the
+            Mountain performed so poorly that PS Studios hasn&#39;t released a
+            VR game since the hardware&#39;s launch.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s always a shame to see people lost their jobs, but the
+            It&#39;s always a shame to see people lose their jobs, but the
             unfortunate reality is that it made total sense to shut down
-            Manchester Studios, regardless of whether Sony&#39;s pivot to
-            live-service worked this generation or not.
+            Manchester Studios. According to a post-closure exposé, even
+            ex-Manchester developers recognize closure was the logical decision
+            and don&#39;t blame Sony for pulling the plug.
           </Paragraph>
         </div>
         <div>

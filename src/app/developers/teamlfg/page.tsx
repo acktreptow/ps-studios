@@ -87,7 +87,7 @@ function TeamLFGPage(): JSX.Element {
             Bungie&#39;s headcount, they clearly saw something at Gummy Bears to
             extract the game and talent from Bungie to give it the best chance.
             Even internally within Bungie, it was far better received than
-            Marathon. Gummy Bears also doesn&#39;t come with some of the
+            Marathon. Gummy Bears also does not come with some of the
             pitfalls other Sony live-service games have. For example, it&#39;s
             not a competitive shooter. In fact, it will be the only Smash Bros
             type game on PlayStation. It will therefore find it much easier to

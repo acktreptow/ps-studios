@@ -66,45 +66,59 @@ function TeamLFGPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            teamLFG has not announced their first game yet. However, they have
-            described the game as a team-based action game that draws
-            inspiration from fighting games, platformers, MOBAs, life sims, and
-            frog-type games. All within a lighthearted, comedic world set in
-            brand-new, mythic, science-fantasy universe. They want to use early
-            access playtests. Earlier leaks suggests its Project Gummybears, a
-            well known incubation game that&#39;s been in Bungie for years. A
-            PvP team-based competitive game. While fundamentally a MOBA, the
-            games “Smash Bros.” influences mean it feels distinct from other
-            entries in the genre; falling off maps, and replacing health-bar
-            eliminations. Multiple game modes are planned. Gummy Bears is
-            described as having lo-fi and cozy vibes, a sharp departure from
-            Bungies usual dramatic, high-stakes sci-fi worlds. The project has
-            been praised internally as Bungies “most fun” project out of
-            incubation.
+            While little else has been officially said about Project Gummy Bears
+            outside of what was stated above, there have been some leaks that
+            provide more information. Gummy Bears is a PvP team-based
+            competitive game that&#39;s fundamentally a MOBA, but still takes a
+            lot of its influences from Smash Bros in order to differentiate
+            itself from other games within the genre. This means characters
+            falling off maps and replacing health-bar eliminations with
+            percentage points. Multiple game modes are being developed and
+            teamLFG plan on multiple early access playtests before its official
+            launch to tighten up gameplay/monetization etc. Finally, its
+            &#39;lo-fi and cozy&#39; vibes are a deliberate attempt to break
+            away from Bungie&#39;s usual high-stakes sci-fi worlds.
           </Paragraph>
           <Paragraph>
-            Considering Project Gummybears history 40-person strong and been
-            around since at least August 2023, I have higher hopes than most
-            games within Sony&#39;s live-service strategy. Meaning I still
-            don&#39;t have a lot of hope meant to be more lighthearted and
-            comical in tone. With how much Sony have hacked away at Bungie&#39;s
-            headcount, they clearly saw something at Gummybears to extract the
-            game and talent from Bungie to give it the best chance. Internally
-            at Bungie it was far better recieved than Marathon. However based
-            off numerous live-service cancellations and horrific issues with one
-            that were announced/shipped like Concord and Marathon, Sony&#39;s
-            eye on what makes a great live-service game cannopt be trusted.
+            Out of all of PlayStation&#39;s live-service games, Gummy Bears is
+            the one I&#39;m most optimistic about. And yet that optimism is
+            still somewhat tepid. Whatever 40-man teamLFG have created since
+            August 2023 has left a mark. With how much Sony have hacked away at
+            Bungie&#39;s headcount, they clearly saw something at Gummy Bears to
+            extract the game and talent from Bungie to give it the best chance.
+            Even internally within Bungie, it was far better received than
+            Marathon. Gummy Bears also doesn&#39;t come with some of the
+            pitfalls other Sony live-service games have. For example, it&#39;s
+            not a competitive shooter. In fact, it will be the only Smash Bros
+            type game on PlayStation. It will therefore find it much easier to
+            stand out compared to Marathon, Fairgames and Concord. It&#39;s
+            light-hearted tone, if done right, could also emulate what
+            Helldivers did with its faux democracy, which ended up being a big
+            selling point.
+          </Paragraph>
+          <Paragraph>
+            However based off numerous live-service cancellations and horrific
+            issues with one that were announced/shipped like Concord and
+            Marathon, Sony&#39;s eye on what makes a great live-service game
+            cannot be trusted.
+          </Paragraph>
+          <Paragraph>
+            As teamLFG are so new, it&#39;s also not easy to predict Gummy
+            Bear&#39;s future as so much changes within the live-service space
+            at such a rapid pace. In the past 18 months alone, Sony had shut
+            down 2 live-service developers, abruptly took one off the market and
+            fired the founder of Haven. With Project Gummy Bears likely not
+            shipping for years, there&#39;s just so much that can change.
+            However, this does give plenty of time for Sony to learn from their
+            live-service mistakes. I just don&#39;t know if they&#39;ll actually
+            learn the right lessons from a Concord.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Regardless, as teamLFG are so new, Project Gummybears likely
-            won&#39;t ship for years. This gives plently of time for Sony to
-            learn from their live-service mistakes. I just dont klnow if
-            that&#39;s enough to ensure success given the volatility of the
-            live-service market. Therefore, while I think it is more like that
-            teamLFG ship Gummybears than close before doing so, I still have
-            very little hope that it will launch to the critical/commercial
-            success Sony need it to be. If this bears out, teamLFG will have
-            walked their first step into a years long path to eventually
+            Therefore, while I think it is more like that teamLFG ship Gummy
+            Bears than close before doing so, and that it will be critical
+            success, I still have little hope that it will launch to the
+            commercial success Sony need it to be. If this bears out, teamLFG
+            would&#39;ve just started their years long path to eventually
             shutting down.
           </Paragraph>
         </div>

@@ -24,28 +24,20 @@ function MalaysiaStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2020, in Kuala Lumpur, Malaysia Studio was created from the
-        ground up by Sony to work alongside San Diego&#39;s Visual Arts team on
-        character models, visual assets, animations, motion capture etc. Due to
-        this sole role as a support studio, they take quite a unique place
-        within PS Studios as they essentially work on every project. For
+        Founded in 2020, in Kuala Lumpur, Malaysia Studio was created by Sony to
+        work alongside San Diego&#39;s Visual Arts group on character models,
+        visual assets, animations and motion capture etc. As they&#39;re solely
+        a support studio, they work on nearly every PS Studios game. For
         example, Naughty Dog&#39;s The Last of Us Parts 1 & 2, as well as the
-        MLB The Show IP by San Diego Studio (the first-party developer in SD,
-        not Visual Arts).
-      </Paragraph>
-      <Paragraph>
-        While you&#39;ll see Malaysia Studio&#39;s work in pretty much every PS
-        Studios project going forward, as a small support developer with under
-        100 employees (who now work in-office as opposed to remote during the
-        pandemic), their contributions to each game are also small.
+        MLB The Show IP by San Diego Studio (not Visual Arts). However, their
+        contribution to each game is small - especially as the studio only has
+        around 100 employees.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        With The Last of Us, Malaysia Studio worked on the hints that the player
-        would receive upon death in order to get past whatever obstacle and/or
-        combat scenario that they were stuck at. For MLB The Show, they worked
-        on various art assets that need some attention to ensure they&#39;re up
-        to date for each yearly iteration of the game, but don&#39;t require to
-        be created from scratch.
+        With TLOU, Malaysia Studio worked on the hints the player receives upon
+        death to help with whatever obstacle and/or combat scenario they were
+        stuck on. For MLB, they worked on various art assets that only need to
+        be updated for the next yearly iteration. Not created from scratch.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

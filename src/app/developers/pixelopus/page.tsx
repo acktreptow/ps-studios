@@ -25,7 +25,7 @@ function PixelopusPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Pixelopus was a California-based developer internally formed under
-        unique circumstances in 2014. Two year earlier, Thatgamecompany&#39;s
+        unique circumstances in 2014. Two years earlier, Thatgamecompany&#39;s
         released PS3 indie adventure game &#39;Journey&#39; to monumental
         critical and commercial success. The industry took note, and it inspired
         PlayStation first-party developer &#39;Foster City Studio&#39; (now San
@@ -52,40 +52,32 @@ function PixelopusPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Obviously, as Pixelopus is closed, it&#39;s easy to predict that
-            they&#39;ll never ship a PS5 game. However, it&#39;s still worth
-            examining whether their closure by Sony was justified.
+            Like Japan Studio, who was shut in 2021, Pixelopus would&#39;ve been
+            more useful to Sony now than in 2023. It&#39;s not surprising Sony
+            closed Pixelopus when their AA single-player DNA clashed with the
+            live-service initiative. However, in 2025, it&#39;s clear with games
+            like Concord, Fairgames and Marathon that their live-service pivot
+            mostly failed - resulting in consequential gaps between first-party
+            output. More than ever, Sony could use Pixelopus&#39;s AA games to
+            fill the gaps.
           </Paragraph>
           <Paragraph>
-            In 2023, PlayStation were full-steam ahead with their live-service
-            strategy. Considering Pixelopus&#39;s single-player, more artistic
-            DNA, it&#39;s not surprising why they were one of the first
-            developers to go this generation, but it was short-sighted. As
-            we&#39;ve seen Concord and the missteps with Fairgames/Marathon
-            before they&#39;ve even released, PlayStation&#39;s execution of
-            their live-service strategy has been horrendous. Now more than ever,
-            PlayStation could have used the type of AA games Pixelopus was known
-            for to fill the wasteland that is their first-party output right now
-            due to so many live-service cancellations.
-          </Paragraph>
-          <Paragraph>
-            However, even taking the live-service execution into account, the
-            unfortunate reality is that shuttering Pixelopus is still somewhat
-            justified. Neither of their games sold well, but they did provide
-            utility that goes beyond money in/out, such as prestige gained from
-            awards. But the studio&#39;s expensive San Mateo location and the
-            worsening economy. Furthermore, Pixelopus&#39;s cancelled PS5 game
-            was a licensed IP in collaboration with Sony Pictures Animation. The
-            project therefore would incur extra fees/red tape that their own IP
-            wouldn&#39;t, like Spider-Man does for Insomniac. Award nominations
-            are just not enough when companies are looking everywhere to save
-            money and it&#39;s not like the audience have shown they&#39;ll buy
-            Pixelopus games that are their own IP anyways.
+            Nonetheless, even taking this argument into account, the unfortunate
+            reality is that closing Pixelopus is still somewhat justified.
+            Unlike Japan Studio, their legacy amongst PlayStation fans is
+            non-existent. JS games might not sell millions, but a game like Ico
+            provides utility that goes beyond money as it keeps the hardcore
+            base engaged. Whereas Pixelopus games not only don&#39;t sell, but
+            aren&#39;t viewed by hardcore PlayStation fans as a brand
+            differentiator, regardless of awards.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Therefore, even if Sony&#39;s live-strategy didn&#39;t crash and
-            burn, the unfortunate reality is one could still find it hard to
-            argue that Pixelopus was worth keeping around in this economy.
+            Pixelopus&#39;s expensive San Mateo location further makes it hard
+            to justify keeping open in a worsening economy. Finally, their
+            cancelled PS5 game was a licensed IP in collaboration with Sony
+            Animation, which would incur extra fees/red tape. Considering all
+            these factors, even with Sony&#39;s failed live-service push,
+            shutting Pixelopus is still an understandable conclusion.
           </Paragraph>
         </div>
         <div>

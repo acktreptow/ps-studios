@@ -24,40 +24,33 @@ function JapanStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Japan Studio was technically founded in 2005, with the 2006 PS3 launch
-        title &#39;Genji: Days of the Blade&#39; being their first game to
-        utilize this branding. In practice, however, the developer has been
-        around since the very beginning of PlayStation in 1993, when they were a
-        part of Sony Computer Entertainment.
-      </Paragraph>
-      <Paragraph>
-        Japan Studio held a unique role within PlayStation Studios. Not only did
+        While the &#39;Japan Studio&#39; branding began with the 2006 PS3 launch
+        title &#39;Genji: Days of the Blade&#39;, they&#39;ve existed since
+        PlayStation&#39;s inception in 1993 as a key internal developer within
+        Sony Computer Entertainment, where it held a unique role. Not only did
         it consist of multiple internal teams such as Team ICO (Shadow of the
         Colossus, The Last Guardian) and Team Gravity (Siren, Gravity Rush), but
-        an equal part of their portfolio consisted of external collaborations.
-        For example, FromSoftware with Demon&#39;s Souls and Bloodborne, as well
-        as numerous golf games with Clap Hanz. Other well-known Japan Studio IP
-        include Ape Escape, Knack and Patapon.
+        an equal part of their portfolio came from external collaborations. For
+        example, FromSoftware (Demon&#39;s Souls, Bloodborne) and numerous golf
+        games with Clap Hanz. Other well-known Japan Studio IP include Ape
+        Escape, Knack and Patapon.
       </Paragraph>
       <Paragraph>
-        Perhaps the best example of this split portfolio are the 2 games Japan
-        Studio shipped for PS5&#39;s 2020 launch. While the Demon&#39;s Souls
-        remake was in collaboration with prestige remake developer Bluepoint
-        Games, the free PS5 pack-in title Astro&#39;s Playroom was created
-        internally at Team Asobi. Both were a huge success, however just a few
-        months later in April 2021, Japan Studio was re-centered around Team
-        Asobi to build on the popularity of the Astro IP - effectively
-        shuttering the developer.
+        A good example of this split portfolio are Japan Studio&#39;s PS5 launch
+        games. While Demon&#39;s Souls was in collaboration with prestige remake
+        developer Bluepoint, the free PS5 pack-in Astro&#39;s Playroom was
+        created internally at Team Asobi. Both were successful, however shortly
+        after in April 2021, Japan Studio was re-centered around Asobi to build
+        on the popularity of the Astro IP - effectively shuttering the
+        developer.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        The reason given for this &#39;reorganization&#39; was that Japan
-        Studio&#39;s AA game DNA was not considered profitable enough to
-        continue with original game development, so most contracts outside of
+        Reportedly, Japan Studio&#39;s original AA games weren&#39;t considered
+        profitable enough by Sony to continue, so most contracts outside of
         Asobi weren&#39;t renewed. Instead, PS Studios would continue with AAA
-        cinematic games, whilst simultaneously diving head-first into the
-        live-service arena. Therefore, leaving the AA and indie space to
-        independent game creators, third-party publishers, and second-party XDev
-        collaborations.
+        cinematic games, whilst also diving head-first into live-service.
+        Therefore, leaving the AA and indie space to independent creators,
+        third-party publishers, and second-party XDev partnerships.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

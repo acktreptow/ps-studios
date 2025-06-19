@@ -59,9 +59,9 @@ function LondonStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite London Studios’ demonstrated success across PS2-PS4, in
-            hindsight, it’s easy to see that their pivot to a live-service
-            multiplayer game (Project Camden) wouldn’t work out.
+            Despite London Studios&#39; demonstrated success across PS2-PS4, in
+            hindsight, it&#39;s easy to see that their pivot to a live-service
+            multiplayer game (Project Camden) wouldn&#39;t work out.
           </Paragraph>
           <Paragraph>
             Camden was a co-op multiplayer game set in a modern fantasy London,
@@ -69,23 +69,23 @@ function LondonStudioPage(): JSX.Element {
             online combat game would be their most ambitious project to date and
             would also have the longest development time in studio history as LS
             took their time to decide what type of game they should create after
-            2019’s Erica.
+            2019&#39;s Erica.
           </Paragraph>
           <Paragraph>
-            Considering Sony’s 2020-23 live-service push, Camden was easily
-            greenlit. Yet with how long game development is, there’s major risk
-            following trends as its popularity might fall off rapidly. By early
-            2024, there was now a worse economy, decreasing playtime
-            post-lockdown, and a fast growing hatred for Sony’s live-service
-            push. LS was also working out of an expensive city, in a genre they
-            had no experience in. So, when Sony needed to cut costs in the
-            live-service arena it was increasingly bearish in, LS was naturally
-            chosen for closure instead of others like Haven.
+            Considering Sony&#39;s 2020-23 live-service push, Camden was easily
+            greenlit. Yet with how long game development is, there&#39;s major
+            risk following trends as its popularity might fall off rapidly. By
+            early 2024, there was now a worse economy, decreasing playtime
+            post-lockdown, and a fast growing hatred for Sony&#39;s live-service
+            push. LS was also in an expensive city, in a genre they had no
+            experience in. So, when Sony needed to cut costs in the live-service
+            arena it was increasingly bearish in, LS was naturally chosen for
+            closure instead of others like Haven.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            London Studios’ closure in particular is a shame as they once had a
-            path for extreme success. In 2005, LS revealed 2 traditional AAA PS3
-            games – The Getaway and Eight Days – with trailers that were
+            London Studios&#39; closure in particular is a shame as they once
+            had a path for extreme success. In 2005, LS revealed 2 traditional
+            AAA PS3 games - The Getaway and Eight Days - with trailers that were
             excellently received. Unfortunately, Sony EU cancelled both to
             reallocate money to other games. Had these more cinematic games
             reached their potential and launched to a starving 06-09 PS3

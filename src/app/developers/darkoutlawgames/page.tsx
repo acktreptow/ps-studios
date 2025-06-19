@@ -29,44 +29,36 @@ function DarkOutlawGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Dark Outlaw Games is a Los Angeles-based studio that was officially
-        announced in 2025. However, their history goes much deeper than
-        you&#39;d expect from a developer that&#39;s only been publicly
-        acknowledged for less than a year.
+        Dark Outlaw Games is a Los Angeles-based developer that was publicly
+        acknowledged in 2025. However, their history goes back much further
+        despite the recent announcement. Founded by Jason Blundell, who was
+        co-studio head of Treyarch until 2020, he&#39;s best known for directing
+        the Campaign and Zombies modes in Black Ops 3 and 4. Considering his
+        pedigree on the Call of Duty IP, which dates back to 2006&#39;s COD3,
+        it&#39;s not surprising we&#39;d see his new studio so quickly…
+        Deviation Games.
       </Paragraph>
       <Paragraph>
-        Dark Outlaw was founded by Jason Blundell, who was the co-studio head of
-        Treyarch and therefore oversaw many Call of Duty games. During this
-        time, Blundell worked on the Black Ops 1/2 campaign before directing
-        Call of Duty&#39;s very popular Zombies mode for Black Ops 3/4. These
-        are just some of the COD games he worked on, so needless to say, his
-        experience with the IP is extensive. It&#39;s therefore not surprising
-        that when he left Treyarch in 2020, it would only take a year before
-        we&#39;d see him again at SGF 2021. It was here where he announced his
-        new studio with fellow COD veteran David Anthony - Deviation Games. They
-        also announced a partnership with Sony to fund their first game, which
-        would be a live-service game that plays similar to COD, but it would be
-        a new IP. However, this would be the last time we&#39;d hear from
-        Deviation as they closed down in March 2024.
+        At SGF 2021, he and fellow COD veteran David Anthony announced Deviation
+        along with a Sony partnership to fund their first game - a new AAA IP
+        that&#39;s inspired by their COD history. However, this was the last
+        time we&#39;d publicly hear from Deviation as they closed in March 2024.
       </Paragraph>
       <Paragraph>
-        The official reasons for Deviation&#39;s closure were never officially
-        stated, but it&#39;s likely that this project was facing serious
-        internal difficulties which ultimately led Sony to pull its funding.
-        However, Sony clearly saw potential in at least a portion of studio
-        leadership. Despite mass layoffs in 2023 and yet still closing a year
-        later, Blundell actually left Deviation much earlier in 2022.
-        Furthermore, it was rumored that the reason for this was to form an
-        internal first-party studio within the PS Studios banner. LinkedIn
-        profiles even suggest Dark Outlaw was already up and running as early as
-        June 2023, which also coincides with the mass layoffs at Deviation,
-        although there was likely lots of poaching too.
+        It was never officially stated why Deviation closed. But whatever issues
+        there were, it was bad enough for Sony to pull funding. Blundell also
+        left much earlier in 2022 - reportedly to form a new studio as part of
+        PS Studios, which we eventually came to know as Dark Outlaw. According
+        to LinkedIn profiles, the studio has been up and running since at least
+        June 2023. Staffed up by a significant number of ex-Deviation employees.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Clearly, whatever internal issues occurring at Deviation, Sony believed
-        Blundell was not the founder who was causing it. Now as Dark Outlaw, the
-        studio is now almost certainly creating the PS5 game they wanted
-        Deviation to make.
+        Regardless of what really went wrong inside Deviation, Sony clearly
+        believed Blundell was not the founder causing the issue. Especially as
+        the other co-founder has been self-employed since Deviation shut in
+        March 2024. Now as Dark Outlaw, the studio is now almost certainly
+        creating the PS5 game Sony originally wanted Deviation to make. But this
+        time, Sony owns the team and IP making it.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

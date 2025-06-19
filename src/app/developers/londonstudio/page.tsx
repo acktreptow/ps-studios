@@ -24,46 +24,36 @@ function LondonStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        London Studio was founded in 2002, following their merger of SCE Studio
-        Camden (formerly a division of then-first party developer Psygnosis) and
-        Team Soho. Their portfolio includes traditional IP such as the
-        open-world &#39;The Getaway&#39; series on PS2, as well as support work
-        on fellow European first-party games like Media Molecule&#39;s
-        LittleBigPlanet and Guerrilla Games&#39;s Killzone 2. However, the vast
-        majority of London Studios&#39;s legacy comes from games that were
-        developed to take advantage of the various peripherals each PlayStation
-        console had.
+        London Studio was founded in 2002, following SCE Studio Camden (formerly
+        Psygnosis) and Team Soho&#39;s merger. Their portfolio includes
+        traditional IP such as PS2&#39;s open-world &#39;The Getaway&#39; series
+        and support work on EU first-party games like LittleBigPlanet and
+        Killzone 2. However, the vast majority of LS&#39;s games were developed
+        to take advantage of the various peripherals each PlayStation had.
       </Paragraph>
       <Paragraph>
-        By far, London Studios&#39;s most successful IP was Singstar, which
-        managed to sell more than 20 million copies in 6 years and spanned
-        numerous games from PS2-PS4 due to it only needing a microphone.
-        However, London Studio still developed games that required a more unique
-        peripheral that was exclusive to the current PlayStation at the time.
-        For PS2, this was best seen with their various EyeToy games. For PS3,
-        this was their Wonderbook games and for PS4, it was their PSVR title
-        &#39;Blood and Truth&#39;. All of these games were commercially and/or
-        critically successful. We also can&#39;t not mention the PS3&#39;s
-        PlayStation Home, which many consider to be one of the first metaverses
-        as it launched over a decade before that was even a term.
-      </Paragraph>
-      <Paragraph>
-        London Studio&#39;s final game was 2019&#39;s interactive film game
-        &#39;Erica&#39; on PS4. While you could control Holly Earl&#39;s
-        character with a regular controller, the game still had London Studio
-        fingerprints on it as it took advantage of PS4&#39;s PlayLink, which
-        allowed the game to be interfaced with a smartphone. However, Erica only
-        achieved a mixed critical and commercial reception.
+        By far, London Studios&#39; most successful IP was Singstar, which sold
+        more than 20 million copies across many games from PS2-PS4. It used a
+        USB microphone, but LS still developed games that required more unique
+        peripherals. For PS2, it was their various camera-based EyeToy games.
+        For PS3, it was their AR Wonderbook games. And for PS4, it was their
+        PSVR title Blood and Truth. All were commercially and/or critically
+        successful. PS3&#39;s PlayStation Home must also be mentioned, as it was
+        one of the first metaverses - launching over a decade before that was
+        even a term.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        With Erica&#39;s disappointment, combined with PSVR&#39;s plummeting
-        popularity, the upcoming PS5, and Sony&#39;s heavy initiative to push
-        into the live-service arena, it&#39;s perhaps no surprise London Studio
-        would also pivot to a live-service PS5 game. After all, while it
-        wouldn&#39;t use a peripheral, this would still fall in line with London
-        Studios&#39;s values as it was a completely new arena for them. However,
-        this unannounced game would not only result in cancellation, but also
-        the shuttering of London Studio in early 2024.
+        London Studio&#39;s final game was 2019&#39;s &#39;Erica&#39; on PS4.
+        While you could use a regular controller, it also took advantage of
+        PS4&#39;s PlayLink. This allowed the game to be interfaced with a
+        smartphone. However, Erica only achieved a mixed critical and commercial
+        reception. Combined with PSVR&#39;s plummeting popularity, the upcoming
+        PS5, and Sony&#39;s heavy live-service initiative, it&#39;s no surprise
+        LS pivoted to a live-service PS5 game. While it wouldn&#39;t use a
+        peripheral, it was still consistent with LS&#39;s DNA as live-service
+        was a completely new arena for them. Unfortunately, this unannounced
+        game would not only result in cancellation, but also the shuttering of
+        London Studio in early 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

@@ -59,62 +59,38 @@ function LondonStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            While London Studio never ended up shipping a PS5 game, it&#39;s
-            still worth analyzing whether their closure was justified. After
-            all, they had demonstrated numerous successes across PS2-PS4.
-            However, with hindsight, it&#39;s easy to see that their pivot to a
-            live-service multiplayer game (Project Camden) wouldn&#39;t work
-            out.
+            Despite London Studios’ demonstrated success across PS2-PS4, in
+            hindsight, it’s easy to see that their pivot to a live-service
+            multiplayer game (Project Camden) wouldn’t work out.
           </Paragraph>
           <Paragraph>
-            Camden was described as a co-op multiplayer game set in a modern
-            fantasy London, which would use the studio&#39;s Soho engine they
-            (mostly) built from the ground up for the PS5. According to Studio
-            head Tara Saunders, the online combat game would be their most
-            ambitious project to date. It would also have the longest
-            development time out of all London Studio games, as it was still in
-            the early stages of production in early 2022. This was due to LS
-            taking the time to figure out exactly what type of game they should
-            create after 2019&#39;s Erica.
+            Camden was a co-op multiplayer game set in a modern fantasy London,
+            which would use the Soho engine LS (mostly) built for PS5. The
+            online combat game would be their most ambitious project to date and
+            would also have the longest development time in studio history as LS
+            took their time to decide what type of game they should create after
+            2019’s Erica.
           </Paragraph>
           <Paragraph>
-            Considering Camden&#39;s description and how bullish Sony was on
-            live-service between 2020-23, it makes logical sense why it was
-            greenlighted. However, as is always the risk when following game
-            development trends, due to how long game development takes these
-            days, the situation might change at some point during the
-            development of your version of the trend. In early 2024, following a
-            much worse economy, stagnant playtime amongst live-service games as
-            people were out of lockdown, and a growing hatred amongst the
-            audience for Sony&#39;s live-service push that came to ahead with
-            Concord later in the year, Sony were in desperate need of cutting
-            costs. Considering London Studio was located in one of the most
-            expensive cities in the world and was working on a game in a genre
-            they had not only had no experience, but was an arena Sony was
-            getting increasingly hesitant to fully dive into, it makes sense why
-            Sony would target them for closure while prioritizing other
-            live-service studios with more expertise in the area like Haven.
-          </Paragraph>
-          <Paragraph>
-            Closing London Studio in particular is a shame. While the decision
-            to do so in 2024 makes sense, there was once a path for them to
-            achieve incredible success back during the PS3 era. In 2005, they
-            had 2 traditional AAA games that were in development - The Getaway 3
-            and Eight Days. Despite their reveal trailers being excellently
-            received, however, Sony Europe cancelled both games in order to
-            relocate resources to other first-party games. Had these more
-            serious/traditional/cinematic games reached their potential and
-            shipped to a starving 2008 PS3 audience, London Studio could easily
-            be in the upper echelon of PS Studios, with these IP standing
-            side-by-side with The Last of Us/God of War etc. They could have
-            even surpassed these developers considering they also had the more
-            casual peripheral-focused games like Singstar.
+            Considering Sony’s 2020-23 live-service push, Camden was easily
+            greenlit. Yet with how long game development is, there’s major risk
+            following trends as its popularity might fall off rapidly. By early
+            2024, there was now a worse economy, decreasing playtime
+            post-lockdown, and a fast growing hatred for Sony’s live-service
+            push. LS was also working out of an expensive city, in a genre they
+            had no experience in. So, when Sony needed to cut costs in the
+            live-service arena it was increasingly bearish in, LS was naturally
+            chosen for closure instead of others like Haven.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It wasn&#39;t to be though. So, London Studio&#39;s legacy will
-            forever be a studio that would showcase the best of what
-            PlayStation&#39;s peripherals had to offer but was yet another
-            casualty of the failed live-service push.
+            London Studios’ closure in particular is a shame as they once had a
+            path for extreme success. In 2005, LS revealed 2 traditional AAA PS3
+            games – The Getaway and Eight Days – with trailers that were
+            excellently received. Unfortunately, Sony EU cancelled both to
+            reallocate money to other games. Had these more cinematic games
+            reached their potential and launched to a starving 06-09 PS3
+            audience, alongside casual IP like Singstar, LS would now be in the
+            highest tier of PS Studios.
           </Paragraph>
         </div>
         <div>

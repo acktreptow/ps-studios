@@ -56,54 +56,44 @@ function DarkOutlawGamesPage(): JSX.Element {
         Regardless of what really went wrong inside Deviation, Sony clearly
         believed Blundell was not the founder causing the issue. Especially as
         the other co-founder has been self-employed since Deviation shut in
-        March 2024. Now as Dark Outlaw, the studio is now almost certainly
-        creating the PS5 game Sony originally wanted Deviation to make. But this
-        time, Sony owns the team and IP making it.
+        March 2024. Now as Dark Outlaw, the studio is almost certainly creating
+        the PS5 game Sony originally wanted Deviation to make. But this time,
+        Sony owns the team and IP making it.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Not much is known about Dark Outlaw&#39;s game as the developer
-            itself has barely been brought up. In fact, since DO&#39;s
-            formation, Blundell has only done one interview with an industry
-            legend in a relatively niche sphere, not even an IGN, let alone a
-            GQ. It was actually this interview where Dark Outlaw was officially
-            announced, but the interview itself was far more focused on his
-            overall career and not DO. There were some relevant remarks though.
+            Not much is known about Dark Outlaw’s game because the developer has
+            only been publicly mentioned once, in an interview primarily about
+            Blundell’s career history. Dark Outlaw only got a brief mention, but
+            it fortunately included relevant information.
           </Paragraph>
           <Paragraph>
-            In the interview, Blundell did state that Dark Outlaw has been
-            staffing up for a while, which makes sense considering people have
-            been working there since at least June 2023. However, he is
-            purposely slowly ramping up the game&#39;s development that will be
-            AAA - instead focusing and prioritizing getting the team to gel
-            first and see which of their ideas rise to the top. Considering
-            Deviation&#39;s history, however. I&#39;d speculate that much of
-            their final game will share a lot of the DNA of what was done with
-            Deviation, which in turn probably took a lot of inspiration from
-            their Black Ops work. A live-service game that will also be a new
-            PlayStation IP. Based off his comments, it also seems like the game
-            is a ways off, which is probably a good thing. Considering how
-            PlayStation&#39;s live-service strategy has gone so far, Sony
-            themselves need as much time as possible to figure out the mistakes
-            made and correct them. DO also need to make sure they don&#39;t
-            repeat Deviation&#39;s mistakes.
+            Blundell stated that Dark Outlaw has been staffing up for a while,
+            which makes sense considering he left Deviation in 2022. He’s also
+            slowly ramping up development while prioritizing getting the team to
+            gel first, which allows the best ideas to naturally come to light.
+            Considering the history however, I speculate that much of the final
+            game will still closely resemble their original Deviation project.
+            Which in turn likely took many ideas from Black Ops 3 and 4.
+            Finally, we know it’s a live-service game, but there’s reasons for
+            optimism compared to most of Sony’s live-service push.
+          </Paragraph>
+          <Paragraph>
+            Based on Blundell’s comments, the game is still years away. This is
+            an advantageous position as Sony can analyze any mistakes made with
+            upcoming live-service games like Fairgames/Marathon and (hopefully)
+            not repeat them. Blundell also has time to reflect on mistakes made
+            at Deviation and ensure these aren’t repeated at Dark Outlaw.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Unfortunately, considering just how bad Sony&#39;s live-service
-            strategy has been executed, there&#39;s just as good of a chance
-            that Dark Outlaw goes the way of Deviation and closes before
-            launching their debut game than it is coming out to both positive
-            critical and commercial reception. What gives me slightly more hope
-            for DO over Haven&#39;s Fairgames or Bungie&#39;s Marathon however
-            is Blundell&#39;s history. As Blundell led the co-op focused
-            well-received Zombies modes when working on various CODs, he knows
-            how to make a good co-op experience. Hopefully, he can utilize this
-            history and follow the blueprint of fellow co-op live-service game
-            Helldivers 2&#39;s success. This would give DO&#39;s game the best
-            chance of success in the wasteland that is Sony&#39;s live-service -
-            especially in the competitive multiplayer sphere.
+            Blundell’s co-op-focused history with multiple COD Zombies modes
+            also has his new game comparing favorably to the competitive-focused
+            games just mentioned. Helldivers 2’s adamance on no PVP was a big
+            reason why it was the one Sony live-service game that succeeded, so
+            the more he leans into the co-op blueprint, the stronger the chance
+            his new game has to succeed.
           </Paragraph>
         </div>
         <div>

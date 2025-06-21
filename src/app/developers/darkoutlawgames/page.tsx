@@ -25,7 +25,7 @@ function DarkOutlawGamesPage(): JSX.Element {
       <Title title="Dark Outlaw Games" />
       <DeveloperButton
         developer="Dark Outlaw"
-        urlPath="https://www.playstation.com/en-gb/corporate/playstation-studios/dark-outlaw-games/"
+        urlPath="https://www.playstation.com/corporate/playstation-studios/dark-outlaw-games/"
       />
       <SubTitle subtitle="History" />
       <Paragraph>
@@ -106,7 +106,7 @@ function DarkOutlawGamesPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="deviation-games" className="block text-center">
-            Blundell (right) announcing his previous dev/game at SGF 21
+            Deviation Games Announcement At SGF 2021
           </label>
         </div>
       </ImageSection>{" "}

@@ -64,36 +64,38 @@ function DarkOutlawGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Not much is known about Dark Outlaw’s game because the developer has
-            only been publicly mentioned once, in an interview primarily about
-            Blundell’s career history. Dark Outlaw only got a brief mention, but
-            it fortunately included relevant information.
+            Not much is known about Dark Outlaw&#39;s game because the developer
+            has only been publicly mentioned once, in an interview primarily
+            about Blundell&#39;s career history. Dark Outlaw only got a brief
+            mention, but it fortunately included relevant information.
           </Paragraph>
           <Paragraph>
             Blundell stated that Dark Outlaw has been staffing up for a while,
-            which makes sense considering he left Deviation in 2022. He’s also
-            slowly ramping up development while prioritizing getting the team to
-            gel first, which allows the best ideas to naturally come to light.
-            Considering the history however, I speculate that much of the final
-            game will still closely resemble their original Deviation project.
-            Which in turn likely took many ideas from Black Ops 3 and 4.
-            Finally, we know it’s a live-service game, but there’s reasons for
-            optimism compared to most of Sony’s live-service push.
+            which makes sense considering he left Deviation in 2022. He&#39;s
+            also slowly ramping up development while prioritizing getting the
+            team to gel first, which allows the best ideas to naturally come to
+            light. Considering the history however, I speculate that much of the
+            final game will still closely resemble their original Deviation
+            project. Which in turn likely took many ideas from Black Ops 3 and
+            4. Finally, we know it&#39;s a live-service game, but there&#39;s
+            reasons for optimism compared to most of Sony&#39;s live-service
+            push.
           </Paragraph>
           <Paragraph>
-            Based on Blundell’s comments, the game is still years away. This is
-            an advantageous position as Sony can analyze any mistakes made with
-            upcoming live-service games like Fairgames/Marathon and (hopefully)
-            not repeat them. Blundell also has time to reflect on mistakes made
-            at Deviation and ensure these aren’t repeated at Dark Outlaw.
+            Based on Blundell&#39;s comments, the game is still years away. This
+            is an advantageous position as Sony can analyze any mistakes made
+            with upcoming live-service games like Fairgames/Marathon and
+            (hopefully) not repeat them. Blundell also has time to reflect on
+            mistakes made at Deviation and ensure these aren&#39;t repeated at
+            Dark Outlaw.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Blundell’s co-op-focused history with multiple COD Zombies modes
+            Blundell&#39;s co-op-focused history with multiple COD Zombies modes
             also has his new game comparing favorably to the competitive-focused
-            games just mentioned. Helldivers 2’s adamance on no PVP was a big
-            reason why it was the one Sony live-service game that succeeded, so
-            the more he leans into the co-op blueprint, the stronger the chance
-            his new game has to succeed.
+            games just mentioned. Helldivers 2&#39;s adamance on no PVP was a
+            big reason why it was the one Sony live-service game that succeeded,
+            so the more he leans into the co-op blueprint, the stronger the
+            chance his new game has to succeed.
           </Paragraph>
         </div>
         <div>

@@ -96,12 +96,12 @@ function JapanStudioPage(): JSX.Element {
         <div>
           <Image
             src={japanstudioholidays}
-            alt="Japan Studio's holiday card"
-            id="jp-studio-card"
+            alt="Japan Studio's final holiday card"
+            id="jp-studio-holiday-card"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="jp-studio-card" className="block text-center">
-            Some of JS&#39;s many IP wishing happy holidays a final time.
+          <label htmlFor="jp-studio-holiday-card" className="block text-center">
+            Japan Studio IP&#39;s Final Holiday Card
           </label>
         </div>
       </ImageSection>

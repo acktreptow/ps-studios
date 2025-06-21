@@ -11,7 +11,7 @@ import ImageSection from "../../components/ImageSection";
 export const metadata: Metadata = {
   title: "Malaysia Studio",
   description:
-    "The history of Malaysia Studio, a former first-party developer for PlayStation Studios.",
+    "The history and future of Malaysia Studio, a former first-party developer for PlayStation Studios.",
 };
 
 function MalaysiaStudioPage(): JSX.Element {
@@ -19,7 +19,7 @@ function MalaysiaStudioPage(): JSX.Element {
     <Container>
       <Title title="Malaysia Studio" />
       <DeveloperButton
-        developer="Malaysia Studio"
+        developer="Malaysia"
         urlPath="https://www.linkedin.com/company/pssmy/"
       />
       <SubTitle subtitle="History" />
@@ -80,7 +80,7 @@ function MalaysiaStudioPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="tlou1" className="block text-center">
-            TLOU Comparison Between PS3, PS4 & PS5
+            TLOU Graphics On PS3, PS4 & PS5
           </label>
         </div>
       </ImageSection>

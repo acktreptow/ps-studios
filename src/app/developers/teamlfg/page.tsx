@@ -77,7 +77,7 @@ function TeamLFGPage(): JSX.Element {
             about Gummy Bears than most. Even internally within Bungie, its
             reception was better than Marathon. It&#39;s also very telling that
             with all of Bungie&#39;s current turmoil, LFG showed so much promise
-            that Sony extracted them from a bad situation so PS Studies could
+            that Sony extracted them from a bad situation so PS Studios could
             directly nurture GB&#39;s potential.
           </Paragraph>
           <Paragraph>
@@ -107,7 +107,7 @@ function TeamLFGPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="gummy-bears" className="block text-center mb-8">
-            The Only Concept Art Of Project Gummy Bears Currently
+            Project Gummy Bears Only Concept Art
           </label>
         </div>
       </ImageSection>

@@ -62,60 +62,41 @@ function TeamLFGPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            While little else has been officially said about Project Gummy Bears
-            outside of what was stated above, there have been some leaks that
-            provide more information. Gummy Bears is a PvP team-based
-            competitive game that&#39;s fundamentally a MOBA, but still takes a
-            lot of its influences from Smash Bros in order to differentiate
-            itself from other games within the genre. This means characters
-            falling off maps and replacing health-bar eliminations with
-            percentage points. Multiple game modes are being developed and
-            teamLFG plan on multiple early access playtests before its official
-            launch to tighten up gameplay/monetization etc. Finally, its
-            &#39;lo-fi and cozy&#39; vibes are a deliberate attempt to break
-            away from Bungie&#39;s usual high-stakes sci-fi worlds.
+            Little else has been officially said about Gummy Bears, but
+            there&#39;s been leaked info regarding gameplay. GB is a PvP
+            team-based competitive game that will include multiple modes and
+            class types. It&#39;s fundamentally a MOBA but takes influence from
+            Smash Bros to differentiate from others in the genre. That means
+            characters falling off maps and percentage-based damage instead of
+            HP. In order to appeal to a younger audience than Bungie has,
+            friends can hang out to &#39;express their identity&#39; in a
+            &#39;lo-fi and cozy&#39; vibe between matches.
           </Paragraph>
           <Paragraph>
-            Out of all of PlayStation&#39;s live-service games, Gummy Bears is
-            the one I&#39;m most optimistic about. And yet that optimism is
-            still somewhat tepid. Whatever 40-man teamLFG have created since
-            August 2023 has left a mark. With how much Sony have hacked away at
-            Bungie&#39;s headcount, they clearly saw something at Gummy Bears to
-            extract the game and talent from Bungie to give it the best chance.
-            Even internally within Bungie, it was far better received than
-            Marathon. Gummy Bears also does not come with some of the pitfalls
-            other Sony live-service games have. For example, it&#39;s not a
-            competitive shooter. In fact, it will be the only Smash Bros type
-            game on PlayStation. It will therefore find it much easier to stand
-            out compared to Marathon, Fairgames and Concord. It&#39;s
-            light-hearted tone, if done right, could also emulate what
-            Helldivers did with its faux democracy, which ended up being a big
-            selling point.
+            Out of the upcoming live-service games, I&#39;m more optimistic
+            about Gummy Bears than most. Even internally within Bungie, its
+            reception was better than Marathon. It&#39;s also very telling that
+            with all of Bungie&#39;s current turmoil, LFG showed so much promise
+            that Sony extracted them from a bad situation so PS Studies could
+            directly nurture GB&#39;s potential.
           </Paragraph>
           <Paragraph>
-            However based off numerous live-service cancellations and horrific
-            issues with one that were announced/shipped like Concord and
-            Marathon, Sony&#39;s eye on what makes a great live-service game
-            cannot be trusted.
-          </Paragraph>
-          <Paragraph>
-            As teamLFG are so new, it&#39;s also not easy to predict Gummy
-            Bear&#39;s future as so much changes within the live-service space
-            at such a rapid pace. In the past 18 months alone, Sony had shut
-            down 2 live-service developers, abruptly took one off the market and
-            fired the founder of Haven. With Project Gummy Bears likely not
-            shipping for years, there&#39;s just so much that can change.
-            However, this does give plenty of time for Sony to learn from their
-            live-service mistakes. I just don&#39;t know if they&#39;ll actually
-            learn the right lessons from a Concord.
+            Gummy Bears also doesn&#39;t have some of the pitfalls other Sony
+            live-service games do. Unlike the saturated shooter-focused genre
+            Fairgames/Marathon are in, GB can more easily stand out as it&#39;s
+            the only Smash Bros type game on PS5. Its lighter tone could also be
+            a major selling point - similar to the virality we saw with
+            Helldivers 2&#39;s &#39;managed democracy&#39;. Finally, GB launches
+            after the aforementioned games, thus giving Sony plenty of data to
+            see what went right/wrong.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Therefore, while I think it is more like that teamLFG ship Gummy
-            Bears than close before doing so, and that it will be critical
-            success, I still have little hope that it will launch to the
-            commercial success Sony need it to be. If this bears out, teamLFG
-            would&#39;ve just started their years long path to eventually
-            shutting down.
+            Nonetheless, despite the optimism, Gummy Bears is still years away
+            and due to the volatility of live-service, the truth is that its
+            critical and/or commercial success can go either way. Hopefully, LFG
+            stay true to their word of multiple early access playtests. This
+            provides the best barometer of what an increasingly pessimistic
+            hardcore PS5 base thinks of yet another live-service game.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

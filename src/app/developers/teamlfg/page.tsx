@@ -30,37 +30,33 @@ function TeamLFGPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Announced in May 2025, teamLFG are the newest addition to PS Studios.
-        The LFG stands for &#39;looking for group&#39; as according to their
-        announcement press release, they are &#39;driven by a mission to create
-        games where players can find friendship, community, and belonging&#39;.
-        This gives us a solid idea about their debut game, but their unique
-        pre-announcement history must be discussed first as it provides the
-        backdrop for a developer worth paying attention to. That&#39;s because
-        teamLFG aren&#39;t a new studio, in fact, they&#39;ve been around for
-        years as small incubation team within Bungie.
+        LFG stands for &#39;looking for group&#39; as according to their
+        announcement, they &#39;create games where players can find friendship,
+        community, and belonging&#39;. While these titbits foreshadow their
+        debut game, LFG&#39;s unique pre-announcement history must be discussed
+        first as it portrays why they&#39;re worth paying attention to.
+        That&#39;s because teamLFG aren&#39;t a new studio - they&#39;ve been
+        around for years as small incubation team within Bungie.
       </Paragraph>
       <Paragraph>
-        As a part of Bungie, it means teamLFG has a lot of experience with IP
-        like Destiny and Halo. But many of the developers have experience with
-        other non-shooter live-service games such as League of Legends and
-        Roblox. It&#39;s therefore not surprising that this Bungie incubation
-        team was working on Project Gummy Bears. A team-based action game that
-        draws inspiration from fighting games, platformers, MOBAs, life sims,
-        and frog-type games. All within a light-hearted, comedic world set in
-        brand-new, mythic, science-fantasy universe.
+        As part of Bungie, LFG worked on Destiny and Halo. But their experience
+        also extends to non-shooter live-service games like League of Legends
+        and Roblox. These fingerprints can be seen all over their game, Project
+        Gummy Bears - a team-based action game inspired by fighters, MOBAs,
+        platformers, life sims etc. It&#39;s still set in a science-fantasy
+        world, but with a light-hearted, comedic tone to distinguish itself from
+        Destiny.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite not even being close to announcement, early internal playtests
-        of Gummy Bears was so good that its name was making the rounds around
-        the whole of PS Studios. It&#39;s therefore not surprising then that
-        when Bungie&#39;s major financial issues came to light, Sony started
-        carving away at the developer to extract as much value as they could.
-        With Gummy Bears seemingly the most promising project at Bungie
-        currently, it was natural for Sony to extract them from Bungie as a new
-        40-person studio and have them directly under PS Studios where they
-        would have full control over the team. This means that despite
-        originating from Bungie who are allowed to be multiplatform,
-        teamLFG&#39;s games have no onus to come to Xbox or Nintendo consoles.
+        Even when Gummy Bears was just an early incubation project, internal
+        playtests were not only more positive than Bungie&#39;s upcoming
+        Marathon, but word of mouth was so good that it spread throughout all of
+        PS Studios. So in 2024, when Bungie&#39;s significant financial issues
+        came to light and all options were on the table for Sony to extract
+        value, the 40-person incubation team was an obvious one to bring
+        directly into PS Studios where they&#39;d now have full control over GB.
+        LFG&#39;s games now have no onus to come to Xbox or Nintendo, whereas
+        Bungie is multiplatform.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -87,11 +83,11 @@ function TeamLFGPage(): JSX.Element {
             Bungie&#39;s headcount, they clearly saw something at Gummy Bears to
             extract the game and talent from Bungie to give it the best chance.
             Even internally within Bungie, it was far better received than
-            Marathon. Gummy Bears also does not come with some of the
-            pitfalls other Sony live-service games have. For example, it&#39;s
-            not a competitive shooter. In fact, it will be the only Smash Bros
-            type game on PlayStation. It will therefore find it much easier to
-            stand out compared to Marathon, Fairgames and Concord. It&#39;s
+            Marathon. Gummy Bears also does not come with some of the pitfalls
+            other Sony live-service games have. For example, it&#39;s not a
+            competitive shooter. In fact, it will be the only Smash Bros type
+            game on PlayStation. It will therefore find it much easier to stand
+            out compared to Marathon, Fairgames and Concord. It&#39;s
             light-hearted tone, if done right, could also emulate what
             Helldivers did with its faux democracy, which ended up being a big
             selling point.

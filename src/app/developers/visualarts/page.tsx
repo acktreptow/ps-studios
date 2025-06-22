@@ -28,72 +28,48 @@ function VisualArtsPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2007, this San Diego-based developer started as part of
-        PlayStation&#39;s visual arts group. As the Visual Arts team, they help
-        with games designed at other Sony-owned studios with animation, art or
-        other content and development. Due to these small contributions, studio
-        head Ingram said his team “works on 15 to 25 games at any one time”. And
-        this is in addition to other assistance like CG animation tech for
-        Netflix&#39;s Love, Death & Robots series.
+        Founded in 2007, this San Diego-based developer is part of
+        PlayStation&#39;s Visual Arts Group. Supporting games from other
+        first-party devs with animation, art etc. As a support studio, their
+        contributions are small, but it means they work on 15-25 games at a
+        time, in addition to Sony&#39;s non-gaming IP like Netflix&#39;s Love,
+        Death & Robots. It&#39;s not the traditional role of a developer, but in
+        2018 there was a failed pivot to become one.
       </Paragraph>
       <Paragraph>
-        This is obviously not the role of a traditional PS Studios developer,
-        but back in 2018, there was a failed pivot to become one. Michael
-        Mumbouer, who was high up in Visual Arts, along with a few other
-        influential Sony staff, had aspirations of acting like a proper studio
-        within PlayStation first-party. A studio that had more creative control
-        and lead game direction rather than just supporting popular titles such
-        as Spider-Man and Uncharted. In order to attempt this, VASG managed to
-        assemble around 30 developers from neighboring studios. However, this
-        wasn&#39;t enough staff to create their own game, so they decided to
-        remake a classic as a starting off point to prove they could do so. They
-        initially decided on remaking 2007&#39;s Uncharted 1, however even that
-        project was deemed too big as it would take a lot of resources to
-        modernize a PS3-launch window title up to PS5-generation standards. So
-        instead, they went with The Last of Us. Still a PS3 title, but one that
-        came out 6 years later and was far more modern. Then, once
-        Mumbauer&#39;s group had established itself, it could go on to remake
-        the first Uncharted game and other titles down the road.
+        VASG&#39;s Senior Director Michael Mumbauer aspired to become a proper
+        PS Studio with creative control over a game&#39;s direction, instead of
+        just support work. 30 developers assembled from neighboring studios, but
+        this size would only let them remake a classic. 2007&#39;s Uncharted was
+        initially targeted, but as an early PS3 game, even that was deemed too
+        big to modernize to PS5 standards. They then settled on 2013&#39;s The
+        Last of Us, which was a far more modern PS3 game. After TLOU, VASG could
+        then scale up to remake Uncharted, then their own games after.
       </Paragraph>
       <Paragraph>
-        Mumbauer&#39;s project T1X was approved, but only on a probationary
-        basis, Sony also kept their existence a secret and refused to give them
-        a budget to hire more people. This made Mumbauer and others question if
-        Sony were really committed to letting VASG build into a new studio that
-        could produce their own videogame. Still, they kept working and by the
-        spring of 2019 they had completed a section of the game designed to
-        showcase how the rest would look and feel. But things changed at Sony as
-        Herman Hulst took over as head of first-party studios, resulting in an
-        audit of all first-party studios so he knew exactly what was going on.
-        He examined the project and was alerted to such a high planned budget
-        for a remake project. Furthermore, he wasn&#39;t convinced by Mumbaeur
-        trying to argue for the budget by stating it was on a brand new engine
-        and that VASG needed to hire more people to work on the new engine and
-        redesign gameplay mechanics.
-      </Paragraph>
-      <Paragraph>
-        Instead, VASG was brought on to Naughty Dog&#39;s upcoming The Last of
-        Us Part 2 following its internal delay from 2019 to 2020. After this,
-        instead of hiring up, Naughty Dog would be brought into T1X in a support
-        role, partially due to their other planned titles being at various
-        stages in pre-production and VASG&#39;s lack of familiarity with the
-        PS5&#39;s hardware. T1X would now also be under Naughty Dog&#39;s
-        budget. Mumbauer rightfully didn&#39;t like this arrangement as he
-        believed this was stripping his team from their autonomy. Especially as
-        T1X would now also be under Naughty Dog&#39;s budget, which Sony gave
-        more leeway than the Visual Arts Service Group. Sure enough, due to
-        their size and experience with the IP, Naughty Dog&#39;s involvement
-        gradually outplaced VASG&#39;s work. Between being forced onto TLOU2 and
-        having ND forced onto T1X, many people in Sony were already jokingly
-        referring to VASG as Naught Dog South. By November 2020, now realizing
-        his dream of turning VASG into its own studio, Mumbauer, along with
-        several members of his team, left due to the new development dynamics.
+        TLOU&#39;s remake (Project T1X) was only probationally approved, which
+        meant T1X would remain a secret with no budget to hire more people.
+        Mumbauer questioned if Sony were committed to his vision for VASG, but
+        kept working. They completed a vertical slice showcasing T1X&#39;s look
+        and feel in spring 2019, months before Hermen Hulst took over all of
+        first-party. Due to his new role, Hulst thoroughly reviewed the entire
+        PS Studios portfolio and grew concerned with T1X&#39;s budget
+        considering it was a remake. Mumbauer argued that this was VASG&#39;s
+        first project, on a brand new engine, and they actually needed to hire
+        more people to modernize gameplay. Hulst was unconvinced.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Since then, VA have continued in the support role Sony always saw them
-        in. Working on numerous projects within PS Studios by creating art
-        assets etc. For example, both TLOU remasters, Spider-Man 2 and even
-        third-party support for PS5 versions of The Callisto Protocol.
+        Instead, T1X&#39;s team was brought on as extra VASG support to Naughty
+        Dog&#39;s TLOU 2, following its internal delay from 2019 to 2020. Once
+        completed, instead of hiring up, T1X shifted to ND&#39;s budget, and ND
+        joined in a support role. Mumbauer wasn&#39;t pleased as he rightfully
+        believed this would strip VASG&#39;s autonomy. Due to their size, ND
+        gradually outpaced VASG&#39;s work. As it was their own IP, ND were also
+        trusted more by Sony, which effectively gave them final say - to the
+        point where VASG was jokingly referred to as Naughty Dog South. By
+        November 2020, with his vision for VASG dead, Mumbauer and several team
+        members left. Since then, VASG has continued in the support role Sony
+        always saw them in.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -122,7 +98,7 @@ function VisualArtsPage(): JSX.Element {
           <Paragraph marginBottom={8}>
             Perhaps circumstances change during the PS6 generation and Visual
             Arts are able to finally do what they set out to back in 2018 and
-            create their own remake, which they’ll use as a springboard to
+            create their own remake, which they&#39;ll use as a springboard to
             eventually make their own PS6 game. Until then, if this unlikely
             scenario ever comes about, we can at least appreciate their work in
             pretty much every future PS Studios game through them providing art,

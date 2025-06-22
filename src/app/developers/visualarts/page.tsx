@@ -1,6 +1,4 @@
 import { Metadata } from "next";
-import gamesData from "../../data/games.json";
-import { Game } from "../../types/Game";
 import Image from "next/image";
 import bendLeak from "../../../../public/images/dev-pages/bend-leak.png";
 import Container from "../../components/Container";
@@ -15,8 +13,6 @@ export const metadata: Metadata = {
   description:
     "The history and future of Visual Arts, a first-party developer for PlayStation Studios.",
 };
-
-const gamesArray: Game[] = gamesData;
 
 function VisualArtsPage(): JSX.Element {
   return (
@@ -113,7 +109,7 @@ function VisualArtsPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="bend-leak" className="block text-center mb-8">
-            Leaked Screenshot Of Bend&#39;s Cancelled Live Service Game
+            Leaked Shot Bend&#39;s Cancelled Game
           </label>
         </div>
       </ImageSection>

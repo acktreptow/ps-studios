@@ -11,7 +11,7 @@ import ImageSection from "../../components/ImageSection";
 export const metadata: Metadata = {
   title: "Malaysia Studio",
   description:
-    "The history and future of Malaysia Studio, a former first-party developer for PlayStation Studios.",
+    "The history and future of Malaysia Studio, a first-party developer for PlayStation Studios.",
 };
 
 function MalaysiaStudioPage(): JSX.Element {
@@ -39,7 +39,7 @@ function MalaysiaStudioPage(): JSX.Element {
         stuck on. For MLB, they worked on various art assets that only need to
         be updated for the next yearly iteration. Not created from scratch.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -72,7 +72,7 @@ function MalaysiaStudioPage(): JSX.Element {
             in most PS5 games across the PS Studios portfolio.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={tlouComparison}
             alt="Comparing TLOU 1 on PS3/PS4/PS5"

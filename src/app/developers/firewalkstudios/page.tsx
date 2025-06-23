@@ -14,7 +14,7 @@ import GamesSection from "../../components/GamesSection";
 export const metadata: Metadata = {
   title: "Firewalk Studios",
   description:
-    "The history and future of Firewalk Studios, a first-party developer for PlayStation Studios.",
+    "The history of Firewalk Studios, a former first-party developer for PlayStation Studios.",
 };
 
 const gamesArray: Game[] = gamesData;
@@ -25,7 +25,7 @@ function FirewalkStudiosPage(): JSX.Element {
       <Title title="Firewalk Studios" />
       <DeveloperButton
         developer="Firewalk"
-        urlPath="https://firewalkstudios.com/"
+        urlPath="https://x.com/firewalkstudios"
       />
       <SubTitle subtitle="History" />
       <Paragraph>
@@ -79,7 +79,7 @@ function FirewalkStudiosPage(): JSX.Element {
             htmlFor="concord-characters"
             className="block text-center mb-8"
           >
-            Concord&#39;s Uninspired Character Design Was Widely Panned
+            Concord&#39;s Panned Character Designs
           </label>
         </div>
       </ImageSection>

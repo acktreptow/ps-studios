@@ -34,42 +34,40 @@ function MalaysiaStudioPage(): JSX.Element {
         around 100 employees.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        With TLOU, Malaysia Studio worked on the hints the player receives upon
-        death to help with whatever obstacle and/or combat scenario they were
-        stuck on. For MLB, they worked on various art assets that only need to
-        be updated for the next yearly iteration. Not created from scratch.
+        With TLOU, Malaysia Studio worked on hints the player receives upon
+        death to get past the obstacle and/or combat scenario they&#39;re stuck
+        on. For MLB, they worked on art assets that only need to be updated for
+        the next yearly iteration. Not created from scratch.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Over the past decade, Malaysia has become a popular country for
-            support studios to form and help the main developer achieve their
-            vision for a game. This is great in providing more opportunities for
-            game developers in a country with traditionally so few. But as
-            they&#39;re built to support, you shouldn&#39;t expect Malaysia
-            Studio to develop their own PS5 game any time soon.
+            support studios to form. While great in providing more opportunities
+            for developers in a place with traditionally so few, as they&#39;re
+            for support, you shouldn&#39;t expect Malaysia Studio to develop
+            their own PS5 game soon.
           </Paragraph>
           <Paragraph>
-            These support studios are also not immune from the numerous rounds
-            of layoffs every company is going through due to the worsening
-            economy. In March 2025 alone, around 20 Malaysia Studio staff were
-            let go. Including asset/concept artists and project managers who
-            were specifically told this wasn&#39;t due to performance, but to
-            save money. It&#39;s therefore a near-impossible task for support
-            studios to hire up and make their own games in this current economic
-            climate.
+            Support studios are also not immune from the numerous rounds of
+            layoffs every company is doing due to the worsening economy. In
+            March 2025 alone, around 20 Malaysia Studio staff were let go.
+            Including asset/concept artists and project managers who were
+            specifically told this wasn&#39;t due to performance, but to save
+            money. It&#39;s therefore a near-impossible task for support studios
+            to hire up and make their own games in the current economic climate.
           </Paragraph>
           <Paragraph marginBottom={8}>
             However, these economic issues may not persist long-term. And in
             Malaysia, the talent pool already extends to Larian, Codemasters,
             Namco etc. It&#39;s therefore possible that Malaysia Studio, under
-            better economic circumstances, grows into a developer that one day
-            develops their own PS6 game. The intent already seems to be there as
-            studio head Hasnul Samsudin stated: &#39;There&#39;s nothing that
-            can be done in our world of AAA games that can&#39;t be done here in
-            Malaysia&#39;. Until then, you can enjoy their small contributions
-            in most PS5 games across the PS Studios portfolio.
+            better economic circumstances, grows into a developer that develops
+            their own PS6 game. The intent is already there as studio head
+            Hasnul Samsudin stated: &#39;There&#39;s nothing that can be done in
+            our world of AAA games that can&#39;t be done here in Malaysia&#39;.
+            Until then, you can enjoy their small contributions in most PS5
+            games across the PS Studios portfolio.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -60,7 +60,7 @@ function DarkOutlawGamesPage(): JSX.Element {
         the PS5 game Sony originally wanted Deviation to make. But this time,
         Sony owns the team and IP making it.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -98,18 +98,18 @@ function DarkOutlawGamesPage(): JSX.Element {
             chance his new game has to succeed.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={deviationGames}
             alt="Deviation Games Announcement"
             id="deviation-games"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="deviation-games" className="block text-center">
-            Deviation Games Announcement At SGF 2021
+          <label htmlFor="deviation-games" className="block text-center mb-8">
+            Deviation Games At SGF 2021
           </label>
         </div>
-      </ImageSection>{" "}
+      </ImageSection>
       <SubTitle subtitle="PS5 Games" marginBottom={5} />
       <GamesSection games={gamesArray} developer="Dark Outlaw Games" />
     </Container>

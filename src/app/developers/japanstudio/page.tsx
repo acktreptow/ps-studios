@@ -24,73 +24,71 @@ function JapanStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        While the &#39;Japan Studio&#39; branding began with the 2006 PS3 launch
-        title &#39;Genji: Days of the Blade&#39;, they&#39;ve existed since
-        PlayStation&#39;s inception in 1993 as a key internal developer within
-        Sony Computer Entertainment, where it held a unique role. Not only did
-        it consist of multiple internal teams such as Team ICO (Shadow of the
-        Colossus, The Last Guardian) and Team Gravity (Siren, Gravity Rush), but
-        an equal part of their portfolio came from external collaborations. For
-        example, FromSoftware (Demon&#39;s Souls, Bloodborne) and numerous golf
-        games with Clap Hanz. Other well-known Japan Studio IP include Ape
-        Escape, Knack and Patapon.
+        While the &#39;Japan Studio&#39; branding began with 2006&#39;s PS3
+        launch game &#39;Genji: Days of the Blade&#39;, they&#39;ve existed
+        since PlayStation&#39;s 1993 inception as a key internal developer
+        within Sony Computer Entertainment, where it held a unique role. Not
+        only did it consist of multiple internal teams such as Team ICO (Shadow
+        of the Colossus, The Last Guardian) and Team Gravity (Siren, Gravity
+        Rush), but an equal part of their portfolio came from external
+        collaborations, such as FromSoftware (Demon&#39;s Souls, Bloodborne) and
+        many golf games with Clap Hanz. Other big JS IP include Ape Escape,
+        Knack and Patapon.
       </Paragraph>
       <Paragraph>
-        A good example of this split portfolio are Japan Studio&#39;s PS5 launch
+        Japan Studio&#39;s split portfolio is best seen with its PS5 launch
         games. While Demon&#39;s Souls was in collaboration with prestige remake
         developer Bluepoint, the free PS5 pack-in Astro&#39;s Playroom was
-        created internally at Team Asobi. Both were successful, however shortly
-        after in April 2021, Japan Studio was re-centered around Asobi to build
-        on the popularity of the Astro IP - effectively shuttering the
-        developer.
+        created internally by Team Asobi. Both were successful, but shortly
+        after in April 2021, JS was re-centered around Asobi to build on the
+        popularity of the Astro IP - effectively shuttering them.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Reportedly, Japan Studio&#39;s original AA games weren&#39;t considered
         profitable enough by Sony to continue, so most contracts outside of
-        Asobi weren&#39;t renewed. Instead, PS Studios would continue with AAA
-        cinematic games, whilst also diving head-first into live-service.
-        Therefore, leaving the AA and indie space to independent creators,
-        third-party publishers, and second-party XDev partnerships.
+        Asobi weren&#39;t renewed. Instead, Sony would continue with AAA
+        cinematic games, whilst also diving into live-service. Thus leaving the
+        AA and indie space to independent creators, third-party publishers, and
+        second-party XDev partnerships.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            To be fair, it somewhat made sense to focus on Asobi. Sony
-            could&#39;ve charged for Astro&#39;s Playroom as it showcased the
-            IP&#39;s potential, which was realized with 2024&#39;s award-winning
-            Astro Bot. Its success was also greater than anything developed by
-            other Japan Studio teams in 10+ years and Sony still has XDev for
-            external games. But these points don&#39;t negate PlayStation&#39;s
-            short-sighted dismissiveness of the AA space, as JS would&#39;ve
-            been a tremendous attribute for PS5 right now.
+            To be fair to Sony, it made sense to focus on Asobi. Astro&#39;s
+            Playroom showcased the IP&#39;s potential, which was realized with
+            2024&#39;s award-winning Astro Bot. Its success was also greater
+            than anything developed by other Japan Studio teams in 10+ years and
+            Sony still has XDev for external partnerships. But these points
+            don&#39;t negate Sony&#39;s short-sighted dismissiveness of AA
+            games, as JS would&#39;ve been a tremendous attribute for PS5 right
+            now.
           </Paragraph>
           <Paragraph>
-            Outside of Helldivers 2, Sony&#39;s live-strategy has been a
-            failure. Most external partnerships are cancelled, newly acquired
-            studios have universally failed, and many established PS Studios
-            have been wasted this generation. This has caused Sony&#39;s
-            first-party output to become a sporadic wasteland of releases since
-            2021, resulting in the prestige of PS Studios taking a significant
-            hit.
+            Outside of Helldivers 2, Sony&#39;s live-strategy has failed. Most
+            second-party games are cancelled, newly acquired studios have
+            delayed games, and many old PS Studios like Bend have been wasted
+            this generation. This has caused Sony&#39;s first-party output to
+            become a sporadic wasteland since 2022, resulting in the prestige of
+            PS Studios taking a significant hit.
           </Paragraph>
           <Paragraph>
-            JS&#39;s AA games don&#39;t sell millions of copies with a 90+ on
+            JS&#39;s AA games don&#39;t sell in the millions with a 90+
             Metacritic, but their smaller scope means many would ship, thus
             allowing Sony to still have consistent releases. With so few
-            cinematic AAA titles currently, there&#39;s also an opportunity for
-            the hardcore base to evangelize the AA scene more than they
-            would&#39;ve pre-2022. Astro Bot perfectly shows the potential of AA
-            games currently.
+            cinematic AAA titles currently, there&#39;s also an opening for the
+            hardcore base to evangelize the AA scene more than they would&#39;ve
+            pre-2022. Astro Bot perfectly shows the potential of AA games
+            currently.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Fortunately, many former staff formed new studios to continue
-            working together, like Team Gravity with &#39;Slitterhead&#39; as
-            Bokeh Game Studio, or Patapon staff&#39;s spiritual sequel
+            Fortunately, many former JS staff formed new studios to continue
+            together, like Team Gravity&#39;s &#39;Slitterhead&#39; as Bokeh
+            Game Studio, or Patapon staff&#39;s spiritual sequel
             &#39;Ratatan&#39;. Bandai Namco also licensed Everybody&#39;s Golf,
-            Freedom Wars and Patapon from Sony to release sequels/remakes in
-            2025. Between these examples and Asobi, Japan Studio&#39;s legacy
-            still lives on.
+            Freedom Wars and Patapon from Sony to release sequels/remakes.
+            Between these examples and Asobi, Japan Studio&#39;s legacy still
+            lives on.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

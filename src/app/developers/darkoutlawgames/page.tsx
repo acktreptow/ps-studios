@@ -29,45 +29,44 @@ function DarkOutlawGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Dark Outlaw Games is a Los Angeles-based developer that was publicly
-        acknowledged in 2025. However, their history goes back much further
-        despite the recent announcement. Founded by Jason Blundell, who was
-        co-studio head of Treyarch until 2020, he&#39;s best known for directing
-        the Campaign and Zombies modes in Black Ops 3 and 4. Considering his
-        pedigree on the Call of Duty IP, which dates back to 2006&#39;s COD3,
-        it&#39;s not surprising we&#39;d see his new studio so quickly…
-        Deviation Games.
+        Dark Outlaw Games is a LA-based developer that was publicly acknowledged
+        in 2025. However, its history starts years before the recent
+        announcement. Founded by Jason Blundell, who was co-studio head of
+        Treyarch until 2020, he&#39;s best known for directing the Campaign and
+        Zombies modes in Black Ops 3 and 4. Considering his pedigree on Call of
+        Duty, which dates back to 2006&#39;s COD3, it&#39;s not surprising
+        we&#39;d see his new studio so quickly… Deviation Games.
       </Paragraph>
       <Paragraph>
         At SGF 2021, he and fellow COD veteran David Anthony announced Deviation
         along with a Sony partnership to fund their first game - a new AAA IP
-        that&#39;s inspired by their COD history. However, this was the last
-        time we&#39;d publicly hear from Deviation as they closed in March 2024.
+        inspired by their COD history. However, this was the last time we&#39;d
+        publicly hear from Deviation as they closed in March 2024.
       </Paragraph>
       <Paragraph>
         It was never officially stated why Deviation closed. But whatever issues
         there were, it was bad enough for Sony to pull funding. Blundell also
         left much earlier in 2022 - reportedly to form a new studio as part of
-        PS Studios, which we eventually came to know as Dark Outlaw. According
-        to LinkedIn profiles, the studio has been up and running since at least
-        June 2023. Staffed up by a significant number of ex-Deviation employees.
+        PS Studios, which we now know as Dark Outlaw. According to LinkedIn
+        profiles, the studio has been operating since at least June 2023.
+        Staffed up by a significant number of ex-Deviation employees.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Regardless of what really went wrong inside Deviation, Sony clearly
-        believed Blundell was not the founder causing the issue. Especially as
-        the other co-founder has been self-employed since Deviation shut in
-        March 2024. Now as Dark Outlaw, the studio is almost certainly creating
-        the PS5 game Sony originally wanted Deviation to make. But this time,
-        Sony owns the team and IP making it.
+        believes Blundell wasn&#39;t the founder causing the issue. Especially
+        as the other co-founder has been self-employed since Deviation closed.
+        Now as Dark Outlaw, the studio is almost certainly creating the PS5 game
+        Sony originally wanted Deviation to make. But this time, Sony owns the
+        team and IP.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Not much is known about Dark Outlaw&#39;s game because the developer
-            has only been publicly mentioned once, in an interview primarily
-            about Blundell&#39;s career history. Dark Outlaw only got a brief
-            mention, but it fortunately included relevant information.
+            Little is known about Dark Outlaw&#39;s game because they&#39;ve
+            only been publicly mentioned once, in an interview primarily about
+            Blundell&#39;s career history. The studio just got a brief mention,
+            but it fortunately included relevant information.
           </Paragraph>
           <Paragraph>
             Blundell stated that Dark Outlaw has been staffing up for a while,
@@ -75,27 +74,26 @@ function DarkOutlawGamesPage(): JSX.Element {
             also slowly ramping up development while prioritizing getting the
             team to gel first, which allows the best ideas to naturally come to
             light. Considering the history however, I speculate that much of the
-            final game will still closely resemble their original Deviation
-            project. Which in turn likely took many ideas from Black Ops 3 and
-            4. Finally, we know it&#39;s a live-service game, but there&#39;s
-            reasons for optimism compared to most of Sony&#39;s live-service
-            push.
+            final game will still closely resemble the original Deviation
+            project. Which in turn likely took inspiration from Black Ops 3 and
+            4. Finally, while it&#39;s a live-service game, there&#39;s reasons
+            for optimism compared to most of Sony&#39;s live-service push.
           </Paragraph>
           <Paragraph>
             Based on Blundell&#39;s comments, the game is still years away. This
             is an advantageous position as Sony can analyze any mistakes made
             with upcoming live-service games like Fairgames/Marathon and
             (hopefully) not repeat them. Blundell also has time to reflect on
-            mistakes made at Deviation and ensure these aren&#39;t repeated at
+            mistakes made at Deviation and ensure they aren&#39;t repeated at
             Dark Outlaw.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Blundell&#39;s co-op-focused history with multiple COD Zombies modes
-            also has his new game comparing favorably to the competitive-focused
-            games just mentioned. Helldivers 2&#39;s adamance on no PVP was a
-            big reason why it was the one Sony live-service game that succeeded,
-            so the more he leans into the co-op blueprint, the stronger the
-            chance his new game has to succeed.
+            Blundell&#39;s co-op-focused career with COD Zombies also compares
+            favorably to the competitive-focused games just mentioned.
+            Helldivers 2&#39;s adamance on no PvP was a big reason why it&#39;s
+            the one Sony live-service game that succeeded, so the more he leans
+            into the co-op blueprint, the stronger the chance his new game has
+            to succeed.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

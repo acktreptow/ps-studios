@@ -19,7 +19,7 @@ function LondonStudioPage(): JSX.Element {
     <Container>
       <Title title="London Studio" />
       <DeveloperButton
-        developer="London Studio"
+        developer="London"
         urlPath="https://x.com/londonstudiohq"
       />
       <SubTitle subtitle="History" />
@@ -55,7 +55,7 @@ function LondonStudioPage(): JSX.Element {
         game would not only result in cancellation, but also the shuttering of
         London Studio in early 2024.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -93,18 +93,15 @@ function LondonStudioPage(): JSX.Element {
             highest tier of PS Studios.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={londonStudioConceptArt}
             alt="Concept art of cancelled live service game"
-            id="cancelled-game-concept-art"
+            id="camden-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label
-            htmlFor="cancelled-game-concept-art"
-            className="block text-center"
-          >
-            Concept Art Of London Studio&#39;s Cancelled Live Service Game
+          <label htmlFor="camden-concept-art" className="block text-center">
+            Project Camden&#39;s Only Concept Art
           </label>
         </div>
       </ImageSection>

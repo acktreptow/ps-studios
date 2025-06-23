@@ -19,7 +19,7 @@ function ManchesterStudioPage(): JSX.Element {
     <Container>
       <Title title="Manchester Studio" />
       <DeveloperButton
-        developer="Manchester Studio"
+        developer="Manchester"
         urlPath="https://playstation-studios.fandom.com/wiki/Manchester_Studio"
       />
       <SubTitle subtitle="History" />
@@ -48,7 +48,7 @@ function ManchesterStudioPage(): JSX.Element {
         PSVR&#39;s lifecycle due to the upcoming PS5 and PSVR2, Hulst ultimately
         cancelled CSAR when he closed MS in February 2020.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -77,15 +77,15 @@ function ManchesterStudioPage(): JSX.Element {
             for pulling the plug.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={csr}
-            alt="Concrete Genie"
-            id="concrete-genie"
+            alt="CSAR Concept Art"
+            id="csar-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="concrete-genie" className="block text-center">
-            The Only CSAR: Combat, Search, and Rescue Concept Art
+          <label htmlFor="csar-concept-art" className="block text-center">
+            CSAR&#39;s Only Concept Art
           </label>
         </div>
       </ImageSection>

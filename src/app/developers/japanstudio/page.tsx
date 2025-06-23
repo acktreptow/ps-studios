@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import japanstudioholidays from "../../../../public/images/dev-pages/japan-studio-holidays.png";
+import japanStudioHolidays from "../../../../public/images/dev-pages/japan-studio-holidays.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -19,7 +19,7 @@ function JapanStudioPage(): JSX.Element {
     <Container>
       <Title title="Japan Studio" />
       <DeveloperButton
-        developer="Japan Studio"
+        developer="Japan"
         urlPath="https://x.com/sonyjapanstudio"
       />
       <SubTitle subtitle="History" />
@@ -52,7 +52,7 @@ function JapanStudioPage(): JSX.Element {
         Therefore, leaving the AA and indie space to independent creators,
         third-party publishers, and second-party XDev partnerships.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -93,15 +93,15 @@ function JapanStudioPage(): JSX.Element {
             still lives on.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={japanstudioholidays}
+            src={japanStudioHolidays}
             alt="Japan Studio's final holiday card"
             id="jp-studio-holiday-card"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="jp-studio-holiday-card" className="block text-center">
-            Japan Studio IP&#39;s Final Holiday Card
+            Japan Studio&#39;s Final Holiday Card
           </label>
         </div>
       </ImageSection>

@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import csr from "../../../../public/images/dev-pages/combat-search-rescue.png";
+import csar from "../../../../public/images/dev-pages/combat-search-and-rescue.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -79,7 +79,7 @@ function ManchesterStudioPage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={csr}
+            src={csar}
             alt="CSAR Concept Art"
             id="csar-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"

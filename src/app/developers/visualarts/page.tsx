@@ -71,34 +71,28 @@ function VisualArtsPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Visual Arts will continue to have a small role in pretty much every
-            PS Studios game that comes out during the PS5 generation. But
-            considering what happened to Mumbauer, it&#39;s now also very
-            unlikely that they will get to make their own PS5 game before the
-            generation finishes.
+            Mumbauer&#39;s vision for Visual Arts died in 2020, which made it
+            very unlikely for VASG to ever develop their own PS5 game. Since
+            then, other factors have made the chances much worse.
           </Paragraph>
           <Paragraph>
-            Furthermore, since Mumbauer and other higher ups left VASG after the
-            failed attempt, the economy has only gotten worse with companies all
-            over the world doing multiple rounds of layoffs to combat this, and
-            Sony is no different. In March 2025, numerous VASG staff supporting
-            Bend&#39;s now cancelled live-service were let go. As for the rest
-            of the staff, there&#39;s already rumors that they&#39;re once again
-            assisting Naughty Dog, alongside a new internal Sony studio, on a
-            title based on a &#39;beloved franchise&#39;, which may well be a
-            new Uncharted. Although these rumors are from 2022, and we&#39;ve
-            seen from numerous other developers such as Bend. Bluepoint,
-            Firewalk, Bungie and even Naughty Dog how much can change in 3
-            years.
+            The economy has only gotten worse with companies like Sony executing
+            multiple rounds of layoffs, and VASG wasn&#39;t immune. In March
+            2025, Bend&#39;s live-service game that was in development for 4
+            years was abruptly cancelled. As VASG was part of the project in a
+            support role, Bend&#39;s cancellation resulted in an undisclosed
+            number of VASG staff getting let go.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Perhaps circumstances change during the PS6 generation and Visual
-            Arts are able to finally do what they set out to back in 2018 and
-            create their own remake, which they&#39;ll use as a springboard to
-            eventually make their own PS6 game. Until then, if this unlikely
-            scenario ever comes about, we can at least appreciate their work in
-            pretty much every future PS Studios game through them providing art,
-            animation and technical support.
+            Perhaps circumstances change on PS6 and VASG make their own game,
+            but this seems increasingly unlikely as time goes on. Until then, we
+            can at least appreciate their work in most upcoming PS Studios games
+            via art, animation and technical support. There&#39;s also rumors of
+            VASG once again assisting Naughty Dog, alongside a new internal
+            studio, on a project that&#39;s likely the next Uncharted. This may
+            not be the dream Mumbauer had, but as part multiple projects,
+            including big IP, VASG continue to be an essential part of PS
+            Studios that&#39;s worth keeping an eye on.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

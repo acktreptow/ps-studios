@@ -58,7 +58,7 @@ function SanMateoStudioPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="jet-li-ps2" className="block text-center">
-            San Mateo Studio&#39;s Only Game. 68 On Metacritic.
+            Jet Li Is San Mateo&#39;s Only Game
           </label>
         </div>
       </ImageSection>

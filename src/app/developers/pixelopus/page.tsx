@@ -48,7 +48,7 @@ function PixelopusPage(): JSX.Element {
         commercial hit. It was unfortunately also Pixelopus&#39;s final game, as
         Sony shuttered them in 2023.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -80,7 +80,7 @@ function PixelopusPage(): JSX.Element {
             shutting Pixelopus is still an understandable conclusion.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={concreteGenie}
             alt="Concrete Genie"
@@ -88,7 +88,7 @@ function PixelopusPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="concrete-genie" className="block text-center">
-            Pixelopus&#39;s Final Game: Concrete Genie
+            Concrete Genie&#39;s PS4 Cover Art
           </label>
         </div>
       </ImageSection>

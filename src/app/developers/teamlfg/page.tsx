@@ -33,70 +33,67 @@ function TeamLFGPage(): JSX.Element {
         LFG stands for &#39;looking for group&#39; as according to their
         announcement, they &#39;create games where players can find friendship,
         community, and belonging&#39;. While these titbits foreshadow their
-        debut game, LFG&#39;s unique pre-announcement history must be discussed
-        first as it portrays why they&#39;re worth paying attention to.
-        That&#39;s because teamLFG aren&#39;t a new studio - they&#39;ve been
-        around for years as small incubation team within Bungie.
+        debut game, LFG&#39;s unique history must be discussed first because
+        they aren&#39;t a new studio - they&#39;ve been around for years as an
+        incubation team within Bungie.
       </Paragraph>
       <Paragraph>
         As part of Bungie, LFG worked on Destiny and Halo. But their experience
-        also extends to non-shooter live-service games like League of Legends
-        and Roblox. These fingerprints can be seen all over their game, Project
-        Gummy Bears - a team-based action game inspired by fighters, MOBAs,
-        platformers, life sims etc. It&#39;s still set in a science-fantasy
-        world, but with a light-hearted, comedic tone to distinguish itself from
+        also extends to non-shooter live-service IP like League of Legends and
+        Roblox. This history can be seen all over their game, Project Gummy
+        Bears - a team-based action game inspired by fighters, MOBAs,
+        platformers, life sims, etc. It&#39;s still set in a science-fantasy
+        world, but has a light-hearted, comedic tone to distinguish itself from
         Destiny.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Even when Gummy Bears was just an early incubation project, internal
-        playtests were not only more positive than Bungie&#39;s upcoming
-        Marathon, but word of mouth was so good that it spread throughout all of
-        PS Studios. So in 2024, when Bungie&#39;s significant financial issues
-        came to light and all options were on the table for Sony to extract
-        value, the 40-person incubation team was an obvious one to bring
-        directly into PS Studios where they&#39;d now have full control over GB.
-        LFG&#39;s games now have no onus to come to Xbox or Nintendo, whereas
-        Bungie is multiplatform.
+        Even when Gummy Bears was an early incubation game, internal playtests
+        were not only more positive than Bungie&#39;s Marathon, but word of
+        mouth was so good that it spread throughout PS Studios. So in 2024, when
+        Bungie&#39;s significant financial issues came to light and all options
+        were on the table for Sony to extract value, the 40-person team was an
+        obvious one to bring directly into PS Studios as they&#39;d now have
+        full control over GB. LFG&#39;s games now have no onus to come to Xbox
+        or Nintendo, whereas Bungie is multiplatform.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Little else has been officially said about Gummy Bears, but
-            there&#39;s been leaked info regarding gameplay. GB is a PvP
-            team-based competitive game that will include multiple modes and
-            class types. It&#39;s fundamentally a MOBA but takes influence from
-            Smash Bros to differentiate from others in the genre. That means
-            characters falling off maps and percentage-based damage instead of
-            HP. In order to appeal to a younger audience than Bungie has,
-            friends can hang out to &#39;express their identity&#39; in a
-            &#39;lo-fi and cozy&#39; vibe between matches.
+            Little else has been officially said about Gummy Bears, but gameplay
+            details have leaked. GB is a PvP team-based competitive game that
+            will include multiple modes and class types. It&#39;s fundamentally
+            a MOBA but takes influence from Smash Bros to differentiate from
+            others in the genre. That means characters falling off maps and
+            percentage-based damage instead of HP. In order to appeal to a
+            younger audience than Bungie has, friends can hang out to
+            &#39;express their identity&#39; in a &#39;lo-fi and cozy&#39; vibe
+            between matches.
           </Paragraph>
           <Paragraph>
-            Out of the upcoming live-service games, I&#39;m more optimistic
-            about Gummy Bears than most. Even internally within Bungie, its
-            reception was better than Marathon. It&#39;s also very telling that
-            with all of Bungie&#39;s current turmoil, LFG showed so much promise
-            that Sony extracted them from a bad situation so PS Studios could
+            Out of Sony&#39;s upcoming live-service games, I&#39;m more
+            optimistic about Gummy Bears than most. Even internally within
+            Bungie, its reception was better than Marathon. It&#39;s also very
+            telling that with all of Bungie&#39;s current turmoil, LFG showed
+            enough promise for Sony to extract them from a bad situation and
             directly nurture GB&#39;s potential.
           </Paragraph>
           <Paragraph>
             Gummy Bears also doesn&#39;t have some of the pitfalls other Sony
             live-service games do. Unlike the saturated shooter-focused genre
-            Fairgames/Marathon are in, GB can more easily stand out as it&#39;s
-            the only Smash Bros type game on PS5. Its lighter tone could also be
-            a major selling point - similar to the virality we saw with
-            Helldivers 2&#39;s &#39;managed democracy&#39;. Finally, GB launches
-            after the aforementioned games, thus giving Sony plenty of data to
-            see what went right/wrong.
+            Fairgames/Marathon are in, GB easily stands out as it&#39;s the only
+            Smash Bros type game on PS5. Its lighter tone could also be a major
+            selling point - similar to the virality Helldivers 2&#39;s managed
+            democracy achieved. Finally, GB launches after the aforementioned
+            games, thus giving Sony plenty of data to see what went right/wrong.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Nonetheless, despite the optimism, Gummy Bears is still years away
             and due to the volatility of live-service, the truth is that its
             critical and/or commercial success can go either way. Hopefully, LFG
-            stay true to their word of multiple early access playtests. This
-            provides the best barometer of what an increasingly pessimistic
-            hardcore PS5 base thinks of yet another live-service game.
+            stay true to their word of many early access playtests. This will be
+            the best barometer of what an increasingly pessimistic hardcore PS5
+            base thinks of yet another live-service game.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

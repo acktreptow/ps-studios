@@ -102,7 +102,7 @@ function VisualArtsPage(): JSX.Element {
             id="bend-leak"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="bend-leak" className="block text-center mb-8">
+          <label htmlFor="bend-leak" className="block text-center">
             Leak Of Bend&#39;s Cancelled Game
           </label>
         </div>

@@ -107,7 +107,7 @@ function TeamLFGPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="gummy-bears" className="block text-center mb-8">
-            Project Gummy Bears Only Concept Art
+            Gummy Bears Only Concept Art
           </label>
         </div>
       </ImageSection>

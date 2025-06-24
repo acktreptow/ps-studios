@@ -88,7 +88,7 @@ function BendStudioPage(): JSX.Element {
             id="days-gone"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="days-gone" className="block text-center">
+          <label htmlFor="days-gone" className="block text-center mb-8">
             Days Gone Cover Art
           </label>
         </div>

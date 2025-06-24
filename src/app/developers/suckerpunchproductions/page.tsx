@@ -71,12 +71,12 @@ function SuckerPunchProductionsPage(): JSX.Element {
         <div>
           <Image
             src={gotDC}
-            alt="Ghost of Tsushima Director's Cut main menu screen"
+            alt="Ghost of Tsushima Director's Cut Start screen"
             id="got-dc"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="got-dc" className="block text-center mb-8">
-            GoT: Director&#39;s Cut Main Menu Screen
+          <label htmlFor="got-dc" className="block text-center mb-8 md:ml-5">
+            GoT: Director&#39;s Cut Start Screen
           </label>
         </div>
       </ImageSection>

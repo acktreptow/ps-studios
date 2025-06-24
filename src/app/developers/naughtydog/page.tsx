@@ -72,7 +72,7 @@ function NaughtyDogPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={tlouFactions}
-            alt="The Last of Us Factions"
+            alt="The Last of Us Online's Only Public Asset"
             id="tlou-factions"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

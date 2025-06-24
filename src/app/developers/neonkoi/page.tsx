@@ -11,7 +11,7 @@ import ImageSection from "../../components/ImageSection";
 export const metadata: Metadata = {
   title: "Neon Koi",
   description:
-    "The history and future of Neon Koi, a first-party developer for PlayStation Studios.",
+    "The history of Neon Koi, a former first-party developer for PlayStation Studios.",
 };
 
 function NeonKoiPage(): JSX.Element {

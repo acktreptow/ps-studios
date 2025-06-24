@@ -20,7 +20,7 @@ function NeonKoiPage(): JSX.Element {
       <Title title="Neon Koi" />
       <DeveloperButton
         developer="Neon Koi"
-        urlPath="https://www.neonkoi.com/"
+        urlPath="https://www.linkedin.com/company/neonkoi/"
       />
       <SubTitle subtitle="History" />
       <Paragraph>

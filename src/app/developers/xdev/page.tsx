@@ -73,12 +73,12 @@ function XDevpage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={ds2OTB}
-            alt="Death Standing 2 On The Beach cutscene"
+            alt="Death Standing 2: On The Beach's Norman Reedus"
             id="d2s-otb"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="d2s-otb" className="block text-center mb-8">
-            XDev&#39;s Death Stranding 2: On the Beach
+          <label htmlFor="d2s-otb" className="block text-center mb-8 md:ml-5">
+            XDev&#39;s Death Stranding 2: On The Beach
           </label>
         </div>
       </ImageSection>

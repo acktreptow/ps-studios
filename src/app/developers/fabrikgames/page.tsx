@@ -18,7 +18,7 @@ function FabrikGamesPage(): JSX.Element {
   return (
     <Container>
       <Title title="Fabrik Games" />
-      <DeveloperButton developer="Fabrik" urlPath="https://firesprite.com/" />
+      <DeveloperButton developer="Fabrik" urlPath="https://x.com/fabrikgames" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2014, this Manchester-based developer has shipped games like

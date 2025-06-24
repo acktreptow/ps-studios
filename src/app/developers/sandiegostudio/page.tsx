@@ -77,8 +77,8 @@ function SanDiegoStudioPage(): JSX.Element {
             id="mlb-25"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="mlb-25" className="block text-center mb-8">
-            MLB 25&#39;s Box Art For All 3 Console Ecosystems
+          <label htmlFor="mlb-25" className="block text-center mb-8 md:ml-5">
+            MLB 25&#39;s Box Art For All 3 Consoles
           </label>
         </div>
       </ImageSection>

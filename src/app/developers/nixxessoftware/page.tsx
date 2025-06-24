@@ -82,7 +82,10 @@ function NixxesSoftwarePage(): JSX.Element {
             id="got-trophies"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="got-trophies" className="block text-center mb-8">
+          <label
+            htmlFor="got-trophies"
+            className="block text-center mb-8 md:ml-5"
+          >
             PlayStation&#39;s PC Overlay For Trophies
           </label>
         </div>

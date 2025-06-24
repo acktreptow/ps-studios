@@ -381,7 +381,7 @@
     "developer": "teamLFG",
     "name": "Project Gummy Bears",
     "id": "Gummy Bears",
-    "genre": "Team-based Action",
+    "genre": "Team-Based Action",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -474,7 +474,7 @@
     "genre": "Action-Adventure Strand",
     "releaseDate": "June 26, 2025",
     "daysBetweenReleases": 265,
-    "metacritic": "N/A"
+    "metacritic": 90
   },
   {
     "developer": "XDev",

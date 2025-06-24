@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import horizonCoTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
+import horizonCOTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -75,13 +75,13 @@ function FirespritePage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={horizonCoTM}
-            alt="Horizon Call of the MMountain gameplay screenshot"
+            src={horizonCOTM}
+            alt="Horizon Call of the Mountain opening"
             id="horizon-cotm"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="horizon-cotm" className="block text-center mb-8">
-            Horizon CoTM On PSVR2
+            Horizon COTM On PSVR2
           </label>
         </div>
       </ImageSection>

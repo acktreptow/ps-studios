@@ -80,7 +80,7 @@ function PixelopusPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={concreteGenie}
-            alt="Concrete Genie"
+            alt="Concrete Genie's PS4 cover art"
             id="concrete-genie"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

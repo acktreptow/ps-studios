@@ -53,7 +53,7 @@ function SanMateoStudioPage(): JSX.Element {
         <div>
           <Image
             src={jetLiPS2}
-            alt="Jet Li PS2"
+            alt="Jet Li PS2 cover art"
             id="jet-li-ps2"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

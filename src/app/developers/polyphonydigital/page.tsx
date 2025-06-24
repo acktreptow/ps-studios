@@ -83,7 +83,7 @@ function PolyphonyDigitalPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={gt7PSVR2}
-            alt="GT7 PSVR2"
+            alt="GT7 on PSVR2"
             id="gt7-psvr2"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

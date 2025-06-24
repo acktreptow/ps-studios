@@ -65,7 +65,7 @@ function BungiePage(): JSX.Element {
         from Bungie once it became clear they wouldn&#39;t see ROI through their
         live-service expertise.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -93,7 +93,7 @@ function BungiePage(): JSX.Element {
             acquisition.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={marathonStolenArt}
             alt="Stolen Marathon art assets"
@@ -101,7 +101,7 @@ function BungiePage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="marathon-art" className="block text-center mb-8">
-            Some Examples Of Stolen Marathon Art Assets
+            The Stolen Marathon Art Assets
           </label>
         </div>
       </ImageSection>

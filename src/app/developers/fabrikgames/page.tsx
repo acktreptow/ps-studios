@@ -57,7 +57,7 @@ function FabrikGamesPage(): JSX.Element {
         <div>
           <Image
             src={thePersistence}
-            alt="The Persistence"
+            alt="The Persistence cover art"
             id="the-persistence"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

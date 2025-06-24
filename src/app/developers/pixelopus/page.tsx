@@ -20,7 +20,7 @@ function PixelopusPage(): JSX.Element {
       <Title title="Pixelopus" />
       <DeveloperButton
         developer="Pixelopus"
-        urlPath="https://x.com/pixelopus?lang=en"
+        urlPath="https://x.com/pixelopus"
       />
       <SubTitle subtitle="History" />
       <Paragraph>

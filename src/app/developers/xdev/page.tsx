@@ -23,10 +23,7 @@ function XDevpage(): JSX.Element {
   return (
     <Container>
       <Title title="XDev" />
-      <DeveloperButton
-        developer="XDev"
-        urlPath="https://www.playstation.com/en-gb/develop/xdev/"
-      />
+      <DeveloperButton developer="XDev" urlPath="https://x.com/Sony_XDEV" />
       <SubTitle subtitle="History" />
       <Paragraph>
         Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t

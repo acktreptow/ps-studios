@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 
 const gamesArray: Game[] = gamesData;
 
-function GuerillaGamesPage(): JSX.Element {
+function GuerrillaGamesPage(): JSX.Element {
   return (
     <Container>
       <Title title="Guerrilla Games" />
@@ -89,7 +89,7 @@ function GuerillaGamesPage(): JSX.Element {
             Clearly, Sony are bullish on the Horizon IP with so many projects
             across different mediums being greenlit. Horizon FW also sold over
             10 million copies. It would therefore be nonsensical for Guerrilla
-            to move on right now. 
+            to move on right now.
           </Paragraph>
           <Paragraph marginBottom={8}>
             I predict &#39;Horizon 3&#39; will launch around 2027 and that it
@@ -116,4 +116,4 @@ function GuerillaGamesPage(): JSX.Element {
   );
 }
 
-export default GuerillaGamesPage;
+export default GuerrillaGamesPage;

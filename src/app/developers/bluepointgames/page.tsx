@@ -44,7 +44,7 @@ function BluepointGamesPage(): JSX.Element {
         Souls. A PS5 launch title that was highly praised and still considered
         as one of the best looking games of the generation.
       </Paragraph>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -76,7 +76,7 @@ function BluepointGamesPage(): JSX.Element {
             that very low bar.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={demonsSouls}
             alt="Demons's Souls cover art"

@@ -35,10 +35,9 @@ function HavenStudiosPage(): JSX.Element {
             console &#39;Stadia&#39;.
           </Paragraph>
           <Paragraph>
-            Raymond then took this cloud infrastructure knowledge and founded
-            Haven Studios, which caught the attention of Sony. They immediately
-            started funding Haven&#39;s first game and acquired them a year
-            later.
+            Raymond then took her cloud infrastructure knowledge and founded
+            Haven Studios. It caught Sony&#39;s attention, who immediately
+            started funding Haven&#39;s first game and acquired them in 2023.
           </Paragraph>
           <Paragraph marginBottom={8}>
             This game turned out to be FairGame$. A live-service competitive
@@ -64,28 +63,26 @@ function HavenStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            We haven&#39;t seen Fairgame$ since its bare-bones CG announcement
+            We haven&#39;t seen Fairgame$ since its basic CG announcement
             trailer in May 2023. But while Haven has been silent, reported
-            information from trusted leakers paint a very negative picture.
+            information from trusted leakers paint a negative picture.
           </Paragraph>
           <Paragraph>
-            In February 2025, one leaker reported that Fairgames$ was internally
+            In February 2025, one exposé reported that Fairgames$ was internally
             delayed from fall 2025 to Spring 2026. Then in May 2025, Sony
-            announced that Jade Raymond had left Haven without saying why.
-            According to a Bloomberg exposé, even Haven staff weren&#39;t told.
-            It then went on to say that Jade Raymond exited only a few weeks
-            after an NDA&#39;d external playtest was not well received, which
-            concerned staff about its progress. It has also been internally
-            retitled to Fairgames.
+            announced that Raymond left Haven without saying why. According to
+            Bloomberg, even Haven staff weren&#39;t told. However, Raymond&#39;s
+            exited only a few weeks after an NDA&#39;d external playtest that
+            was not well received, which concerned staff about its progress.
+            It&#39;s also been internally retitled to Fairgames.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Between the internal delay, Jade Raymond leaving, a poor playtest,
+            Between the internal delay, Raymond leaving, a poor playtest,
             Sony&#39;s cold feet in live-service post-Concord, Fairgames being
             Haven&#39;s first game, using unproven cloud tech as a key pillar,
             and the consumer&#39;s already negative opinion, it&#39;s hard not
             to be extremely pessimistic. At this point, it&#39;s far more likely
-            Haven closes than Fairgames shipping to critical or commercial
-            success.
+            Haven closes than Fairgames achieving critical/commercial success.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

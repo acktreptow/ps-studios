@@ -60,7 +60,7 @@ function HavenStudiosPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <ImageSection flexOnMdScreens={true}>
+      <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
@@ -88,7 +88,7 @@ function HavenStudiosPage(): JSX.Element {
             success.
           </Paragraph>
         </div>
-        <div>
+        <div className="md:flex md:flex-col md:items-center">
           <Image
             src={fairGames}
             alt="Fairgames CGI trailer thumbnail"

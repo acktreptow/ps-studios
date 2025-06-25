@@ -61,7 +61,7 @@ function NeonKoiPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={savageLogo}
-            alt="Savage Game Studios Logo"
+            alt="Savage Game Studios logo"
             id="savage-logo"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

@@ -97,7 +97,7 @@ function VisualArtsPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={bendLeak}
-            alt="Leaked screenshot of Bend's cancelled live service game"
+            alt="Leaked screenshot of Bend's cancelled live-service game"
             id="bend-leak"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

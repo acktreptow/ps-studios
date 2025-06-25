@@ -71,7 +71,7 @@ function SuckerPunchProductionsPage(): JSX.Element {
         <div>
           <Image
             src={gotDC}
-            alt="Ghost of Tsushima Director's Cut Start screen"
+            alt="Ghost of Tsushima Director's Cut start screen"
             id="got-dc"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

@@ -11,7 +11,6 @@ import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
 import List from "../../components/List";
 import GamesSection from "../../components/GamesSection";
-import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Guerrilla Games",

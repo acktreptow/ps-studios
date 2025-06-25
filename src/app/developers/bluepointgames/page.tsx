@@ -48,17 +48,17 @@ function BluepointGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Demon&#39;s Souls releasing in 2020, all we knew was that
-            Bluepoint&#39;s next game was &#39;original content&#39;. In January
+            Despite Demon&#39;s Souls shipping in 2020, all we knew was that
+            Bluepoint&#39;s next game was original content. In January
             2025, we found out this meant a now cancelled live-service God of
             War.
           </Paragraph>
           <Paragraph>
-            Considering Bluepoint&#39;s history, most were a little disappointed
-            with the pivot to original content. However, the industry was
-            shocked, even insulted, that they were not only co-opted into
-            Sony&#39;s poorly executed live-service push, but that 4 years were
-            now wasted on a cancelled game.
+            Considering Bluepoint&#39;s history, most were disappointed with the
+            pivot to original content. However, the industry was shocked that
+            they were not only co-opted into Sony&#39;s poorly executed
+            live-service push, but that 4 years were now wasted on a cancelled
+            game.
           </Paragraph>
           <Paragraph>
             Even if Bluepoint return to remakes, which would be the best case
@@ -69,11 +69,10 @@ function BluepointGamesPage(): JSX.Element {
             leadership.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            If there was one PS Studio that should never have centered their
-            next project around live-service, it was Bluepoint. It doesn&#39;t
-            take a genius to not greenlight a live-service game out of a remake
-            studio. The best we can hope for is Sony&#39;s new leadership clears
-            that very low bar.
+            If there was one PS Studio that should never have entered the
+            live-service arena, it&#39;s Bluepoint. It doesn&#39;t take a genius
+            to not greenlight a live-service game out of a remake studio.
+            Hopefully, Sony&#39;s new leadership clears that very low bar.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

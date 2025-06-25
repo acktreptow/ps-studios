@@ -99,7 +99,7 @@ function DarkOutlawGamesPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={deviationGames}
-            alt="Deviation Games SGF 2021 Announcement"
+            alt="Deviation Games SGF 2021 announcement"
             id="deviation-games"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

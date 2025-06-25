@@ -68,7 +68,7 @@ function SantaMonicaStudioPage(): JSX.Element {
         <div>
           <Image
             src={gowRagnarok}
-            alt="God of War Ragnarök awards won"
+            alt="The awards God of War Ragnarök won"
             id="gow-ragnarok"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

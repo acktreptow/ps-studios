@@ -37,7 +37,7 @@ function BungiePage(): JSX.Element {
         </li>
         <li>
           Sony acquired Bungie in 2022, but they&#39;re the only first-party
-          developer not part of PS Studios. They&#39;re an independent Sony
+          developer not in PS Studios. They&#39;re an independent Sony
           subsidiary.
         </li>
         <li>
@@ -46,24 +46,19 @@ function BungiePage(): JSX.Element {
         </li>
       </List>
       <Paragraph>
-        Why does Bungie have more freedom than all of PS Studios? Desperation.
-        Sony saw the money live-service games like Destiny were making, but had
-        no in-house knowledge to make their own. To get Bungie to sell, Sony
-        overpaid at $3.6 billion and accepted all their terms.
-      </Paragraph>
-      <Paragraph>
-        Bungie was meant to advise PS Studios on their live-service games while
-        simultaneously raking in revenue from Destiny 2, but it turns out that
-        the emperor has no clothes. D2 has been severely underperforming since
-        the acquisition.
+        Why does Bungie have more freedom than PS Studios? Desperation. Sony saw
+        the money live-service games like Destiny were making, but had no
+        in-house knowledge to make their own. For Bungie to sell, Sony overpaid
+        at $3.6 billion and accepted most terms. They were meant to advise on
+        Sony&#39;s other live-service games while raking in revenue from Destiny
+        2, which has severely underperformed post-acquisition.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Since 2023, there&#39;s been many rounds of layoffs, Sony taking board
         seats, a migration of Bungie employers to other PS Studios, and a whole
-        incubation team spun out into a new developer under PS Studios, (the
-        MOBA Project Gummybears). Essentially, Sony are recouping what they can
-        from Bungie once it became clear they wouldn&#39;t see ROI through their
-        live-service expertise.
+        incubation team spun out into teamLFG under PS Studios. Essentially,
+        Sony are recouping what they can from Bungie once it was clear they
+        wouldn&#39;t see ROI through their live-service expertise.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -76,21 +71,18 @@ function BungiePage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Bungie also revealed Marathon, a live-service extraction shooter, in
-            2023. It then took until March 2025 to be showcased, with many
-            playtests going on before releasing in September 2025.
-          </Paragraph>
-          <Paragraph>
-            To call Marathon important for Bungie is an understatement. For
-            Bungie to keep any remaining autonomy, it must do well commercially
-            and help justify the $3.6 billion acquisition. However, the lukewarm
-            response so far suggests its not good enough to justify its $40
-            price tag.
+            2023. It took until March 2025 to be showcased, with many playtests
+            before its initial September 2025 release. However, Marathon was
+            delayed to 2026 following tepid playtest opinion and a stolen art
+            scandal.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            I therefore predict that while Marathon won&#39;t reach Concord
-            levels of failure, it won&#39;t prevent Sony from further making
-            changes to Bungie and recoup as much as it can from a failed
-            acquisition.
+            To call Marathon important for Bungie is an understatement. For them
+            to keep any autonomy, it must do well to justify the $3.6 billion
+            acquisition. However, its post-reveal issues and subsequent delay
+            makes this outcome increasingly less likely. Therefore resulting in
+            further changes to Bungie as Sony recoups as much as possible from
+            the failed acquisition.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

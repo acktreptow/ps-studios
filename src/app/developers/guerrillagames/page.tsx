@@ -30,23 +30,23 @@ function GuerrillaGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2000, Guerrilla Games is known for its FPS series
-        &#39;Killzone&#39; and third-person action RPG series &#39;Horizon&#39;.
-        Sony acquired the Amsterdam studio just one year after Killzone released
-        on PS2 in 2004, which makes them one of the oldest PlayStation
-        developers.
+        Founded in 2000, Guerrilla Games is known for its FPS &#39;Killzone&#39;
+        and third-person action RPG &#39;Horizon&#39; series. Sony acquired the
+        Amsterdam studio just 1 year after Killzone released on PS2 in 2004,
+        making them one of the oldest PlayStation developers.
       </Paragraph>
       <Paragraph>
-        On PS5, Guerrilla have only released the cross-gen title &#39;Horizon
-        Forbidden West&#39; in early 2022. They did work with other studios on
-        2023&#39;s &#39;Horizon Call of the Mountain&#39;, 2024&#39;s &#39;Lego
-        Horizon Adventures&#39; and a remake of &#39;Horizon Zero Dawn&#39;, but
-        they weren&#39;t the primary developer.
+        On PS5, Guerrilla has only released &#39;Horizon Forbidden West&#39; in
+        2022. They did work with other studios on 2023&#39;s &#39;Horizon Call
+        of the Mountain&#39;, 2024&#39;s &#39;Lego Horizon Adventures&#39; and a
+        remake of &#39;Horizon Zero Dawn&#39;, but they weren&#39;t the main
+        developer.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Outside of collaborations and 2023&#39;s PS5 exclusive &#39;Burning
         Shores&#39; DLC for Forbidden West, Guerrilla have been silent about
-        their next project.
+        their next project. Yet despite the scilence, we know that it&#39;s
+        almost certainly Horizon 3.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -88,13 +88,13 @@ function GuerrillaGamesPage(): JSX.Element {
             Clearly, Sony are bullish on the Horizon IP with so many projects
             across different mediums being greenlit. Horizon FW also sold over
             10 million copies. It would therefore be nonsensical for Guerrilla
-            to move on right now.
+            to away from the series right now.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            I predict &#39;Horizon 3&#39; will launch around 2027 and that it
-            plays similar to the first two. It&#39;s also been over 3 years
-            since Forbidden West launched so we might see something this year,
-            but it&#39;s unlikely.
+            I predict &#39;Horizon 3&#39; will launch around 2027 and it&#39;ll
+            play similar to the first two. It&#39;s also been over 3 years since
+            Forbidden West so we might see something this year, but it&#39;s
+            unlikely.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

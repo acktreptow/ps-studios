@@ -68,7 +68,7 @@ function HousemarquePage(): JSX.Element {
         <div>
           <Image
             src={sarosConceptArt}
-            alt="Saros Concept Art"
+            alt="Saros concept art"
             id="saros-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

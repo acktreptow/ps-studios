@@ -78,7 +78,7 @@ function ManchesterStudioPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={csar}
-            alt="CSAR Concept Art"
+            alt="CSAR concept art"
             id="csar-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

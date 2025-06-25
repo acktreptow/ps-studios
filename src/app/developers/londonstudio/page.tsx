@@ -92,7 +92,7 @@ function LondonStudioPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={londonStudioConceptArt}
-            alt="Concept art of cancelled live service game"
+            alt="Concept art of project Camden"
             id="camden-concept-art"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

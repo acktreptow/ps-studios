@@ -73,7 +73,7 @@ function MalaysiaStudioPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={tlouComparison}
-            alt="Comparing TLOU 1 on PS3/PS4/PS5"
+            alt="Comparing TLOU 1 on PS3, PS4 & PS5"
             id="tlou1"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

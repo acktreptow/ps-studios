@@ -84,7 +84,7 @@ function BendStudioPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={daysGone}
-            alt="Days Gone"
+            alt="Days Gone cover art"
             id="days-gone"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

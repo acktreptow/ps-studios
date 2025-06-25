@@ -21,23 +21,20 @@ function FabrikGamesPage(): JSX.Element {
       <DeveloperButton developer="Fabrik" urlPath="https://x.com/fabrikgames" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2014, this Manchester-based developer has shipped games like
-        2016&#39;s &#39;Filthy Lucre&#39; for the PS4 and 2017&#39;s &#39;The
-        Lost Bear&#39; for PSVR.
+        Founded in 2014, this Manchester-based developer has made games like
+        2016&#39;s Filthy Lucre on PS4 and 2017&#39;s The Lost Bear on PSVR.
       </Paragraph>
       <Paragraph>
-        You almost certainly haven&#39;t heard of these niche games and
-        that&#39;s no problem. You won&#39;t need to because Fabrik was acquired
-        by Firesprite in 2021 to bolster the latter&#39;s manpower. As
-        Firesprite were purchased by Sony only a few weeks prior, Fabrik became
-        a de-facto first-party studio.
+        You likely haven&#39;t heard of these niche games and that&#39;s no
+        problem. You won&#39;t need to because Fabrik was acquired by Firesprite
+        in 2021 to bolster their headcount. As Firesprite were purchased by Sony
+        only a few weeks prior, Fabrik became a de-facto PS studio.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        This indirect way Fabrik joined PS Studios is very unique, but not
+        The indirect way Fabrik joined PS Studios is very unique, but not
         particularly surprising. Both Firesprite and Fabrik were founded by the
-        same individual. Fabrik had also already acted as support for Firesprite
-        during the development of their VR title &#39;The Persistence&#39;, in
-        2018.
+        same individual. Fabrik had also already supported Firesprite during
+        their development of VR game The Persistence in 2018.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -49,7 +46,7 @@ function FabrikGamesPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             We&#39;ll indirectly hear from them whenever Firesprite announce
-            their next game, which, based on rumors, is a sequel to 2015&#39;s
+            their next game, which based on rumors, is a sequel to 2015&#39;s
             Until Dawn. The horror/interactive drama was remade in 2024 and
             included a new ending teasing Until Dawn 2.
           </Paragraph>

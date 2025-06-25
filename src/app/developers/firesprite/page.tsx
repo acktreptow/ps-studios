@@ -30,47 +30,43 @@ function FirespritePage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2012, Firesprite is a Liverpool-based developer formed by
-        ex-members of first-party developer Sony Liverpool, which closed weeks
-        prior.
+        ex-workers of first-party developer Studio Liverpool (previously
+        Psygnosis), which closed only weeks prior to reduce headcount in the EU
+        region.
       </Paragraph>
       <Paragraph>
         Firesprite&#39;s first major game was 2018&#39;s The Persistence. It
-        also came to other platforms like Xbox, as Sony wouldn&#39;t acquire the
-        studio until 2021.
+        also released on other platforms such as Xbox One and Nintendo Switch,
+        as Sony wouldn&#39;t acquire the studio until 2021.
       </Paragraph>
       <Paragraph marginBottom={8}>
         So far, they&#39;ve released two PS5 games. An enhanced port of The
-        Persistence and the flagship PSVR2 launch title Horizon Call of the
-        Mountain. Neither were particularly well received.
+        Persistence in 2021 and the flagship PSVR2 launch title Horizon Call of
+        the Mountain in 2023. Neither were particularly well received,
+        critically or commercially.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Firesprite hasn&#39;t announced anything since Horizon CoTM launched
-            alongside PSVR2 in February 2023. Most likely due to their dire
-            situation, post-acquisition.
+            alongside PSVR2. Most likely due to their dire situation,
+            post-acquisition.
           </Paragraph>
           <Paragraph>
-            Crunch was apparently necessary to ship Horizon VR. Additionally,
-            all but one founder and many other staff left once retention bonuses
-            were paid out.
-          </Paragraph>
-          <Paragraph>
-            Layoffs also took place a year later, after reports that
+            Crunch was necessary to ship Horizon. Additionally, all but one
+            founder and many other staff left once retention bonuses were paid
+            out. Layoffs then took place a year later, after reports that
             Firesprite&#39;s unannounced live-service Twisted Metal game was
             cancelled.
           </Paragraph>
-          <Paragraph>
-            Since then, Firesprite has been linked to a sequel to 2015&#39;s
-            Until Dawn. A horror game that was remade in 2024 and included a new
-            ending teasing the project.
-          </Paragraph>
           <Paragraph marginBottom={8}>
-            However, between layoffs, loss of leadership, cancellations, the
-            remake&#39;s poor sales, and none of Firesprite&#39;s games getting
-            above 80 on Metacritic, it&#39;s hard to predict that Until Dawn 2
-            will succeed commercially or critically.
+            Since then, Firesprite has been linked to a sequel to 2015&#39;s
+            Until Dawn, which was remade in 2024 and included a new ending
+            teasing the project. However, between layoffs, loss of leadership,
+            cancellations, the remake&#39;s poor sales, and none of
+            Firesprite&#39;s games receiving above 80 on Metacritic, it&#39;s
+            unlikely that Until Dawn 2 will succeed commercially or critically.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

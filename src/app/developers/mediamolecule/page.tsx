@@ -25,16 +25,15 @@ function MediaMoleculePage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2006, this Surrey-based developer is primarily known for the
-        critically acclaimed LittleBigPlanet series that started on the PS3 in
-        2008.
-      </Paragraph>
-      <Paragraph>
-        Media Molecule&#39;s last title was 2020&#39;s Dreams for the PS4, and
-        therefore has yet to release a PS5 title.
+        critically and commercially acclaimed LittleBigPlanet series that
+        started on the PS3 in 2008. Although after 2011&#39;s LittleBigPlanet 2,
+        the IP continued without Media Molecule&#39;s involvement.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite Dreams releasing over 5 years go, MM still hasn&#39;t even
-        announced the name of their next game, let alone shown gameplay.
+        Media Molecule&#39;s last title was 2020&#39;s Dreams for the PS4, and
+        therefore has yet to release a PS5 title. Furthermore, despite Dreams
+        releasing over 5 years go, MM still hasn&#39;t even announced the name
+        of their next game, let alone shown gameplay.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -42,25 +41,23 @@ function MediaMoleculePage(): JSX.Element {
           <Paragraph>
             Whatever Media Molecule&#39;s next game is, to call it important is
             an understatement as they&#39;re far removed from their greatest
-            successes seen on PS3.
-          </Paragraph>
-          <Paragraph>
-            Dreams wasn&#39;t close to a commercial success, the vast majority
-            of founders have left, and it was reported that MM were nearly
-            shuttered instead of London Studio, in late 2023.
+            successes seen on PS3. Dreams wasn&#39;t close to a commercial
+            success, the vast majority of founders have left, and it was
+            reported that MM nearly shuttered instead of London Studio, in late
+            2023.
           </Paragraph>
           <Paragraph>
             However, Sony needs the types of games MM make, even if it&#39;s not
             in their DNA to be commercially mainstream. For one, their many
             BAFTA awards provide utility that can&#39;t be quantified with money
-            in/out. Experiments like Dreams also help to diversify the
-            PlayStation Studios portfolio.
+            in/out. Experiments like Dreams also help to diversify the PS
+            Studios portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Yet with rising development costs and other external economic
-            factors at play, these more prestigious reasons may not be
-            enough in 2025. It&#39;s therefore far more likely MM closes before
-            shipping another game.
+            factors at play, these more prestigious reasons may not be enough in
+            2025. It&#39;s therefore more likely Media Molecule closes before
+            shipping a PS5 game.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -50,7 +50,7 @@ function SantaMonicaStudioPage(): JSX.Element {
             While Santa Monica Studio continued to support Ragnarök with a PS5
             Pro patch, a PC version and a free Valhalla expansion, we don&#39;t
             know their next game. Currently, rumors predict a new IP, a Ragnarök
-            sequel, a God of War 2005 remake, or a smaller game like SM: Miles
+            sequel, a God of War 2005 remake, or a smaller game like SM:  Miles
             Morales.
           </Paragraph>
           <Paragraph>
@@ -60,9 +60,9 @@ function SantaMonicaStudioPage(): JSX.Element {
             usurped Naughty Dog as PlayStation&#39;s premier studio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök shipped 2.5 years ago, so there&#39;s around a 50/50 chance
-            SMS reveal their next game this year. However, there&#39;s still
-            many PS Studios that must talk first before SMS feels any pressure.
+            Ragnarök shipped 2.5 years ago, so there&#39;s a 50% chance
+            SMS reveal their next game in 2025. There&#39;s many PS Studios that
+            must talk first before SMS feel any pressure though.
           </Paragraph>
         </div>
         <div>

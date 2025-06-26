@@ -42,19 +42,18 @@ function SanDiegoStudioPage(): JSX.Element {
         the game arrive day 1 into their Gamepass subscription.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite these enforced monumental changes to the IP&#39;s business
-        model, clearly, they were the better alternative to losing the license
-        as MLB The Show has continued to release annually.
+        Despite the enforced monumental changes to the IP&#39;s business model,
+        clearly, they were the better alternative to losing the license as San
+        Diego Studio has continued to release MLB The Show annually.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            This one is easy to predict. San Diego Studio hasn&#39;t been the
-            primary developer of a non-MLB game since 2016&#39;s Kill Strain.
-            Rising development costs coupled with external economic factors then
-            further make it unlikely that SDS would work on something new, even
-            if they wanted to.
+            San Diego Studio hasn&#39;t been the primary developer of a non-MLB
+            game since 2016&#39;s Kill Strain. Rising development costs coupled
+            with external economic factors then further make it unlikely that
+            SDS would work on something new, even if they wanted to.
           </Paragraph>
           <Paragraph>
             We&#39;re now also 5 games into the multiplatform MLB strategy and

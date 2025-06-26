@@ -29,44 +29,43 @@ function NaughtyDogPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Naughty Dog are a California-based studio founded well before even the
-        PS1, in 1984. They&#39;re also one of the earliest first-party
-        developers as Sony acquired them in 2001. An easy decision considering
-        the critical and commercial success of their Crash Bandicoot IP on PS1.
+        Naughty Dog is a California-based studio founded 10+ years before PS1,
+        in 1984. They&#39;re also one of the earliest to join first-party as
+        Sony acquired them in 2001 - an easy decision considering the critical
+        and commercial success of their Crash Bandicoot IP on PS1.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        ND had a good PS2 generation with the Jak & Daxter IP. But it was the
-        PS3 gen, with the Uncharted trilogy and The Last of Us, where their
-        prestige grew to the point that many consider them the premier
-        PlayStation studio. This continued into the PS4 gen with sequels in both
-        IP.
+        ND did well on PS2 with the Jak & Daxter IP. But it was on PS3, with the
+        Uncharted trilogy and The Last of Us, where their prestige grew to the
+        point that many consider them the best PlayStation studio. This
+        continued into PS4 with sequels in both IP.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Like Insomniac, Naughty Dog have released the most first-party PS5
-            games with 4. Unlike Insomniac though, all 4 are remasters/remakes
-            of PS4 Uncharted/TLOU games. While nice, these PS5 editions are
-            somewhat unnecessary as the PS4 versions still play great on PS5.
+            games with 4. Unlike Insomniac, all 4 are remasters/remakes of PS4
+            Uncharted/TLOU games. While nice, they&#39;re somewhat unnecessary
+            as the PS4 versions still play great on PS5.
           </Paragraph>
           <Paragraph>
             ND were meant to have already released their first new PS5 game with
             The Last of Us Online. However, this was cancelled 4 years into
             development, therefore wasting over half the PS5 generation. Since
-            then, ND has announced their first new IP in over a decade -
+            then, ND has announced their first new IP since 2011 -
             Intergalactic: The Heretic Prophet. It&#39;s a religious-themed,
             third-person action-adventure that takes gameplay inspiration from
-            Elden Ring and is likely to release around 2027/28.{" "}
+            Elden Ring and is likely launching in 2027/28.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s very likely that Intergalactic retains the
             industry-defining quality Naughty Dog is known for, but the fact
-            remains that Naughty Dog are almost certainly only releasing 1 new
-            game on PS5 and it&#39;s shipping in its final years. Other
-            first-party developers like Insomniac have already begun supplanting
-            them this generation, which was unthinkable when TLOU released in
-            2013. Hopefully they&#39;re able to return to form on the PS6.
+            remains that they&#39;re almost certainly only releasing 1 new game
+            on PS5 and it&#39;s shipping in its final years. Other first-party
+            developers like Insomniac have already begun supplanting them this
+            generation, which was unthinkable when TLOU released in 2013.
+            Hopefully they&#39;re able to return to form on the PS6.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

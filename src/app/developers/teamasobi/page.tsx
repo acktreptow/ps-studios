@@ -27,14 +27,11 @@ function TeamAsobiPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Team Asobi is a Tokyo-based developer that technically, was formed in
-        2021. Asobi originally formed in 2012 as part of Japan Studio, but
-        became independent when Japan Studio closed in 2020.
-      </Paragraph>
-      <Paragraph>
-        Asobi are primarily known for smaller games that showcase new
-        PlayStation hardware, like 2013&#39;s The PlayRoom for DualShock 4 and
-        2018&#39;s Astro Bot Rescue Mission for PSVR. They&#39;re are also one
-        of the smallest PS Studios with a headcount of around 65.
+        2021. They actually formed in 2012 as part of Japan Studio, but became
+        independent when JS closed. Asobi, who have a small headcount of around
+        65, also develop smaller games that showcase new PlayStation hardware,
+        like 2013&#39;s The PlayRoom for DualShock 4 and 2018&#39;s Astro Bot
+        Rescue Mission for PSVR.
       </Paragraph>
       <Paragraph>
         So far, Asobi has released 2 PS5 games. The first being 2020&#39;s
@@ -55,22 +52,19 @@ function TeamAsobiPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Critically, Astro Bot achieved a 94 on Metacritic, making it the
-            highest rated game of 2024 and tying God of War: Ragnarök as the
-            highest rated first-party PS5 game. Astro Bot is also the most
-            awarded platformer of all time with 195 nominations/wins, including
-            winning Game of the Year at the 2024 Game Awards.
-          </Paragraph>
-          <Paragraph>
-            Commercially, 2.5 million copies have sold, and it&#39;s now part of
-            many PS5 bundles. Considering the small development budget of around
-            $50 million, Astro Bot has returned tens of millions in profit.
+            highest rated game of 2024 and tying GoW: Ragnarök as the highest
+            rated first-party PS5 game. Astro Bot is also the most awarded
+            platformer of all time, including winning Game of the Year at the
+            2024 Game Awards. Commercially, 2.5 million copies have sold, and
+            it&#39;s now part of many PS5 bundles. With its small $50 million
+            budget, Astro Bot has therefore returned tens of millions in profit.
           </Paragraph>
           <Paragraph marginBottom={8}>
             The world is Asboi&#39;s oyster after this unprecedented success. So
-            whatever they want to do next, I can&#39;t imagine Sony says no.
-            However, Astro Bot is now the blueprint, so I predict Asobi stick to
-            it and release a worthy follow-up near the end of the PS5&#39;s
-            lifecycle in 2027/28.
+            whatever they want to do next, it&#39;s unlikely Sony says no. With
+            Astro Bot as the blueprint, I predict Asobi sticks to it and release
+            a worthy follow-up near the end of the PS5&#39;s lifecycle in
+            2027/28.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

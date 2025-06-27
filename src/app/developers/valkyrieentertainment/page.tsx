@@ -24,35 +24,36 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Valkyrie Entertainment are a Seattle-based developer who were founded in
-        2002 and acquired by Sony in 2021.
+        Valkyrie Entertainment are a Seattle-based developer founded in 2002,
+        but were acquired by Sony very recently, in 2021. Haven&#39;t heard of
+        Valkyrie or their games? That&#39;s because they act as a support studio
+        for games developed at other PlayStation first-party studios.
       </Paragraph>
       <Paragraph>
-        Haven&#39;t heard of Valkyrie or their games? That&#39;s because
-        Valkyrie only act as a support studio for games developed at other
-        PlayStation first-party studios. For PS5, that&#39;s been 2022&#39;s God
-        of War: Ragnarök from Sony Santa Monica and 2024&#39;s ill-fated Concord
-        from Firewalk.
+        On PS5, that&#39;s been 2022&#39;s God of War: Ragnarök from Sony Santa
+        Monica and 2024&#39;s ill-fated Concord from Firewalk. They also have
+        extensive history with the inFamous and Twisted Metal IP during the
+        PS3/PS4 generations, and even contributed to many Xbox IP
+        pre-acquisition such as Forza Motorsport and State of Decay.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        In fact, despite being founded over 20 years ago, Valkyrie has only been
-        the main developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN
-        and mobile. It was a commercial failure and only received 54 on
-        Metacritic.
+        Despite being founded over 20 years ago, Valkyrie has only been the main
+        developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN and
+        mobile. It was a commercial failure and only received 54 on Metacritic.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            This one&#39;s easy to predict. Valkyrie&#39;s support studio status
-            means they haven&#39;t shipped their own PS5 game. Based off the
-            critical and commercial failure of Guns Up!, it&#39;s also unlikely
-            they&#39;ll ever get a chance to. Especially if their unoptimized,
-            bare-bones website is anything to go by.
+            Valkyrie&#39;s support studio status means they haven&#39;t shipped
+            their own PS5 game. Considering the critical and commercial failure
+            of Guns Up!, it&#39;s also unlikely they&#39;ll ever get a chance
+            to. Valkyrie haven&#39;t shown any signs that they even want to.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next great first-party PS5 game to
-            play, you can safely ignore Valkyrie Entertainment.
+            play, you can safely ignore Valkyrie Entertainment. Especially if
+            their unoptimized, bare-bones website is anything to go by.
           </Paragraph>
         </div>
         <div>

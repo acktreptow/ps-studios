@@ -30,15 +30,15 @@ function FirewalkStudiosPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         This Washington-based developer was founded in 2018, by senior veterans
-        of popular shooters like Halo and Destiny. With this prestige
-        multiplayer expertise and Sony&#39;s increased focus on live-service
-        games, it&#39;s no surprise they acquired Firewalk in April 2023.
+        of shooters like Halo and Destiny. With this prestige multiplayer
+        expertise and Sony&#39;s increased focus on live-service, it&#39;s no
+        surprise they acquired Firewalk in April 2023.
       </Paragraph>
       <Paragraph>
         Firewalk then announced their first game, Concord, shortly after in May
-        2023. A 5vs5 live-service shooter that released on PS5/PC in August
-        2024. Yet it took until May 2024 before we actually saw Concord, via
-        story and gameplay trailers that were universally hated.
+        2023. A 5vs5 live-service FPS that released on PS5/PC in August 2024.
+        Yet it took until May 2024 before we actually saw Concord, via story and
+        gameplay trailers that were universally hated.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Playable betas in July didn&#39;t help either. Character designs were
@@ -51,7 +51,7 @@ function FirewalkStudiosPage(): JSX.Element {
           <Paragraph>
             Concord was a historically poor launch for Sony. It&#39;s tied with
             Firewall Ultra as the worst reviewed PS Studios PS5 game on
-            Metacritic at 62 and only sold 25k copies. These results were so bad
+            Metacritic at 62 and only sold 25k copies. Results were so bad
             that Sony removed Concord from sale and refunded all purchases just
             11 days later.
           </Paragraph>
@@ -62,10 +62,10 @@ function FirewalkStudiosPage(): JSX.Element {
             they&#39;ll be no more more Firewalk games on PS5.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This was the first time Sony refunded a game due to its reception.
-            It also resulted in over $200 million in losses and led to Firewalk
-            closing. Concord and Firewalk are therefore easily the biggest PS
-            Studios disappointment of the PS5 era.
+            This was the first time Sony refunded a game solely due to its
+            reception. It also resulted in over $200 million in losses and led
+            to Firewalk closing. Concord and Firewalk are therefore easily the
+            biggest PS Studios failure of the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

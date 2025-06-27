@@ -29,14 +29,14 @@ function XDevpage(): JSX.Element {
         Formed in 2000, XDev have a unique role in PS Studios. They don&#39;t
         develop games, but instead collaborate with external studios by funding
         their development of exclusive games for PlayStation. This hands-off
-        approach means XDev ships more games than other PS Studios whilst
+        approach means XDev ships more games than other PS Studios, while
         producing an eclectic selection from the very different developers.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        XDev has shipped 9 PS5 games, with 2024 being their highest yearly
-        output at 4. They currently have 2 titles for 2025 - Action-Adventures
-        &#39;Death Stranding 2: On the Beach&#39; in June and &#39;Lost Soul
-        Aside&#39; in August.
+        XDev has shipped 10 PS5 games, with 2024 being their highest yearly
+        output at 4. They currently have 2 games for 2025: Action-Adventures
+        &#39;Lost Soul Aside&#39; in August and June&#39;s &#39;Death Stranding
+        2: On the Beach&#39;, which received an excellent 90 on Metacritic.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -44,30 +44,30 @@ function XDevpage(): JSX.Element {
           <Paragraph>
             XDev&#39;s PS5 collaborations have been inconsistent. While
             2021&#39;s &#39;Destruction AllStars&#39; and 2022&#39;s
-            &#39;Firewall Ultra&#39; share the lowest rated PS Studios PS5 game
-            on Metacritic at 62, 2024 games like &#39;Helldivers 2&#39; and
+            &#39;Firewall Ultra&#39; share the lowest rated PS Studios
+            Metacritic at 62, 2024 games like &#39;Helldivers 2&#39; and
             &#39;Stellar Blade&#39; far exceeded critical and commercial
             expectations.
           </Paragraph>
           <Paragraph>
-            XDev&#39;s next game, DS2, is however by far, their most AAA PS5
-            game. It&#39;s also a more cinematic game that PS Studios are known
-            for, but due to ex-PlayStation leadership&#39;s live-service push,
-            it&#39;s actually been years since first-party has released one. It
-            will therefore likely receive the highest Metacritic score of
-            XDev&#39;s games and only be surpassed by Helldivers 2 commercially.
+            Recently released DS2 is however by far, their most AAA PS5 game.
+            It&#39;s also a more cinematic game that PS Studios are known for,
+            but due to ex-PlayStation leadership&#39;s live-service push,
+            it&#39;s actually been years since PS Studios has released one. Its
+            90 Metacritic is therefore no surprise, and will likely only be
+            surpassed by Helldivers 2 commercially.
           </Paragraph>
           <Paragraph>
-            Lost Soul Aside is also shaping up to be a great, but not
-            industry-defining action-adventure/souls game. It&#39;s critical and
-            commercial performance will likely be very similar to Stellar Blade.
+            Lost Soul Aside looks like a great, but not industry-defining
+            action-adventure/souls game. Its critical and commercial performance
+            will likely be similar to Stellar Blade.
           </Paragraph>
           <Paragraph marginBottom={8}>
             In terms of 2026 and beyond, XDev&#39;s nature makes it hard to
-            predict future games and genres, but that&#39;s what makes them such
-            an interesting studio. As long as they stay away from VR and
-            vehicular combat, their PS5 history indicates that their 2026
-            releases will at least be good.
+            predict future games/genres. After all, no one saw Marvel Tōkon
+            coming. As long as they stay away from VR and vehicular combat,
+            their PS5 history indicates that their releases will at least be
+            good.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

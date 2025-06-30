@@ -20,8 +20,8 @@ function AboutPage(): JSX.Element {
       <SubTitle subtitle="Overview" />
       <Paragraph marginBottom={8}>
         Welcome to PS5 Studios! This site is my fan-made project that aims to
-        provide a comprehensive overview of all the first-party developers part
-        of PlayStation Studios during the PS5 generation.
+        provide a comprehensive overview of all the current and former
+        PlayStation Studios first-party developers during the PS5 generation.
       </Paragraph>
 
       {/* Why Section */}
@@ -57,9 +57,10 @@ function AboutPage(): JSX.Element {
         hold a unique position under the PlayStation Studios umbrella.
       </Paragraph>
       <Paragraph>
-        One fact you might find particularly interesting is the number of days
-        between each release by that developer. This is just one unique way I
-        separate fact from fiction.
+        For close developers, I also go into why this closure occurred and
+        whether or not it was justified. For current developers, one fact you
+        might find particularly interesting is the number of days between each
+        release by that developer.
       </Paragraph>
       <Paragraph>
         For example, has increasing budgets and more complicated development
@@ -88,9 +89,9 @@ function AboutPage(): JSX.Element {
       {/* Stats Section */}
       <SubTitle subtitle="Stats Section" />
       <Paragraph>
-        My favorite section of the site! This is where the analysis goes many
-        layers deep to provide a number of stats for each first-party dev and
-        the PlayStation Studios umbrella as a whole.
+        This is where the analysis goes many layers deep to provide a number of
+        stats for each first-party developer and the PlayStation Studios
+        umbrella as a whole.
       </Paragraph>
       <Paragraph>
         These stats range from basic ones like a bullet-point list detailing how

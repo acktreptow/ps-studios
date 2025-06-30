@@ -40,11 +40,6 @@ function HomepageClient(): JSX.Element {
             Select PS5 Developer
           </option>
           {developers
-            .filter(
-              (developer: Developer) =>
-                developer.name !== "PlayStation Logo" &&
-                developer.name !== "PS5 Logo"
-            )
             .map((developer: Developer) => (
               <option key={developer.id} value={developer.urlPath}>
                 {developer.name}
@@ -80,7 +75,7 @@ function HomepageClient(): JSX.Element {
             </Link>
           ))}
       </div>
-      <hr className="border-gray-300 mb-4 border-2 mx-12"/>
+      <hr className="border-gray-300 mb-4 border-2 mx-12" />
       <div className="grid grid-cols-3 mb-6 md:grid-cols-4 lg:grid-cols-6">
         {developers
           .filter((developer: Developer) => developer.hasClosed)

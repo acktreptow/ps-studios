@@ -37,8 +37,8 @@ function StatsPage(): JSX.Element {
         released/upcoming games over the PS5 generation.
       </Paragraph>
       <Paragraph>
-        There&#39;s 22 (announced) first-party developers under the PS Studios
-        umbrella. The following list are their names and their number of
+        There&#39;s 24 (announced) first-party developers under the PS Studios
+        umbrella. The following list provides their names and their number of{" "}
         <span className="font-bold">released</span> games on PS5:
       </Paragraph>
       <ul className="list-disc pl-5 mb-8 text-lg md:pl-7 lg:pl-10 lg:text-xl lg:tracking-wide">

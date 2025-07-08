@@ -94,7 +94,7 @@ function StatsPage(): JSX.Element {
               AllStars (Lucid Games) & Firewall Ultra (First Contact) - 62
             </li>
             <li>Total 90+ PS5 games on Metacritic: 6</li>
-            <li>Total 80-89 PS5 games on Metacritic: 19</li>
+            <li>Total 80-89 PS5 games on Metacritic: 20</li>
             <li>Total 70-79 PS5 games on Metacritic: 9</li>
             <li>Total 60-69 PS5 games on Metacritic: 2</li>
             <li>Total 59- PS5 games on Metacritic: 0</li>

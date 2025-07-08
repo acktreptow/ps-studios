@@ -86,12 +86,12 @@ function StatsPage(): JSX.Element {
               Game(s) with lowest Metacritic score: Concord (Firewalk) - 62
             </li>
             <li>
-              Game with highest Metacritic score (second-party): The Nioh
-              Collection (Team Ninja) - 87
+              Game with highest Metacritic score (second-party): Death Stranding
+              2: On The Beach (Kojima Productions) - 90
             </li>
             <li>
-              Game with lowest Metacritic score (second-party): Firewall Ultra
-              (First Contact) - 62
+              Game with lowest Metacritic score (second-party): Destruction
+              AllStars (Lucid Games) & Firewall Ultra (First Contact) - 62
             </li>
             <li>Total 90+ PS5 games on Metacritic: 5</li>
             <li>Total 80+ PS5 games on Metacritic: 21</li>

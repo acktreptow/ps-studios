@@ -77,12 +77,14 @@ function StatsPage(): JSX.Element {
             Game Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Total PS5 games released: 30</li>
+            <li>Total PS5 games released: 37</li>
             <li>
-              Game with highest Metacritic score: God of War: Ragnarök (Sony
+              Game(s) with highest Metacritic score: God of War: Ragnarök (Sony
               Santa Monica) & Astro Bot (Team Asobi) - 94
             </li>
-            <li>Game with lowest Metacritic score: Concord (Firewalk) - 62</li>
+            <li>
+              Game(s) with lowest Metacritic score: Concord (Firewalk) - 62
+            </li>
             <li>
               Game with highest Metacritic score (second-party): The Nioh
               Collection (Team Ninja) - 87

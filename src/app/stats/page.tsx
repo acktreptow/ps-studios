@@ -104,8 +104,11 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2023: 4</li>
             <li>PS5 games released in 2024: 10</li>
             <li>PS5 games released in 2025 so far: 3</li>
-            <li>PS5 games that are remasters/remakes: 10</li>
-            <li>PS5 games that are on Xbox: 6</li>
+            <li>Released PS5 games that are remasters/remakes: 12</li>
+            <li>
+              Released PS5 games that are on Xbox: 9 (4 excluding MLB The Show
+              21-25)
+            </li>
             <li>PS5 games that are on Nintendo Switch: 4</li>
             <li>PS5 games that are on PC: 16</li>
             <li>PS5 games that originated on PS3: 2</li>

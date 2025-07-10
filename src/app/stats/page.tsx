@@ -109,8 +109,10 @@ function StatsPage(): JSX.Element {
               Released PS5 games that are on Xbox: 9 (4 excluding MLB The Show
               21-25)
             </li>
-            <li>PS5 games that are on Nintendo Switch: 4</li>
-            <li>PS5 games that are on PC: 16</li>
+            <li>
+              Released PS5 games that are on Nintendo: 6 (2 excluding MLB 22-25)
+            </li>
+            <li>Released PS5 games that are on PC: 23</li>
             <li>PS5 games that originated on PS3: 2</li>
             <li>PS5 games that originated on PS4: 8</li>
             <li>PSVR2 games: 2</li>

@@ -122,9 +122,9 @@ function StatsPage(): JSX.Element {
             <li>PS5 games from JP studios: 4</li>
             <li>PS5 games from EU studios: 4</li>
             <li>PS5 games from NA studios: 30</li>
-            <li>PS5 games from JP studios (only released): 3</li>
-            <li>PS5 games from EU studios (only released): 4</li>
-            <li>PS5 games from NA studios (only released): 23</li>
+            <li>PS5 games from Asia studios (only released): 9</li>
+            <li>PS5 games from EU studios (only released): 10</li>
+            <li>PS5 games from NA studios (only released): 18</li>
             <li>Unreleased announced PS5 games: 6</li>
             <li>Most recent released PS5 game: Astro Bot (September 2024)</li>
             <li>Next PS5 game: Lego Horizon Adventures - Date currently N/A</li>

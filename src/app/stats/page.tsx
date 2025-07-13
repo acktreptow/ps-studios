@@ -119,12 +119,6 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>PS5 games from JP studios: 4</li>
-            <li>PS5 games from EU studios: 4</li>
-            <li>PS5 games from NA studios: 30</li>
-            <li>PS5 games from Asia studios (only released): 9</li>
-            <li>PS5 games from EU studios (only released): 10</li>
-            <li>PS5 games from NA studios (only released): 18</li>
             <li>Unreleased announced PS5 games: 6</li>
             <li>Most recent released PS5 game: Astro Bot (September 2024)</li>
             <li>Next PS5 game: Lego Horizon Adventures - Date currently N/A</li>
@@ -143,6 +137,12 @@ function StatsPage(): JSX.Element {
             <li>Oldest studio: Naughty Dog (founded 1984)</li>
             <li>Newest studio: Haven Studios (founded 2021)</li>
             <li>First acquired studio: Bend Studio (2000)</li>
+            <li>PS5 games from Asia studios: 11</li>
+            <li>PS5 games from EU studios: 11</li>
+            <li>PS5 games from NA studios: 25</li>
+            <li>PS5 games from Asia studios (only released): 9</li>
+            <li>PS5 games from EU studios (only released): 10</li>
+            <li>PS5 games from NA studios (only released): 18</li>
             <li className="mb-3">
               Last acquired studio: Firewalk Studios (2023)
             </li>

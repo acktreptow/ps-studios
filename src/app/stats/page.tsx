@@ -119,10 +119,12 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 6</li>
-            <li>Most recent released PS5 game: Astro Bot (September 2024)</li>
-            <li>Next PS5 game: Lego Horizon Adventures - Date currently N/A</li>
-            <li>XDev released PS5 games: 8</li>
+            <li>Unreleased announced PS5 games: 10</li>
+            <li>
+              Most recent released PS5 game: Death Stranding 2: On The Beach
+              (June 26, 2025)
+            </li>
+            <li>Next PS5 game: Lost Soul Aside - August 29, 2025</li>
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

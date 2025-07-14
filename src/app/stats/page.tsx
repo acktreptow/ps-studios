@@ -133,9 +133,9 @@ function StatsPage(): JSX.Element {
             Studio Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Studios in NA: 13</li>
+            <li>Studios in NA: 15 (including XDev)</li>
             <li>Studios in EU: 7</li>
-            <li>Studios in JP: 2</li>
+            <li>Studios in Asia: 3</li>
             <li>Oldest studio: Naughty Dog (founded 1984)</li>
             <li>Newest studio: Haven Studios (founded 2021)</li>
             <li>First acquired studio: Bend Studio (2000)</li>

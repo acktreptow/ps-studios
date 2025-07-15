@@ -148,14 +148,19 @@ function StatsPage(): JSX.Element {
             <li className="mb-3">
               Last acquired studio: Haven Studios (March, 2022)
             </li>
-            <li className="mb-1">Studios created internally: 6</li>
+            <li className="mb-1">
+              Studios created internally: 9 (4 during the PS5 generation)
+            </li>
             <StatsList isNumbered={true}>
-              <li>Polyphony (1998)</li>
-              <li>San Diego Studio (2001)</li>
-              <li>San Mateo Studio (1998)</li>
-              <li>Santa Monica Studio (1999)</li>
-              <li>Team Asobi (2021)</li>
-              <li>XDev (2000)</li>
+              <li>Polyphony Digital (Tokyo, 1998)</li>
+              <li>San Mateo Studio (California, 1998)</li>
+              <li>Santa Monica Studio (California, 1999)</li>
+              <li>XDev ((Liverpool, 2000) & (Tokyo, 2020))</li>
+              <li>San Diego Studio (California, 2001)</li>
+              <li>Malaysia Studio (Kuala Lumpur, 2020)</li>
+              <li>Team Asobi (Tokyo, 2021)</li>
+              <li>Dark Outlaw Games (Los Angeles (CA), 2025)</li>
+              <li>teamLFG (Bellevue (WA), 2025)</li>
             </StatsList>
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10

@@ -163,20 +163,24 @@ function StatsPage(): JSX.Element {
               <li>teamLFG (Bellevue (WA), 2025)</li>
             </StatsList>
             <li className="mb-1">
-              Studios acquired during the PS5 generation: 10
+              Studios acquired during the PS5 generation: 10 (italics denotes a
+              closed studio)
             </li>
             <StatsList isNumbered={true}>
-              <li>Housemarque (June, 2021)</li>
-              <li>Nixxes Software (July, 2021)</li>
-              <li>Bluepoint Games (September, 2021)</li>
-              <li>Fabrik Games (September, 2021)</li>
-              <li>Firesprite (September, 2021)</li>
-              <li>Valkyrie Entertainment (December, 2021)</li>
-              <li>Bungie (January, 2022)</li>
-              <li>Haven Studios (July, 2022)</li>
-              <li>Neon Koi (August, 2022)</li>
-              <li>Firewalk Studios (April, 2023)</li>
-              <li>Bungie v2 (TBA)</li>
+              <li>Housemarque (Helsinki, Finland - June, 2021)</li>
+              <li>Nixxes Software (Utrecht, Netherlands - July, 2021)</li>
+              <li>Bluepoint Games (Austin, TX - September, 2021)</li>
+              <li>Fabrik Games (Manchester, UK - September, 2021)</li>
+              <li>Firesprite (Liverpool, UK - September, 2021)</li>
+              <li>Valkyrie Entertainment (Seattle, WA - December, 2021)</li>
+              <li>Bungie (Bellevue, WA - January, 2022)</li>
+              <li>Haven Studios (Montreal, Quebec - March, 2022)</li>
+              <li className="italic">
+                Neon Koi (Berlin, Germany & Helsinki, Finland - August, 2022)
+              </li>
+              <li className="italic">
+                Firewalk Studios (Bellevue, WA- April, 2023)
+              </li>
             </StatsList>
             <li className="m-1">Studios closed in PS5 generation: 3</li>
             <StatsList isNumbered={true}>

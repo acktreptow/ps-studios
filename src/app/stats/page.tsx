@@ -133,11 +133,11 @@ function StatsPage(): JSX.Element {
             Studio Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Studios in NA: 15 (including XDev)</li>
-            <li>Studios in EU: 7</li>
-            <li>Studios in Asia: 3</li>
+            <li>Studios in NA: 14 (excluding XDev US)</li>
+            <li>Studios in EU: 7 (excluding XDev Liverpool)</li>
+            <li>Studios in Asia: 3 (excluding XDev Tokyo)</li>
             <li>Oldest studio: Naughty Dog (founded 1984)</li>
-            <li>Newest studio: Haven Studios (founded 2021)</li>
+            <li>Newest studio: teamLFG (founded May, 2025)</li>
             <li>First acquired studio: Bend Studio (2000)</li>
             <li>PS5 games from Asia studios: 11</li>
             <li>PS5 games from EU studios: 11</li>

@@ -210,9 +210,18 @@ function StatsPage(): JSX.Element {
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
             <li>Number of studios with 0 released PS5 games: 9</li>
             <li>
+              Number of studios who have announced their debut PS5 which has yet
+              to release: 3 (Dark Outlaw, Haven, teamLFG)
+            </li>
+            <li>
               Studio with the longest duration since their last release
               (excluding remasters/remakes): Bungie with Destiny 2 (September,
               2017)
+            </li>
+            <li>
+              Studio with the longest duration since their last release
+              (including remasters/remakes):Media Molecule with Dreams
+              (February, 2020)
             </li>
             <li>
               Studio with the shortest duration since their last release: Team

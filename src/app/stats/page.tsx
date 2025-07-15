@@ -203,12 +203,16 @@ function StatsPage(): JSX.Element {
               <li>Visual Arts Services Group</li>
               <li>XDev</li>
             </StatsList>
-            <li>Studio with most new releases: Insomniac Games (4)</li>
-            <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
-            <li>Number of studios with 0 PS5 games: 8</li>
             <li>
-              Studio with the longest duration since their last release: Bend
-              Studio with Days Gone (April 2019)
+              Studio with most new releases: Insomniac Games - 4 (excluding San
+              Diego Studio&#39;s 5 MLB The Show games){" "}
+            </li>
+            <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
+            <li>Number of studios with 0 released PS5 games: 9</li>
+            <li>
+              Studio with the longest duration since their last release
+              (excluding remasters/remakes): Bungie with Destiny 2 (September,
+              2017)
             </li>
             <li>
               Studio with the shortest duration since their last release: Team

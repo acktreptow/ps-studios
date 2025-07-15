@@ -193,12 +193,15 @@ function StatsPage(): JSX.Element {
                 Neon Koi (Berlin, Germany & Helsinki, Finland - October, 2024)
               </li>
             </StatsList>
-            <li className="mb-1">Support studios: 4</li>
+            <li className="mb-1">Support studios: 7</li>
             <StatsList isNumbered={true}>
               <li>Fabrik Games</li>
+              <li>Malaysia Studio</li>
               <li>Nixxes Software</li>
               <li>San Mateo Studio</li>
               <li>Valkyrie Entertainment</li>
+              <li>Visual Arts Services Group</li>
+              <li>XDev</li>
             </StatsList>
             <li>Studio with most new releases: Insomniac Games (4)</li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>

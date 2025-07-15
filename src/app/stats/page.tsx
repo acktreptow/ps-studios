@@ -179,18 +179,20 @@ function StatsPage(): JSX.Element {
                 Neon Koi (Berlin, Germany & Helsinki, Finland - August, 2022)
               </li>
               <li className="italic">
-                Firewalk Studios (Bellevue, WA- April, 2023)
+                Firewalk Studios (Bellevue, WA - April, 2023)
               </li>
             </StatsList>
-            <li className="m-1">Studios closed in PS5 generation: 3</li>
+            <li className="m-1">Studios closed since PS5 release year: 6</li>
             <StatsList isNumbered={true}>
-              <li>Japan Studio (April, 2021) *</li>
-              <li>Pixelopus (May, 2023)</li>
-              <li>London Studio (February, 2024)</li>
+              <li>Manchester Studio (Manchester, UK - February, 2020)</li>
+              <li>Japan Studio (Tokyo - April, 2021)</li>
+              <li>Pixelopus (San Mateo, CA - May, 2023)</li>
+              <li>London Studio (London, UK - February, 2024)</li>
+              <li>Firewalk Studios (Bellevue, WA - October, 2024)</li>
+              <li>
+                Neon Koi (Berlin, Germany & Helsinki, Finland - October, 2024)
+              </li>
             </StatsList>
-            <p className="mb-3">
-              * Team Asobi transitioned out of Japan Studio after its closure.
-            </p>
             <li className="mb-1">Support studios: 4</li>
             <StatsList isNumbered={true}>
               <li>Fabrik Games</li>

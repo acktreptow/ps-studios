@@ -280,7 +280,7 @@ function StatsPage(): JSX.Element {
               remasters/remakes): Firewalk Studios (62)
             </li>
             <li className="mb-1">
-              Five studios most likely to close (no particular order):
+              Five studios most likely to close (in rough order of likeliness):
             </li>
             <StatsList isNumbered={true}>
               <li>Media Molecule</li>
@@ -290,13 +290,13 @@ function StatsPage(): JSX.Element {
               <li>Bungie</li>
             </StatsList>
             <li className="mb-1">
-              Five studios least likely to close (no particular order):
+              Five studios least likely to close (in rough order of likeliness):
             </li>
             <StatsList isNumbered={true}>
-              <li>Guerrilla Games</li>
-              <li>Insomniac Games</li>
-              <li>Polyphony Digital</li>
               <li>Sony Santa Monica</li>
+              <li>Naughty Dog</li>
+              <li>Guerrilla Games</li>
+              <li>Polyphony Digital</li>
               <li>Sucker Punch</li>
             </StatsList>
             <li className="mb-1">Studios waiting to be announced:</li>

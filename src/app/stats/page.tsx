@@ -93,6 +93,15 @@ function StatsPage(): JSX.Element {
               Game with lowest Metacritic score (second-party): Destruction
               AllStars (Lucid Games) & Firewall Ultra (First Contact) - 62
             </li>
+            <li>
+              Most awarded PS5 Game: Team Asobi&#39;s Astro Bot with 195,
+              including Game of the Year at The Game Awards 2024
+            </li>
+            <li>
+              Most awarded PS5 Game (including remasters/remakes): Naughty
+              Dog&#39;s The Last of Us Part II with 320 including Game of the
+              Year at The Game Awards 2020 (includes awards from PS4 version)
+            </li>
             <li>Total 90+ PS5 games on Metacritic: 6</li>
             <li>Total 80-89 PS5 games on Metacritic: 20</li>
             <li>Total 70-79 PS5 games on Metacritic: 9</li>

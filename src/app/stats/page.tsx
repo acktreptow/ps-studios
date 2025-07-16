@@ -240,21 +240,17 @@ function StatsPage(): JSX.Element {
               (June, 2025)
             </li>
             <li>
+              Most recent second-party/XDev game: Kojima Productions with Death
+              Stranding 2: On the Beach - June, 2025 (prev Ballistic Moon with
+              Until Dawn Remake - October, 2024)
+            </li>
+            <li>
               Largest studio by headcount: Bungie (Approx 850+ even
               post-layoffs)
             </li>
             <li>
               Smallest studio by headcount: Most likely either Fabrik Games, San
               Mateo Studio or Valkyrie Entertainment (fewer than 50)
-            </li>
-            <li>
-              Most recent PlayStation Studios game: Team Asobi with Astro Bot
-              (September 2024) (prev Firewalk Studios with Concord) (August
-              2024)
-            </li>
-            <li>
-              Most recent second-party game: Shift Up with Stellar Blade (April
-              2024) (prev Team Ninja with Rise of the Ronin) (March 2024)
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>

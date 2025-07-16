@@ -228,6 +228,17 @@ function StatsPage(): JSX.Element {
               (excluding MLB The Show, XDev and remakes/remasters): Team Asobi
               with Astro Bot (September, 2024)
             </li>
+            <li>
+              Studio with the shortest duration since their last release
+              (excluding MLB The Show & XDev, but including remakes/remasters):
+              Bend Studio with Days Gone Remastered (April, 2025)
+            </li>
+            <li>
+              Studio with the shortest duration since their last release
+              (excluding MLB The Show, but including XDev & remakes/remasters):
+              XDev/Kojima Productions with Death Stranding 2: One the Beach
+              (June, 2025)
+            </li>
             <li>Largest studio by headcount: Bungie (850+)</li>
             <li>Smallest studio by headcount: Neon Koi most likely (50-)</li>
             <li>

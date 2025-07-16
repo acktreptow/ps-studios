@@ -239,8 +239,14 @@ function StatsPage(): JSX.Element {
               XDev/Kojima Productions with Death Stranding 2: One the Beach
               (June, 2025)
             </li>
-            <li>Largest studio by headcount: Bungie (850+)</li>
-            <li>Smallest studio by headcount: Neon Koi most likely (50-)</li>
+            <li>
+              Largest studio by headcount: Bungie (Approx 850+ even
+              post-layoffs)
+            </li>
+            <li>
+              Smallest studio by headcount: Most likely either Fabrik Games, San
+              Mateo Studio or Valkyrie Entertainment (fewer than 50)
+            </li>
             <li>
               Most recent PlayStation Studios game: Team Asobi with Astro Bot
               (September 2024) (prev Firewalk Studios with Concord) (August

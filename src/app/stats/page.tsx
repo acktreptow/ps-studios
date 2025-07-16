@@ -220,12 +220,13 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with the longest duration since their last release
-              (including remasters/remakes):Media Molecule with Dreams
+              (including remasters/remakes): Media Molecule with Dreams
               (February, 2020)
             </li>
             <li>
-              Studio with the shortest duration since their last release: Team
-              Asobi with Astro Bot (September 2024)
+              Studio with the shortest duration since their last release
+              (excluding MLB The Show, XDev and remakes/remasters): Team Asobi
+              with Astro Bot (September, 2024)
             </li>
             <li>Largest studio by headcount: Bungie (850+)</li>
             <li>Smallest studio by headcount: Neon Koi most likely (50-)</li>

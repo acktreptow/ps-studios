@@ -275,9 +275,17 @@ function StatsPage(): JSX.Element {
               remakes/remasters): Naughty Dog (3 remasters/remakes averaging to
               88.67)
             </li>
+            <li>
+              Studio with lowest average Metacritic score (including devs with
+              just 1 game): Firesprite (2 games averaging 75)
+            </li>
+            <li>
+              Studio with lowest average Metacritic score (excluding devs with
+              just 1 game): Firesprite (2 games averaging 75)
+            </li>
             <li className="mb-3">
-              Studio with lowest average Metacritic score (no
-              remasters/remakes): Firewalk Studios (62)
+              Studio with lowest average Metacritic score (including
+              remakes/remasters): Firesprite (2 games averaging 75)
             </li>
             <li className="mb-1">
               Five studios most likely to close (in rough order of likeliness):

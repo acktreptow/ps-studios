@@ -362,11 +362,14 @@ function StatsPage(): JSX.Element {
               <li>Pursuit Force (PSP)</li>
               <li>Pursuit Force: Extreme Justice (PSP)</li>
             </StatsList>
-            <li>SCE Studio Cambridge</li>
+            <li>SCEE Studio Cambridge</li>
             <StatsList isNumbered={true}>
               <li>Ghosthunter (PS2)</li>
               <li>MediEvil (PS1)</li>
               <li>MediEvil: Resurrection (PSP)</li>
+            <li>SCEE Studio Camden</li>
+            <StatsList isNumbered={true}>
+              <li>Dropship: United Peace Force (PS2)</li>
             </StatsList>
             <li>Sony Interactive Studios America</li>
             <StatsList isNumbered={true}>

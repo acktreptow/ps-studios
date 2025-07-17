@@ -76,7 +76,7 @@ function SuckerPunchProductionsPage(): JSX.Element {
         </div>
       </ImageSection>
       <SubTitle subtitle="PS5 Games" marginBottom={5} />
-      <GamesSection games={gamesArray} developer="Sucker Punch Productions" />
+      <GamesSection games={gamesArray} developer="Sucker Punch" />
     </Container>
   );
 }

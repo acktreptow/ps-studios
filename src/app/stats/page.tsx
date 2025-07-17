@@ -423,7 +423,6 @@ function StatsPage(): JSX.Element {
               <li>Ratchet & Clank: Size Matters (PSP)</li>
               <li>Secret Agent Clank (PSP)</li>
               <li>SkyGunner (PS2)</li>
-              <li>Sly Racoon (PS2)</li>
             </StatsList>
             <li>Incognito</li>
             <StatsList isNumbered={true}>
@@ -466,6 +465,16 @@ function StatsPage(): JSX.Element {
             <li>San Diego Studio</li>
             <StatsList isNumbered={true}>
               <li>The Mark of Kri (PS2)</li>
+            </StatsList>
+          </StatsList>
+          <StatsList isNumbered={false}>
+            <li>Sucker Punch</li>
+            <StatsList isNumbered={true}>
+              <li>
+                <li>Sly Racoon (PS2)</li>
+                <li>Sly 2: Band of Thieves (PS2)</li>
+                <li>Sly 3: Honor Among Thieves(PS2)</li>
+              </li>
             </StatsList>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">

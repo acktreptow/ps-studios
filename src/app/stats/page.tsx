@@ -367,6 +367,7 @@ function StatsPage(): JSX.Element {
               <li>Ghosthunter (PS2)</li>
               <li>MediEvil (PS1)</li>
               <li>MediEvil: Resurrection (PSP)</li>
+            </StatsList>
             <li>SCEE Studio Camden</li>
             <StatsList isNumbered={true}>
               <li>Dropship: United Peace Force (PS2)</li>
@@ -451,6 +452,12 @@ function StatsPage(): JSX.Element {
             <li>Housemarque</li>
             <StatsList isNumbered={true}>
               <li>Super Stardust Portable (PSP)</li>
+            </StatsList>
+          </StatsList>
+          <StatsList isNumbered={false}>
+            <li>Naughty Dog</li>
+            <StatsList isNumbered={true}>
+              <li>Jak and Daxter: The Precursor Legacy(PS2) </li>
             </StatsList>
           </StatsList>
           <StatsList isNumbered={false}>

@@ -409,8 +409,11 @@ function StatsPage(): JSX.Element {
             <li>Second-party</li>
             <StatsList isNumbered={true}>
               <li>Daxter (PSP)</li>
+              <li>Grandia (PS1)</li>
               <li>Gravity Crash Portable (PSP)</li>
               <li>Jak & Daxter: The Lost Frontier (PSP)</li>
+              <li>Mister Mosquito (PS2)</li>
+              <li>PaRappa the Rapper 2 (PS2)</li>
               <li>Pinball Heroes (PSP)</li>
               <li>Ratchet & Clank: Size Matters (PSP)</li>
               <li>Secret Agent Clank (PSP)</li>
@@ -531,6 +534,7 @@ function StatsPage(): JSX.Element {
               </li>
               <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
             </li>
+            <li>Mister Mosquito (NA/JP) / Mr Moskeeto (EU)</li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>
               Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /

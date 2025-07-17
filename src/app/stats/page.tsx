@@ -67,7 +67,7 @@ function StatsPage(): JSX.Element {
             </li>
           ))}
       </ul>
-      <div className="lg:flex items-center">
+      <div className="lg:flex items-center mb-3">
         <div>
           <SubTitle subtitle="Other Stats" marginBottom={5} />
           <h3
@@ -543,12 +543,12 @@ function StatsPage(): JSX.Element {
               Kaitou Sly Cooper (JP)
             </li>
           </StatsList>
-          <Paragraph>
-            As you can see with games such as Kurushi Final, it was also much
-            more likely back then for game to not be localized for every region.
-          </Paragraph>
         </div>
       </div>
+      <Paragraph marginBottom={0}>
+        As you can see with games such as Kurushi Final, it was also much more
+        likely back then for game to not be localized for every region.
+      </Paragraph>
     </Container>
   );
 }

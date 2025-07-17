@@ -366,6 +366,7 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Ghosthunter (PS2)</li>
               <li>MediEvil (PS1)</li>
+              <li>MediEvil 2 (PS1)</li>
               <li>MediEvil: Resurrection (PSP)</li>
             </StatsList>
             <li>SCEE Studio Camden</li>
@@ -421,6 +422,7 @@ function StatsPage(): JSX.Element {
               <li>Pinball Heroes (PSP)</li>
               <li>Ratchet & Clank: Size Matters (PSP)</li>
               <li>Secret Agent Clank (PSP)</li>
+              <li>SkyGunner (PS2)</li>
               <li>Sly Racoon (PS2)</li>
             </StatsList>
             <li>Incognito</li>
@@ -457,7 +459,7 @@ function StatsPage(): JSX.Element {
           <StatsList isNumbered={false}>
             <li>Naughty Dog</li>
             <StatsList isNumbered={true}>
-              <li>Jak and Daxter: The Precursor Legacy(PS2) </li>
+              <li>Jak and Daxter: The Precursor Legacy (PS2)</li>
             </StatsList>
           </StatsList>
           <StatsList isNumbered={false}>
@@ -544,6 +546,7 @@ function StatsPage(): JSX.Element {
               </li>
               <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
             </li>
+            <li>MediEvil II (NA) / MediEvil 2 (EU/JP)</li>
             <li>Mister Mosquito (NA/JP) / Mr Moskeeto (EU)</li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>

@@ -39,12 +39,11 @@ function HomepageClient(): JSX.Element {
           <option value="" className={`${hidden ? "hidden" : ""}`}>
             Select PS5 Developer
           </option>
-          {developers
-            .map((developer: Developer) => (
-              <option key={developer.id} value={developer.urlPath}>
-                {developer.name}
-              </option>
-            ))}
+          {developers.map((developer: Developer) => (
+            <option key={developer.id} value={developer.urlPath}>
+              {developer.name}
+            </option>
+          ))}
         </select>
         <button
           type="submit"

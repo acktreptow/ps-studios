@@ -325,10 +325,15 @@ function StatsPage(): JSX.Element {
               <li>Arrowhead Game Studios (Helldivers 2)</li>
               <li>Ember Lab (Kena: Bridge of Spirits)</li>
             </StatsList>
-            <li>
-              Publisher most likely to be acquire: Square Enix (still very
-              unlikely).
+            <li className="mb-1">
+              Publishers most likely to be acquire (all of which are incredibly
+              unlikely)
             </li>
+            <StatsList isNumbered={true}>
+              <li>Square Enix (Final Fantasy, Dragon Quest)</li>
+              <li>Nexon (The First Descendant, The First Beserker)</li>
+              <li>MiHoYo (Genshin Impact, Zenless Zone Zero)</li>
+            </StatsList>
           </StatsList>
           <span id="psplusstats">
             <SubTitle subtitle="PS+ Premium Stats" marginBottom={5} />

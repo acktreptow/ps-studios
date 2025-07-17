@@ -396,6 +396,8 @@ function StatsPage(): JSX.Element {
               <li>Jumping Flash! (PS1)</li>
               <li>LocoRoco Midnight Carnival (PSP)</li>
               <li>No Heroes Allowed (PSP)</li>
+              <li>Patapon 3 (PSP)</li>
+              <li>Siren (PS2)</li>
               <li>The Legend of Dragoon (PS1)</li>
               <li>Wild Arms (PS1)</li>
               <li>Wild Arms 2 (PS1)</li>
@@ -411,6 +413,7 @@ function StatsPage(): JSX.Element {
               <li>Jak & Daxter: The Lost Frontier (PSP)</li>
               <li>Pinball Heroes (PSP)</li>
               <li>Ratchet & Clank: Size Matters (PSP)</li>
+              <li>Secret Agent Clank (PSP)</li>
               <li>Sly Racoon (PS2)</li>
             </StatsList>
             <li>Incognito</li>
@@ -528,6 +531,7 @@ function StatsPage(): JSX.Element {
               </li>
               <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
             </li>
+            <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>
               Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /
               Kaitou Sly Cooper (JP)

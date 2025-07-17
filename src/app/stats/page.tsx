@@ -462,7 +462,7 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Sly Racoon (PS2)</li>
               <li>Sly 2: Band of Thieves (PS2)</li>
-              <li>Sly 3: Honor Among Thieves(PS2)</li>
+              <li>Sly 3: Honor Among Thieves (PS2)</li>
             </StatsList>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
@@ -474,21 +474,13 @@ function StatsPage(): JSX.Element {
               studios like BigBig and SCE Cambridge
             </li>
             <li>
-              It seems like when a game is chosen, Sony like to finish off the
-              whole series before moving on to another.
+              When a game is chosen, Sony generally ports the whole series
+              before moving on. E.g. the Pursuit Force and Syphon Filter IP.
             </li>
             <li>
-              For example, getting all the Pursuit Force and Syphon Filter games
-              ported before moving to others games from those respective
-              developers.
-            </li>
-            <li>
-              Even if a game didn&#39;t initially release in a particular
-              region, they still received the PS+ port.
-            </li>
-            <li>
-              For example, NA regions received the second Intelligent Qube and
-              Ape Academy 2
+              Even if a game didn&#39;t initially release in a region, they
+              still got the port. E.g. NA regions with the second Intelligent
+              Qube and Ape Academy 2.
             </li>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">

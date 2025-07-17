@@ -442,39 +442,27 @@ function StatsPage(): JSX.Element {
               <li>Syphon Filter: Dark Mirror (PSP)</li>
               <li>Syphon Filter: Logan&#39;s Shadow (PSP)</li>
             </StatsList>
-          </StatsList>
-          <StatsList isNumbered={false}>
             <li>Guerrilla Games</li>
             <StatsList isNumbered={true}>
               <li>Killzone: Liberation (PSP)</li>
             </StatsList>
-          </StatsList>
-          <StatsList isNumbered={false}>
             <li>Housemarque</li>
             <StatsList isNumbered={true}>
               <li>Super Stardust Portable (PSP)</li>
             </StatsList>
-          </StatsList>
-          <StatsList isNumbered={false}>
             <li>Naughty Dog</li>
             <StatsList isNumbered={true}>
               <li>Jak and Daxter: The Precursor Legacy (PS2)</li>
             </StatsList>
-          </StatsList>
-          <StatsList isNumbered={false}>
             <li>San Diego Studio</li>
             <StatsList isNumbered={true}>
               <li>The Mark of Kri (PS2)</li>
             </StatsList>
-          </StatsList>
-          <StatsList isNumbered={false}>
             <li>Sucker Punch</li>
             <StatsList isNumbered={true}>
-              <li>
-                <li>Sly Racoon (PS2)</li>
-                <li>Sly 2: Band of Thieves (PS2)</li>
-                <li>Sly 3: Honor Among Thieves(PS2)</li>
-              </li>
+              <li>Sly Racoon (PS2)</li>
+              <li>Sly 2: Band of Thieves (PS2)</li>
+              <li>Sly 3: Honor Among Thieves(PS2)</li>
             </StatsList>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">

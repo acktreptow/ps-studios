@@ -314,13 +314,16 @@ function StatsPage(): JSX.Element {
                 Dog/Visual Arts on the next Uncharted.
               </li>
             </StatsList>
-            <li className="mb-1">Studios most likely to be acquired:</li>
+            <li className="mb-1">
+              Studios most likely to be acquired (in rough order of likeliness,
+              all of which are increasingly unlikely as time goes on):
+            </li>
             <StatsList isNumbered={true}>
-              <li>Arrowhead Game Studios (Helldivers 2 developer)</li>
-              <li>SHIFT UP (Stellar Blade developer)</li>
-              <li>Ballistic Moon (Until Dawn Remake developer)</li>
-              <li>Ember Lab (Kena: Bridge of Spirits developer)</li>
-              <li>Ironwood Studios (Pacific Drive developer)</li>
+              <li>Arc System Works (Guilty Gear, BlazeBlue, Marvel Tōkon)</li>
+              <li>Ultizero Games (Lost Soul Aside)</li>
+              <li>SHIFT UP (Stellar Blade)</li>
+              <li>Arrowhead Game Studios (Helldivers 2)</li>
+              <li>Ember Lab (Kena: Bridge of Spirits)</li>
             </StatsList>
             <li>
               Publisher most likely to be acquire: Square Enix (still very

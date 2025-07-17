@@ -70,6 +70,16 @@ function StatsPage(): JSX.Element {
       <div className="lg:flex items-center mb-3">
         <div>
           <SubTitle subtitle="Other Stats" marginBottom={5} />
+          <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">
+            Disclaimer:
+          </h3>
+          <Paragraph>
+            Unless specifically stated, the following stats don&#39;t include
+            Firewalk and/or Concord. Specifically for Concord, even though it
+            shipped, the duration of its availability was only 2 weeks. It
+            therefore makes little sense to include in stats where it&#39;s now
+            no longer relevant.
+          </Paragraph>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
             id="gamestats"

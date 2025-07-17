@@ -352,6 +352,11 @@ function StatsPage(): JSX.Element {
             Defunct PS Studios Games:
           </h3>
           <StatsList isNumbered={false}>
+            <li>989 Studios:</li>
+            <StatsList isNumbered={true}>
+              <li>Twisted Metal III (PS1)</li>
+              <li>Twisted Metal 4 (PS1)</li>
+            </StatsList>
             <li>Bigbig Studios:</li>
             <StatsList isNumbered={true}>
               <li>Pursuit Force (PSP)</li>

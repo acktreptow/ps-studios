@@ -32,24 +32,23 @@ function FirespritePage(): JSX.Element {
         Founded in 2012, Firesprite is a Liverpool-based developer formed by
         ex-workers of first-party developer Studio Liverpool (previously
         Psygnosis), which closed only weeks prior to reduce headcount in the EU
-        region.
-      </Paragraph>
-      <Paragraph>
-        Firesprite&#39;s first major game was 2018&#39;s The Persistence. It
-        also released on other platforms such as Xbox One and Nintendo Switch,
-        as Sony wouldn&#39;t acquire the studio until 2021.
+        region. Their first major game was 2018&#39;s The Persistence, which
+        launched on PS4 as well as Xbox One and Nintendo Switch, as Sony
+        wouldn&#39;t acquire Firesprite until 2021.
       </Paragraph>
       <Paragraph marginBottom={8}>
         So far, they&#39;ve released two PS5 games. An enhanced port of The
         Persistence in 2021 and the flagship PSVR2 launch title Horizon Call of
         the Mountain in 2023. Neither were particularly well received,
-        critically or commercially.
+        critically or commercially. Firesprite actually has the lowest average
+        Metacritic score out of the 15 PlayStation Studios developers who&#39;ve
+        shipped a PS5 game.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Firesprite hasn&#39;t announced anything since Horizon CoTM launched
+            Firesprite hasn&#39;t announced anything since Horizon launched
             alongside PSVR2. Most likely due to their dire situation,
             post-acquisition.
           </Paragraph>

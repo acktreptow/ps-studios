@@ -71,10 +71,10 @@ function HavenStudiosPage(): JSX.Element {
             In February 2025, one exposé reported that Fairgames$ was internally
             delayed from fall 2025 to Spring 2026. Then in May 2025, Sony
             announced that Raymond left Haven without saying why. According to
-            Bloomberg, even Haven staff weren&#39;t told. However, Raymond&#39;s
-            exited only a few weeks after an NDA&#39;d external playtest that
-            was not well received, which concerned staff about its progress.
-            It&#39;s also been internally retitled to Fairgames.
+            Bloomberg, even Haven staff weren&#39;t told. However, Raymond
+            exited only a few weeks after an NDA&#39;d external playtest was
+            poorly received, which concerned staff about its progress. It&#39;s
+            also been internally retitled to Fairgames.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Between the internal delay, Raymond leaving, a poor playtest,

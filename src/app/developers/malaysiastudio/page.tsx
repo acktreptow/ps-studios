@@ -28,8 +28,8 @@ function MalaysiaStudioPage(): JSX.Element {
         work alongside San Diego&#39;s Visual Arts group on character models,
         visual assets, animations and motion capture etc. As they&#39;re solely
         a support studio, they work on nearly every PS Studios game. For
-        example, Naughty Dog&#39;s The Last of Us Parts 1 & 2, as well as the
-        MLB The Show IP by San Diego Studio (not Visual Arts). However, their
+        example, Naughty Dog&#39;s The Last of Us Part 1 & 2, as well as the MLB
+        The Show IP by San Diego Studio (not Visual Arts). However, their
         contribution to each game is small - especially as the studio only has
         around 100 employees.
       </Paragraph>
@@ -46,8 +46,8 @@ function MalaysiaStudioPage(): JSX.Element {
             Over the past decade, Malaysia has become a popular country for
             support studios to form. While great in providing more opportunities
             for developers in a place with traditionally so few, as they&#39;re
-            for support, you shouldn&#39;t expect Malaysia Studio to develop
-            their own PS5 game soon.
+            built to support, you shouldn&#39;t expect Malaysia Studio to
+            develop their own PS5 games.
           </Paragraph>
           <Paragraph>
             Support studios are also not immune from the numerous rounds of
@@ -56,16 +56,16 @@ function MalaysiaStudioPage(): JSX.Element {
             Including asset/concept artists and project managers who were
             specifically told this wasn&#39;t due to performance, but to save
             money. It&#39;s therefore a near-impossible task for support studios
-            to hire up and make their own games in the current economic climate.
+            to hire up and make their own games currently.
           </Paragraph>
           <Paragraph marginBottom={8}>
             However, these economic issues may not persist long-term. And in
             Malaysia, the talent pool already extends to Larian, Codemasters,
             Namco etc. It&#39;s therefore possible that Malaysia Studio, under
-            better economic circumstances, grows into a developer that develops
-            their own PS6 game. The intent is already there as studio head
-            Hasnul Samsudin stated: &#39;There&#39;s nothing that can be done in
-            our world of AAA games that can&#39;t be done here in Malaysia&#39;.
+            better economic circumstances, grows into a developer that makes
+            their own PS6 game. Intent is already there as studio head Hasnul
+            Samsudin stated: &#39;There&#39;s nothing that can be done in our
+            world of AAA games that can&#39;t be done here in Malaysia&#39;.
             Until then, you can enjoy their small contributions in most PS5
             games across the PS Studios portfolio.
           </Paragraph>

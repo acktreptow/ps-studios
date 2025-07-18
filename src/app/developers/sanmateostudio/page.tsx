@@ -28,7 +28,7 @@ function SanMateoStudioPage(): JSX.Element {
         of California as a support studio for other PlayStation first-party
         developers - particularly neighboring California-based studios like
         Naughty Dog and Insomniac. They therefore haven&#39;t shipped their own
-        PS5 game, nor should you expect them to.
+        PS5 game and you shouldn&#39;t expect them to.
       </Paragraph>
       <Paragraph marginBottom={8}>
         San Mateo Studio did spin off a small team in 2014 called Pixelopus, who
@@ -36,7 +36,7 @@ function SanMateoStudioPage(): JSX.Element {
         nominations for their second game (2019&#39;s Concrete Genie), very low
         sales, mediocre reviews, and their more AA singleplayer DNA resulted in
         Sony closing the studio down in June 2023, during the midst of their
-        live-service initiative.
+        live-service push.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -45,12 +45,13 @@ function SanMateoStudioPage(): JSX.Element {
             Due to San Mateo Studio&#39;s support status, they haven&#39;t
             shipped a PS5 game where they were the primary developer. In fact,
             that last game they traditionally developed was 2004&#39;s Jet Li:
-            Rise to Honor on PS2, which only scored 68 on Metacritc.
+            Rise to Honor on PS2. An action-adventure that only scored 68 on
+            Metacritc.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
-            look elsewhere. If anything, SMS are more likely to close if
-            Pixelopus and 2004&#39;s Jet Li are any indications.
+            look elsewhere. If anything, San Mateo Studio are more likely to
+            close if Pixelopus and 2004&#39;s Jet Li are any indications.
           </Paragraph>
         </div>
         <div>

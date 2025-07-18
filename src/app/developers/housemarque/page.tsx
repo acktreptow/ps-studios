@@ -31,7 +31,7 @@ function HousemarquePage(): JSX.Element {
       <Paragraph>
         Founded in 1995, this Finnish-based developer has released many games
         exclusively on PlayStation, including Super Stardust and Resogun. In
-        fact, that last time they released a game on Xbox/Nintendo was
+        fact, that last time they released a game on Xbox or Nintendo was
         2011&#39;s Outland.
       </Paragraph>
       <Paragraph>
@@ -42,10 +42,10 @@ function HousemarquePage(): JSX.Element {
         560k copies sold in 3 months and Sony acquiring them very shortly after.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Housemarque continued to support Returnal with a PC version and a new
-        co-op mode before announcing their next game, Saros, in February 2025
-        via a CG trailer. Saros will play very similar to Returnal, except this
-        time, it will be a roguelite instead of a roguelike.
+        Housemarque continued to support Returnal with a PC version and co-op
+        mode before announcing their next game, Saros, in February 2025 via a CG
+        trailer. Saros will play very similar to Returnal, except this time,
+        it&#39;ll be a roguelite instead of a roguelike.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -62,7 +62,7 @@ function HousemarquePage(): JSX.Element {
             Sony were laser focused on live-service. Thankfully, they
             weren&#39;t get caught up in that. Saros also ships in 2026 meaning
             we should see more very soon. Housemarque are therefore one of the
-            few PS Studios worth watching currently.
+            few PS Studios most worth watching currently.
           </Paragraph>
         </div>
         <div>

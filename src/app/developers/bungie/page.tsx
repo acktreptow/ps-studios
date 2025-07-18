@@ -80,9 +80,9 @@ function BungiePage(): JSX.Element {
             To call Marathon important for Bungie is an understatement. For them
             to keep any autonomy, it must do well to justify the $3.6 billion
             acquisition. However, its post-reveal issues and subsequent delay
-            makes this outcome increasingly less likely. Therefore resulting in
-            further changes to Bungie as Sony recoups as much as possible from
-            the failed acquisition.
+            makes this outcome increasingly less likely, resulting in further
+            changes to Bungie as Sony recoups as much as possible from the
+            failed acquisition.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -21,7 +21,7 @@
     "developer": "Bungie",
     "name": "Destiny 2",
     "id": "Destiny 2",
-    "genre": "Live Service FPS",
+    "genre": "Live-service FPS",
     "releaseDate": "December 8, 2020",
     "daysBetweenReleases": 1190,
     "metacritic": 85
@@ -30,7 +30,7 @@
     "developer": "Bungie",
     "name": "Marathon",
     "id": "Marathon",
-    "genre": "Extraction FPS",
+    "genre": "Live-service Extraction FPS",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"

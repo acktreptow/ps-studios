@@ -50,8 +50,8 @@ function MediaMoleculePage(): JSX.Element {
             However, Sony needs the types of games MM make, even if it&#39;s not
             in their DNA to be commercially mainstream. For one, their many
             BAFTA awards provide utility that can&#39;t be quantified with money
-            in/out. Experiments like Dreams also help diversify the PS
-            Studios portfolio.
+            in/out. Experiments like Dreams also help diversify the PS Studios
+            portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Yet with rising development costs and other external economic

@@ -33,17 +33,17 @@ function NeonKoiPage(): JSX.Element {
         When it comes to Neon Koi&#39;s PS5 output, they didn&#39;t release
         anything. That&#39;s because they were a founding member of PlayStation
         Studios&#39;s Mobile Division and acquired to exclusively develop mobile
-        games. According to their 2022 acquisition press release, this was
-        supposedly a AAA live-service action game that was still very early in
-        development.
+        games. According to their 2022 acquisition press release, their debut
+        title was supposedly a AAA live-service action game that was still very
+        early in development.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Neon Koi closed in October 2024. And despite forming four years
-            before closure, NK didn&#39;t even announce the name of their action
-            game, let alone show gameplay or actually ship.
+            before closure, NK didn&#39;t even announce the name of their game,
+            let alone show gameplay or actually ship.
           </Paragraph>
           <Paragraph>
             In fact, Neon Koi was only known for negative headlines. Like when
@@ -53,8 +53,8 @@ function NeonKoiPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             At best, Neon Koi are an insignificant footnote in PlayStation&#39;s
-            history during the PS5 era. At worst, NK are a glaring example of
-            mistakes made by former PlayStation leadership. Such as
+            history during the PS5 era. At worst, they&#39;re a glaring example of
+            mistakes made by former PlayStation leadership. From
             short-sighted, poorly researched acquisitions to wasted spending on
             games that were cancelled before they were even announced. NK
             embodies the missteps of the Jim Ryan era.

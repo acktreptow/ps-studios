@@ -26,12 +26,12 @@ function MediaMoleculePage(): JSX.Element {
       <Paragraph>
         Founded in 2006, this Surrey-based developer is primarily known for the
         critically and commercially acclaimed LittleBigPlanet series that
-        started on the PS3 in 2008. Although after 2011&#39;s LittleBigPlanet 2,
-        the IP continued without Media Molecule&#39;s involvement.
+        started on PS3 in 2008. Although after 2011&#39;s LittleBigPlanet 2, the
+        IP continued without Media Molecule&#39;s involvement.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Media Molecule&#39;s last title was 2020&#39;s Dreams for the PS4, and
-        therefore has yet to release a PS5 title. Furthermore, despite Dreams
+        Media Molecule&#39;s last title was 2020&#39;s Dreams on PS4 and
+        therefore haven&#39;t released a PS5 game. Furthermore, despite Dreams
         releasing over 5 years go, MM still hasn&#39;t even announced the name
         of their next game, let alone shown gameplay.
       </Paragraph>
@@ -43,14 +43,14 @@ function MediaMoleculePage(): JSX.Element {
             an understatement as they&#39;re far removed from their greatest
             successes seen on PS3. Dreams wasn&#39;t close to a commercial
             success, the vast majority of founders have left, and it was
-            reported that MM nearly shuttered instead of London Studio, in late
+            reported that MM nearly shuttered instead of London Studio in late
             2023.
           </Paragraph>
           <Paragraph>
             However, Sony needs the types of games MM make, even if it&#39;s not
             in their DNA to be commercially mainstream. For one, their many
             BAFTA awards provide utility that can&#39;t be quantified with money
-            in/out. Experiments like Dreams also help to diversify the PS
+            in/out. Experiments like Dreams also help diversify the PS
             Studios portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>

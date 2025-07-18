@@ -61,7 +61,7 @@ function GuerrillaGamesPage(): JSX.Element {
               act of a trilogy.
             </li>
             <li>
-              Horizon CotM was co-developed with Firesprite and launched
+              Horizon COTM was co-developed with Firesprite and launched
               alongside PSVR2 in 2023.
             </li>
             <li>
@@ -88,11 +88,11 @@ function GuerrillaGamesPage(): JSX.Element {
             Clearly, Sony are bullish on the Horizon IP with so many projects
             across different mediums being greenlit. Horizon FW also sold over
             10 million copies. It would therefore be nonsensical for Guerrilla
-            to away from the series right now.
+            to walk away from the series right now.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            I predict &#39;Horizon 3&#39; will launch around 2027 and it&#39;ll
-            play similar to the first two. It&#39;s also been over 3 years since
+            I predict Horizon 3 will launch around late 2027 and it&#39;ll play
+            similar to the first two. It&#39;s also been over 3 years since
             Forbidden West so we might see something this year, but it&#39;s
             unlikely.
           </Paragraph>

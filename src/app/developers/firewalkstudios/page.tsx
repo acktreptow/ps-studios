@@ -37,23 +37,24 @@ function FirewalkStudiosPage(): JSX.Element {
       <Paragraph>
         Firewalk then announced their first game, Concord, shortly after in May
         2023. A 5vs5 live-service FPS that released on PS5/PC in August 2024.
-        Yet it took until May 2024 before we actually saw Concord, via story and
-        gameplay trailers that were universally hated.
+        Yet it wasn&#39;t until May 2024 before we actually saw Concord, via
+        story and gameplay trailers that were universally hated.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Playable betas in July didn&#39;t help either. Character designs were
         particularly slated and the gameplay wasn&#39;t good enough to justify
-        $40. Especially compared to its F2P competitors like Fortnite.
+        $40. Especially compared to its F2P competitors like Fortnite and
+        Overwatch.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Concord was a historically poor launch for Sony. It&#39;s tied with
-            Firewall Ultra as the worst reviewed PS Studios PS5 game on
-            Metacritic at 62 and only sold 25k copies. Results were so bad
-            that Sony removed Concord from sale and refunded all purchases just
-            11 days later.
+            Firewall Ultra and Destruction AllStars for the lowest first-party
+            PS5 Metacritic score of 62 and only sold 25k copies. Results were so
+            bad that Sony removed Concord from sale and refunded all purchases
+            just 11 days later.
           </Paragraph>
           <Paragraph>
             Firewalk explored how to bring back Concord in a way that resonates,

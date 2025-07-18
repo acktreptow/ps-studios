@@ -74,10 +74,10 @@ function DarkOutlawGamesPage(): JSX.Element {
             also slowly ramping up development while prioritizing getting the
             team to gel first, which allows the best ideas to naturally come to
             light. Considering the history however, I speculate that much of the
-            final game will still closely resemble the original Deviation
-            project. Which in turn likely took inspiration from Black Ops 3 and
-            4. Finally, while it&#39;s a live-service game, there&#39;s reasons
-            for optimism compared to most of Sony&#39;s live-service push.
+            final game will closely resemble the original Deviation project.
+            Which in turn likely took inspiration from Black Ops 3 and 4.
+            Finally, while it&#39;s a live-service game, there&#39;s reasons for
+            optimism compared to most of Sony&#39;s live-service push.
           </Paragraph>
           <Paragraph>
             Based on Blundell&#39;s comments, the game is still years away. This

@@ -40,40 +40,40 @@ function InsomniacGamesPage(): JSX.Element {
         Fuse), Xbox (2014&#39;s Sunset Overdrive), Oculus (2016&#39;s Edge of
         Nowhere) and others. Insomniac however found solid ground again with
         2018&#39;s Spider-Man for the PS4. It&#39;s not only their highest
-        selling game ever, but it&#39;s also the highest selling PS4 first-party
+        selling game ever, but it&#39;s also the highest selling first-party PS4
         game.
       </Paragraph>
       <Paragraph marginBottom={8}>
         With this unprecedented success, it&#39;s no surprise that Sony acquired
-        them just a year later to start work on their many PS5 games.
+        Insomniac just a year later to start work on their many PS5 games.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Most agree that Insomniac has been the most important PlayStation
-            studio this generation. That&#39;s because they&#39;ve already
-            shipped 4 games to critical and commercial success. Furthermore,
-            even though Insomniac has already produced more PS5 games than most
-            developers will this entire generation, we know their next game -
-            Marvel&#39;s Wolverine.
+            studio this generation because they&#39;ve already shipped 4 games
+            to critical and commercial success. Furthermore, even though
+            Insomniac has already produced more PS5 games than most developers
+            will this entire generation, we know their next game - Marvel&#39;s
+            Wolverine.
           </Paragraph>
           <Paragraph>
             Unfortunately, the game has had a troublesome development. Despite
-            being announced in 2021, the game has not been officially shown
-            again, but has been in the news for negative headlines like the
-            original directors leaving or being replaced. The huge Insomniac
-            leak also led to playable development builds leaking online along
-            with the early reveal that Wolverine is to be the first game in a
-            PlayStation-exclusive trilogy centered around the X-Men.
+            being announced in 2021, Wolverine hasn&#39;t been officially shown
+            again, but made negative headlines when the original directors
+            left/were replaced. The huge Insomniac leak also led to playable
+            development builds leaking online along with the early reveal that
+            Wolverine is the first game in a PlayStation-exclusive trilogy
+            centered around X-Men.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Whatever happens with Wolverine though, with 4 games already
-            released on PS5, Insomniac have more than pulled their weight this
-            generation. To the point where they&#39;ve been the most important
-            developer inside PS Studios. Considering the problems at other
-            prestige studios like Naughty Dog, they will also likely hold this
-            title when the PS5 is said and done.
+            Whatever happens though, with 4 games already released on PS5,
+            Insomniac have more than pulled their weight this generation. To the
+            point where they&#39;ve been the most important developer inside PS
+            Studios. Considering the problems at other prestige studios like
+            Naughty Dog, they&#39;ll also likely hold this title when the PS5 is
+            said and done.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

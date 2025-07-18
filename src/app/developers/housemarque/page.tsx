@@ -31,7 +31,7 @@ function HousemarquePage(): JSX.Element {
       <Paragraph>
         Founded in 1995, this Finnish-based developer has released many games
         exclusively on PlayStation, including Super Stardust and Resogun. In
-        fact, that last time they released a game on Xbox or Nintendo was
+        fact, the last time they released a game on Xbox or Nintendo was
         2011&#39;s Outland.
       </Paragraph>
       <Paragraph>

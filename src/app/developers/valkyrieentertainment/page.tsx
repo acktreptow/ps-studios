@@ -26,20 +26,21 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       <Paragraph>
         Valkyrie Entertainment are a Seattle-based developer founded in 2002,
         but were acquired by Sony very recently, in 2021. Haven&#39;t heard of
-        Valkyrie or their games? That&#39;s because they act as a support studio
+        Valkyrie or their games? That&#39;s because they&#39;re a support studio
         for games developed at other PlayStation first-party studios.
       </Paragraph>
       <Paragraph>
-        On PS5, that&#39;s been 2022&#39;s God of War: Ragnarök from Sony Santa
-        Monica and 2024&#39;s ill-fated Concord from Firewalk. They also have
-        extensive history with the inFamous and Twisted Metal IP during the
+        On PS5, Valkyrie has supported 2022&#39;s God of War: Ragnarök from Sony
+        Santa Monica and 2024&#39;s ill-fated Concord from Firewalk. They also
+        have extensive history with the inFamous and Twisted Metal IP during the
         PS3/PS4 generations, and even contributed to many Xbox IP
         pre-acquisition such as Forza Motorsport and State of Decay.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Despite being founded over 20 years ago, Valkyrie has only been the main
         developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN and
-        mobile. It was a commercial failure and only received 54 on Metacritic.
+        mobile. This tower defense shooter was a commercial failure and only
+        received a 54 on Metacritic.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -48,7 +49,8 @@ function ValkyrieEntertainmentPage(): JSX.Element {
             Valkyrie&#39;s support studio status means they haven&#39;t shipped
             their own PS5 game. Considering the critical and commercial failure
             of Guns Up!, it&#39;s also unlikely they&#39;ll ever get a chance
-            to. Valkyrie haven&#39;t shown any signs that they even want to.
+            to. Furthermore, Valkyrie haven&#39;t shown any signs that they even
+            want to.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next great first-party PS5 game to

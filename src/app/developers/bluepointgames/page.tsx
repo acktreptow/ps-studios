@@ -30,13 +30,10 @@ function BluepointGamesPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2006, this Texas-based developer is known for its excellent
-        remasters and remakes.
-      </Paragraph>
-      <Paragraph>
-        Even before Sony acquired Bluepoint in 2021, they mostly worked on
-        PlayStation IP. For example, remastering God of War 1/2 for PS3 and
-        Uncharted 1-3 for PS4. Their largest multiplatform remaster was the
-        Metal Gear Solid HD Collection for PS3 and Xbox 360.
+        remasters and remakes. Even before Sony acquired Bluepoint in 2021, they
+        mostly worked on PlayStation IP. For example, remastering God of War 1/2
+        for PS3 and Uncharted 1-3 for PS4. Their largest multiplatform remaster
+        was the Metal Gear Solid HD Collection for PS3 and Xbox 360.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Bluepoint&#39;s most recent projects have been full remakes, such as
@@ -49,9 +46,8 @@ function BluepointGamesPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Demon&#39;s Souls shipping in 2020, all we knew was that
-            Bluepoint&#39;s next game was original content. In January
-            2025, we found out this meant a now cancelled live-service God of
-            War.
+            Bluepoint&#39;s next game was original content. In January 2025, we
+            found out this meant a now cancelled live-service God of War.
           </Paragraph>
           <Paragraph>
             Considering Bluepoint&#39;s history, most were disappointed with the

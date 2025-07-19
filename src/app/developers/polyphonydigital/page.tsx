@@ -34,12 +34,14 @@ function PolyphonyDigitalPage(): JSX.Element {
           <Paragraph>
             Founded internally by auteur Kazunori Yamauchi in 1998, this
             Tokyo-based developer are known for PlayStation&#39;s
-            highest-selling franchise - the racing series Gran Turismo.
+            highest-selling franchise - the sim racing series Gran Turismo.
           </Paragraph>
           <Paragraph marginBottom={8}>
             At least one GT has shipped on every PlayStation console. For PS5,
             that&#39;s 2022&#39;s critically and commercially acclaimed Gran
-            Turismo 7, which is also viewed as the premier PSVR2 experience.
+            Turismo 7, which is not only seen as the superior competitor to
+            Xbox&#39;s Forza Motorsport, but is also viewed as the premier PSVR2
+            experience.
           </Paragraph>
         </div>
         <div>
@@ -49,8 +51,11 @@ function PolyphonyDigitalPage(): JSX.Element {
             id="kazunori-yamauchi"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-sm"
           />
-          <label htmlFor="kazunori-yamauchi" className="block text-center mb-8">
-            PD Founder Kazunori Yamauchi
+          <label
+            htmlFor="kazunori-yamauchi"
+            className="block text-center mb-8 md:ml-5"
+          >
+            Polyphony Founder Kazunori Yamauchi
           </label>
         </div>
       </ImageSection>
@@ -87,8 +92,8 @@ function PolyphonyDigitalPage(): JSX.Element {
             id="gt7-psvr2"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="gt7-psvr2" className="block text-center mb-8">
-            GT7&#39;s VR Mode Via PSVR2
+          <label htmlFor="gt7-psvr2" className="block text-center mb-8 md:ml-5">
+            GT7&#39;s Optional VR Mode Via PSVR2
           </label>
         </div>
       </ImageSection>

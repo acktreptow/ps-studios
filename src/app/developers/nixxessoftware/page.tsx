@@ -33,15 +33,15 @@ function NixxesSoftwarePage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         Since 2022, Nixxes has already shipped 8 fully-featured PC ports. As
-        they aren&#39;t new games that need a big marketing cycle, the time from
-        announcement to release is very short. It&#39;s therefore hard to
-        predict the next.
+        they aren&#39;t new games that need a long marketing cycle, the time
+        from announcement to release is very short. It&#39;s therefore hard to
+        predict the next port.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        However, there&#39;s one port that stands out for PS5 fans - 2017&#39;s
-        Horizon Zero Dawn remaster. Since acquisition, this 2025 title is the
-        first time Nixxes simultaneously shipped both a PS5 and PC version, and
-        is certainly a sign of things to come.
+        Nixxes&#39;s latest port however stands out for PS5 fans - the 2025
+        remaster of 2017&#39;s Horizon Zero Dawn. Since acquisition, this PS4
+        title marks the first time Nixxes simultaneously shipped both a PS5 and
+        PC version, and it&#39;s certainly a sign of things to come.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -51,8 +51,8 @@ function NixxesSoftwarePage(): JSX.Element {
             Sony finds growth outside of the console market - a necessity as AAA
             development costs continue to rise. However, with PS5 games that
             need a PC port drying up, Nixxes are in a unique position to go back
-            into the PS3/PS4 catalogue and reintroduce classics to a new
-            audience.
+            into the PS3/PS4 catalogue and reintroduce classics to the modern
+            PS5 and PC audiences.
           </Paragraph>
 
           <Paragraph>

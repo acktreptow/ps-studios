@@ -33,7 +33,7 @@ function SantaMonicaStudioPage(): JSX.Element {
         its first game, 2001&#39;s Kinetica, the studio has exclusively
         developed for its popular God of War series. They did act as a
         publisher/incubator for indie game studios, like 2012&#39;s Journey from
-        Thathamecompany, but this was stopped in 2016.
+        Thathamecompany, but this initiative was discontinued in 2016.
       </Paragraph>
       <Paragraph marginBottom={8}>
         SMS&#39;s most recent game is 2022&#39;s God of War Ragnarök - a
@@ -47,11 +47,10 @@ function SantaMonicaStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            While Santa Monica Studio continued to support Ragnarök with a PS5
-            Pro patch, a PC version and a free Valhalla expansion, we don&#39;t
-            know their next game. Currently, rumors predict a new IP, a Ragnarök
-            sequel, a God of War 2005 remake, or a smaller game like SM:  Miles
-            Morales.
+            While Santa Monica Studio supported Ragnarök with a PS5 Pro patch, a
+            PC port and a free post-game expansion, we don&#39;t know their next
+            game. Currently, rumors predict a new IP, a Ragnarök sequel, a God
+            of War 2005 remake, or a smaller game like SM: Miles Morales.
           </Paragraph>
           <Paragraph>
             Many of these rumors could pan out to be true, but regardless of
@@ -60,9 +59,9 @@ function SantaMonicaStudioPage(): JSX.Element {
             usurped Naughty Dog as PlayStation&#39;s premier studio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök shipped 2.5 years ago, so there&#39;s a 50% chance
-            SMS reveal their next game in 2025. There&#39;s many PS Studios that
-            must talk first before SMS feel any pressure though.
+            Ragnarök only shipped 2.5 years ago though, so it&#39;s unlikely
+            that SMS reveal their next game in 2025. There&#39;s also many PS
+            Studios that must talk before SMS feel any pressure.
           </Paragraph>
         </div>
         <div>

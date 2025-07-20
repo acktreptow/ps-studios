@@ -35,16 +35,17 @@ function SanDiegoStudioPage(): JSX.Element {
         since 2021. All releasing in the same March/April timeframe.
       </Paragraph>
       <Paragraph>
-        This generation has been different though. Despite SDS being
-        first-party, the MLB has forced PlayStation to develop an Xbox and
-        Nintendo port since MLB 21 or they would lose the license. Furthermore,
-        Xbox initially went around Sony and secured a deal with the MLB to have
-        the game arrive day 1 into their Gamepass subscription.
+        This generation has been different though. Despite San Diego Studio
+        being first-party, the MLB has forced PlayStation to develop an Xbox
+        port since MLB 21 and Nintendo port since MLB 22, or they would lose the
+        license. Furthermore, Xbox initially went around Sony and secured a deal
+        with the MLB to have the game arrive day 1 into their Gamepass
+        subscription.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite the enforced monumental changes to the IP&#39;s business model,
-        clearly, they were the better alternative to losing the license as San
-        Diego Studio has continued to release MLB The Show annually.
+        Even with the enforced monumental changes to the IP&#39;s business model
+        though, clearly, they were the better alternative to losing the license
+        as San Diego Studio has continued to release MLB The Show annually.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -56,12 +57,12 @@ function SanDiegoStudioPage(): JSX.Element {
             SDS would work on something new, even if they wanted to.
           </Paragraph>
           <Paragraph>
-            We&#39;re now also 5 games into the multiplatform MLB strategy and
-            nothing has materially changed. Going into Gamepass was the one
-            aspect that could&#39;ve shifted SDS&#39;s focus, but considering
-            Xbox didn&#39;t renew that contract past MLB 24, its ability to move
-            PS5 owners to the Xbox subscription didn&#39;t happen in numbers for
-            either Sony or Microsoft to care.
+            We&#39;re now also 5 games into the multiplatform strategy and
+            nothing has materially changed. Additionally, going into Gamepass
+            was the aspect that could&#39;ve shifted SDS&#39;s focus, but
+            considering Xbox didn&#39;t renew that contract past MLB 24, its
+            ability to move PS5 owners to the Xbox subscription didn&#39;t
+            happen in numbers for either Sony or Microsoft to care.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s therefore safe to assume SDS will continue with MLB: The

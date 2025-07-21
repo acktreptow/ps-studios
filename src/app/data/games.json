@@ -21,7 +21,7 @@
     "developer": "Bungie",
     "name": "Destiny 2",
     "id": "Destiny 2",
-    "genre": "Live-service FPS",
+    "genre": "Live-Service FPS",
     "releaseDate": "December 8, 2020",
     "daysBetweenReleases": 1190,
     "metacritic": 85
@@ -30,7 +30,7 @@
     "developer": "Bungie",
     "name": "Marathon",
     "id": "Marathon",
-    "genre": "Live-service Extraction FPS",
+    "genre": "Live-Service Extraction FPS",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -39,7 +39,7 @@
     "developer": "Dark Outlaw Games",
     "name": "Untitled Multiplayer Shooter",
     "id": "Untitled MP Shooter",
-    "genre": "Live-service Shooter",
+    "genre": "Live-Service Shooter",
     "releaseDate": "Unreleased",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -66,7 +66,7 @@
     "developer": "Firewalk Studios",
     "name": "Concord",
     "id": "Concord",
-    "genre": "Live-service PvP FPS",
+    "genre": "Live-Service PvP FPS",
     "releaseDate": "August 23, 2024",
     "daysBetweenReleases": "N/A",
     "metacritic": 62
@@ -93,7 +93,7 @@
     "developer": "Haven Studios",
     "name": "Fairgames",
     "id": "Fairgames",
-    "genre": "Live-service Heist Shooter",
+    "genre": "Live-Service Heist Shooter",
     "releaseDate": "2026 (rumored)",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
@@ -435,7 +435,7 @@
     "developer": "XDev",
     "name": "Helldivers 2",
     "id": "Helldivers 2",
-    "genre": "Live Service Co-op TPS",
+    "genre": "Live-Service Co-op TPS",
     "releaseDate": "February 8, 2024",
     "daysBetweenReleases": 169,
     "metacritic": 82

@@ -59,7 +59,7 @@ function FirewalkStudiosPage(): JSX.Element {
           <Paragraph>
             Firewalk explored how to bring back Concord in a way that resonates,
             but on October 29th, Firewalk closed along with confirmation that
-            Concord wouldn&#39;t return. It therefore easy to predict that
+            Concord wouldn&#39;t return. It&#39;s therefore easy to predict that
             they&#39;ll be no more more Firewalk games on PS5.
           </Paragraph>
           <Paragraph marginBottom={8}>

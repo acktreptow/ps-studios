@@ -24,32 +24,31 @@ function JapanStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        While the &#39;Japan Studio&#39; branding began with 2006&#39;s PS3
-        launch game &#39;Genji: Days of the Blade&#39;, they&#39;ve existed
-        since PlayStation&#39;s 1993 inception as a key internal developer
-        within Sony Computer Entertainment, where it held a unique role. Not
-        only did it consist of multiple internal teams such as Team ICO (Shadow
-        of the Colossus, The Last Guardian) and Team Gravity (Siren, Gravity
-        Rush), but an equal part of their portfolio came from external
-        collaborations, such as FromSoftware (Demon&#39;s Souls, Bloodborne) and
-        many golf games with Clap Hanz. Other big JS IP include Ape Escape,
-        Knack and Patapon.
+        The Japan Studio branding began with 2006&#39;s PS3 launch game Genji:
+        Days of the Blade, but they&#39;ve existed since PlayStation&#39;s 1993
+        inception as a key internal developer within Sony Computer
+        Entertainment, in a unique role. JS consisted of many internal teams
+        such as Team ICO (ICO, Shadow of the Colossus) and Team Gravity (Siren,
+        Gravity Rush), but an equal part of their portfolio came from external
+        collaborations like FromSoftware (Demon&#39;s Souls, Bloodborne) and
+        many golf games with Clap Hanz. Other JS IP include Ape Escape, Knack &
+        Patapon.
       </Paragraph>
       <Paragraph>
         Japan Studio&#39;s split portfolio is best seen with its PS5 launch
         games. While Demon&#39;s Souls was in collaboration with prestige remake
         developer Bluepoint, the free PS5 pack-in Astro&#39;s Playroom was
-        created internally by Team Asobi. Both were successful, but shortly
-        after in April 2021, JS was re-centered around Asobi to build on the
-        popularity of the Astro IP - effectively shuttering them.
+        created internally by Team Asobi. Both were successful, but in April
+        2021, JS was re-centered around Asobi to build on the popularity of
+        Astro - effectively shuttering them.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Reportedly, Japan Studio&#39;s original AA games weren&#39;t considered
-        profitable enough by Sony to continue, so most contracts outside of
-        Asobi weren&#39;t renewed. Instead, Sony would continue with AAA
-        cinematic games, whilst also diving into live-service. Thus leaving the
-        AA and indie space to independent creators, third-party publishers, and
-        second-party XDev partnerships.
+        Japan Studio&#39;s original AA games weren&#39;t considered profitable
+        enough to continue, so Sony didn&#39;t renew most contracts outside of
+        Asobi. Sony would instead continue with AAA cinematic games, whilst also
+        diving into live-service. Thus leaving the AA and indie space to
+        independent creators, third-party publishers, and second-party XDev
+        partnerships.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

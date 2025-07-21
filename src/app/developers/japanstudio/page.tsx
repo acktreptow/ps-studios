@@ -55,13 +55,12 @@ function JapanStudioPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             To be fair to Sony, it made sense to focus on Asobi. Astro&#39;s
-            Playroom showcased the IP&#39;s potential, which was realized with
+            Playroom showcased the IP&#39;s potential that was realized with
             2024&#39;s award-winning Astro Bot. Its success was also greater
-            than anything developed by other Japan Studio teams in 10+ years and
-            Sony still has XDev for external partnerships. But these points
-            don&#39;t negate Sony&#39;s short-sighted dismissiveness of AA
-            games, as JS would&#39;ve been a tremendous attribute for PS5 right
-            now.
+            than anything developed by other JS teams in 10+ years and Sony
+            still has XDev for external partnerships. But these points don&#39;t
+            negate Sony&#39;s short-sighted dismissiveness of AA games, where JS
+            would&#39;ve been a tremendous attribute for PS5 right now.
           </Paragraph>
           <Paragraph>
             Outside of Helldivers 2, Sony&#39;s live-strategy has failed. Most
@@ -72,22 +71,20 @@ function JapanStudioPage(): JSX.Element {
             PS Studios taking a significant hit.
           </Paragraph>
           <Paragraph>
-            JS&#39;s AA games don&#39;t sell in the millions with a 90+
-            Metacritic, but their smaller scope means many would ship, thus
-            allowing Sony to still have consistent releases. With so few
-            cinematic AAA titles currently, there&#39;s also an opening for the
-            hardcore base to evangelize the AA scene more than they would&#39;ve
-            pre-2022. Astro Bot perfectly shows the potential of AA games
-            currently.
+            JS&#39;s AA games don&#39;t sell millions with a 90+ Metacritic, but
+            the smaller scope means many would ship, thus allowing Sony to still
+            have consistent releases. With so few AAA titles currently,
+            there&#39;s also an opening for the hardcore base to evangelize the
+            AA scene more than they would&#39;ve pre-2022. Astro Bot perfectly
+            shows the potential of AA games currently.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Fortunately, many former JS staff formed new studios to continue
-            together, like Team Gravity&#39;s &#39;Slitterhead&#39; as Bokeh
-            Game Studio, or Patapon staff&#39;s spiritual sequel
-            &#39;Ratatan&#39;. Bandai Namco also licensed Everybody&#39;s Golf,
-            Freedom Wars and Patapon from Sony to release sequels/remakes.
-            Between these examples and Asobi, Japan Studio&#39;s legacy still
-            lives on.
+            Fortunately, many ex-JS staff formed new studios to continue
+            together, like Team Gravity&#39;s Slitterhead as Bokeh Game Studio,
+            or Patapon staff&#39;s spiritual sequel Ratatan. Bandai Namco also
+            licensed Everybody&#39;s Golf, Freedom Wars & Patapon from Sony to
+            release sequels/remakes. Between these games and Asobi, Japan
+            Studio&#39;s legacy lives on.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

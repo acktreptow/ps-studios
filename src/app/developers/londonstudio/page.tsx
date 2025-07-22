@@ -26,10 +26,10 @@ function LondonStudioPage(): JSX.Element {
       <Paragraph>
         London Studio was founded in 2002, when SCE Studio Camden (formerly
         Psygnosis) and Team Soho merged. Their portfolio includes traditional IP
-        such as PS2&#39;s open-world &#39;The Getaway&#39; series and support
-        work on EU first-party games like LittleBigPlanet and Killzone 2.
-        However, most of LS&#39;s games were developed to take advantage of the
-        various peripherals each PlayStation had.
+        such as PS2&#39;s open-world &#39;The Getaway&#39; series and supporting
+        EU first-party games like LittleBigPlanet and Killzone 2. However, most
+        of LS&#39;s games were developed to take advantage of the various
+        peripherals each PlayStation had.
       </Paragraph>
       <Paragraph>
         London Studios&#39;s most successful IP was Singstar, selling more than
@@ -64,29 +64,27 @@ function LondonStudioPage(): JSX.Element {
             which would use the Soho engine LS (mostly) built for PS5. The
             online combat game would be their most ambitious project to date and
             also have the longest development time in studio history as LS took
-            their time to decide what game they should make after 2019&#39;s
-            Erica.
+            their time to decide what game to make after 2019&#39;s Erica.
           </Paragraph>
           <Paragraph>
             Considering Sony&#39;s 2020-23 live-service push, Camden was easily
             greenlit. Yet with how long game development takes, there&#39;s
             major risk following trends as its popularity might fall off
-            rapidly. By early 2024, there was a worse economy, decreasing
+            rapidly. By early 2024, there was a worse economy, decreased
             playtime post-lockdown, and a growing hatred for Sony&#39;s
             live-service push. LS was also in an expensive city, in a genre they
-            had no experience in. So, when Sony needed to cut costs in a
+            had no experience in. So when Sony needed to cut costs in a
             live-service space it was increasingly bearish in, LS was logically
-            chosen for closure instead of others.
+            chosen for closure over others.
           </Paragraph>
           <Paragraph marginBottom={8}>
             London Studios&#39;s closure is a particular shame as they once had
-            a path for extreme success. In 2005, LS revealed 2 traditional AAA
-            PS3 games - The Getaway and Eight Days - with trailers that were
-            excellently received. Unfortunately, Sony EU cancelled both to
-            reallocate money to other games. Had these more cinematic games
-            reached their potential and launched to a starving 06-09 PS3
-            audience, alongside IP like Singstar, LS&#39;s history would be very
-            different.
+            a path for great success. In 2005, LS revealed 2 traditional AAA PS3
+            games - The Getaway and Eight Days - with excellently received
+            trailers. Unfortunately, Sony EU cancelled both to reallocate money
+            to others. Had these blockbuster games reached their potential and
+            launched to a starving 06-09 PS3 audience alongside Singstar,
+            LS&#39;s history would be very different.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -45,7 +45,7 @@ function BendStudioPage(): JSX.Element {
           <Paragraph>
             Despite Days Gone shipping over 6 years ago, there&#39;s a reason
             why we don&#39;t even have a name for Bend&#39;s next game. It&#39;s
-            been a very long string of bad luck:
+            been a very long string of bad luck and incompetence:
           </Paragraph>
           <List>
             <li>
@@ -53,15 +53,15 @@ function BendStudioPage(): JSX.Element {
               reception of Days Gone.
             </li>
             <li>
-              A 2020 internal power struggle resulted in the writer and creative
-              director leaving.
+              A 2020 internal power struggle resulted DG&#39;s writer and
+              creative director leaving.
             </li>
             <li>
               This led to new leadership greenlighting a live-service game
               within a new IP.
             </li>
             <li>
-              The game was then cancelled in January 2025. Likely due to Sony
+              That game was then cancelled in January 2025. Likely due to Sony
               leadership&#39;s cold feet in live-service post-Concord.
             </li>
           </List>

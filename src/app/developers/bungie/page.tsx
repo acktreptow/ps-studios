@@ -32,8 +32,8 @@ function BungiePage(): JSX.Element {
       </Paragraph>
       <List>
         <li>
-          Microsoft used to own Bungie when they created Xbox&#39;s flagship IP
-          &#39;Halo&#39;.
+          Microsoft used to own Bungie when they created Xbox&#39;s flagship IP -
+          Halo.
         </li>
         <li>
           Sony acquired Bungie in 2022, but they&#39;re the only first-party
@@ -55,7 +55,7 @@ function BungiePage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Since 2023, there&#39;s been many rounds of layoffs, Sony taking board
-        seats, a migration of Bungie employers to other PS Studios, and a whole
+        seats, a migration of Bungie employees to other PS Studios, and a whole
         incubation team spun out into teamLFG under PS Studios. Essentially,
         Sony are recouping what they can from Bungie once it was clear they
         wouldn&#39;t see ROI through their live-service expertise.
@@ -65,7 +65,7 @@ function BungiePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             On PS5, Bungie has only released a port of Destiny 2 in 2020.
-            Although its final paid expansion, 2024&#39;s The Final Shape, was
+            Although its final main expansion, 2024&#39;s The Final Shape, was
             critically acclaimed, its underwhelming sales led to the hollowing
             out of Bungie and further integration into PS Studios.
           </Paragraph>

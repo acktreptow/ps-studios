@@ -38,16 +38,16 @@ function BluepointGamesPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         Bluepoint&#39;s most recent projects have been full remakes, such as
         2018&#39;s Shadow of the Colossus on PS4 and 2020&#39;s Demon&#39;s
-        Souls. A PS5 launch title that was highly praised and still considered
-        as one of the best looking games of the generation.
+        Souls. A highly praised PS5 launch title that&#39;s still considered one
+        of the best looking games of the generation.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite Demon&#39;s Souls shipping in 2020, all we knew was that
-            Bluepoint&#39;s next game was original content. In January 2025, we
-            found out this meant a now cancelled live-service God of War.
+            Bluepoint&#39;s next game was original content. In 2025, we found
+            out this meant a now cancelled live-service God of War.
           </Paragraph>
           <Paragraph>
             Considering Bluepoint&#39;s history, most were disappointed with the

@@ -33,22 +33,22 @@ function FabrikGamesPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         The indirect way Fabrik joined PS Studios is very unique, but not
         particularly surprising. Both Firesprite and Fabrik were founded by the
-        same individual. Fabrik had also already supported Firesprite during
-        their development of VR game The Persistence in 2018.
+        same individual. Fabrik had also already supported Firesprite during the
+        development of their 2018 PSVR game - The Persistence.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            As Fabrik are only a support studio to Firesprite, they&#39;ve not
-            released a PS5 game. Nor should you expect them to barring
-            unforeseen circumstances.
+            As Fabrik are a Firesprite support studio, they&#39;ve not released
+            a PS5 game. Nor should you expect them to barring unforeseen
+            circumstances.
           </Paragraph>
           <Paragraph marginBottom={8}>
             We&#39;ll indirectly hear from them whenever Firesprite announce
-            their next game, which based on rumors, is a sequel to 2015&#39;s
-            Until Dawn. This horror/interactive drama was remade in 2024 and
-            included a new ending teasing Until Dawn 2.
+            their next game, which based on rumors, is a sequel to PS4&#39;s
+            Until Dawn. This horror/interactive drama was remade in 2024 for
+            PS5/PC and included a new ending teasing Until Dawn 2.
           </Paragraph>
         </div>
         <div>

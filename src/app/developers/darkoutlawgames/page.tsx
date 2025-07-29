@@ -39,17 +39,13 @@ function DarkOutlawGamesPage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         At SGF 2021, he and fellow COD veteran David Anthony announced Deviation
-        along with a Sony partnership to fund their first game - a new AAA IP
-        inspired by their COD history. However, this was the last time we&#39;d
-        publicly hear from Deviation as they closed in March 2024.
-      </Paragraph>
-      <Paragraph>
-        It was never officially stated why Deviation closed. But whatever issues
-        there were, it was bad enough for Sony to pull funding. Blundell also
-        left much earlier in 2022 - reportedly to form a new studio as part of
-        PS Studios, which we now know as Dark Outlaw. According to LinkedIn
-        profiles, the studio has been operating since at least June 2023.
-        Staffed up by a significant number of ex-Deviation employees.
+        along with a Sony partnership to fund their first game - a new AAA
+        shooter IP. However, this was the last time we&#39;d publicly hear from
+        Deviation, which closed in March 2024. While reasons for closure were
+        never made public, it was serious enough for Sony to pull funding.
+        Blundell also left much earlier, in 2022 - reportedly to form Dark
+        Outlaw as part of PS Studios. LinkedIn profiles suggest that he poached
+        many ex-Deviation employees and has been operating since early 2023.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Regardless of what really went wrong inside Deviation, Sony clearly
@@ -70,14 +66,13 @@ function DarkOutlawGamesPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Blundell stated that Dark Outlaw has been staffing up for a while,
-            which makes sense considering he left Deviation in 2022. He&#39;s
-            also slowly ramping up development while prioritizing getting the
-            team to gel first, which allows the best ideas to naturally come to
-            light. Considering the history however, I speculate that much of the
-            final game will closely resemble the original Deviation project.
-            Which in turn likely took inspiration from Black Ops 3 and 4.
-            Finally, while it&#39;s a live-service game, there&#39;s reasons for
-            optimism compared to most of Sony&#39;s live-service push.
+            slowly ramping up development, and prioritizing team cohesion to
+            ensure the best ideas naturally come to light. Considering his
+            history, I speculate that much of the final game will closely
+            resemble the original Deviation project, which likely took
+            inspiration from Black Ops 3 and 4. Finally, while it&#39;s a
+            live-service game, there are reasons for optimism compared to most
+            of Sony&#39;s live-service push.
           </Paragraph>
           <Paragraph>
             Based on Blundell&#39;s comments, the game is still years away. This

@@ -30,11 +30,11 @@ function FirespritePage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2012, Firesprite is a Liverpool-based developer formed by
-        ex-workers of first-party developer Studio Liverpool (previously
-        Psygnosis), which closed only weeks prior to reduce headcount in the EU
-        region. Their first major game was 2018&#39;s The Persistence, which
-        launched on PS4 as well as Xbox One and Nintendo Switch, as Sony
-        wouldn&#39;t acquire Firesprite until 2021.
+        ex-Studio Liverpool (previously Psygnosis) employees, which Sony closed
+        only weeks prior to reduce headcount in the EU. Firesprite&#39;s first
+        major game was 2018&#39;s The Persistence, which launched on PS4 as well
+        as Xbox One and Nintendo Switch since Sony wouldn&#39;t acquire
+        Firesprite until 2021.
       </Paragraph>
       <Paragraph marginBottom={8}>
         So far, they&#39;ve released two PS5 games. An enhanced port of The
@@ -60,9 +60,9 @@ function FirespritePage(): JSX.Element {
             cancelled.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Since then, Firesprite has been linked to a sequel to 2015&#39;s
-            Until Dawn, which was remade in 2024 and included a new ending
-            teasing the project. However, between layoffs, loss of leadership,
+            Since then, Firesprite has been linked to a sequel to PS4&#39;s
+            Until Dawn, which was remade on PS5 in 2024 and included a new
+            ending teasing it. However, between layoffs, loss of leadership,
             cancellations, the remake&#39;s poor sales, and none of
             Firesprite&#39;s games receiving above 80 on Metacritic, it&#39;s
             unlikely that Until Dawn 2 will succeed commercially or critically.

@@ -196,7 +196,7 @@
     "name": "Sucker Punch",
     "urlPath": "suckerpunchproductions",
     "img": "/images/logos/sucker-punch-logo.png",
-    "ps5Games": 1,
+    "ps5Games": 2,
     "hasClosed": false
   },
   {
@@ -236,7 +236,7 @@
     "name": "XDev",
     "urlPath": "xdev",
     "img": "/images/logos/xdev-logo.png",
-    "ps5Games": 10,
+    "ps5Games": 11,
     "hasClosed": false
   }
 ]

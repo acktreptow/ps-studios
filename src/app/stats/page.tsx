@@ -129,19 +129,18 @@ function StatsPage(): JSX.Element {
             <li>
               Released PS5 games that are on Nintendo: 6 (2 excluding MLB 22-25)
             </li>
-            <li>Released PS5 games that are on PC: 23</li>
+            <li>Released PS5 games that are on PC: 24</li>
             <li>Released PS5 games that originated on PS3: 2</li>
             <li>Released PS5 games games that originated on PS4: 10</li>
             <li>
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 10</li>
+            <li>Unreleased announced PS5 games: 8</li>
             <li>
-              Most recent released PS5 game: Death Stranding 2: On The Beach
-              (June 26, 2025)
+              Most recent released PS5 game: Ghost of Yōtei (October 2, 2025)
             </li>
-            <li>Next PS5 game: Lost Soul Aside - August 29, 2025</li>
+            <li>Next PS5 game: Marvel Tōkon: Fighting Souls (likely) - 2026</li>
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

@@ -51,10 +51,10 @@ function FirewalkStudiosPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Concord was a historically poor launch for Sony. It&#39;s tied with
-            Firewall Ultra and Destruction AllStars for the lowest first-party
-            PS5 Metacritic score with 62 and only sold 25k copies. Results were
-            so bad that Sony removed Concord from sale and refunded all
-            purchases just 11 days later.
+            Firewall Ultra, Destruction AllStars and Lost Soul Aside for the
+            lowest first-party PS5 Metacritic score at 62. Concord also only
+            sold 25,000 - a figure so low that Sony removed it from sale and
+            refunded purchases 11 days later.
           </Paragraph>
           <Paragraph>
             Firewalk explored how to bring back Concord in a way that resonates,

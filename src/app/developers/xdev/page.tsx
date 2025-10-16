@@ -34,10 +34,11 @@ function XDevpage(): JSX.Element {
         developers.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        XDev has shipped 10 PS5 games, with 2024 being their highest yearly
-        output at 4. They currently have 2 games for 2025: Action-Adventures
-        &#39;Lost Soul Aside&#39; in August and June&#39;s &#39;Death Stranding
-        2: On the Beach&#39;, which received an excellent 89 on Metacritic.
+        XDev has shipped 11 PS5 games, with 2024 marking their highest yearly
+        output at 4. In 2025, they launched 2 games - Action-Adventures
+        &#39;Lost Soul Aside&#39; in August, which only scored a 62 on
+        Metacritic, and &#39;Death Stranding 2: On the Beach&#39; in June, which
+        earned an excellent 89.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -46,9 +47,9 @@ function XDevpage(): JSX.Element {
             XDev&#39;s PS5 collaborations have been inconsistent. While
             2021&#39;s &#39;Destruction AllStars&#39; and 2022&#39;s
             &#39;Firewall Ultra&#39; share the lowest rated PS Studios
-            Metacritic score at 62, 2024 games like &#39;Helldivers 2&#39; and
-            &#39;Stellar Blade&#39; far exceeded critical and commercial
-            expectations.
+            Metacritic score at 62 with Lost Soul Aside, 2024 games like
+            &#39;Helldivers 2&#39; and &#39;Stellar Blade&#39; far exceeded
+            critical and commercial expectations.
           </Paragraph>
           <Paragraph>
             Recently released DS2 is however by far, their most AAA PS5 game.
@@ -58,16 +59,12 @@ function XDevpage(): JSX.Element {
             Its 89 Metacritic was expected, and will likely only be surpassed by
             Helldivers 2 commercially.
           </Paragraph>
-          <Paragraph>
-            Lost Soul Aside looks like a great, but not industry-defining
-            action-adventure. Its critical and commercial performance will
-            likely be similar to Stellar Blade.
-          </Paragraph>
           <Paragraph marginBottom={8}>
             In terms of 2026 and beyond, XDev&#39;s nature makes it hard to
             predict future games/genres. After all, no one saw Marvel Tōkon
-            coming. As long as they stay away from VR and vehicular combat,
-            their PS5 history indicates that XDev games will at least be good.
+            coming. As long as they stay away from VR, vehicular combat, and
+            singular-person dev teams, their PS5 history indicates that XDev
+            games will at least be good.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -57,7 +57,9 @@ function BluepointGamesPage(): JSX.Element {
             game.
           </Paragraph>
           <Paragraph>
-            Even if Bluepoint return to remakes, which would be the best case
+            Bluepoint is currently hiring for a 3rd-person melee action game,
+            but it&#39;s unclear whether it&#39;s a live-service or a new
+            title. Even if it&#39;s a remake, which would be the best case
             scenario, it&#39;s likely a PS6 title given how long it takes to
             ship a game. Therefore outside of PS5&#39;s launch, Bluepoint has
             completely wasted the generation. A worst case outcome that was

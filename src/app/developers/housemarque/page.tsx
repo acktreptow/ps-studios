@@ -62,9 +62,9 @@ function HousemarquePage(): JSX.Element {
             Housemarque are easily one of the bright spots for PS Studios this
             generation, especially as they were acquired during Sony&#39;s
             laser-focused live-service push. Thankfully, they weren&#39;t get
-            caught up in that - making them one of the few PS Studios
-            currently worth watching. Saros also ships in February 2026, so
-            there&#39;s not long to wait.
+            caught up in that - making them one of the few PS Studios currently
+            worth watching. Saros also ships in March 2026, so there&#39;s not
+            long to wait.
           </Paragraph>
         </div>
         <div>

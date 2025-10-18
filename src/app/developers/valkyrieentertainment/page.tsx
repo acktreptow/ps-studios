@@ -39,8 +39,8 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         Despite being founded over 20 years ago, Valkyrie has only been the main
         developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN and
-        mobile. This tower defense shooter was a commercial failure and only
-        received a 54 on Metacritic.
+        mobile. This free-to-play tower defense shooter was a commercial failure
+        and only received a 54 on Metacritic.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -48,8 +48,9 @@ function ValkyrieEntertainmentPage(): JSX.Element {
           <Paragraph>
             Valkyrie&#39;s support studio status means they haven&#39;t shipped
             their own PS5 game. Considering the critical and commercial failure
-            of Guns Up!, it&#39;s also unlikely they&#39;ll ever get a chance
-            to. Furthermore, Valkyrie haven&#39;t shown any signs that they even
+            of the online-only Guns Up!, which had it servers shut down in 2023,
+            it&#39;s also unlikely they&#39;ll ever get a chance to.
+            Furthermore, Valkyrie haven&#39;t shown any signs that they even
             want to.
           </Paragraph>
           <Paragraph marginBottom={8}>

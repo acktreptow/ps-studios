@@ -33,10 +33,10 @@ function SanMateoStudioPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         San Mateo Studio did spin off a small team in 2014 called Pixelopus, who
         released 2 games before the PS5 launched. However, despite many award
-        nominations for their second game (2019&#39;s Concrete Genie), very low
-        sales, mediocre reviews, and their more AA singleplayer DNA resulted in
-        Sony closing the studio down in June 2023, during the midst of their
-        live-service push.
+        nominations for their second game (2019&#39;s Concrete Genie on PS4),
+        very low sales, mediocre reviews, and their more AA singleplayer DNA
+        resulted in Sony closing the studio down in June 2023, during the midst
+        of their live-service push.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -51,7 +51,7 @@ function SanMateoStudioPage(): JSX.Element {
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
             look elsewhere. If anything, San Mateo Studio are more likely to
-            close if Pixelopus and 2004&#39;s Jet Li are any indications.
+            close if Pixelopus and Jet Li are any indications.
           </Paragraph>
         </div>
         <div>

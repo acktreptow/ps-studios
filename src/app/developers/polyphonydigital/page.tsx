@@ -33,8 +33,9 @@ function PolyphonyDigitalPage(): JSX.Element {
           <SubTitle subtitle="History" />
           <Paragraph>
             Founded internally by auteur Kazunori Yamauchi in 1998, this
-            Tokyo-based developer are known for PlayStation&#39;s
-            highest-selling franchise - the sim racing series Gran Turismo.
+            Tokyo-based developer is known for PlayStation&#39;s best-selling
+            IP, the Gran Turismo sim racing series, which has sold over 100
+            million copies.
           </Paragraph>
           <Paragraph marginBottom={8}>
             At least one GT has shipped on every PlayStation console. For PS5,
@@ -63,14 +64,12 @@ function PolyphonyDigitalPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It takes around four years for Polyphony to release a new GT, so I
-            predict we&#39;ll see GT8 close to the end of the PS5 gen. If
-            you&#39;re a fan, I&#39;d be even more excited this time too.
-          </Paragraph>
-          <Paragraph>
-            GT8 will be PS5 only and take an even further graphical leap on PS5
-            Pro. They&#39;ve also learned from GT7&#39;s launch issues, which
-            will improve the gameplay loop.
+            It takes around 4-5 years for Polyphony to release a new GT these
+            days, so I predict we&#39;ll see GT8 close to the end of the PS5
+            gen. If you&#39;re a fan, I&#39;d be even more excited this time too
+            - GT8 should be PS5 only and take an even further graphical leap on
+            PS5 Pro. They&#39;ve also learned from GT7&#39;s launch issues,
+            which will improve the gameplay loop.
           </Paragraph>
           <Paragraph>
             Never played GT or are a lapsed fan? It might be worth trying

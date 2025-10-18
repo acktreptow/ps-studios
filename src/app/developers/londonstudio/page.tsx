@@ -43,46 +43,41 @@ function LondonStudioPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         London Studios&#39;s final game was 2019&#39;s Erica, which utilized
-        PS4&#39;s PlayLink to add smartphone compatibility. However, Erica only
-        received a tepid reception. Combined with PSVR&#39;s plummeting
-        popularity, the upcoming PS5, and Sony&#39;s heavy live-service push,
-        it&#39;s no surprise LS pivoted to a live-service PS5 game. While it
-        wouldn&#39;t use a peripheral, it was still consistent with LS&#39;s DNA
-        as live-service was new to them. Unfortunately, the game would not only
-        be cancelled, but also cause LS&#39;s closure in 2024.
+        PS4&#39;s PlayLink to add smartphone compatibility, and was only tepidly
+        received. Combined with PSVR&#39;s plummeting popularity, the upcoming
+        PS5, and Sony&#39;s heavy live-service push, it&#39;s no surprise LS
+        pivoted to live-service for PS5. While it wouldn&#39;t use a peripheral,
+        it was also still consistent with LS&#39;s DNA as live-service was new
+        to them. Unfortunately, the game would not only be cancelled, but also
+        cause LS&#39;s closure in 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite London Studios&#39;s demonstrated success across PS2-PS4, in
-            hindsight, it&#39;s easy to see that their pivot to a live-service
-            multiplayer game (Project Camden) would fail.
+            Despite London Studios&#39;s success across PS2-PS4, in hindsight,
+            it&#39;s easy to see that the pivot to live-service would fail.
+            Project Camden was an online co-op combat game set in a modern
+            fantasy London and used the Soho engine LS built for PS5. It was
+            also their most ambitious project to date and would&#39;ve had the
+            longest development time in studio history.
           </Paragraph>
           <Paragraph>
-            Camden was a co-op multiplayer game set in a modern fantasy London,
-            which would use the Soho engine LS (mostly) built for PS5. The
-            online combat game would be their most ambitious project to date and
-            also have the longest development time in studio history as LS took
-            their time to decide what game to make after 2019&#39;s Erica.
-          </Paragraph>
-          <Paragraph>
-            Considering Sony&#39;s 2020-23 live-service push, Camden was easily
-            greenlit. Yet with how long game development takes, there&#39;s
-            major risk following trends as its popularity might fall off
-            rapidly. By early 2024, there was a worse economy, decreased
-            playtime post-lockdown, and a growing hatred for Sony&#39;s
-            live-service push. LS was also in an expensive city, in a genre they
-            had no experience in. So when Sony needed to cut costs in a
-            live-service space it was increasingly bearish in, LS was logically
-            chosen for closure over others.
+            Sony&#39;s 2020-23 live-service push meant Camden was easily
+            greenlit. Yet there&#39;s major risk following trends with how long
+            game development is. By 2024, there was a worse economy, less
+            playtime post-lockdown, and a hatred for Sony&#39;s live-service
+            push. LS was also in an expensive city, in a genre they had no
+            experience in. So when Sony had to cut costs in a live-service space
+            it was increasingly bearish in, LS was logically chosen for closure
+            over others.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            London Studios&#39;s closure is a particular shame as they once had
-            a path for great success. In 2005, LS revealed 2 traditional AAA PS3
+            London Studios&#39;s closure is a particular shame as they had a
+            path for great success. In 2005, LS revealed 2 traditional AAA PS3
             games - The Getaway and Eight Days - with excellently received
-            trailers. Unfortunately, Sony EU cancelled both to reallocate money
-            to others. Had these blockbuster games reached their potential and
+            trailers. Unfortunately, Sony cancelled both to reallocate money
+            to others. Had these blockbusters reached their potential and
             launched to a starving 06-09 PS3 audience alongside Singstar,
             LS&#39;s history would be very different.
           </Paragraph>

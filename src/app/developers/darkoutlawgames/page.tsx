@@ -65,13 +65,13 @@ function DarkOutlawGamesPage(): JSX.Element {
             but it fortunately included relevant information.
           </Paragraph>
           <Paragraph>
-            Blundell stated that Dark Outlaw has been staffing up for a while,
-            slowly ramping up development, and prioritizing team cohesion to
-            ensure the best ideas naturally come to light. Considering his
-            history, I speculate that much of the final game will closely
-            resemble the original Deviation project, which likely took
+            Blundell said he&#39;s been staffing up for a while, slowly ramping
+            up development, and prioritizing team cohesion so that the best
+            ideas naturally come to light. Considering his history, I speculate
+            that the final game will closely resemble the original Deviation
+            project, which based off its futuristic sci-fi concept art, took
             inspiration from Black Ops 3 and 4. Finally, while it&#39;s a
-            live-service game, there are reasons for optimism compared to most
+            live-service, there&#39;s reasons for optimism compared to most
             of Sony&#39;s live-service push.
           </Paragraph>
           <Paragraph>

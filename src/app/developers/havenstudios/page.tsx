@@ -40,8 +40,11 @@ function HavenStudiosPage(): JSX.Element {
             started funding Haven&#39;s first game and acquired them in 2023.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This game turned out to be FairGame$. A live-service competitive
-            heist shooter that will launch simultaneously on PS5 and PC.
+            This title was FairGame$. A live-service competitive heist shooter
+            that will launch simultaneously on PS5 and PC. We haven&#39;t seen
+            Fairgame$ since its CG announcement trailer in May 2023. But while
+            Haven has been silent, information from trusted leakers paint a
+            negative picture.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
@@ -63,26 +66,27 @@ function HavenStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            We haven&#39;t seen Fairgame$ since its basic CG announcement
-            trailer in May 2023. But while Haven has been silent, reported
-            information from trusted leakers paint a negative picture.
-          </Paragraph>
-          <Paragraph>
             In February 2025, one exposé reported that Fairgames$ was internally
             delayed from fall 2025 to Spring 2026. Then in May 2025, Sony
-            announced that Raymond left Haven without saying why. According to
-            Bloomberg, even Haven staff weren&#39;t told. However, Raymond
-            exited only a few weeks after an NDA&#39;d external playtest was
-            poorly received, which concerned staff about its progress. It&#39;s
+            announced that Raymond left Haven without saying why, and even Haven
+            staff weren&#39;t told. However, Raymond exited only a few weeks
+            after an NDA&#39;d external playtest was poorly received. It&#39;s
             also been internally retitled to Fairgames.
           </Paragraph>
+          <Paragraph>
+            The most recent update arrived in September 2025, when the creative
+            director left - again, likely another huge casualty following
+            Fairgames&#39;s poor playtest feedback, which reportedly concerned
+            staff about its progress.
+          </Paragraph>
           <Paragraph marginBottom={8}>
-            Between the internal delay, Raymond leaving, a poor playtest,
-            Sony&#39;s cold feet in live-service post-Concord, Fairgames being
-            Haven&#39;s first game, using unproven cloud tech as a key pillar,
-            and the consumer&#39;s already negative opinion, it&#39;s hard not
-            to be extremely pessimistic. At this point, it&#39;s far more likely
-            Haven closes than Fairgames achieving critical/commercial success.
+            Between the delay, Raymond and the director leaving, a poor
+            playtest, Sony&#39;s cold feet in live-service post-Concord,
+            Fairgames being Haven&#39;s first game, prioritizing unproven cloud
+            tech, and the consumer&#39;s already negative opinion, it&#39;s hard
+            not to be extremely pessimistic. At this point, it&#39;s far more
+            likely Haven closes than Fairgames achieving critical/commercial
+            success.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

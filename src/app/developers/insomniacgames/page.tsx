@@ -59,21 +59,21 @@ function InsomniacGamesPage(): JSX.Element {
             Wolverine.
           </Paragraph>
           <Paragraph>
-            Unfortunately, the game has had a troublesome development. Despite
-            being announced in 2021, Wolverine hasn&#39;t been officially shown
-            again, but made negative headlines when the original directors
-            left/were replaced. The huge Insomniac leak also led to playable
-            development builds leaking online along with the early reveal that
-            Wolverine is the first game in a PlayStation-exclusive trilogy
-            centered around X-Men.
+            Unfortunately, Wolverine has had a troubled development since its
+            2021 CG announcement trailer, such as losing the original directors.
+            Insomniac also suffered a huge leak, which led to playable
+            development builds online and the early reveal that Wolverine is the
+            start of a PlayStation-exclusive trilogy centered around X-Men. Yet
+            despite these issues, Wolverine was finally shown off again in 2025
+            with a gameplay deep dive that was very well received.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Whatever happens though, with 4 games already released on PS5,
-            Insomniac have more than pulled their weight this generation. To the
-            point where they&#39;ve been the most important developer inside PS
-            Studios. Considering the problems at other prestige studios like
-            Naughty Dog, they&#39;ll also likely hold this title when the PS5 is
-            said and done.
+            Whatever happens with Wolverine though, with 4 great games already
+            released on PS5, Insomniac have more than pulled their weight this
+            generation as they&#39;ve been the most active and important
+            developer for PS Studios. Considering the problems at other prestige
+            studios like Naughty Dog, they&#39;ll also likely hold these titles
+            when the PS5 is said and done.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

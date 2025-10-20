@@ -140,7 +140,7 @@ function StatsPage(): JSX.Element {
             <li>
               Most recent released PS5 game: Ghost of Yōtei (October 2, 2025)
             </li>
-            <li>Next PS5 game: Marvel Tōkon: Fighting Souls (likely) - 2026</li>
+            <li>Next PS5 game: Saros (Housemarque) - March 26, 2026</li>
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
@@ -155,9 +155,9 @@ function StatsPage(): JSX.Element {
             <li>PS5 games from NA studios: 25</li>
             <li>PS5 games from EU studios: 11</li>
             <li>PS5 games from Asia studios: 11</li>
-            <li>Released PS5 games from NA studios: 18</li>
+            <li>Released PS5 games from NA studios: 19</li>
             <li>Released PS5 games from EU studios: 10</li>
-            <li>Released PS5 games from Asia studios: 9</li>
+            <li>Released PS5 games from Asia studios: 10</li>
             <li>Oldest studio: Naughty Dog (founded 1984)</li>
             <li>Newest studio: teamLFG (founded May, 2025)</li>
             <li>First acquired studio: Bend Studio (2000)</li>
@@ -241,19 +241,18 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with the shortest duration since their last release
-              (excluding MLB The Show, XDev and remakes/remasters): Team Asobi
-              with Astro Bot (September, 2024)
+              (excluding MLB The Show, XDev and remakes/remasters): Sucker Punch
+              with Ghost of Yōtei (October, 2025)
             </li>
             <li>
               Studio with the shortest duration since their last release
               (excluding MLB The Show & XDev, but including remakes/remasters):
-              Bend Studio with Days Gone Remastered (April, 2025)
+              Sucker Punch with Ghost of Yōtei (October, 2025)
             </li>
             <li>
               Studio with the shortest duration since their last release
               (excluding MLB The Show, but including XDev & remakes/remasters):
-              XDev/Kojima Productions with Death Stranding 2: One the Beach
-              (June, 2025)
+              Sucker Punch with Ghost of Yōtei (October, 2025)
             </li>
             <li>
               Most recent second-party/XDev game: Kojima Productions with Death

@@ -32,8 +32,11 @@ function MediaMoleculePage(): JSX.Element {
       <Paragraph marginBottom={8}>
         Media Molecule&#39;s last title was 2020&#39;s Dreams on PS4 and
         therefore haven&#39;t released a PS5 game. Furthermore, despite Dreams
-        releasing over 5 years go, MM still hasn&#39;t even announced the name
-        of their next game, let alone shown gameplay.
+        releasing over 5 years go, MM still hasn&#39;t even announced their next
+        game, let alone shown gameplay. It&#39;s however been confirmed to be a
+        new IP, will be more of a game than a creative tool like Dreams, and
+        that its led by the director of Tren (the best received made-in-Dreams
+        game).
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -42,7 +45,7 @@ function MediaMoleculePage(): JSX.Element {
             Whatever Media Molecule&#39;s next game is, to call it important is
             an understatement as they&#39;re far removed from their greatest
             successes seen on PS3. Dreams wasn&#39;t close to a commercial
-            success, the vast majority of founders have left, and it was
+            success, all 4 founders quit in the past 5 years, and it was
             reported that MM nearly shuttered instead of London Studio in late
             2023.
           </Paragraph>

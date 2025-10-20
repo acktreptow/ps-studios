@@ -37,7 +37,8 @@ function MalaysiaStudioPage(): JSX.Element {
         With TLOU, Malaysia Studio worked on hints the player receives upon
         death to get past the obstacle and/or combat scenario they&#39;re stuck
         on. For MLB, they worked on art assets that only need to be updated for
-        the next yearly iteration. Not created from scratch.
+        the next yearly iteration - not created from scratch. Most recently, MS
+        supported Death Stranding 2 with art, animation and QA.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -45,29 +46,26 @@ function MalaysiaStudioPage(): JSX.Element {
           <Paragraph>
             Over the past decade, Malaysia has become a popular country for
             support studios to form. While great in providing more opportunities
-            for developers in a place with traditionally so few, as they&#39;re
+            for developers in a region with historically so few, as they&#39;re
             built to support, you shouldn&#39;t expect Malaysia Studio to
             develop their own PS5 games.
           </Paragraph>
           <Paragraph>
-            Support studios are also not immune from the numerous rounds of
-            layoffs every company is doing due to the worsening economy. In
-            March 2025 alone, around 20 Malaysia Studio staff were let go.
-            Including asset/concept artists and project managers who were
-            specifically told this wasn&#39;t due to performance, but to save
-            money. It&#39;s therefore a near-impossible task for support studios
-            to hire up and make their own games currently.
+            Support studios are also not immune from layoffs due to the weak
+            economy. Around 20 Malaysia Studio staff were let go in March 2025,
+            including artists and managers, who were told this was to save
+            money. It&#39;s therefore currently impossible for MS to hire up and
+            make their own games.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            However, these economic issues may not persist long-term. And in
-            Malaysia, the talent pool already extends to Larian, Codemasters,
-            Namco etc. It&#39;s therefore possible that Malaysia Studio, under
-            better economic circumstances, grows into a developer that makes
-            their own PS6 game. Intent is already there as studio head Hasnul
-            Samsudin stated: &#39;There&#39;s nothing that can be done in our
-            world of AAA games that can&#39;t be done here in Malaysia&#39;.
-            Until then, you can enjoy their small contributions in most PS5
-            games across the PS Studios portfolio.
+            Economic issues may not last though, and Malaysian talent already
+            extends to Larian, Namco etc. With a better economy, Malaysia Studio
+            could hire up and make their own PS6 game. Intent is there already -
+            MS CEO Hasnul Samsudin stated: &#39;There&#39;s nothing that can be
+            done in... AAA games that can&#39;t be done in Malaysia&#39;.
+            It&#39;s an initiative the Malaysian government is also actively
+            backing. Until then, you can enjoy their contributions in most PS5
+            games from PS Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

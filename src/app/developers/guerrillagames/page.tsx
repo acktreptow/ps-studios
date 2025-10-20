@@ -76,8 +76,8 @@ function GuerrillaGamesPage(): JSX.Element {
               A Horizon MMO is almost certainly being worked on at NCSoft.
             </li>
             <li>
-              Columbia Pictures and PlayStation Productions are adapting Horizon
-              Zero Dawn into a movie.
+              Columbia Pictures and PS Productions are adapting Horizon Zero
+              Dawn into a movie for 2027.
             </li>
             <li>
               A Horizon TV series was going to be produced by Netflix, and its
@@ -91,10 +91,10 @@ function GuerrillaGamesPage(): JSX.Element {
             to walk away from the series right now.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            I predict Horizon 3 will launch around late 2027 and it&#39;ll play
-            similar to the first two. It&#39;s also been over 3 years since
-            Forbidden West so we might see something this year, but it&#39;s
-            unlikely.
+            I predict Horizon 3 launches around late 2027 as a cross-gen PS5/PS6
+            title and it&#39;ll play similar to the first 2. It&#39;s also been
+            over 3 years since Forbidden West so we might see something in 2025,
+            but it&#39;s unlikely.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

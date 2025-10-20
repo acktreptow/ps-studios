@@ -53,17 +53,16 @@ function TeamAsobiPage(): JSX.Element {
             Critically, Astro Bot achieved a 94 on Metacritic, making it the
             highest rated game of 2024 and tying GoW: Ragnarök as the highest
             rated first-party PS5 game. Astro Bot is also the most awarded
-            platformer of all time, including winning Game of the Year at the
-            2024 Game Awards. Commercially, it&#39;s sold 2.5 million copies and
-            is now part of PS5 bundles. Considering its $50 million budget,
-            Astro Bot has returned tens of millions in profit.
+            platformer ever and won Game of the Year at the 2024 Game Awards.
+            Commercially, it&#39;s sold 2.5 million, is part of PS5 bundles, and
+            is the first title to have multiple themed DualSenses.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            The world is Asboi&#39;s oyster after this unprecedented success. So
-            whatever they want to do next, it&#39;s unlikely Sony says no. With
-            Astro Bot as the blueprint, I predict Asobi sticks to it and release
-            a worthy follow-up near the end of the PS5&#39;s lifecycle in
-            2027/28.
+            Considering its $50 million budget, Astro Bot has made $10+ million
+            in profit - even with its many free DLCs. So whatever Asobi want to
+            do next, Sony unlikely says no. Though I predict Asobi stick to the
+            blueprint and release a worthy sequel at the end of PS5&#39;s
+            lifecycle in 2027/28.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

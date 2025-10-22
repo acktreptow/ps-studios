@@ -38,10 +38,11 @@ function NixxesSoftwarePage(): JSX.Element {
         predict the next port.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Nixxes&#39;s latest port however stands out for PS5 fans - the 2025
-        remaster of 2017&#39;s Horizon Zero Dawn. Since acquisition, this PS4
-        title marks the first time Nixxes simultaneously shipped both a PS5 and
-        PC version, and it&#39;s certainly a sign of things to come.
+        However, Nixxes&#39;s last two ports have stood out to PS5 players - and
+        for good reason. The 2024 remaster of 2017&#39;s Horizon Zero Dawn,
+        which launched simultaneously on PS5 and PC, and the 2025 Xbox Series
+        X|S port of Helldivers 2 both represent firsts for Nixxes that signal
+        how Sony potentially uses them in its increasingly multiplatform future.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

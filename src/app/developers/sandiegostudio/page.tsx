@@ -65,9 +65,9 @@ function SanDiegoStudioPage(): JSX.Element {
             happen in numbers for either Sony or Microsoft to care.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s therefore safe to assume SDS will continue with MLB: The
-            Show for the foreseeable future, with the only big change likely
-            being a move from Switch to Switch 2 for MLB 26.
+            It&#39;s therefore likely SDS continues with just MLB: The Show for
+            the foreseeable future. Although based on job listings, MLB 26 will
+            also introduce a PC port. It likely also comes to Switch 2.
           </Paragraph>
         </div>
         <div>

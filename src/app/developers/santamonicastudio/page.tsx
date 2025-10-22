@@ -51,6 +51,8 @@ function SantaMonicaStudioPage(): JSX.Element {
             PC port and a free post-game expansion, we don&#39;t know their next
             game. Currently, rumors predict a new IP, a Ragnarök sequel, a God
             of War 2005 remake, or a smaller game like SM: Miles Morales.
+            There&#39;s also rumors of an external Metroidvania GoW game that
+            SMS are supervising.
           </Paragraph>
           <Paragraph>
             Many of these rumors could pan out to be true, but regardless of
@@ -59,9 +61,10 @@ function SantaMonicaStudioPage(): JSX.Element {
             usurped Naughty Dog as PlayStation&#39;s premier studio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök only shipped 2.5 years ago though, so it&#39;s unlikely
-            that SMS reveal their next game in 2025. There&#39;s also many PS
-            Studios that must talk before SMS feel any pressure.
+            Ragnarök only shipped 3 years ago though, and while SMS did hope to
+            reveal their new IP in 2025, this seems unlikely unless it&#39;s at
+            The Game Awards. There&#39;s many PS Studios that must talk before
+            SMS feel any pressure to do anyways.
           </Paragraph>
         </div>
         <div>

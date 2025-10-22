@@ -48,30 +48,36 @@ function NixxesSoftwarePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Nixxes are very important for PlayStation as PC is the easiest way
-            Sony finds growth outside of the console market - a necessity as AAA
-            development costs continue to rise. However, with PS5 games that
+            Nixxes are important for PlayStation as PC is the easiest way Sony
+            finds growth outside of the console market. And with PS5 games that
             need a PC port drying up, Nixxes are in a unique position to go back
-            into the PS3/PS4 catalogue and reintroduce classics to the modern
-            PS5 and PC audiences.
+            to the PS3/PS4 catalogue and reintroduce classics to modern PS5/PC
+            audiences.
           </Paragraph>
-
           <Paragraph>
-            I predict this is more likely than Nixxes simultaneously releasing
-            PC ports of new PS5 games. Logistically, this is a nightmare for an
+            This is more likely than Nixxes simultaneously releasing PC ports of
+            new singleplayer PS5 games. Logistically, this is hard for an
             external studio to do so effectively unless the finished PS5 version
-            is held until the PC port is ready. It&#39;s also unclear if Sony
-            even believe day 1 PC ports is what&#39;s best for their
-            singleplayer games.
+            is held until the PC port is ready. It&#39;s unclear if Sony even
+            want day 1 PC ports of singleplayer games. Regardless, it&#39;s nice
+            to see Nixxes ship a PS5 title and HZD&#39;s great reception bodes
+            well for ports of others around this era - especially pre-PS4 Pro
+            titles like Killzone: SF.
+          </Paragraph>
+          <Paragraph>
+            For Xbox, HD2 sales will really determine just how far Sony delves
+            into ecosystem. While currently, sales figures are contradictory
+            depending on the source, I predict Nixxes will now help port
+            future live-services like Fairgames to Xbox on day 1. While this
+            internally delays the games, it&#39;s a worthy tradeoff as
+            live-services thrive on the biggest possible audience at launch.
+            However, singleplayer titles won&#39;t make the jump at all. At
+            least until the next, more PC-like Xbox.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Regardless, it&#39;s great to see Nixxes finally ship a PS5 game.
-            Considering the excellent reception of the HZD remaster, despite the
-            original launching only 8 years ago, it bodes well for other games
-            around this era that Nixxes could port. Especially older PS4 titles
-            that released before the PS4 Pro, like Killzone: Shadow Fall. That
-            would be a best case scenario as Nixxes wait for more first-party
-            PS5 games to come out and port to PC.
+            For PS5 owners, this older PS3/4 titles and live-service Xbox
+            approach would be a best case scenario while Nixxes wait for more
+            PS5 games to come out and to port to PC.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -30,36 +30,38 @@ function SuckerPunchProductionsPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Sucker Punch are a Washington-based developer that was founded in 1997,
-        initially to work on an N64 platformer Rocket: Robot on Wheels. Sony
-        were impressed, so they funded SP&#39;s Sly Cooper trilogy for the PS2
-        and inFamous 1/2 on the PS3. After five great games under this
-        partnership, Sony acquired the studio in 2011.
+        initially to work on N64 platformer Rocket: Robot on Wheels. Sony were
+        impressed, so they funded SP&#39;s Sly Cooper trilogy for the PS2 and
+        inFamous 1/2 on the PS3. Shortly after, Sony acquired SP in 2011.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        SP have since moved on from inFamous to 2020&#39;s Ghost of Tsushima.
-        This third-person samurai action-adventure is the PS4&#39;s
-        fastest-selling first-party debut at 2.4 million copies sold in 3 days.
-        Tsushima then got a PS5 Director&#39;s Cut in 2021, which included a
-        well recieved 10-hour story expansion via a new island to explore. This
-        DC also helped push Tsushima past 13 million copies, making it extremely
-        profitable.
+        After 2 inFamous titles on PS4, SP then moved on to a new IP -
+        2020&#39;s Ghost of Tsushima. This third-person samurai action-adventure
+        is the PS4&#39;s fastest-selling first-party debut at 2.4 million copies
+        sold in 3 days. Tsushima then got a PS5 Director&#39;s Cut in 2021,
+        which included a well received 10-hour story expansion that helped push
+        Tsushima past 13 million copies, making it their best selling game.
+        It&#39;s therefore not surprising that SP stuck with the IP for their
+        most recent game - Ghost of Yōtei.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Tsushima is Sucker Punch&#39;s best selling game, so it&#39;s not
-            surprising that they&#39;ve stuck with the IP for Ghost of Yōtei - a
-            standalone sequel taking place 329 years later. Despite its
-            September 2024 reveal, Yōtei is already coming out in October 2025.
+            Yōtei - a standalone sequel taking place 329 years later - launched
+            in October 2025 to the same critical and commercial success Tsushima
+            achieved in 2020. Despite PS4&#39;s larger install base (PS4 was on
+            the market for 6.5 years compared to PS5&#39;s 5 years when Yōtei
+            launched).
           </Paragraph>
           <Paragraph marginBottom={8}>
-            As it&#39;s SP&#39;s second time with the IP, I predict Yōtei
-            surpasses Tsushima critically because they can now refine the
-            already successful formula. The larger PS5 install base means Yōtei
-            will surpass the Tsushima DC commercially too. Finally, due to the
-            length of game development and how far we&#39;re into PS5&#39;s
-            lifecycle, I also predict Yōtei is SP&#39;s final PS5 game.
+            However, due to the length of game development and how far we&#39;re
+            into PS5&#39;s lifecycle, I predict Yōtei is Sucker Punch&#39;s
+            final PS5 game. Despite Yōtei&#39;s success, I also doubt that
+            SP&#39;s next game will be a sequel. SP already confirmed that
+            they&#39;ll continue developing one game at a time, and have already
+            dedicated 10+ years to the IP. PS6 is a great place for something
+            new.
           </Paragraph>
         </div>
         <div>

@@ -48,7 +48,7 @@ function XDevpage(): JSX.Element {
             2021&#39;s &#39;Destruction AllStars&#39; and 2022&#39;s
             &#39;Firewall Ultra&#39; share the lowest rated PS Studios
             Metacritic score at 62 with Lost Soul Aside, 2024 games like
-            &#39;Helldivers 2&#39; and &#39;Stellar Blade&#39; far exceeded
+            &#39;Helldivers 2&#39; and &#39;Stellar Blade&#39; (which is getting a sequel) far exceeded
             critical and commercial expectations.
           </Paragraph>
           <Paragraph>

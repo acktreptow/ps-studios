@@ -333,6 +333,15 @@
     "metacritic": 83
   },
   {
+    "developer": "San Diego Studio",
+    "name": "MLB The Show 26",
+    "id": "MLB 2026",
+    "genre": "Sports Simulation (Baseball)",
+    "releaseDate": "March 17, 2026",
+    "daysBetweenReleases": 365,
+    "metacritic": "N/A"
+  },
+  {
     "developer": "Santa Monica Studio",
     "name": "God of War: Ragnarök",
     "id": "GOW: R",

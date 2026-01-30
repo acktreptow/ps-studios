@@ -59,12 +59,12 @@ function HousemarquePage(): JSX.Element {
             sales.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Housemarque are easily one of the bright spots for PS Studios this
+            Housemarque is easily one of the bright spots for PS Studios this
             generation, especially as they were acquired during Sony&#39;s
-            laser-focused live-service push. Thankfully, they weren&#39;t get
-            caught up in that - making them one of the few PS Studios currently
-            worth watching. Saros also ships in March 2026, so there&#39;s not
-            long to wait.
+            live-service push. Thankfully, they weren&#39;t caught up in that -
+            making them one of the few PS Studios currently worth watching.
+            Saros also ships in April 2026, so there&#39;s not long to wait.
+            Though it&#39;s likely the last Housemarque title on PS5.
           </Paragraph>
         </div>
         <div>

@@ -34,43 +34,41 @@ function DarkOutlawGamesPage(): JSX.Element {
         Blundell, who was co-studio head of Treyarch until 2020. He&#39;s best
         known for directing Campaign and Zombies modes in Black Ops 3/4, but his
         history with the IP began with 2006&#39;s COD3. Due to this pedigree, he
-        was able set up his own studio within 1 year... Deviation Games.
+        was able to set up his own studio... Deviation Games.
       </Paragraph>
       <Paragraph>
         At SGF 2021, he and fellow COD veteran David Anthony announced Deviation
         and a Sony partnership to fund their new AAA shooter IP. However, this
         was the last time we&#39;d hear from Deviation, which closed in March
         2024. Sony pulled funding around the time Blundell left in 2022 - likely
-        to form Dark Outlaw within PS Studios. According to LinkedIn, poaching
-        of Deviation employees then began around early 2023.
+        to form Dark Outlaw within PS Studios. According to LinkedIn, Deviation
+        poaching then began around early 2023.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Regardless of what happened at Deviation for Sony to pull funding, they
-        clearly believed Blundell wasn&#39;t the founder causing an issue.
-        Especially as Anthony has been self-employed since Deviation closed. Now
-        as Dark Outlaw, Blundell&#39;s studio is almost certainly creating the
-        PS5 game Sony originally wanted from Deviation. But this time, Sony owns
-        both the team and IP.
+        Regardless of why Sony pulled funding, they clearly believed Blundell
+        wasn&#39;t the issue (Anthony has been self-employed since Deviation
+        closed). Now as Dark Outlaw, Blundell&#39;s studio is almost certainly
+        creating the PS5 game Sony originally wanted from Deviation. But this
+        time, Sony owns both the team and IP.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Little is known about Dark Outlaw as it&#39;s only been discussed
-            once, in an interview about Blundell&#39;s whole career. They&#39;re
-            hiring up, while slowly ramping development and prioritizing team
-            cohesion so the best ideas naturally rise. Considering the history,
-            DO&#39;s title will likely resemble Deviation&#39;s game, which
-            based off its futuristic sci-fi concept art, was inspired by Black
-            Ops 3/4.
+            Little is known about Dark Outlaw as it&#39;s only been briefly
+            discussed by Blundell. They&#39;re hiring up, while slowly
+            ramping development and prioritizing team cohesion so the best ideas
+            naturally rise. Considering the history, DO&#39;s title will likely
+            resemble Deviation&#39;s game, which based on its sci-fi concept art
+            and leaked gameplay, was inspired by COD Zombies, but in 3rd-person.
           </Paragraph>
           <Paragraph>
             While it&#39;s a GaaS, there&#39;s also still reasons for optimism
             compared to other Sony live-service titles. DO&#39;s title is still
-            years away, which is advantageous because Sony can analyze any
-            mistakes made with upcoming live-services like Fairgames/Marathon
-            and not repeat them. Blundell also has time to reflect on Deviation
-            and ensure mistakes aren&#39;t repeated at Dark Outlaw.
+            years away, which is advantageous because Sony can analyze mistakes
+            made with upcoming live-services like Fairgames/Marathon and not repeat them.
+            Blundell also has time to reflect on Deviation and ensure those
+            mistakes aren&#39;t repeated.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Blundell&#39;s recent co-op-focused career with COD Zombies also

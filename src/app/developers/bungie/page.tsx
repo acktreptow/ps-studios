@@ -32,8 +32,8 @@ function BungiePage(): JSX.Element {
       </Paragraph>
       <List>
         <li>
-          Microsoft used to own Bungie when they created Xbox&#39;s flagship IP -
-          Halo.
+          Microsoft used to own Bungie when they created Xbox&#39;s flagship IP
+          - Halo.
         </li>
         <li>
           Sony acquired Bungie in 2022, but they&#39;re the only first-party
@@ -47,11 +47,11 @@ function BungiePage(): JSX.Element {
       </List>
       <Paragraph>
         Why does Bungie have more freedom than PS Studios? Desperation. Sony saw
-        the money live-service games like Destiny were making, but had no
-        in-house knowledge to make their own. For Bungie to sell, Sony overpaid
-        at $3.6 billion and accepted most terms. They were meant to advise on
-        Sony&#39;s other live-service games while raking in revenue from Destiny
-        2, which has severely underperformed post-acquisition.
+        the money live-services like Destiny were making, but had no in-house
+        knowledge to make their own. For Bungie to sell, Sony overpaid at $3.6
+        billion and accepted most terms. They were meant to advise on Sony&#39;s
+        other live-service titles while raking in revenue from Destiny 2, which
+        has severely underperformed post-acquisition.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Since 2023, there&#39;s been many rounds of layoffs, Sony taking board
@@ -71,10 +71,9 @@ function BungiePage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Bungie also revealed Marathon, a live-service extraction shooter, in
-            2023. It took until March 2025 to be showcased, with many playtests
-            before its initial September 2025 release. However, Marathon was
-            delayed to 2026 following tepid playtest opinion and a stolen art
-            scandal.
+            2023. It took until March 2025 to be showcased, and was delayed from
+            September 2025 to March 2026 following tepid playtest opinion and a
+            stolen art scandal.
           </Paragraph>
           <Paragraph marginBottom={8}>
             To call Marathon important for Bungie is an understatement. For them

@@ -35,7 +35,7 @@ function PolyphonyDigitalPage(): JSX.Element {
             Founded internally by auteur Kazunori Yamauchi in 1998, this
             Tokyo-based developer is known for PlayStation&#39;s best-selling
             IP, the Gran Turismo sim racing series, which has sold over 100
-            million copies.
+            million.
           </Paragraph>
           <Paragraph marginBottom={8}>
             At least one GT has shipped on every PlayStation console. For PS5,
@@ -73,10 +73,10 @@ function PolyphonyDigitalPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Never played GT or are a lapsed fan? It might be worth trying
-            2024&#39;s &#39;My First Gran Turismo&#39;. Polyphony describe it as
-            a &#39;free-to-play beginner-friendly introduction to the world of
-            GT&#39;. Basically, an expanded demo with a limited number of cars
-            and racetracks.
+            2024&#39;s My First Gran Turismo. Polyphony describes it as a
+            &#39;free-to-play, beginner-friendly intro to the world of GT&#39;.
+            Basically, it&#39;s an expanded demo with a limited number of cars and
+            racetracks.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Otherwise, I would look to other PS Studios for your next

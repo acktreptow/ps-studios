@@ -29,16 +29,17 @@ function NaughtyDogPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Naughty Dog is a California-based studio founded 10+ years before PS1,
-        in 1984. They&#39;re also one of the earliest to join first-party as
-        Sony acquired them in 2001 - an easy decision considering the critical
-        and commercial success of their Crash Bandicoot IP on PS1.
+        Naughty Dog is a California-based studio founded 10 years before PS1
+        launched, in 1984. They&#39;re also one of the earliest to join
+        first-party as Sony acquired them in 2001 - an easy decision considering
+        the critical and commercial success of their Crash Bandicoot IP on PS1.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        ND did well on PS2 with the Jak & Daxter IP. But it was on PS3, with the
-        Uncharted trilogy and The Last of Us, where their prestige grew to the
-        point that many consider them the best PlayStation studio. This
-        continued into PS4 with sequels in both IP.
+        Naughty Dog did well on PS2 with the Jak & Daxter IP. But it was on PS3,
+        with the Uncharted 1-3 and The Last of Us, where their prestige grew to
+        the point that many consider them the best PlayStation studio. This
+        success continued into PS4 with critically and commercially acclaimed
+        sequels/remasters in both IPs.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -60,12 +61,12 @@ function NaughtyDogPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s very likely that Intergalactic retains the
-            industry-defining quality Naughty Dog is known for, but the fact
-            remains that they&#39;re almost certainly only releasing 1 new game
-            on PS5 and it&#39;s shipping in its final years. Other first-party
-            developers like Insomniac have already begun supplanting them this
-            generation, which was unthinkable when TLOU released in 2013.
-            Hopefully they&#39;re able to return to form on PS6.
+            industry-defining quality ND is known for, but even still,
+            they&#39;re almost certainly only releasing 1 new game on PS5, and
+            it&#39;s shipping in its final years. Other PS Studios like
+            Insomniac have already begun supplanting them this generation, which
+            was unthinkable when TLOU released in 2013. Hopefully, ND can return
+            to form on PS6.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -61,10 +61,12 @@ function SantaMonicaStudioPage(): JSX.Element {
             usurped Naughty Dog as PlayStation&#39;s premier studio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök only shipped 3 years ago though, and while SMS did hope to
-            reveal their new IP in 2025, this seems unlikely unless it&#39;s at
-            The Game Awards. There&#39;s many PS Studios that must talk before
-            SMS feel any pressure to do anyways.
+            Ragnarök shipped 3.5 years ago though, so we&#39;ll hopefully see
+            something in 2026, but it&#39;s not alarming if not. For one,
+            they&#39;re also overseeing the Amazon TV show, which is
+            ramping up with casting and pre-production. There&#39;s also many PS
+            Studios that must showcase their games before SMS feels any pressure
+            anyways.
           </Paragraph>
         </div>
         <div>

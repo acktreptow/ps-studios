@@ -25,14 +25,14 @@ function FabrikGamesPage(): JSX.Element {
         2016&#39;s Filthy Lucre on PS4 and 2017&#39;s The Lost Bear on PSVR.
       </Paragraph>
       <Paragraph>
-        You likely haven&#39;t heard of these niche games and that&#39;s no
-        problem. You won&#39;t need to because Fabrik was acquired by Firesprite
-        in 2021 to bolster their headcount. As Firesprite were purchased by Sony
-        only a few weeks prior, Fabrik became a de-facto PS studio.
+        You likely haven&#39;t heard of these niche games, and that&#39;s no
+        problem. You won&#39;t need to, because Fabrik was acquired by
+        Firesprite in 2021 to bolster its headcount. As Firesprite was purchased
+        by Sony a few weeks prior, Fabrik became a de-facto PS studio.
       </Paragraph>
       <Paragraph marginBottom={8}>
         The indirect way Fabrik joined PS Studios is very unique, but not
-        particularly surprising. Both Firesprite and Fabrik were founded by the
+        particularly surprising. Both Fabrik and Firesprite were founded by the
         same individual. Fabrik had also already supported Firesprite during the
         development of their 2018 PSVR game - The Persistence.
       </Paragraph>
@@ -41,7 +41,7 @@ function FabrikGamesPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             As Fabrik are a Firesprite support studio, they&#39;ve not released
-            a PS5 game. Nor should you expect them to barring unforeseen
+            their own PS5 game. Nor should you expect them to barring unforeseen
             circumstances.
           </Paragraph>
           <Paragraph marginBottom={8}>

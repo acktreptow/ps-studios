@@ -50,8 +50,10 @@ function SanMateoStudioPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
-            look elsewhere. If anything, San Mateo Studio are more likely to
-            close if Pixelopus and Jet Li are any indications.
+            look elsewhere. If anything, San Mateo Studio is more likely to
+            close if Pixelopus, their expensive location, and Jet Li&#39;s
+            reception are any indications. Though closure is still highly
+            unlikely.
           </Paragraph>
         </div>
         <div>

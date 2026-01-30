@@ -48,12 +48,12 @@ function PixelopusPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It&#39;s unsurprising Sony shut Pixelopus as their single-player DNA
-            clashed with the 2020-23 live-service push. But in 2025, it&#39;s
-            clear with games like Concord that the initiative failed - resulting
-            in consequential gaps between first-party titles. Like Japan Studio
-            who shut in 2021, Pixelopus would be more useful now than in 2023 as
-            their smaller games would help fill these gaps.
+            It&#39;s unsurprising Sony shut Pixelopus as their singleplayer DNA
+            clashed with the 2020-23 live-service push. But in 2025, games like
+            Concord prove that the initiative failed, resulting in large gaps
+            between first-party titles. Like Japan Studio who shut in 2021,
+            Pixelopus would be more useful now than in 2023 as their AA titles
+            would fill these gaps.
           </Paragraph>
           <Paragraph>
             However, closing Pixelopus can still be justified. Unlike Japan
@@ -64,12 +64,11 @@ function PixelopusPage(): JSX.Element {
             as a brand differentiator despite the awards.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Pixelopus&#39;s expensive San Mateo location further makes it hard
-            to justify keeping open in this economy, and their cancelled PS5
-            game was a licensed IP in partnership with Sony Animation, which
-            would incur extra fees/red tape. Considering these factors, even
-            with Sony&#39;s failed live-service push, closing Pixelopus is still
-            a logical conclusion.
+            Pixelopus&#39;s expensive location further makes it hard to keep
+            them open and their PS5 title was a licensed IP in partnership with
+            Sony Animation, which would incur extra fees/red tape. Considering
+            these factors, closing Pixelopus was still logical despite the
+            failed live-service push.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

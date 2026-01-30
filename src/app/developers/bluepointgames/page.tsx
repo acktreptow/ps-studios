@@ -37,17 +37,17 @@ function BluepointGamesPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Bluepoint&#39;s most recent projects have been full remakes, such as
-        2018&#39;s Shadow of the Colossus on PS4 and 2020&#39;s Demon&#39;s
-        Souls. A highly praised PS5 launch title that&#39;s still considered one
-        of the best looking games of the generation.
+        2018&#39;s Shadow of the Colossus on PS4, and 2020&#39;s Demon&#39;s
+        Souls - a highly praised PS5 launch title that&#39;s still considered
+        one of the best-looking games of the generation.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Demon&#39;s Souls shipping in 2020, all we knew was that
-            Bluepoint&#39;s next game was original content. In 2025, we found
-            out this meant a now cancelled live-service God of War.
+            After Demon&#39;s Souls, all we knew was that Bluepoint&#39;s next
+            game would be original content. In 2025, we found out this meant a
+            now-cancelled live-service God of War set back in Greece.
           </Paragraph>
           <Paragraph>
             Considering Bluepoint&#39;s history, most were disappointed with the
@@ -58,13 +58,11 @@ function BluepointGamesPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Bluepoint is currently hiring for a 3rd-person melee action game,
-            but it&#39;s unclear whether it&#39;s a live-service or a new
-            title. Even if it&#39;s a remake, which would be the best case
-            scenario, it&#39;s likely a PS6 title given how long it takes to
-            ship a game. Therefore outside of PS5&#39;s launch, Bluepoint has
-            completely wasted the generation. A worst case outcome that was
-            easily avoided if not for the incompetence of ex-PlayStation
-            leadership.
+            but it&#39;s unknown whether it&#39;s a live-service. Even if
+            it&#39;s a remake (the best scenario), it&#39;s likely a PS6 title
+            due to how long game development takes. Therefore outside of launch,
+            Bluepoint has been wasted on PS5. A worst case outcome, easily
+            avoided if not for ex-PlayStation leadership incompetence.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If there was one PS Studio that should never have entered the

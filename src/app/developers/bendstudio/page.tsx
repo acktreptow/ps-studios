@@ -53,22 +53,22 @@ function BendStudioPage(): JSX.Element {
               reception of Days Gone.
             </li>
             <li>
-              A 2020 internal power struggle resulted DG&#39;s writer and
+              A 2020 internal power struggle resulted in DG&#39;s writer and
               creative director leaving.
             </li>
             <li>
-              This led to new leadership greenlighting a live-service game
-              within a new IP.
+              This led Bend&#39;s new leadership to greenlight a live-service
+              game based on an original IP.
             </li>
             <li>
-              That game was then cancelled in January 2025. Likely due to Sony
-              leadership&#39;s cold feet in live-service post-Concord.
+              That game was then cancelled in January 2025 - likely due to
+              Sony&#39;s colder feet for internal live-services, post-Concord.
             </li>
           </List>
           <Paragraph>
             Fortunately, much of DG&#39;s criticisms stem from those who lost
-            the power struggle. Between that, Sony&#39;s new-found reluctance in
-            live-service, DG getting a remaster, and the more positive general
+            the power struggle. Between that, Sony&#39;s increased reluctance in
+            live-services, DG getting a remaster, and the more positive general
             consensus around the IP in 2025, there&#39;s a good chance Days Gone
             2 could now be greenlit and launch to much better critical
             reception.
@@ -76,9 +76,9 @@ function BendStudioPage(): JSX.Element {
           <Paragraph marginBottom={8}>
             This would be the best case scenario, but don&#39;t expect it until
             PS6. Meaning out of all PS Studios, Bend will go the longest without
-            releasing a new game. Due to ex-leadership and Sony&#39;s poor
+            releasing a new game. Due to ex-Bend leadership and Sony&#39;s poor
             live-service execution, the PS5 has been a truly wasted generation
-            for Bend.
+            for Bend Studio.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

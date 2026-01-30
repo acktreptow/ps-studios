@@ -48,20 +48,24 @@ function SuckerPunchProductionsPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Yōtei - a standalone sequel taking place 329 years later - launched
-            in October 2025 to the same critical and commercial success Tsushima
-            achieved in 2020. Despite PS4&#39;s larger install base (PS4 was on
-            the market for 6.5 years compared to PS5&#39;s 5 years when Yōtei
-            launched).
+            Yōtei - a standalone sequel taking place 329 years after Tsushima -
+            launched in Oct 2025, to the same critical and commercial success
+            Tsushima achieved. For example, Yōtei is the third-highest selling
+            game in the US for 2025 behind only Battlefield 6 and NBA 2K26.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             However, due to the length of game development and how far we&#39;re
             into PS5&#39;s lifecycle, I predict Yōtei is Sucker Punch&#39;s
-            final PS5 game. Despite Yōtei&#39;s success, I also doubt that
-            SP&#39;s next game will be a sequel. SP already confirmed that
-            they&#39;ll continue developing one game at a time, and have already
-            dedicated 10+ years to the IP. PS6 is a great place for something
-            new.
+            final PS5 game (which is still waiting on its multiplayer Legends
+            expansion). Despite Yōtei&#39;s success, I also doubt that SP&#39;s
+            next game will be a sequel.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            For one, Brian Fleming, SP&#39;s studio head and founder, retired
+            shortly after Yōtei&#39;s launch. New leadership will likely want to
+            move on with their own ideas. SP have also already confirmed that
+            they&#39;ll continue developing one game at a time. With 10+ years
+            dedicated to the Ghost IP, PS6 is a great place for something new.
           </Paragraph>
         </div>
         <div>

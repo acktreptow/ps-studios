@@ -32,7 +32,7 @@ function MediaMoleculePage(): JSX.Element {
       <Paragraph marginBottom={8}>
         Media Molecule&#39;s last title was 2020&#39;s Dreams on PS4 and
         therefore haven&#39;t released a PS5 game. Furthermore, despite Dreams
-        releasing over 5 years go, MM still hasn&#39;t even announced their next
+        releasing 6 years ago, MM still hasn&#39;t even announced their next
         game, let alone shown gameplay. It&#39;s however been confirmed to be a
         new IP, will be more of a game than a creative tool like Dreams, and
         that its led by the director of Tren (the best received made-in-Dreams
@@ -59,7 +59,7 @@ function MediaMoleculePage(): JSX.Element {
           <Paragraph marginBottom={8}>
             Yet with rising development costs and other external economic
             factors at play, these more prestigious reasons may not be enough in
-            2025. It&#39;s therefore more likely Media Molecule closes before
+            2026. It&#39;s therefore more likely Media Molecule closes before
             shipping a PS5 game.
           </Paragraph>
         </div>

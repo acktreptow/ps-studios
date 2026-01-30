@@ -35,13 +35,13 @@ function InsomniacGamesPage(): JSX.Element {
         Ratchet & Clank on PS2/3. All funded by Sony.
       </Paragraph>
       <Paragraph>
-        In the early 2010s, the latter two IP started to flounder. This caused
-        Insomniac to branch out and develop games funded by EA (2013&#39;s
-        Fuse), Xbox (2014&#39;s Sunset Overdrive), Oculus (2016&#39;s Edge of
-        Nowhere) and others. Insomniac however found solid ground again with
-        2018&#39;s Spider-Man for the PS4. It&#39;s not only their highest
-        selling game ever, but it&#39;s also the highest selling first-party PS4
-        game.
+        In the early 2010s, the latter two IPs started to flounder. This caused
+        Insomniac to branch out and develop games for EA (2013&#39;s Fuse), Xbox
+        (2014&#39;s Sunset Overdrive), Oculus (2016&#39;s Edge of Nowhere) etc.
+        While these also weren&#39;t commercial hits, Insomniac found solid
+        ground again with 2018&#39;s Spider-Man on PS4. It&#39;s not only their
+        highest selling game ever, but it&#39;s also the highest selling
+        first-party PS4 title.
       </Paragraph>
       <Paragraph marginBottom={8}>
         With this unprecedented success, it&#39;s no surprise that Sony acquired

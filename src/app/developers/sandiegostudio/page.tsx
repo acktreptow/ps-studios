@@ -31,7 +31,7 @@ function SanDiegoStudioPage(): JSX.Element {
       <Paragraph>
         Founded in 2001, San Diego Studio is the first-party developer
         responsible for the MLB: The Show series. The annualized baseball game
-        is the only IP they work on, meaning 5 MLB games have shipped on PS5
+        is the only IP they work on, meaning 6 MLB games have shipped on PS5
         since 2021. All releasing in the same March/April timeframe.
       </Paragraph>
       <Paragraph>
@@ -57,7 +57,7 @@ function SanDiegoStudioPage(): JSX.Element {
             SDS would work on something new, even if they wanted to.
           </Paragraph>
           <Paragraph>
-            We&#39;re now also 5 games into the multiplatform strategy and
+            We&#39;re now also 6 games into the multiplatform strategy and
             nothing has materially changed. Additionally, going into Gamepass
             was the aspect that could&#39;ve shifted SDS&#39;s focus, but
             considering Xbox didn&#39;t renew that contract past MLB 24, its
@@ -66,8 +66,10 @@ function SanDiegoStudioPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s therefore likely SDS continues with just MLB: The Show for
-            the foreseeable future. Although based on job listings, MLB 26 will
-            also introduce a PC port. It likely also comes to Switch 2.
+            the foreseeable future. Although MLB 26 is coming to Switch, but
+            skipping Switch 2. SDS has also launched a standalone mobile version
+            as a regional test in the Philippines that&#39;s worth keeping an
+            eye on for 2027.
           </Paragraph>
         </div>
         <div>

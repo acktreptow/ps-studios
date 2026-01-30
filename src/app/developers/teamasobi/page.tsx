@@ -36,7 +36,7 @@ function TeamAsobiPage(): JSX.Element {
       <Paragraph>
         So far, Asobi has released 2 PS5 games. 2020&#39;s Astro&#39;s Playroom
         was a free, pre-installed PS5 launch title with gameplay showcasing new
-        PS5 features like haptic feedback. Even after 4 years, it&#39;s still
+        PS5 features like haptic feedback. Even after 5 years, it&#39;s still
         one of the best uses of the DualSense. The game&#39;s positive reception
         is also why Asobi survived Japan Studio&#39;s closure.
       </Paragraph>
@@ -58,10 +58,10 @@ function TeamAsobiPage(): JSX.Element {
             is the first title to have multiple themed DualSenses.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Considering its $50 million budget, Astro Bot has made $10+ million
-            in profit - even with its many free DLCs. So whatever Asobi want to
-            do next, Sony unlikely says no. Though I predict Asobi stick to the
-            blueprint and release a worthy sequel at the end of PS5&#39;s
+            Considering its $50 million budget, Astro Bot made millions in
+            profit - even with its many free DLCs. So whatever Asobi wants to do
+            next, Sony is unlikely to say no. Though I predict Asobi sticks to
+            the blueprint and releases a worthy sequel at the end of PS5&#39;s
             lifecycle in 2027/28.
           </Paragraph>
         </div>

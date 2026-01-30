@@ -37,12 +37,12 @@ function FirespritePage(): JSX.Element {
         Firesprite until 2021.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        So far, they&#39;ve released two PS5 games. An enhanced port of The
-        Persistence in 2021 and the flagship PSVR2 launch title Horizon Call of
-        the Mountain in 2023. Neither were particularly well received,
-        critically or commercially. Firesprite actually has the lowest average
-        Metacritic score out of the 15 PlayStation Studios developers who&#39;ve
-        shipped a PS5 game.
+        So far, Firesprite has released two PS5 games - an enhanced port of The
+        Persistence in 2021, and flagship PSVR2 launch title Horizon Call of
+        the Mountain in 2023. Neither was particularly well received,
+        critically or commercially. In fact, Firesprite has the lowest average
+        Metacritic score out of the PS Studios developers who&#39;ve
+        shipped a PS5 title.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -53,7 +53,7 @@ function FirespritePage(): JSX.Element {
             post-acquisition.
           </Paragraph>
           <Paragraph>
-            Crunch was necessary to ship Horizon. Additionally, all but one
+            Crunch was necessary to ship Horizon VR. Additionally, all but one
             founder and many other staff left once retention bonuses were paid
             out. Layoffs then took place a year later, after reports that
             Firesprite&#39;s unannounced live-service Twisted Metal game was

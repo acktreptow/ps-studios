@@ -24,7 +24,7 @@ function ManchesterStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        In 2015, Sony internally created Manchester Studio (formerly North West
+        In 2015, Sony created Manchester Studio (originally called North West
         Studio) to develop AAA games for PSVR. Their only game was the
         unannounced &#39;CSAR: Combat, Search, and Rescue&#39;, where the player
         would fly a helicopter around shooting enemies, whilst simultaneously
@@ -58,13 +58,12 @@ function ManchesterStudioPage(): JSX.Element {
             its guaranteed low sales.
           </Paragraph>
           <Paragraph>
-            CSAR could&#39;ve transitioned to PSVR2, but this meant a February
-            2023 release date at the earliest. An 8-year cycle for a VR game by
-            an unproven studio with a track record of development issues makes
-            no fiscal sense. Furthermore, even a PSVR2
-            version wouldn&#39;t have improved sales. Other, bigger first-party
-            titles like Horizon COTM performed so poorly that PS Studios
-            hasn&#39;t released a VR game since PSVR2 launched.
+            CSAR could&#39;ve moved to PSVR2, but this meant a Feb 2023
+            release at the earliest. An 8-year cycle for a VR game by an
+            unproven studio with a track record of development issues makes no
+            fiscal sense. Furthermore, PSVR2 wouldn&#39;t have improved sales.
+            AAA first-party titles from big IP like Horizon performed so poorly
+            that PS Studios hasn&#39;t shipped a PSVR2 title since launch.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s a shame when studios close, but the unfortunate reality is

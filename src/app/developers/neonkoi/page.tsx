@@ -24,10 +24,10 @@ function NeonKoiPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Neon Koi was a German-Finnish developer that was founded in 2020 under
-        the name &#39;Savage Game Studios&#39;. It was under this initial name
-        when Sony acquired them in August 2022, before rebranding to Neon Koi in
-        November 2023 after many leadership resignations.
+        Neon Koi was a German-Finnish developer that was founded in 2020 as
+        Savage Game Studios. It was under this initial name when Sony acquired
+        them in August 2022, before rebranding as Neon Koi in November 2023
+        after many leadership resignations.
       </Paragraph>
       <Paragraph marginBottom={8}>
         When it comes to Neon Koi&#39;s PS5 output, they didn&#39;t release
@@ -41,20 +41,20 @@ function NeonKoiPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Neon Koi closed in October 2024. Yet despite forming four years
-            prior, NK didn&#39;t even announce the name of their game,
-            let alone show gameplay or actually ship it.
+            Neon Koi closed in October 2024. Yet despite forming 4 years prior,
+            NK didn&#39;t even announce the name of their game, let alone show
+            gameplay or actually ship it.
           </Paragraph>
           <Paragraph>
-            In fact, Neon Koi was only known for negative headlines. Like when
-            a founder and the head of PlayStation&#39;s Mobile Division
-            abruptly quit under suspicious circumstances, or the failed
-            rebranding to Neon Koi in 2023.
+            In fact, Neon Koi was only known for negative headlines. Like when a
+            founder and the head of PlayStation&#39;s Mobile Division abruptly
+            quit under suspicious circumstances in mid-2023, or the failed
+            rebranding to Neon Koi a few months later.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            At best, Neon Koi are an insignificant PS5 era footnote in PlayStation&#39;s
-            history. At worst, they&#39;re a glaring example of
-            mistakes made by former PlayStation leadership. From
+            At best, Neon Koi are an insignificant PS5 era footnote in
+            PlayStation&#39;s history. At worst, they&#39;re a glaring example
+            of mistakes made by former PlayStation leadership. From
             short-sighted, poorly researched acquisitions to wasted spending on
             games that were cancelled before they were even announced, NK
             embodies the missteps of the Jim Ryan era.

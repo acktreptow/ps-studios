@@ -34,31 +34,30 @@ function VisualArtsPage(): JSX.Element {
       <Paragraph>
         VASG Senior Director Michael Mumbauer aspired to become a proper PS
         Studio with full creative control over a game, so 30 devs joined from
-        near studios to remake a classic. 2007&#39;s Uncharted was targeted, but
-        as an early PS3 game, it was too hard to modernize for PS5 at that size.
-        VASG then settled on 2013&#39;s The Last of Us - a more modern PS3 game.
+        nearby studios to remake 2007&#39;s Uncharted. However, as an early PS3
+        game, it was too hard to modernize on PS5 at that size. VASG then
+        settled on 2013&#39;s The Last of Us - a more modern PS3 game.
         Afterwards, VASG could hire up for Uncharted, then their own titles.
       </Paragraph>
       <Paragraph>
-        TLOU&#39;s remake (Project T1X) was probationally approved, which meant
-        it stayed a secret with no budget to hire up. VASG questioned Sony&#39;s
+        TLOU remake (Project T1X) was probationally approved, meaning it stayed
+        a secret with no budget to hire up. VASG questioned Sony&#39;s
         commitment, but completed a vertical slice to showcase T1X&#39;s look
-        and feel in spring 2019 - just before Hermen Hulst took over all of
-        first-party. Due to his new role, Hulst thoroughly reviewed the entire
-        PS Studios portfolio and grew concerned with T1X&#39;s budget. Mumbauer
-        argued this was VASG&#39;s first project on a new engine and he had to
-        hire up to modernize gameplay. Hulst was unconvinced.
+        and feel in spring 2019 - just before Hermen Hulst took over PS Studios.
+        Due to his new role, Hulst thoroughly reviewed the entire PS Studios
+        portfolio and grew concerned with T1X&#39;s budget. Mumbauer argued this
+        was VASG&#39;s first project, on a new engine, and had to hire up to
+        modernize gameplay. Hulst was unconvinced.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Instead, T1X&#39;s team supported Naughty Dog&#39;s TLOU 2 after its
-        delay to 2020. Once shipped, instead of hiring up, T1X shifted to
-        ND&#39;s budget who joined in a support role. Mumbauer knew this would
-        strip VASG&#39;s autonomy as ND outpaced VASG&#39;s work due to their
-        size. As TLOU was their IP, ND were also trusted more by Sony, which
-        effectively gave them final say. VASG was now jokingly referred to as ND
-        South, so in late 2020, with his vision dead, Mumbauer and many on his
-        team quit. VASG now continue in the support role Sony always saw them
-        in.
+        Instead, VASG supported Naughty Dog&#39;s TLOU 2 after its delay to
+        2020. Once shipped, instead of hiring up, T1X shifted to ND&#39;s budget
+        who joined in a support role. Mumbauer knew this would strip autonomy as
+        ND outpaced VASG&#39;s work due to their size. As TLOU was their IP, ND
+        were also trusted more by Sony, effectively giving them final say. VASG
+        was now jokingly referred to as ND South, so in late 2020, with his
+        vision dead, Mumbauer and many others quit. VASG now continues in the
+        support role Sony always saw them in.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -75,19 +74,18 @@ function VisualArtsPage(): JSX.Element {
             cancelled project, an undisclosed number of VASG staff were let go.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Circumstances could change on PS6, but this seems unlikely. Until
-            then, we can at least appreciate VASG&#39;s work in most upcoming PS
-            Studios games via art, animation etc. VASG are also rumored to be
-            assisting Naughty Dog and a new internal studio on the next
-            Uncharted. This isn&#39;t what Mumbauer envisioned, but as part of
-            many projects, VASG continue to be essential to PS Studios for the
-            foreseeable future.
+            Circumstances could change on PS6, but it&#39;s unlikely. Until
+            then, we can still appreciate VASG&#39;s work in most upcoming PS
+            Studios games via art, animation etc. They&#39;re also rumored to be
+            assisting ND and a new internal studio on the next Uncharted.
+            It&#39;s not what Mumbauer envisioned, but as part of many projects,
+            VASG is still essential to PS Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={bendLeak}
-            alt="Leaked screenshot of Bend's cancelled live-service game"
+            alt="Leaked screenshot of Bend&#39;s cancelled live-service game"
             id="bend-leak"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

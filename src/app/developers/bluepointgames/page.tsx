@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import demonsSouls from "../../../../public/images/dev-pages/demons-souls.png";
+import Gow from "../../../../public/images/dev-pages/cancelled-gow.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -73,13 +73,13 @@ function BluepointGamesPage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={demonsSouls}
-            alt="Demons's Souls cover art"
+            src={Gow}
+            alt="Leaked screenshot of Bend&#39;s cancelled God Of War"
             id="demons-souls"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="demons-souls" className="block text-center mb-8">
-            Demon&#39;s Souls Cover Art
+            Bend&#39;s Cancelled God Of War
           </label>
         </div>
       </ImageSection>

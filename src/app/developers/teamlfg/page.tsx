@@ -64,26 +64,20 @@ function TeamLFGPage(): JSX.Element {
             their identity&#39; in a &#39;cozy vibe&#39;.
           </Paragraph>
           <Paragraph>
-            Out of Sony&#39;s upcoming live-service games, I&#39;m more
-            optimistic about Gummy Bears than most - it&#39;s very telling that
-            with all of Bungie&#39;s current turmoil, LFG showed enough promise
-            for Sony to extract them from a bad situation and directly nurture
-            GB&#39;s potential.
-          </Paragraph>
-          <Paragraph>
-            GB is also the only Smash Bros type game on PS5, instead of the
-            saturated shooter-focused genre Fairgames/Marathon are in. Its
-            lighter tone could also be a major selling point - similar to the
-            virality Helldivers 2&#39;s managed democracy achieved. Finally, GB
-            launches after the aforementioned games, which gives Sony plenty of
-            data to see what went right/wrong.
+            Out of Sony&#39;s future live-service games, I&#39;m more
+            optimistic about Gummy Bears than most. It&#39;s telling that with
+            all of Bungie&#39;s current turmoil, LFG showed enough promise for
+            Sony to extract them to directly nurture
+            GB&#39;s potential.    GB is also the only Smash Bros type game on PS5, instead of the
+            saturated shooter genre Fairgames/Marathon are in. Finally, GB
+            launches after these games, which gives Sony plenty of data to see
+            what went right/wrong.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Nonetheless, GB is still years away, and with the volatility of
+            Nonetheless, GB is years away, and with the volatility of
             live-service, its commercial and/or critical success can still go
             either way. Hopefully, LFG keep their word of many playtests -
-            it&#39;s the best barometer of what an increasingly pessimistic
-            hardcore PS5 base thinks of yet another GaaS.
+            it&#39;s the best barometer of what all segments of the PS5 base think of that specific live-service.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

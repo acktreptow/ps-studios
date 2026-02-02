@@ -30,30 +30,29 @@ function GuerrillaGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2000, Guerrilla Games is known for its FPS &#39;Killzone&#39;
-        and third-person action RPG &#39;Horizon&#39; series. Sony acquired the
-        Amsterdam studio just 1 year after Killzone released on PS2 in 2004,
-        making them one of the oldest PlayStation developers.
+        Founded in 2000, Guerrilla Games is known for its FPS Killzone and
+        action RPG Horizon IP. Sony acquired the Amsterdam studio just 1 year
+        after Killzone released on PS2 in 2004, making them one of the oldest
+        PlayStation developers.
       </Paragraph>
       <Paragraph>
-        On PS5, Guerrilla has only released &#39;Horizon Forbidden West&#39; in
-        2022. They did work with other studios on 2023&#39;s &#39;Horizon Call
-        of the Mountain&#39;, 2024&#39;s &#39;Lego Horizon Adventures&#39; and a
-        remake of &#39;Horizon Zero Dawn&#39;, but they weren&#39;t the main
-        developer.
+        On PS5, Guerrilla has only released Horizon Forbidden West in 2022. They
+        did work with other studios on 2023&#39;s Horizon Call of the Mountain,
+        2024&#39;s Lego Horizon Adventures, and a remake of Horizon Zero Dawn,
+        but weren&#39;t the main developer.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Outside of collaborations and 2023&#39;s PS5 exclusive &#39;Burning
-        Shores&#39; DLC for Forbidden West, Guerrilla have been silent about
-        their next project. Yet despite the scilence, we know that it&#39;s
-        almost certainly Horizon 3.
+        Outside of collaborations and 2023&#39;s PS5 exclusive Burning Shores
+        DLC for Forbidden West, Guerrilla have been silent about their next
+        project. Yet despite the silence, we know that it&#39;s almost certainly
+        more Horizon.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite no concrete information, I predict Guerrilla&#39;s next game
-            is Horizon 3 due to the following:
+            Despite no concrete information, Guerrilla&#39;s next title is
+            likely more Horizon due to the following:
           </Paragraph>
           <List>
             <li>
@@ -73,7 +72,8 @@ function GuerrillaGamesPage(): JSX.Element {
               released in 2024.
             </li>
             <li>
-              A Horizon MMO is almost certainly being worked on at NCSoft.
+              Horizon Steel Frontiers - an MMO for PC/phones is being developed
+              by NCSoft.
             </li>
             <li>
               Columbia Pictures and PS Productions are adapting Horizon Zero
@@ -91,10 +91,11 @@ function GuerrillaGamesPage(): JSX.Element {
             to walk away from the series right now.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            I predict Horizon 3 launches around late 2027 as a cross-gen PS5/PS6
-            title and it&#39;ll play similar to the first 2. It&#39;s also been
-            over 3 years since Forbidden West so we might see something in 2025,
-            but it&#39;s unlikely.
+            Rumors suggest Guerrilla are working on both their own Horizon
+            multiplayer project and Horizon 3, but regardless of which comes
+            first, I predict it&#39;s a cross-gen PS5/PS6 title. It&#39;s also
+            been over 4 years since Horizon FW, so hopefully, we see at least
+            one of these projects in 2026.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -44,20 +44,19 @@ function JapanStudioPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         Instead, JS re-centered around Asobi to build on Astro&#39;s popularity
         in April 2021 - effectively closing JS. Sony would continue with AAA
-        titles, while also diving into live-service. This left AA and indie
-        titles to independent creators, third-party publishers, and XDev
-        partnerships.
+        titles and live-services, which left AA and indie titles to independent
+        creators, third-party publishers, and XDev partnerships.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            To be fair to Sony, it made sense focusing on Asobi. Astro&#39;s
-            Playroom showcased potential that was realized with 2024&#39;s
-            award-winning Astro Bot - eclipsing any game from other JS teams in
-            10+ years. Sony also has XDev for partnerships. But these points
-            don&#39;t negate Sony&#39;s short-sighted dismissiveness of AA
-            titles, where JS would be a tremendous attribute for PS5 right now.
+            To be fair to Sony, it made sense to focus on Asobi. Astro&#39;s
+            Playroom showcased potential realized with 2024&#39;s award-winning
+            Astro Bot - eclipsing any game from other JS teams in 10+ years.
+            Sony also has XDev for partnerships. But these points don&#39;t
+            negate Sony&#39;s short-sighted dismissiveness of AA titles, where
+            JS would be a tremendous attribute for PS5 right now.
           </Paragraph>
           <Paragraph>
             Outside of Helldivers 2, Sony&#39;s live-strategy has failed. Most
@@ -78,16 +77,16 @@ function JapanStudioPage(): JSX.Element {
           <Paragraph marginBottom={8}>
             Fortunately, many ex-JS staff formed new studios to continue making
             games together, like Team Gravity&#39;s Slitterhead as Bokeh Game
-            Studio, or Patapon staff&#39;s spiritual sequel Ratatan. Bandai
-            Namco also licensed Everybody&#39;s Golf, Freedom Wars & Patapon
-            from Sony to release sequels/remakes. Between these games and Asobi,
-            Japan Studio&#39;s legacy lives on.
+            Studio, or Patapon&#39;s spiritual sequel, Ratatan. Bandai Namco
+            also licensed Everybody&#39;s Golf, Freedom Wars & Patapon from Sony
+            to release sequels/remakes. Between these titles and Asobi, Japan
+            Studio&#39;s legacy lives on.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={japanStudioHolidays}
-            alt="Japan Studio's final holiday card"
+            alt="Japan Studio&#39;s final holiday card"
             id="jp-studio-holiday-card"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />

@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import gotDC from "../../../../public/images/dev-pages/got-dc.png";
+import goy from "../../../../public/images/dev-pages/ghost-of-yotei.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -70,13 +70,13 @@ function SuckerPunchProductionsPage(): JSX.Element {
         </div>
         <div>
           <Image
-            src={gotDC}
-            alt="Ghost of Tsushima Director's Cut start screen"
+            src={goy}
+            alt="Ghost Of Yōtei Key Art"
             id="got-dc"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="got-dc" className="block text-center mb-8 md:ml-5">
-            GoT: Director&#39;s Cut Start Screen
+            Ghost Of Yōtei Key Art
           </label>
         </div>
       </ImageSection>

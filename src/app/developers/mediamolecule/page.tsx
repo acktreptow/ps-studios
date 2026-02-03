@@ -35,8 +35,8 @@ function MediaMoleculePage(): JSX.Element {
         releasing 6 years ago, MM still hasn&#39;t even announced their next
         game, let alone shown gameplay. It&#39;s however been confirmed to be a
         new IP, will be more of a game than a creative tool like Dreams, and
-        that its led by the director of Tren (the best received made-in-Dreams
-        game).
+        that it&#39;s led by the director of Tren (the best received
+        made-in-Dreams game).
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

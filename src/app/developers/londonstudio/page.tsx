@@ -32,8 +32,8 @@ function LondonStudioPage(): JSX.Element {
       <Paragraph>
         LS&#39;s most successful IP was Singstar, which sold 20 million+ across
         PS2-PS4. It used a USB mic, but LS also utilized more unique
-        peripherals. For PS2, it was the camera-based EyeToy. For PS3, it was
-        the AR Wonderbook. For PS4, it was PSVR&#39;s Blood and Truth. All were
+        peripherals. On PS2, it was the camera-based EyeToy. On PS3, it was the
+        AR Wonderbook. On PS4, it was PSVR&#39;s Blood and Truth. All were
         commercially and/or critically successful. PS3&#39;s PlayStation Home
         was also one of the first metaverses - launching 10+ years before it was
         even a term.

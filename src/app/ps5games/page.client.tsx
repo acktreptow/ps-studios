@@ -53,7 +53,7 @@ function PS5GamesClient(): JSX.Element {
           .filter(
             (game: Game) =>
               game.developer !== "Nixxes Software" ||
-              game.name === "Horizon Zero Dawn Remastered"
+              game.name === "Horizon Zero Dawn"
           )
           .map((game: Game) => (
             <div

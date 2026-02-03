@@ -96,8 +96,8 @@ function AboutPage(): JSX.Element {
       <Paragraph>
         These stats range from basic ones like a bullet-point list detailing how
         many PS5 games each developer has released, to more complex ones like
-        which developer&#39;s PS5 games results in the highest average
-        Metacritic score.
+        which developer&#39;s PS5 games result in the highest average Metacritic
+        score.
       </Paragraph>
       <Paragraph>
         I also include some more subjective stats predicting the future of
@@ -119,8 +119,8 @@ function AboutPage(): JSX.Element {
       {/* GitHub Link Section */}
       <SubTitle subtitle="GitHub Link" />
       <Paragraph>
-        If you enjoyed the site, I would greatly appreciate if you starred the
-        linked repository in the header. Or you can click{" "}
+        If you enjoyed the site, I would greatly appreciate it if you starred
+        the linked repository in the header. Or you can click{" "}
         <Link href="https://github.com/acktreptow/ps-studios" target="_blank">
           <span className="font-semibold hover:font-bold">here</span>
         </Link>{" "}

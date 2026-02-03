@@ -31,7 +31,7 @@ function JapanStudioPage(): JSX.Element {
         Colossus) and Team Gravity (Siren, Gravity Rush), but an equal part of
         their portfolio came from external partnerships like FromSoftware
         (Demon&#39;s Souls, Bloodborne) and many golf titles with Clap Hanz.
-        Other IP include Ape Escape, Knack & Patapon.
+        Other IPs include Ape Escape, Knack & Patapon.
       </Paragraph>
       <Paragraph>
         Japan Studio&#39;s split portfolio is best seen with its PS5 launch

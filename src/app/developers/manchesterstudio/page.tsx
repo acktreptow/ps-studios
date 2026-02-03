@@ -28,7 +28,7 @@ function ManchesterStudioPage(): JSX.Element {
         Studio) to develop AAA games for PSVR. Their only game was the
         unannounced &#39;CSAR: Combat, Search, and Rescue&#39;, where the player
         would fly a helicopter around shooting enemies, whilst simultaneously
-        rescuing rescuing civilians from them.
+        rescuing civilians from them.
       </Paragraph>
       <Paragraph>
         Unfortunately, CSAR&#39;s development struggled around vital decisions
@@ -58,12 +58,12 @@ function ManchesterStudioPage(): JSX.Element {
             its guaranteed low sales.
           </Paragraph>
           <Paragraph>
-            CSAR could&#39;ve moved to PSVR2, but this meant a Feb 2023
-            release at the earliest. An 8-year cycle for a VR game by an
-            unproven studio with a track record of development issues makes no
-            fiscal sense. Furthermore, PSVR2 wouldn&#39;t have improved sales.
-            AAA first-party titles from big IP like Horizon performed so poorly
-            that PS Studios hasn&#39;t shipped a PSVR2 title since launch.
+            CSAR could&#39;ve moved to PSVR2, but this meant a Feb 2023 release
+            at the earliest. An 8-year cycle for a VR game by an unproven studio
+            with a track record of development issues makes no fiscal sense.
+            Furthermore, PSVR2 wouldn&#39;t have improved sales. AAA first-party
+            titles from big IPs like Horizon performed so poorly that PS Studios
+            hasn&#39;t shipped a PSVR2 title since launch.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s a shame when studios close, but the unfortunate reality is

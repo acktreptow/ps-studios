@@ -46,7 +46,7 @@ function NixxesSoftwarePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Nixxes are important for PlayStation as PC is the easiest way Sony
+            Nixxes is important for PlayStation as PC is the easiest way Sony
             finds growth outside of the console market. And with PS5 games that
             need a PC port drying up, Nixxes are in a unique position to go back
             to the PS3/PS4 catalogue and reintroduce classics to modern

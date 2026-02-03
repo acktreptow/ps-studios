@@ -52,7 +52,7 @@ function SantaMonicaStudioPage(): JSX.Element {
             game. Currently, rumors predict a new IP, a Ragnarök sequel, a God
             of War 2005 remake, or a smaller game like SM: Miles Morales.
             There&#39;s also rumors of an external Metroidvania GoW game that
-            SMS are supervising.
+            SMS is supervising.
           </Paragraph>
           <Paragraph>
             Many of these rumors could pan out to be true, but regardless of
@@ -63,9 +63,9 @@ function SantaMonicaStudioPage(): JSX.Element {
           <Paragraph marginBottom={8}>
             Ragnarök shipped 3.5 years ago though, so we&#39;ll hopefully see
             something in 2026, but it&#39;s not alarming if not. For one,
-            they&#39;re also overseeing the Amazon TV show, which is
-            ramping up with casting and pre-production. There&#39;s also many PS
-            Studios that must showcase their games before SMS feels any pressure
+            they&#39;re also overseeing the Amazon TV show, which is ramping up
+            with casting and pre-production. There&#39;s also many PS Studios
+            that must showcase their games before SMS feels any pressure
             anyways.
           </Paragraph>
         </div>

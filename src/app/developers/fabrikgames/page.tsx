@@ -45,7 +45,7 @@ function FabrikGamesPage(): JSX.Element {
             circumstances.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            We&#39;ll indirectly hear from them whenever Firesprite announce
+            We&#39;ll indirectly hear from them whenever Firesprite announces
             their next game, which based on rumors, is a sequel to PS4&#39;s
             Until Dawn. This horror/interactive drama was remade in 2024 for
             PS5/PC and included a new ending teasing Until Dawn 2.

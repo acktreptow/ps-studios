@@ -41,7 +41,7 @@ function BungiePage(): JSX.Element {
           subsidiary.
         </li>
         <li>
-          Bungie are the only first-party developer who can port their games to
+          Bungie is the only first-party developer who can port their games to
           competing platforms like Xbox.
         </li>
       </List>

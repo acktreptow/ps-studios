@@ -25,8 +25,8 @@ function VisualArtsPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Founded in 2007, this San Diego-based developer supports games from
-        other first-party with art, animation etc. As support, their
-        contributions are small, but it means VASG work on 15-25 games at a
+        other PS Studios with art, animation etc. As support, their
+        contributions are small, but it means VASG works on 15-25 games at a
         time, in addition to Sony&#39;s non-gaming IP like Netflix&#39;s Love,
         Death & Robots. Though not the traditional role of a developer, there
         was a failed pivot to become one in 2018.

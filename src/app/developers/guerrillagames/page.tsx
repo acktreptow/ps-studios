@@ -85,7 +85,7 @@ function GuerrillaGamesPage(): JSX.Element {
             </li>
           </List>
           <Paragraph>
-            Clearly, Sony are bullish on the Horizon IP with so many projects
+            Clearly, Sony is bullish on the Horizon IP with so many projects
             across different mediums being greenlit. Horizon FW also sold over
             10 million copies. It would therefore be nonsensical for Guerrilla
             to walk away from the series right now.

@@ -25,7 +25,7 @@ function PixelopusPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         Pixelopus was a California-based developer internally formed in 2014
-        under unique circumstances. In 2012, Thatgamecompany&#39;s released PS3
+        under unique circumstances. In 2012, Thatgamecompany released PS3
         indie adventure Journey to critical and commercial acclaim. This
         inspired Sony&#39;s Foster City Studio (now San Mateo Studio) to fund
         small development teams and emulate this success.

@@ -24,8 +24,8 @@ function SanMateoStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1998, San Mateo Studio (formerly Foster City Studio) work out
-        of California as a support studio for other PlayStation first-party
+        Founded in 1998, San Mateo Studio (formerly Foster City Studio) works
+        out of California as a support studio for other PlayStation first-party
         developers - particularly neighboring California-based studios like
         Naughty Dog and Insomniac. They therefore haven&#39;t shipped their own
         PS5 game and you shouldn&#39;t expect them to.
@@ -46,7 +46,7 @@ function SanMateoStudioPage(): JSX.Element {
             shipped a PS5 game where they were the primary developer. In fact,
             that last game they traditionally developed was 2004&#39;s Jet Li:
             Rise to Honor on PS2. An action-adventure that only scored 68 on
-            Metacritc.
+            Metacritic.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should

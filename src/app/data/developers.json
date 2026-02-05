@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Bluepoint Games",
-    "urlPath": "bluepointgames",
+    "urlPath": "bluepoint-games",
     "img": "/images/logos/bluepoint-logo.png",
     "ps5Games": 1,
     "hasClosed": false
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Dark Outlaw Games",
-    "urlPath": "darkoutlawgames",
+    "urlPath": "dark-outlaw-games",
     "img": "/images/logos/dark-outlaw-logo.png",
     "ps5Games": 0,
     "hasClosed": false

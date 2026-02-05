@@ -130,7 +130,7 @@
   {
     "id": 17,
     "name": "Naughty Dog",
-    "urlPath": "naughtydog",
+    "urlPath": "naughty-dog",
     "img": "/images/logos/naughty-dog-logo.png",
     "ps5Games": 3,
     "hasClosed": false
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "name": "Neon Koi",
-    "urlPath": "neonkoi",
+    "urlPath": "neon-koi",
     "img": "/images/logos/neon-koi-logo.png",
     "ps5Games": 0,
     "hasClosed": true
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "name": "Nixxes Software",
-    "urlPath": "nixxessoftware",
+    "urlPath": "nixxes-software",
     "img": "/images/logos/nixxes-logo.png",
     "ps5Games": 1,
     "hasClosed": false
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "name": "Polyphony Digital",
-    "urlPath": "polyphonydigital",
+    "urlPath": "polyphony-digital",
     "img": "/images/logos/polyphony-logo.png",
     "ps5Games": 2,
     "hasClosed": false
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "name": "San Diego Studio",
-    "urlPath": "sandiegostudio",
+    "urlPath": "san-diego-studio",
     "img": "/images/logos/san-diego-logo.png",
     "ps5Games": 5,
     "hasClosed": false

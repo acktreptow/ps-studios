@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Bend Studio",
-    "urlPath": "bendstudio",
+    "urlPath": "bend-studio",
     "img": "/images/logos/bend-logo.png",
     "ps5Games": 1,
     "hasClosed": false

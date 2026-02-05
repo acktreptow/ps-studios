@@ -210,7 +210,7 @@
   {
     "id": 27,
     "name": "teamLFG",
-    "urlPath": "team-lfg",
+    "urlPath": "teamlfg",
     "img": "/images/logos/team-lfg-logo.png",
     "ps5Games": 0,
     "hasClosed": false

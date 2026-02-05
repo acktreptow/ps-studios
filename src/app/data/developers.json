@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Fabrik Games",
-    "urlPath": "fabrikgames",
+    "urlPath": "fabrik-games",
     "img": "/images/logos/fabrik-logo.png",
     "ps5Games": 0,
     "hasClosed": false
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Firewalk Studios",
-    "urlPath": "firewalkstudios",
+    "urlPath": "firewalk-studios",
     "img": "/images/logos/firewalk-logo.png",
     "ps5Games": 1,
     "hasClosed": true
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Guerrilla Games",
-    "urlPath": "guerrillagames",
+    "urlPath": "guerrilla-games",
     "img": "/images/logos/guerrilla-logo.png",
     "ps5Games": 2,
     "hasClosed": false
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "name": "Haven Studios",
-    "urlPath": "havenstudios",
+    "urlPath": "haven-studios",
     "img": "/images/logos/haven-logo.png",
     "ps5Games": 0,
     "hasClosed": false
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "Insomniac Games",
-    "urlPath": "insomniacgames",
+    "urlPath": "insomniac-games",
     "img": "/images/logos/insomniac-logo.png",
     "ps5Games": 4,
     "hasClosed": false

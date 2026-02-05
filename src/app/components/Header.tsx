@@ -18,7 +18,7 @@ function Header(): JSX.Element {
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
     { name: "Developers", path: "/developers" },
-    { name: "PS5 Games", path: "/ps5games" },
+    { name: "PS5 Games", path: "/ps5-games" },
     { name: "Stats", path: "/stats" },
   ];
 

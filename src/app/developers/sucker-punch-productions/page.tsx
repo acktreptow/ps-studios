@@ -12,7 +12,7 @@ import ImageSection from "../../components/ImageSection";
 import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {
-  title: "Sucker Punch",
+  title: "Sucker Punch Productions",
   description:
     "The history and future of Sucker Punch, a first-party developer for PlayStation Studios.",
 };

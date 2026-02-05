@@ -178,7 +178,7 @@
   {
     "id": 23,
     "name": "San Mateo Studio",
-    "urlPath": "sanmateostudio",
+    "urlPath": "san-mateo-studio",
     "img": "/images/logos/san-mateo-logo.png",
     "ps5Games": 0,
     "hasClosed": false
@@ -186,7 +186,7 @@
   {
     "id": 24,
     "name": "Santa Monica Studio",
-    "urlPath": "santamonicastudio",
+    "urlPath": "santa-monica-studio",
     "img": "/images/logos/santa-monica-logo.png",
     "ps5Games": 1,
     "hasClosed": false
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "name": "Sucker Punch",
-    "urlPath": "suckerpunchproductions",
+    "urlPath": "sucker-punch-productions",
     "img": "/images/logos/sucker-punch-logo.png",
     "ps5Games": 2,
     "hasClosed": false
@@ -202,7 +202,7 @@
   {
     "id": 26,
     "name": "Team Asobi",
-    "urlPath": "teamasobi",
+    "urlPath": "team-asobi",
     "img": "/images/logos/asobi-logo.png",
     "ps5Games": 2,
     "hasClosed": false
@@ -210,7 +210,7 @@
   {
     "id": 27,
     "name": "teamLFG",
-    "urlPath": "teamlfg",
+    "urlPath": "team-lfg",
     "img": "/images/logos/team-lfg-logo.png",
     "ps5Games": 0,
     "hasClosed": false
@@ -218,7 +218,7 @@
   {
     "id": 28,
     "name": "Valkyrie Entertainment",
-    "urlPath": "valkyrieentertainment",
+    "urlPath": "valkyrie-entertainment",
     "img": "/images/logos/valkyrie-logo.png",
     "ps5Games": 0,
     "hasClosed": false
@@ -226,7 +226,7 @@
   {
     "id": 29,
     "name": "Visual Arts",
-    "urlPath": "visualarts",
+    "urlPath": "visual-arts",
     "img": "/images/logos/visual-arts-logo.png",
     "ps5Games": 0,
     "hasClosed": false

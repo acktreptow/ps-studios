@@ -36,66 +36,44 @@ function GuerrillaGamesPage(): JSX.Element {
         PlayStation developers.
       </Paragraph>
       <Paragraph>
-        On PS5, Guerrilla has only released Horizon Forbidden West in 2022. They
-        did work with other studios on 2023&#39;s Horizon Call of the Mountain,
-        2024&#39;s Lego Horizon Adventures, and a remake of Horizon Zero Dawn,
-        but weren&#39;t the main developer.
+        On PS5, Guerrilla has only released Horizon Forbidden West in 2022,
+        which sold 10+ million. They did work with other studios on 2023&#39;s
+        Horizon Call of the Mountain, 2024&#39;s Lego Horizon Adventures, and a
+        remake of Horizon Zero Dawn, but weren&#39;t the main developer.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Outside of collaborations and 2023&#39;s PS5 exclusive Burning Shores
-        DLC for Forbidden West, Guerrilla have been silent about their next
-        project. Yet despite the silence, we know that it&#39;s almost certainly
-        more Horizon.
+        DLC for Forbidden West, Guerrilla had remained silent until 2026, when
+        they announced Horizon Hunters Gathering. This live-service co-op
+        Horizon title has its work cut out in order to win over the hardcore PS5
+        base that was hoping for Horizon 3.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite no concrete information, Guerrilla&#39;s next title is
-            likely more Horizon due to the following:
+            The response to Horizon HG was extremely negative, with particular
+            critique at its cartoony art style. If anything, Horizon Steel
+            Frontiers, (a high-fidelity MMO for PC/phones by NC Soft) looks more
+            like the live-service expected from Guerrilla, whereas HG looks like
+            the phone title.
           </Paragraph>
-          <List>
-            <li>
-              Horizon FW&#39;s ending sets up a sequel that serves as the final
-              act of a trilogy.
-            </li>
-            <li>
-              Horizon COTM was co-developed with Firesprite and launched
-              alongside PSVR2 in 2023.
-            </li>
-            <li>
-              Lego Horizon Adventures was co-developed with Studio Gobo and
-              released in 2024.
-            </li>
-            <li>
-              A Horizon Zero Dawn remake was co-developed with Nixxes and
-              released in 2024.
-            </li>
-            <li>
-              Horizon Steel Frontiers - an MMO for PC/phones is being developed
-              by NCSoft.
-            </li>
-            <li>
-              Columbia Pictures and PS Productions are adapting Horizon Zero
-              Dawn into a movie for 2027.
-            </li>
-            <li>
-              A Horizon TV series was going to be produced by Netflix, and its
-              cancellation were for reasons outside of Sony&#39;s control.
-            </li>
-          </List>
           <Paragraph>
-            Clearly, Sony is bullish on the Horizon IP with so many projects
-            across different mediums being greenlit. Horizon FW also sold over
-            10 million copies. It would therefore be nonsensical for Guerrilla
-            to walk away from the series right now.
+            HG&#39;s first playtest is in late Feb, so it&#39;s not too long
+            before players can get hands-on. However, this playtest must be
+            executed perfectly. If gameplay and presentation falls short, the
+            hardcore base won&#39;t only not evangelize the project, they&#39;ll
+            crucify its reputation like they did Concord. HG will then have
+            little chance of finding popularity with the more
+            casual/live-service PS5 audience who might try an ok game, but not
+            an uncool one.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Rumors suggest Guerrilla are working on both their own Horizon
-            multiplayer project and Horizon 3, but regardless of which comes
-            first, I predict it&#39;s a cross-gen PS5/PS6 title. It&#39;s also
-            been over 4 years since Horizon FW, so hopefully, we see at least
-            one of these projects in 2026.
+            Rumors suggest Guerrilla is also working on Horizon 3. Even if
+            it&#39;s a PS6 title that&#39;s years away, it would do well for
+            them to showcase it now. At the very least, a high-fidelity
+            singleplayer Horizon will help take the heat off yet another
+            live-service from one of Sony&#39;s premier PS Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

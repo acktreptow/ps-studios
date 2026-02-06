@@ -122,7 +122,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2024: 10</li>
             <li>PS5 games released in 2025: 5</li>
             <li>PS5 games released in 2026 so far: 0</li>
-            <li>Released PS5 games that are remasters/remakes: 12</li>
+            <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
               Released PS5 games that are on Xbox: 9 (4 excluding MLB The Show
               21-25)
@@ -130,14 +130,14 @@ function StatsPage(): JSX.Element {
             <li>
               Released PS5 games that are on Nintendo: 6 (2 excluding MLB 22-25)
             </li>
-            <li>Released PS5 games that are on PC: 25</li>
+            <li>Released PS5 games that are on PC: 24</li>
             <li>Released PS5 games that originated on PS3: 2</li>
             <li>Released PS5 games games that originated on PS4: 10</li>
             <li>
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 9</li>
+            <li>Unreleased announced PS5 games: 11</li>
             <li>
               Most recent released PS5 game: Ghost of Yōtei (October 2, 2025)
             </li>

@@ -159,8 +159,8 @@ function StatsPage(): JSX.Element {
             <li>Studios in NA: 14 (excluding XDev US)</li>
             <li>Studios in EU: 6 (excluding XDev Liverpool)</li>
             <li>Studios in Asia: 3 (excluding XDev Tokyo)</li>
-            <li>PS5 games from NA studios: 25</li>
-            <li>PS5 games from EU studios: 11</li>
+            <li>PS5 games from NA studios: 27</li>
+            <li>PS5 games from EU studios: 12</li>
             <li>PS5 games from Asia studios: 11</li>
             <li>Released PS5 games from NA studios: 19</li>
             <li>Released PS5 games from EU studios: 10</li>

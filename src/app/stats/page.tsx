@@ -296,9 +296,17 @@ function StatsPage(): JSX.Element {
               Studio with lowest average Metacritic score (excluding devs with
               just 1 game): Firesprite (2 games averaging 75)
             </li>
-            <li className="mb-3">
+            <li>
               Studio with lowest average Metacritic score (including
               remakes/remasters): Firesprite (2 games averaging 75)
+            </li>
+            <li>
+              Studio with lowest average Metacritic score (excluding
+              remakes/remasters): XDev (8 games averaging 74)
+            </li>
+            <li className="mb-3">
+              Studio with lowest average Metacritic score (excluding
+              remakes/remasters/XDev): Firesprite (1 game averaging 79)
             </li>
             <li className="mb-1">
               Five studios most likely to close (in rough order of likeliness):
@@ -333,19 +341,19 @@ function StatsPage(): JSX.Element {
             </li>
             <StatsList isNumbered={true}>
               <li>Arc System Works (Guilty Gear, BlazeBlue, Marvel Tōkon)</li>
-              <li>Ultizero Games (Lost Soul Aside)</li>
               <li>SHIFT UP (Stellar Blade)</li>
               <li>Arrowhead Game Studios (Helldivers 2)</li>
               <li>Ember Lab (Kena: Bridge of Spirits)</li>
+              <li>Ultizero Games (Lost Soul Aside)</li>
             </StatsList>
             <li className="mb-1">
               Publishers most likely to be acquire (all of which are incredibly
               unlikely)
             </li>
             <StatsList isNumbered={true}>
-              <li>Square Enix (Final Fantasy, Dragon Quest)</li>
               <li>Nexon (The First Descendant, The First Beserker)</li>
               <li>MiHoYo (Genshin Impact, Zenless Zone Zero)</li>
+              <li>Square Enix (Final Fantasy, Dragon Quest)</li>
             </StatsList>
           </StatsList>
           <span id="psplusstats">

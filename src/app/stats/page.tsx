@@ -261,9 +261,9 @@ function StatsPage(): JSX.Element {
               Sucker Punch with Ghost of Yōtei (October, 2025)
             </li>
             <li>
-              Most recent second-party/XDev game: Kojima Productions with Death
-              Stranding 2: On the Beach - June, 2025 (prev Ballistic Moon with
-              Until Dawn Remake - October, 2024)
+              Most recent second-party/XDev game: Ultizero Games with Lost Soul
+              Aside - August, 2025 (prev Kojima Productions with Death Stranding
+              2: On the Beach - June, 2025)
             </li>
             <li>
               Largest studio by headcount: Bungie (Approx 850+ even
@@ -303,9 +303,9 @@ function StatsPage(): JSX.Element {
               Five studios most likely to close (in rough order of likeliness):
             </li>
             <StatsList isNumbered={true}>
+              <li>Haven Studio</li>
               <li>Media Molecule</li>
               <li>Bend Studio</li>
-              <li>Haven Studio</li>
               <li>Firesprite/Fabrik Games</li>
               <li>Bungie</li>
             </StatsList>
@@ -313,10 +313,10 @@ function StatsPage(): JSX.Element {
               Five studios least likely to close (in rough order of likeliness):
             </li>
             <StatsList isNumbered={true}>
+              <li>Polyphony Digital</li>
               <li>Sony Santa Monica</li>
               <li>Naughty Dog</li>
               <li>Guerrilla Games</li>
-              <li>Polyphony Digital</li>
               <li>Sucker Punch</li>
             </StatsList>
             <li className="mb-1">Studios waiting to be announced:</li>

@@ -140,9 +140,10 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 11</li>
+            <li>Unreleased announced PS5 games: 13</li>
             <li>
-              Most recent released PS5 game: Ghost of Yōtei (October 2, 2025)
+              Most recent released PS5 game: God of War: Sons of Sparta
+              (February 12, 2026)
             </li>
             <li>
               Next PS5 game: MLB The Show 26 (San Diego Studio) - March 17, 2026

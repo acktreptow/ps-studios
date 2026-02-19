@@ -369,6 +369,15 @@
     "metacritic": 66
   },
   {
+    "developer": "Santa Monica Studio",
+    "name": "God of War Trilogy Remake",
+    "id": "GOW Trilogy",
+    "genre": "Action-Adventure",
+    "releaseDate": "Unreleased",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
     "developer": "Sucker Punch",
     "name": "Ghost of Tsushima DC",
     "id": "GoT DC",

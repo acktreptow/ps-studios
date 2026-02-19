@@ -33,7 +33,7 @@ function StatsPage(): JSX.Element {
       </div>
       <SubTitle subtitle="Overview" />
       <Paragraph>
-        Here are a variety of stats across the 24 (announced) first-party
+        Here are a variety of stats across the 23 (announced) first-party
         developers under PS Studios, as well as their released and upcoming
         games during the PS5 generation. Below is a list of each studio and the
         number of <span className="font-bold">released</span> PS5 games:
@@ -71,11 +71,10 @@ function StatsPage(): JSX.Element {
             Disclaimer:
           </h3>
           <Paragraph>
-            Unless specifically stated, the following stats don&#39;t include
-            Firewalk and/or Concord. Specifically for Concord, even though it
-            shipped, the duration of its availability was only 2 weeks. It
-            therefore makes little sense to include in stats where it&#39;s now
-            no longer relevant.
+            Unless specifically stated, the following game stats don&#39;t
+            include Concord as even though it shipped, the duration of its
+            availability was only 2 weeks. It therefore makes little sense to
+            include in stats where it&#39;s now no longer relevant.
           </Paragraph>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

@@ -83,13 +83,17 @@ function StatsPage(): JSX.Element {
             Game Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Total PS5 games released: 39</li>
+            <li>Total PS5 games released: 40</li>
             <li>
               Game(s) with highest Metacritic score: God of War: Ragnarök (Sony
               Santa Monica) & Astro Bot (Team Asobi) - 94
             </li>
             <li>
               Game(s) with lowest Metacritic score: Concord (Firewalk) - 62
+            </li>
+            <li>
+              Game(s) with lowest Metacritic score (not Firewalk): God of War:
+              Sons of Sparta (Sony Santa Monica) - 66
             </li>
             <li>
               Game(s) with highest Metacritic score (second-party): Death
@@ -112,7 +116,7 @@ function StatsPage(): JSX.Element {
             <li>Total 90+ PS5 games on Metacritic: 5</li>
             <li>Total 80-89 PS5 games on Metacritic: 22</li>
             <li>Total 70-79 PS5 games on Metacritic: 9</li>
-            <li>Total 60-69 PS5 games on Metacritic: 3</li>
+            <li>Total 60-69 PS5 games on Metacritic: 4</li>
             <li>Total 59- PS5 games on Metacritic: 0</li>
             <li>PS5 games released in 2020: 6</li>
             <li>PS5 games released in 2021: 8</li>
@@ -120,7 +124,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2023: 4</li>
             <li>PS5 games released in 2024: 10</li>
             <li>PS5 games released in 2025: 5</li>
-            <li>PS5 games released in 2026 so far: 0</li>
+            <li>PS5 games released in 2026 so far: 1</li>
             <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
               Released PS5 games that are on Xbox: 9 (4 excluding MLB The Show

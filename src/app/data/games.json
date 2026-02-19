@@ -360,6 +360,15 @@
     "metacritic": 94
   },
   {
+    "developer": "Santa Monica Studio",
+    "name": "God of War: Sons of Sparta",
+    "id": "GOW: SoS",
+    "genre": "2D Action-Platformer",
+    "releaseDate": "February 12, 2026",
+    "daysBetweenReleases": 1192,
+    "metacritic": 66
+  },
+  {
     "developer": "Sucker Punch",
     "name": "Ghost of Tsushima DC",
     "id": "GoT DC",

@@ -279,6 +279,15 @@
     "metacritic": 90
   },
   {
+    "developer": "Nixxes Software",
+    "name": "Death Stranding 2: OTB PC",
+    "id": "DS2: OTB PC",
+    "genre": "Action-Adventure Strand",
+    "releaseDate": "March 19, 2026",
+    "daysBetweenReleases": 351,
+    "metacritic": "N/A"
+  },
+  {
     "developer": "Polyphony Digital",
     "name": "Gran Turismo 7",
     "id": "GT 7",

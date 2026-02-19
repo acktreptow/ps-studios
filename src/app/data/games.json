@@ -532,6 +532,15 @@
   },
   {
     "developer": "XDev",
+    "name": "Kena: Scars of Kosmora",
+    "id": "Kena 2",
+    "genre": "Action-Adventure",
+    "releaseDate": "2026",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
+    "developer": "XDev",
     "name": "4:Loop",
     "id": "4 Loop",
     "genre": "Co-Op Shooter, Roguelite",

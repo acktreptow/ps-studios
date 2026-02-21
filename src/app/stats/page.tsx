@@ -196,7 +196,9 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Housemarque (Helsinki, Finland - June, 2021)</li>
               <li>Nixxes Software (Utrecht, Netherlands - July, 2021)</li>
-              <li>Bluepoint Games (Austin, TX - September, 2021)</li>
+              <li className="italic">
+                Bluepoint Games (Austin, TX - September, 2021)
+              </li>
               <li>Fabrik Games (Manchester, UK - September, 2021)</li>
               <li>Firesprite (Liverpool, UK - September, 2021)</li>
               <li>Valkyrie Entertainment (Seattle, WA - December, 2021)</li>
@@ -209,7 +211,7 @@ function StatsPage(): JSX.Element {
                 Firewalk Studios (Bellevue, WA - April, 2023)
               </li>
             </StatsList>
-            <li className="m-1">Studios closed since PS5 release year: 6</li>
+            <li className="m-1">Studios closed since PS5 release year: 7</li>
             <StatsList isNumbered={true}>
               <li>Manchester Studio (Manchester, UK - February, 2020)</li>
               <li>Japan Studio (Tokyo - April, 2021)</li>
@@ -219,6 +221,7 @@ function StatsPage(): JSX.Element {
               <li>
                 Neon Koi (Berlin, Germany & Helsinki, Finland - October, 2024)
               </li>
+              <li>Bluepoint Games (Austin, TX - February, 2026)</li>
             </StatsList>
             <li className="mb-1">Support studios: 7</li>
             <StatsList isNumbered={true}>
@@ -252,18 +255,18 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with the shortest duration since their last release
-              (excluding MLB The Show, XDev and remakes/remasters): Sucker Punch
-              with Ghost of Yōtei (October, 2025)
+              (excluding MLB The Show, XDev and remakes/remasters): Santa Monica
+              with God of War: Sons of Sparta (February, 2026)
             </li>
             <li>
               Studio with the shortest duration since their last release
               (excluding MLB The Show & XDev, but including remakes/remasters):
-              Sucker Punch with Ghost of Yōtei (October, 2025)
+              Santa Monica with God of War: Sons of Sparta (February, 2026)
             </li>
             <li>
               Studio with the shortest duration since their last release
               (excluding MLB The Show, but including XDev & remakes/remasters):
-              Sucker Punch with Ghost of Yōtei (October, 2025)
+              Santa Monica with God of War: Sons of Sparta (February, 2026)
             </li>
             <li>
               Most recent second-party/XDev game: Ultizero Games with Lost Soul

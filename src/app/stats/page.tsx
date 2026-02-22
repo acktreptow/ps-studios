@@ -284,7 +284,7 @@ function StatsPage(): JSX.Element {
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>
               Studio with highest average Metacritic score (including devs with
-              just 1 game): Sony Santa Monica (1 game averaging 94)
+              just 1 game): Team Asobi (2 games averaging 88.5)
             </li>
             <li>
               Studio with highest average Metacritic score (excluding devs with
@@ -319,9 +319,9 @@ function StatsPage(): JSX.Element {
               Five studios most likely to close (in rough order of likeliness):
             </li>
             <StatsList isNumbered={true}>
-              <li>Haven Studio</li>
-              <li>Media Molecule</li>
               <li>Bend Studio</li>
+              <li>Media Molecule</li>
+              <li>Haven Studio</li>
               <li>Firesprite/Fabrik Games</li>
               <li>Bungie</li>
             </StatsList>
@@ -347,10 +347,10 @@ function StatsPage(): JSX.Element {
               all of which are increasingly unlikely as time goes on):
             </li>
             <StatsList isNumbered={true}>
+              <li>Ember Lab (Kena: Bridge of Spirits)</li>
               <li>Arc System Works (Guilty Gear, BlazeBlue, Marvel Tōkon)</li>
               <li>SHIFT UP (Stellar Blade)</li>
               <li>Arrowhead Game Studios (Helldivers 2)</li>
-              <li>Ember Lab (Kena: Bridge of Spirits)</li>
               <li>Ultizero Games (Lost Soul Aside)</li>
             </StatsList>
             <li className="mb-1">

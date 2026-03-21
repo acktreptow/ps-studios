@@ -75,7 +75,7 @@ function HomepageClient(): JSX.Element {
           ))}
       </div>
       <hr className="border-gray-300 mb-4 border-2 mx-12" />
-      <div className="grid grid-cols-4 mb-6 md:grid-cols-4 lg:grid-cols-8">
+      <div className="grid grid-cols-3 mb-6 md:grid-cols-4 lg:grid-cols-8">
         {developers
           .filter((developer: Developer) => developer.hasClosed)
           .map((developer: Developer) => (

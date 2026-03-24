@@ -65,11 +65,11 @@ function SanDiegoStudioPage(): JSX.Element {
             happen in numbers for either Sony or Microsoft to care about.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s therefore likely SDS continues with just MLB: The Show for
-            the foreseeable future. Although MLB 26 is coming to Switch, but
-            skipping Switch 2. SDS has also launched a standalone mobile version
-            as a regional test in the Philippines that&#39;s worth keeping an
-            eye on for 2027.
+            It&#39;s therefore likely SDS just continues with MLB: The Show for
+            the foreseeable future, with the big change for MLB 27 likely
+            being a move from Switch to Switch 2. SDS also launched a standalone
+            mobile version as a regional test in the Philippines that&#39;s
+            worth keeping an eye on for 2027.
           </Paragraph>
         </div>
         <div>

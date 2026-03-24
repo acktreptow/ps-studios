@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import mlb25 from "../../../../public/images/dev-pages/mlb-25.png";
+import mlb26 from "../../../../public/images/dev-pages/mlb-26.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -66,21 +66,21 @@ function SanDiegoStudioPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s therefore likely SDS just continues with MLB: The Show for
-            the foreseeable future, with the big change for MLB 27 likely
-            being a move from Switch to Switch 2. SDS also launched a standalone
+            the foreseeable future, with the big change for MLB 27 likely being
+            a move from Switch to Switch 2. SDS also launched a standalone
             mobile version as a regional test in the Philippines that&#39;s
             worth keeping an eye on for 2027.
           </Paragraph>
         </div>
         <div>
           <Image
-            src={mlb25}
+            src={mlb26}
             alt="MLB 25 box art for all platforms"
             id="mlb-25"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="mlb-25" className="block text-center mb-8 md:ml-5">
-            MLB 25&#39;s Box Art For All 3 Consoles
+            MLB 26&#39;s Box Art For All 3 Consoles
           </label>
         </div>
       </ImageSection>

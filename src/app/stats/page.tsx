@@ -74,7 +74,11 @@ function StatsPage(): JSX.Element {
             Unless specifically stated, the following game stats don&#39;t
             include Concord as even though it shipped, the duration of its
             availability was only 2 weeks. It therefore makes little sense to
-            include in stats where it&#39;s now no longer relevant.
+            include in stats where it&#39;s now no longer relevant. However
+            other, now offline live-services (Firewall Ultra, Destruction All
+            Stars etc) will still be counted. These titles were available for
+            years, with the natural closure we expect from a live-service whose
+            audience was now much smaller compared to launch.
           </Paragraph>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

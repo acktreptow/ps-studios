@@ -33,7 +33,7 @@ function StatsPage(): JSX.Element {
       </div>
       <SubTitle subtitle="Overview" />
       <Paragraph>
-        Here are a variety of stats across the 23 (announced) first-party
+        Here are a variety of stats across the 21 (announced) first-party
         developers under PS Studios, as well as their released and upcoming
         games during the PS5 generation. Below is a list of each studio and the
         number of <span className="font-bold">released</span> PS5 games:

@@ -379,6 +379,15 @@
   },
   {
     "developer": "Santa Monica Studio",
+    "name": "God of War: Laufey",
+    "id": "GOW: L",
+    "genre": "Action-Adventure",
+    "releaseDate": "2027 (rumored)",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
+    "developer": "Santa Monica Studio",
     "name": "God of War Trilogy Remake",
     "id": "GOW Trilogy",
     "genre": "Action-Adventure",

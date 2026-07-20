@@ -40,35 +40,35 @@ function PixelopusPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Pixelopus followed Entwined with 2019&#39;s Concrete Genie on PS4. This
-        award-winning action-adventure was inspired by Jet Set Radio and
-        street art, but like Entwined, it wasn&#39;t a commercial hit. It was
-        also Pixelopus&#39;s final game, as Sony closed them in 2023.
+        award-winning action-adventure was inspired by Jet Set Radio and street
+        art, but like Entwined, it wasn&#39;t a commercial hit. It was also
+        Pixelopus&#39;s final game, as Sony closed them in 2023.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It&#39;s unsurprising Sony shut Pixelopus as their singleplayer DNA
-            clashed with the 2020-23 live-service push. But in 2025, games like
-            Concord prove that the initiative failed, resulting in large gaps
-            between first-party titles. Like Japan Studio who shut in 2021,
-            Pixelopus would be more useful now than in 2023 as their AA titles
-            would fill these gaps.
+            It&#39;s unsurprising that Sony shut Pixelopus as their singleplayer
+            DNA clashed with the 2020-23 live-service push. But in 2026, games
+            like Concord prove that the initiative failed, resulting in large
+            gaps between first-party titles. Like Japan Studio, which closed in
+            2021, Pixelopus would be more useful now than in 2023 as their AA
+            titles would fill these gaps.
           </Paragraph>
           <Paragraph>
             However, closing Pixelopus can still be justified. Unlike Japan
             Studio, their legacy amongst PlayStation fans is non-existent. JS
             games don&#39;t sell millions, but do provide utility that goes
-            beyond money as they keep the hardcore base engaged. Whereas
-            Pixelopus games not only don&#39;t sell, but aren&#39;t evangelized
-            as a brand differentiator despite the awards.
+            beyond money as they keep the hardcore base engaged. Pixelopus games
+            also don&#39;t sell, but aren&#39;t evangelized as a brand
+            differentiator despite the awards.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Pixelopus&#39;s expensive location further makes it hard to keep
-            them open and their PS5 title was a licensed IP in partnership with
-            Sony Animation, which would incur extra fees/red tape. Considering
-            these factors, closing Pixelopus was still logical despite the
-            failed live-service push.
+            Pixelopus&#39;s expensive location also made it hard to keep them
+            open, and their PS5 title was a licensed IP in partnership with Sony
+            Animation, which would incur extra fees/red tape. Considering these
+            factors, closing Pixelopus was still logical despite the failed
+            live-service push.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

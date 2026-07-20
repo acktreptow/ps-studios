@@ -24,19 +24,18 @@ function MediaMoleculePage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2006, this Surrey-based developer is primarily known for the
-        critically and commercially acclaimed LittleBigPlanet series that
-        started on PS3 in 2008. Although after 2011&#39;s LittleBigPlanet 2, the
-        IP continued without Media Molecule&#39;s involvement.
+        Founded in 2006, Media Molecule is a Surrey-based developer primarily
+        known for their critically and commercially acclaimed LittleBigPlanet
+        series, which started on PS3 in 2008. However, the IP continued without
+        MM&#39;s involvement after 2011&#39;s LittleBigPlanet 2.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Media Molecule&#39;s last title was 2020&#39;s Dreams on PS4 and
+        Media Molecule&#39;s last title was 2020&#39;s Dreams on PS4 and they
         therefore haven&#39;t released a PS5 game. Furthermore, despite Dreams
         releasing 6 years ago, MM still hasn&#39;t even announced their next
-        game, let alone shown gameplay. It&#39;s however been confirmed to be a
-        new IP, will be more of a game than a creative tool like Dreams, and
-        that it&#39;s led by the director of Tren (the best received
-        made-in-Dreams game).
+        game, let alone shown gameplay. It has, however, been confirmed to be a
+        new IP that will be more of a game than a creative tool like Dreams, and
+        is led by the director of Tren (the best received made-in-Dreams game).
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

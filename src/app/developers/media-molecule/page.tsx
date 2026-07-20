@@ -42,11 +42,11 @@ function MediaMoleculePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Whatever Media Molecule&#39;s next game is, to call it important is
-            an understatement as they&#39;re far removed from their greatest
+            an understatement, as they&#39;re far removed from their greatest
             successes seen on PS3. Dreams wasn&#39;t close to a commercial
-            success, all 4 founders quit in the past 5 years, and it was
-            reported that MM nearly shuttered instead of London Studio in late
-            2023.
+            success, all 4 founders quit over the past 5 years, and it was
+            reported that MM nearly shuttered instead of London Studio in early
+            2024.
           </Paragraph>
           <Paragraph>
             However, Sony needs the types of games MM make, even if it&#39;s not
@@ -58,7 +58,7 @@ function MediaMoleculePage(): JSX.Element {
           <Paragraph marginBottom={8}>
             Yet with rising development costs and other external economic
             factors at play, these more prestigious reasons may not be enough in
-            2026. It&#39;s therefore more likely Media Molecule closes before
+            2026. It&#39;s therefore more likely Media Molecule close before
             shipping a PS5 game.
           </Paragraph>
         </div>

@@ -32,15 +32,16 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       <Paragraph>
         On PS5, Valkyrie has supported 2022&#39;s God of War: Ragnarök from Sony
         Santa Monica and 2024&#39;s ill-fated Concord from Firewalk. They also
-        have extensive history with the inFamous and Twisted Metal IP during the
-        PS3/PS4 generations, and even contributed to many Xbox IP
+        have an extensive history with the inFamous and Twisted Metal IPs during
+        the PS3/PS4 generations, and even contributed to many Xbox IPs
         pre-acquisition, such as Forza Motorsport and State of Decay.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Despite being founded over 20 years ago, Valkyrie has only been the main
-        developer on 2015&#39;s digital only &#39;Guns Up!&#39; for PSN and
+        developer on 2015&#39;s digital-only &#39;Guns Up!&#39; for PSN and
         mobile. This free-to-play tower defense shooter was a commercial failure
-        and only received a 54 on Metacritic.
+        and only received a 54 on Metacritic, which is lower than every PS5
+        first-party title (Concord scored a 62).
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

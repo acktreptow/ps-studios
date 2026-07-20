@@ -26,17 +26,17 @@ function SanMateoStudioPage(): JSX.Element {
       <Paragraph>
         Founded in 1998, San Mateo Studio (formerly Foster City Studio) works
         out of California as a support studio for other PlayStation first-party
-        developers - particularly neighboring California-based studios like
+        developers - particularly neighboring, California-based studios like
         Naughty Dog and Insomniac. They therefore haven&#39;t shipped their own
-        PS5 game and you shouldn&#39;t expect them to.
+        PS5 game, and you shouldn&#39;t expect them to.
       </Paragraph>
       <Paragraph marginBottom={8}>
         San Mateo Studio did spin off a small team in 2014 called Pixelopus, who
         released 2 games before the PS5 launched. However, despite many award
         nominations for their second game (2019&#39;s Concrete Genie on PS4),
-        very low sales, mediocre reviews, and their more AA singleplayer DNA
-        resulted in Sony closing the studio down in June 2023, during the midst
-        of their live-service push.
+        low sales, mediocre reviews, and their more AA singleplayer DNA resulted
+        in Sony closing the studio down in June 2023, in the midst of their
+        live-service push.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

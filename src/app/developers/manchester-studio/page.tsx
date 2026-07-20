@@ -38,23 +38,22 @@ function ManchesterStudioPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Despite these issues, Sony left MS alone due to its small 30-person
-        headcount in a rented space. However, when Hermen Hulst took
-        over PS Studios in 2019, he reviewed the entire portfolio.
-        Even with cheap running costs, Hulst didn&#39;t like CSAR&#39;s lack of
-        progress after 5 years. Combined with PSVR&#39;s ending lifecycle with
-        the upcoming arrival of PS5 and PSVR2, Hulst cancelled CSAR and closed
-        MS in February 2020.
+        headcount in a rented space. However, when Hermen Hulst took over PS
+        Studios in 2019, he reviewed the entire portfolio. Even with cheap
+        running costs, Hulst didn&#39;t like CSAR&#39;s lack of progress after 5
+        years. Combined with PSVR&#39;s ending lifecycle with the upcoming
+        arrival of PS5 and PSVR2, Hulst cancelled CSAR and closed MS in February
+        2020.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Sony&#39;s closed 8 studios since PS5 launched, with Manchester
-            Studio closing a few months prior. But MS&#39;s closure coming first
-            isn&#39;t surprising as most in Hulst&#39;s position would&#39;ve
-            done the same. By 2020, PSVR was years past its peak in popularity.
-            Therefore, even if CSAR shipped, there was no money to be made from
-            its guaranteed low sales.
+            Sony has closed 8 studios since PS5 launched, with Manchester Studio
+            unsurprisingly closing even earlier (February 2020), as most in
+            Hulst&#39;s position would&#39;ve done the same. By 2020, PSVR was
+            years past its peak in popularity. Therefore, even if CSAR shipped,
+            there was no money to be made from its inevitable low sales.
           </Paragraph>
           <Paragraph>
             CSAR could&#39;ve moved to PSVR2, but this meant a Feb 2023 release

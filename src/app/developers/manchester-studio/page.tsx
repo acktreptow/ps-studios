@@ -37,19 +37,19 @@ function ManchesterStudioPage(): JSX.Element {
         development, but it created a further breakdown in communications.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite issues, Sony left MS alone due to its small 30-person
-        headcount working in a rented space. However, when Hermen Hulst took
-        over PS Studios in 2019, he thoroughly reviewed the entire portfolio.
-        Even with cheap running costs, Hulst didn&#39;t like CSAR&#39;s lack of
-        progress after 5 years. Combined with PSVR&#39;s ending lifecycle due to
-        the upcoming PS5 and PSVR2, Hulst cancelled CSAR and closed MS in
-        February 2020.
+        Despite issues, Sony left MS alone due to its small 30-person headcount
+        working in a rented space. However, when Hermen Hulst took over PS
+        Studios in 2019, he thoroughly reviewed the entire portfolio. Even with
+        cheap running costs, Hulst didn&#39;t like CSAR&#39;s lack of progress
+        after 5 years. Combined with PSVR&#39;s ending lifecycle due to the
+        upcoming PS5 and PSVR2, Hulst cancelled CSAR and closed MS in February
+        2020.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Sony&#39;s closed 5 studios since PS5 launched, with Manchester
+            Sony&#39;s closed 8 studios since PS5 launched, with Manchester
             Studio closing a few months prior. But MS&#39;s closure coming first
             isn&#39;t surprising as most in Hulst&#39;s position would&#39;ve
             done the same. By 2020, PSVR was years past its peak in popularity.
@@ -58,17 +58,17 @@ function ManchesterStudioPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             CSAR could&#39;ve moved to PSVR2, but this meant a Feb 2023 release
-            at the earliest. An 8-year cycle for a VR game by an unproven studio
-            with a track record of development issues makes no fiscal sense.
-            Furthermore, PSVR2 wouldn&#39;t have improved sales. AAA first-party
-            titles from big IPs like Horizon performed so poorly that PS Studios
-            hasn&#39;t shipped a PSVR2 title since launch.
+            at the earliest. An 8-year cycle for a VR game, by an unproven
+            studio, with a track record of development issues, makes no fiscal
+            sense. Furthermore, PSVR2 wouldn&#39;t have improved sales. Even AAA
+            IPs like Horizon performed so poorly that PS Studios hasn&#39;t
+            shipped a PSVR2 title since launch.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s a shame when studios close, but the unfortunate reality is
-            that it made sense to shut down Manchester Studios. According to a
-            post-closure exposé, even ex-Manchester devs recognize it was the
-            logical choice and don&#39;t blame Sony.
+            that it made sense to shut down Manchester Studio. According to a
+            post-closure exposé, even former devs recognize it was the logical
+            choice and don&#39;t blame Sony.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -49,16 +49,16 @@ function ValkyrieEntertainmentPage(): JSX.Element {
           <Paragraph>
             Valkyrie&#39;s support studio status means they haven&#39;t shipped
             their own PS5 game. Considering the critical and commercial failure
-            of Guns Up!, which had its servers shut down in 2023 despite being
-            online-only, it&#39;s also unlikely that they&#39;ll ever get a
-            chance to. Furthermore, Valkyrie haven&#39;t shown any signs that
-            they even want to.
+            of Guns Up!, which had its PSN and mobile servers shut down in 2023
+            and 2026 respectively, despite being online-only, it&#39;s also
+            unlikely that they&#39;ll ever get a chance to. Furthermore,
+            Valkyrie haven&#39;t shown any signs that they even want to.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next great first-party PS5 game to
             play, you can safely ignore Valkyrie Entertainment. Especially if
             their unoptimized, bare-bones website is anything to go by, it&#39;s
-            more likely Valkyrie closes. Though that&#39;s also highly unlikely.
+            more likely Valkyrie close. Though, that&#39;s also highly unlikely.
           </Paragraph>
         </div>
         <div>

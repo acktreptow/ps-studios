@@ -30,20 +30,20 @@ function ManchesterStudioPage(): JSX.Element {
         helicopter around shooting enemies and rescuing civilians from them.
       </Paragraph>
       <Paragraph>
-        Unfortunately, CSAR&#39;s development struggled around vital decisions
-        like art style and basic gameplay. Its co-lead designers also worked in
+        Unfortunately, CSAR&#39;s development struggled on vital decisions like
+        art style and basic gameplay. Its co-lead designers also worked in
         London - only visiting the studio around once a week and micromanaging
         the many prototypes when there. Hires were made in London to streamline
         development, but it created a further breakdown in communications.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite issues, Sony left MS alone due to its small 30-person headcount
-        working in a rented space. However, when Hermen Hulst took over PS
-        Studios in 2019, he thoroughly reviewed the entire portfolio. Even with
-        cheap running costs, Hulst didn&#39;t like CSAR&#39;s lack of progress
-        after 5 years. Combined with PSVR&#39;s ending lifecycle due to the
-        upcoming PS5 and PSVR2, Hulst cancelled CSAR and closed MS in February
-        2020.
+        Despite these issues, Sony left MS alone due to its small 30-person
+        headcount in a rented space. However, when Hermen Hulst took
+        over PS Studios in 2019, he reviewed the entire portfolio.
+        Even with cheap running costs, Hulst didn&#39;t like CSAR&#39;s lack of
+        progress after 5 years. Combined with PSVR&#39;s ending lifecycle with
+        the upcoming arrival of PS5 and PSVR2, Hulst cancelled CSAR and closed
+        MS in February 2020.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

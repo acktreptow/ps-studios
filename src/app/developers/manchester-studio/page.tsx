@@ -24,11 +24,10 @@ function ManchesterStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        In 2015, Sony created Manchester Studio (originally called North West
-        Studio) to develop AAA games for PSVR. Their only game was the
-        unannounced &#39;CSAR: Combat, Search, and Rescue&#39;, where the player
-        would fly a helicopter around shooting enemies, whilst simultaneously
-        rescuing civilians from them.
+        In 2015, Sony created Manchester Studio (originally North West Studio)
+        to develop AAA games for PSVR. Their only game was the unannounced
+        &#39;CSAR: Combat, Search, and Rescue&#39;, where the player would fly a
+        helicopter around shooting enemies and rescuing civilians from them.
       </Paragraph>
       <Paragraph>
         Unfortunately, CSAR&#39;s development struggled around vital decisions
@@ -38,13 +37,13 @@ function ManchesterStudioPage(): JSX.Element {
         development, but it created a further breakdown in communications.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite the issues, Sony left Manchester Studio alone due to its small
-        30-person headcount working in a rented space. However, when Hermen
-        Hulst took over PS Studios in 2019, he thoroughly reviewed the entire PS
-        Studios portfolio. MS underwent proper scrutiny despite cheap running
-        costs, and Hulst didn&#39;t like CSAR&#39;s lack of progress after 5
-        years. Combined with PSVR&#39;s ending lifecycle due to the upcoming PS5
-        and PSVR2, Hulst cancelled CSAR and closed MS in February 2020.
+        Despite issues, Sony left MS alone due to its small 30-person
+        headcount working in a rented space. However, when Hermen Hulst took
+        over PS Studios in 2019, he thoroughly reviewed the entire portfolio.
+        Even with cheap running costs, Hulst didn&#39;t like CSAR&#39;s lack of
+        progress after 5 years. Combined with PSVR&#39;s ending lifecycle due to
+        the upcoming PS5 and PSVR2, Hulst cancelled CSAR and closed MS in
+        February 2020.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

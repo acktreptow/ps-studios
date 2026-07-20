@@ -42,11 +42,11 @@ function NeonKoiPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Neon Koi closed in October 2024. Yet despite forming 4 years prior,
-            NK didn&#39;t even announce the name of their game, let alone show
-            gameplay or actually ship it.
+            NK didn&#39;t even announce the name of their mobile game, let alone
+            show gameplay or actually ship it.
           </Paragraph>
           <Paragraph>
-            In fact, Neon Koi was only known for negative headlines. Like when a
+            In fact, Neon Koi was only known for negative headlines, like when a
             founder and the head of PlayStation&#39;s Mobile Division abruptly
             quit under suspicious circumstances in mid-2023, or the failed
             rebranding to Neon Koi a few months later.
@@ -55,7 +55,7 @@ function NeonKoiPage(): JSX.Element {
             At best, Neon Koi are an insignificant PS5 era footnote in
             PlayStation&#39;s history. At worst, they&#39;re a glaring example
             of mistakes made by former PlayStation leadership. From
-            short-sighted, poorly researched acquisitions to wasted spending on
+            short-sighted, poorly researched acquisitions, to wasted spending on
             games that were cancelled before they were even announced, NK
             embodies the missteps of the Jim Ryan era.
           </Paragraph>

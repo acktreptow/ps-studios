@@ -31,20 +31,20 @@ function JapanStudioPage(): JSX.Element {
         Colossus) and Team Gravity (Siren, Gravity Rush), but an equal part of
         their portfolio came from external partnerships like FromSoftware
         (Demon&#39;s Souls, Bloodborne) and many golf titles with Clap Hanz.
-        Other IPs include Ape Escape, Knack & Patapon.
+        Other IPs include Ape Escape, Knack, and Patapon.
       </Paragraph>
       <Paragraph>
-        Japan Studio&#39;s split portfolio is best seen with its PS5 launch
-        games. While Demon&#39;s Souls was in collaboration with Bluepoint, the
-        free pack-in Astro&#39;s Playroom was created internally by Team Asobi.
-        Both were successful, but Sony didn&#39;t renew JS contracts outside of
-        Asobi because their original AA games weren&#39;t considered profitable
-        enough to continue.
+        JS&#39;s split portfolio is best seen with their PS5 launch games. While
+        Demon&#39;s Souls was in collaboration with Bluepoint, the free pack-in
+        Astro&#39;s Playroom was created internally by Team Asobi. Both were
+        successful, but Sony didn&#39;t renew JS contracts outside of Asobi
+        because their original AA games were viewed as too Japanese-centric and
+        not profitable enough to continue.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Instead, JS re-centered around Asobi to build on Astro&#39;s popularity
         in April 2021 - effectively closing JS. Sony would continue with AAA
-        titles and live-services, which left AA and indie titles to independent
+        titles and live services, which left AA and indie titles to independent
         creators, third-party publishers, and XDev partnerships.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>

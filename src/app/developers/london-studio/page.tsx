@@ -52,32 +52,31 @@ function LondonStudioPage(): JSX.Element {
             Project Camden was an online co-op combat game set in a modern
             fantasy London, used the Soho engine LS built for PS5, and had the
             longest development time in LS history. Sony&#39;s 2020-23
-            live-service push also meant Camden was easily greenlit, yet
-            there&#39;s major risk following trends with how long game
+            live-service push also meant Camden was easily greenlit, but
+            there&#39;s a major risk in following trends given how long game
             development now is.
           </Paragraph>
           <Paragraph>
             By 2024, there was a worse economy, less playtime post-lockdown, and
-            a hatred for live-services among PS5&#39;s hardcore base. LS was
+            a hatred for live services among PS5&#39;s hardcore base. LS was
             also in an expensive city, in a genre they had no experience in. So
             when Sony cut costs, LS was logically chosen for closure over
             others.
           </Paragraph>
           <Paragraph>
-            LS&#39;s closure is a particular shame as they had a path for great
-            success. In 2005, LS revealed 2 traditional AAA PS3 titles - The
-            Getaway and Eight Days - with excellently received trailers. But
-            Sony cancelled both to reallocate money to others. Had these
-            blockbusters reached their potential and launched to a starving
-            06-09 PS3 hardcore audience, history would be very different.
+            It&#39;s a particular shame as they had a path for great success. In
+            2005, LS revealed 2 traditional AAA PS3 titles - The Getaway and
+            Eight Days - with excellently received trailers. But Sony cancelled
+            both to reallocate money to others. Had these blockbusters reached
+            their potential and launched to a starving 06-09 PS3 hardcore
+            audience, LS history would be very different.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            London Studio now lives on through Twisted Works - a new developer
-            composed of many former LS staff. In Dec 2025, they revealed Cast
-            Outs, which is basically what Camden was. An early access beta is
-            scheduled for PS5/PC in early 2027, so it&#39;ll be about a year
-            before it can be determined if Sony made the right choice in closing
-            LS.
+            LS now live on through Twisted Works - a new developer composed of
+            many former staff. In December 2025, they revealed Cast Outs, which
+            is basically what Camden was. With an early access beta scheduled
+            for PS5/PC in early 2027, this will really help determine if Sony
+            made the right choice in closing LS.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

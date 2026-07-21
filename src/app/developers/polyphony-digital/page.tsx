@@ -33,16 +33,16 @@ function PolyphonyDigitalPage(): JSX.Element {
           <SubTitle subtitle="History" />
           <Paragraph>
             Founded internally by auteur Kazunori Yamauchi in 1998, this
-            Tokyo-based developer is known for PlayStation&#39;s best-selling
-            IP, the Gran Turismo sim racing series, which has sold over 100
-            million.
+            Tokyo-based studio develops PlayStation&#39;s best-selling IP, the
+            Gran Turismo sim racing series, which has sold over 100 million
+            units.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            At least one GT has shipped on every PlayStation console. For PS5,
-            that&#39;s 2022&#39;s critically and commercially acclaimed Gran
-            Turismo 7, which is not only seen as the superior competitor to
-            Xbox&#39;s Forza Motorsport, but is also viewed as the premier PSVR2
-            experience.
+            At least one GT game has shipped on every PlayStation console. For
+            PS5, that&#39;s 2022&#39;s critically and commercially acclaimed
+            Gran Turismo 7, which is not only seen as the superior competitor to
+            Xbox&#39;s (now on ice) Forza Motorsport, but is also viewed as a
+            premier PSVR2 experience.
           </Paragraph>
         </div>
         <div>
@@ -75,8 +75,8 @@ function PolyphonyDigitalPage(): JSX.Element {
             Never played GT or are a lapsed fan? It might be worth trying
             2024&#39;s My First Gran Turismo. Polyphony describes it as a
             &#39;free-to-play, beginner-friendly intro to the world of GT&#39;.
-            Basically, it&#39;s an expanded demo with a limited number of cars and
-            racetracks.
+            Basically, it&#39;s an expanded demo with a limited number of cars
+            and racetracks.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Otherwise, I would look to other PS Studios for your next

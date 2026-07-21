@@ -25,26 +25,25 @@ function LondonStudioPage(): JSX.Element {
       <SubTitle subtitle="History" />
       <Paragraph>
         London Studio was founded in 2002, when SCE Studio Camden (formerly
-        Psygnosis) and Team Soho merged. Their portfolio includes traditional IP
-        such as PS2&#39;s GTA-like The Getaway series. However, most LS games
+        Psygnosis) and Team Soho merged. While their portfolio includes
+        traditional IP like PS2&#39;s GTA-like The Getaway series, most LS games
         took advantage of the various peripherals each PlayStation had.
       </Paragraph>
       <Paragraph>
-        LS&#39;s most successful IP was Singstar, which sold 20 million+ across
-        PS2-PS4. It used a USB mic, but LS also utilized more unique
-        peripherals. On PS2, it was the camera-based EyeToy. On PS3, it was the
-        AR Wonderbook. On PS4, it was PSVR&#39;s Blood and Truth. All were
-        commercially and/or critically successful. PS3&#39;s PlayStation Home
-        was also one of the first metaverses - launching 10+ years before it was
-        even a term.
+        LS&#39;s most successful IP was Singstar, which used a USB mic and sold
+        20 million+ across PS2-PS4. More unique peripherals were used too, such
+        as PS2&#39;s camera-based EyeToy series, PS3&#39;s AR Wonderbook series,
+        and PSVR&#39;s Blood and Truth on PS4. All were commercially and/or
+        critically successful. PS3&#39;s PlayStation Home was also one of the
+        first metaverses, launching 10+ years before it was even a term.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Their final game was 2019&#39;s Erica, which used PS4&#39;s PlayLink to
-        add smartphone compatibility, but was only tepidly received. Considering
-        the upcoming PS5 and Sony&#39;s live-service push, it&#39;s no surprise
-        LS pivoted there too - especially as it was still consistent with their
-        DNA, as live-service was new to them. Unfortunately, the title would not
-        only be cancelled, but also caused LS&#39;s closure in 2024.
+        While Blood and Truth did well, the then-upcoming PS5 made a sequel
+        unlikely. Considering Sony&#39;s live-service push too, it&#39;s no
+        surprise LS pivoted there - especially as it was still consistent with
+        their experimental culture, as live services were new to them.
+        Unfortunately, this project was not only cancelled, but also caused
+        LS&#39;s closure in 2024.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

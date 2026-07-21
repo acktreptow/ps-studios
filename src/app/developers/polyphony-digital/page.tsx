@@ -64,15 +64,16 @@ function PolyphonyDigitalPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It takes around 4-5 years for Polyphony to release a new GT these
-            days, so I predict we&#39;ll see GT8 close to the end of the PS5
-            gen. If you&#39;re a fan, I&#39;d be even more excited this time too
-            - GT8 should be PS5 only and take an even further graphical leap on
-            PS5 Pro. They&#39;ve also learned from GT7&#39;s launch issues,
-            which will improve the gameplay loop.
+            It takes around 4-5 years for Polyphony to release a new GT
+            currently, so I predict we&#39;ll see GT8 at some point in 2027.
+            Unlike GT7 though, GT8 will almost certainly skip PS4. It should
+            also take a much further graphical leap on PS5 Pro, and could very
+            well have a PS6 version ready within the console&#39;s launch
+            window. Polyphony have also learned from GT7&#39;s launch issues,
+            which should result in a better gameplay experience from day 1.
           </Paragraph>
           <Paragraph>
-            Never played GT or are a lapsed fan? It might be worth trying
+            Never played GT or are you a lapsed fan? It might be worth trying
             2024&#39;s My First Gran Turismo. Polyphony describes it as a
             &#39;free-to-play, beginner-friendly intro to the world of GT&#39;.
             Basically, it&#39;s an expanded demo with a limited number of cars

@@ -29,20 +29,22 @@ function SuckerPunchProductionsPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Sucker Punch are a Washington-based developer that was founded in 1997,
-        initially to work on N64 platformer Rocket: Robot on Wheels. Sony were
-        impressed, so they funded SP&#39;s Sly Cooper trilogy for the PS2 and
-        inFamous 1/2 on the PS3. Shortly after, Sony acquired SP in 2011.
+        Sucker Punch are a Washington-based developer, founded in 1997 to work
+        on the N64 platformer Rocket: Robot on Wheels. Sony were impressed, so
+        they funded SP&#39;s Sly Cooper trilogy for the PS2 and inFamous 1/2 on
+        the PS3. Sony then acquired SP in 2011, just after inFamous 2&#39;s
+        successful launch, and right before its Festival of Blood expansion,
+        which was the fastest-selling digital game on PS3 at the time.
       </Paragraph>
       <Paragraph marginBottom={8}>
         After 2 inFamous titles on PS4, SP then moved on to a new IP -
         2020&#39;s Ghost of Tsushima. This third-person samurai action-adventure
         is the PS4&#39;s fastest-selling first-party debut at 2.4 million copies
         sold in 3 days. Tsushima then got a PS5 Director&#39;s Cut in 2021,
-        which included a well received 10-hour story expansion that helped push
-        Tsushima past 13 million copies, making it their best selling game.
+        which included a well-received, 10-hour story expansion that helped push
+        Tsushima past 13 million copies, making it their best-selling game.
         It&#39;s therefore not surprising that SP stuck with the IP for their
-        most recent game - Ghost of Yōtei.
+        most recent game - PS5&#39;s Ghost of Yōtei.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

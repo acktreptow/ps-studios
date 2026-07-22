@@ -26,10 +26,10 @@ function TeamAsobiPage(): JSX.Element {
       <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Team Asobi is a Tokyo-based developer that technically, was formed in
+        Team Asobi is a Tokyo-based developer that technically was formed in
         2021. They actually formed in 2012 within Japan Studio, but became
         independent when JS closed. With a small headcount of around 65, Asobi
-        develops smaller games that showcase new PlayStation hardware. Like
+        develops smaller games that showcase new PlayStation hardware, like
         2013&#39;s The PlayRoom for DualShock 4 and 2018&#39;s Astro Bot Rescue
         Mission for PSVR.
       </Paragraph>
@@ -38,13 +38,13 @@ function TeamAsobiPage(): JSX.Element {
         was a free, pre-installed PS5 launch title with gameplay showcasing new
         PS5 features like haptic feedback. Even after 5 years, it&#39;s still
         one of the best uses of the DualSense. The game&#39;s positive reception
-        is also why Asobi survived Japan Studio&#39;s closure.
+        is also a big reason why Asobi survived Japan Studio&#39;s closure.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Asobi&#39;s next game, Astro Bot, launched in September 2024. This near
         4-year development cycle resulted in it being Asobi&#39;s biggest game
-        to date. But most importantly, it led to monumental critical and
-        commercial success that no one saw coming.
+        to date. Most importantly, it led to monumental critical and commercial
+        success that no one saw coming.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

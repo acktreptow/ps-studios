@@ -60,8 +60,8 @@ function SuckerPunchProductionsPage(): JSX.Element {
             However, due to the length of game development and how far the PS5
             is into its lifecycle, Yōtei is almost certainly Sucker Punch&#39;s
             final PS5 game. Despite the success SP have found with both Ghost
-            games, it&#39;s entirely possible that their next title will be a
-            new IP.
+            games, it&#39;s also entirely possible that their next title will be
+            a new IP.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Studio Head Brian Fleming retired shortly after Yōtei&#39;s launch,

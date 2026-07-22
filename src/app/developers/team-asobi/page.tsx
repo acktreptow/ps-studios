@@ -60,7 +60,7 @@ function TeamAsobiPage(): JSX.Element {
             Commercially, Astro Bot has sold 4.3 million copies and continues to
             be an evergreen seller of around 100,000 a month, well over 1 year
             after launch. It&#39;s also part of PS5 bundles, is the first title
-            to have multiple themed DualSenses, and received numerous free DLCs.
+            to have multiple themed DualSenses, and has received many free DLCs.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Considering its $50-$100 million budget, Astro Bot has made over

@@ -51,23 +51,24 @@ function SuckerPunchProductionsPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Yōtei - a standalone sequel taking place 329 years after Tsushima -
-            launched in Oct 2025, to the same critical and commercial success
-            Tsushima achieved. For example, Yōtei is the third-highest selling
-            game in the US for 2025 behind only Battlefield 6 and NBA 2K26.
+            launched in October 2025, to similar critical and commercial success
+            that Tsushima achieved. It finished as the third-highest selling
+            game in the US for 2025, for example. This was followed by its free,
+            Yōtei: Legends multiplayer expansion in March 2026.
           </Paragraph>
           <Paragraph>
-            However, due to the length of game development and how far we&#39;re
-            into PS5&#39;s lifecycle, I predict Yōtei is Sucker Punch&#39;s
-            final PS5 game (which is still waiting on its multiplayer Legends
-            expansion). Despite Yōtei&#39;s success, I also doubt that SP&#39;s
-            next game will be a sequel.
+            However, due to the length of game development and how far the PS5
+            is into its lifecycle, Yōtei is almost certainly Sucker Punch&#39;s
+            final PS5 game. Despite the success SP have found with both Ghost
+            games, it&#39;s entirely possible that their next title will be a
+            new IP.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            For one, Brian Fleming, SP&#39;s studio head and founder, retired
-            shortly after Yōtei&#39;s launch. New leadership will likely want to
-            move on with their own ideas. SP have also already confirmed that
-            they&#39;ll continue developing one game at a time. With 10+ years
-            dedicated to the Ghost IP, PS6 is a great place for something new.
+            Studio Head Brian Fleming retired shortly after Yōtei&#39;s launch,
+            and SP have already confirmed that they&#39;ll continue developing
+            one game at a time. With new leadership likely wanting to move on
+            with their own ideas after 10+ years on the Ghost IP, the PS6 is a
+            great place for something new.
           </Paragraph>
         </div>
         <div>

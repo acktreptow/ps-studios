@@ -51,18 +51,23 @@ function TeamAsobiPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Critically, Astro Bot achieved a 94 on Metacritic, making it the
-            highest rated game of 2024 and tying GoW: Ragnarök as the highest
-            rated first-party PS5 game. Astro Bot is also the most awarded
-            platformer ever and won Game of the Year at the 2024 Game Awards.
-            Commercially, it&#39;s sold 2.5 million, is part of PS5 bundles, and
-            is the first title to have multiple themed DualSenses.
+            highest-rated game of 2024 and tying GoW: Ragnarök as the
+            highest-rated first-party PS5 game. Astro Bot is also the most
+            awarded platformer ever and won Game of the Year at the 2024 Game
+            Awards.
+          </Paragraph>
+          <Paragraph>
+            Commercially, Astro Bot has sold 4.3 million copies and continues to
+            be an evergreen seller of around 100,000 a month, well over 1 year
+            after launch. It&#39;s also part of PS5 bundles, is the first title
+            to have multiple themed DualSenses, and received numerous free DLCs.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Considering its $50 million budget, Astro Bot made millions in
-            profit - even with its many free DLCs. So whatever Asobi wants to do
-            next, Sony is unlikely to say no. Though I predict Asobi sticks to
-            the blueprint and releases a worthy sequel at the end of PS5&#39;s
-            lifecycle in 2027/28.
+            Considering its $50-$100 million budget, Astro Bot has made over
+            $100 million in profit. So whatever Asobi want to do next, Sony are
+            unlikely to say no. Though, I predict Asobi stick to the blueprint
+            and release a worthy sequel at the end of PS5&#39;s lifecycle in
+            2027/28.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -32,25 +32,24 @@ function TeamLFGPage(): JSX.Element {
         Announced in May 2025, the 40-person teamLFG are the newest addition to
         PS Studios. LFG stands for &#39;looking for group&#39; as they create
         games where players can find friendship and community. While the name
-        foreshadows their debut game, LFG&#39;s unique history must be discussed
-        first because they aren&#39;t a new studio - they were an incubation
-        team within Bungie for years.
+        foreshadows their debut game, LFG aren&#39;t actually a new studio -
+        they spent years operating as an internal incubation team within Bungie.
       </Paragraph>
       <Paragraph>
         As part of Bungie, LFG worked on Destiny and Halo, but their experience
-        also extends to non-shooter live-services like League of Legends and
+        also extends to non-shooter live services like League of Legends and
         Roblox. This history can be seen all over their project &#39;Gummy
         Bears&#39; - a team-based action game inspired by fighters, MOBAs,
-        platformers and sims. It&#39;s also set in a science-fantasy world, but
+        platformers, and sims. It&#39;s also set in a science-fantasy world, but
         has a light-hearted, comedic tone to distinguish itself from Destiny.
       </Paragraph>
       <Paragraph marginBottom={8}>
         When Gummy Bears was in internal incubation, playtest reception was more
         positive than Bungie&#39;s Marathon and word spread throughout Sony. So
-        in 2024, when Bungie&#39;s financial issues meant all options were on
-        the table for Sony to extract value, LFG was brought directly into PS
-        Studios where they&#39;d have full control. LFG titles now have no onus
-        to come to Xbox or Nintendo, whereas Bungie is multiplatform.
+        in 2024, when Bungie&#39;s financial issues forced Sony to look for ways
+        to extract value, LFG were brought directly into PS Studios where
+        they&#39;d have full control. LFG titles now have no onus to come to
+        Xbox or Nintendo, whereas Bungie is multiplatform.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

@@ -68,18 +68,20 @@ function VisualArtsPage(): JSX.Element {
             then, other factors have made the chances even lower.
           </Paragraph>
           <Paragraph>
-            A worse economy resulted in multiple rounds of layoffs at Sony and
-            VASG wasn&#39;t immune. In March 2025, Bend&#39;s live-service game
-            was cancelled after 4 years of development. As VASG supported the
-            cancelled project, an undisclosed number of VASG staff were let go.
+            A worse economy has resulted in many layoffs at Sony and VASG
+            weren&#39;t immune. In early 2025, Bend&#39;s live-service game was
+            cancelled after 4 years of development. As VASG supported the
+            project, an undisclosed number of VASG staff were let go. San Diego
+            is also an expensive place to scale up VASG to the headcount needed
+            to develop a modern AAA title.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Circumstances could change on PS6, but it&#39;s unlikely. Until
-            then, we can still appreciate VASG&#39;s work in most upcoming PS
-            Studios games via art, animation etc. They&#39;re also rumored to be
+            then, VASG&#39;s art and animation work can still be appreciated in
+            most upcoming PS Studios games. They&#39;re also rumored to be
             assisting ND and a new internal studio on the next Uncharted.
             It&#39;s not what Mumbauer envisioned, but as part of many projects,
-            VASG is still essential to PS Studios.
+            VASG are still essential to PS Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

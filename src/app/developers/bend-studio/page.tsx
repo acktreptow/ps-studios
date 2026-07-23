@@ -50,7 +50,7 @@ function BendStudioPage(): JSX.Element {
           </Paragraph>
           <List>
             <li>
-              Bend pitched Days Gone 2, which Sony rejected due to of Days
+              Bend pitched Days Gone 2, which Sony rejected due to Days
               Gone&#39;s initial reception.
             </li>
             <li>
@@ -67,18 +67,18 @@ function BendStudioPage(): JSX.Element {
             </li>
           </List>
           <Paragraph>
-            Fortunately, much of the criticism against DG stems from those who
-            lost the power struggle. Between that, Sony&#39;s increased
-            reluctance in live services, DG getting a remaster, and the more
-            positive general consensus around the IP in 2026, there&#39;s a
-            better chance Days Gone 2 is greenlit than in recent years, which
-            would be the best-case scenario.
+            Fortunately, much of DG&#39;s criticism comes from those who lost
+            the power struggle. Between that, Sony&#39;s increased reluctance in
+            live services, DG getting a remaster, and the more positive general
+            consensus around the IP in 2026, there&#39;s a better chance Days
+            Gone 2 is greenlit than in recent years, which would be the
+            best-case scenario.
           </Paragraph>
           <Paragraph marginBottom={8}>
             The worst-case scenario would be Bend&#39;s closure, which is
             unfortunately more likely. At the very least, don&#39;t expect a new
             Bend title until PS6, making the PS5 a truly wasted generation for
-            them due to ex-Bend leadership and Sony&#39;s poor live service
+            Bend due to ex-leadership and Sony&#39;s poor live service
             execution.
           </Paragraph>
         </div>

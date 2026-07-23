@@ -44,42 +44,42 @@ function BendStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Despite Days Gone shipping over 6 years ago, there&#39;s a reason
-            why we don&#39;t even have a name for Bend&#39;s next game. It&#39;s
-            been a very long string of bad luck and incompetence:
+            Despite Days Gone shipping over 6 years ago, we don&#39;t even have
+            a name for Bend&#39;s next game due to a very long string of bad
+            luck and incompetence:
           </Paragraph>
           <List>
             <li>
-              Bend pitched Days Gone 2, which Sony rejected due to the initial
-              reception of Days Gone.
+              Bend pitched Days Gone 2, which Sony rejected due to of Days
+              Gone&#39;s initial reception.
             </li>
             <li>
               A 2020 internal power struggle resulted in DG&#39;s writer and
               creative director leaving.
             </li>
             <li>
-              This led Bend&#39;s new leadership to greenlight a live-service
-              game based on an original IP.
+              Bend&#39;s new leadership then greenlit a live-service game based
+              on an original IP.
             </li>
             <li>
-              That game was then cancelled in January 2025 - likely due to
-              Sony&#39;s colder feet for internal live-services, post-Concord.
+              That game was then cancelled in January 2025, likely due to
+              Sony&#39;s colder feet for internal live services, post-Concord.
             </li>
           </List>
           <Paragraph>
-            Fortunately, much of DG&#39;s criticisms stem from those who lost
-            the power struggle. Between that, Sony&#39;s increased reluctance in
-            live-services, DG getting a remaster, and the more positive general
-            consensus around the IP in 2025, there&#39;s a good chance Days Gone
-            2 could now be greenlit and launch to much better critical
-            reception.
+            Fortunately, much of the criticism against DG stems from those who
+            lost the power struggle. Between that, Sony&#39;s increased
+            reluctance in live services, DG getting a remaster, and the more
+            positive general consensus around the IP in 2026, there&#39;s a
+            better chance Days Gone 2 is greenlit than in recent years, which
+            would be the best-case scenario.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This would be the best case scenario, but don&#39;t expect it until
-            PS6. Meaning out of all PS Studios, Bend will go the longest without
-            releasing a new game. Due to ex-Bend leadership and Sony&#39;s poor
-            live-service execution, the PS5 has been a truly wasted generation
-            for Bend Studio.
+            The worst-case scenario would be Bend&#39;s closure, which is
+            unfortunately more likely. At the very least, don&#39;t expect a new
+            Bend title until PS6, making the PS5 a truly wasted generation for
+            them due to ex-Bend leadership and Sony&#39;s poor live service
+            execution.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

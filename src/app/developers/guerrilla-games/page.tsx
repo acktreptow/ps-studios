@@ -30,23 +30,25 @@ function GuerrillaGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2000, Guerrilla Games is known for its FPS Killzone and
-        action RPG Horizon IP. Sony acquired the Amsterdam studio just 1 year
-        after Killzone released on PS2 in 2004, making them one of the oldest
-        PlayStation developers.
+        Founded in 2000, Guerrilla Games are known for their FPS Killzone and
+        action RPG Horizon IPs. Sony acquired the Amsterdam studio just 1 year
+        after the first Killzone released on PS2 in 2004, making them one of the
+        oldest PlayStation developers.
       </Paragraph>
       <Paragraph>
-        On PS5, Guerrilla has only released Horizon Forbidden West in 2022,
-        which sold 10+ million. They did work with other studios on 2023&#39;s
-        Horizon Call of the Mountain, 2024&#39;s Lego Horizon Adventures, and a
-        remake of Horizon Zero Dawn, but weren&#39;t the main developer.
+        On PS5, Guerrilla have released Horizon Forbidden West in 2022, which
+        quickly sold 10+ million copies in part because it also came to PS4.
+        They also co-developed 2023&#39;s VR action-adventure Horizon Call of
+        the Mountain and 2024&#39;s remaster of Horizon Zero Dawn with fellow PS
+        Studios Firesprite and Nixxes respectively. Finally, Guerrilla partnered
+        with Studio Gobo on 2024&#39;s family-focused Lego Horizon Adventures,
+        but as they&#39;re not a PS Studio, LHA is included on this page.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Outside of collaborations and 2023&#39;s PS5 exclusive Burning Shores
-        DLC for Forbidden West, Guerrilla had remained silent until 2026, when
-        they announced Horizon Hunters Gathering. This live-service co-op
-        Horizon title has its work cut out in order to win over the hardcore PS5
-        base that was hoping for Horizon 3.
+        Outside of these collaborations and 2023&#39;s PS5-exclusive Burning
+        Shores DLC for HFW, Guerrilla stayed silent until announcing Horizon
+        Hunters Gathering in 2026. This live-service co-op title faces an uphill
+        battle to win over the hardcore PS5 base that was hoping for Horizon 3.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

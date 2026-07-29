@@ -54,28 +54,28 @@ function GuerrillaGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            The response to Horizon HG was extremely negative, with particular
-            critique at its cartoony art style. If anything, Horizon Steel
-            Frontiers, (a high-fidelity MMO for PC/phones by NC Soft) looks more
-            like the live-service expected from Guerrilla, whereas HG looks like
-            the phone title.
+            The initial response to HHG was extremely negative, with particular
+            criticism for its cartoony art style. If anything, Horizon Steel
+            Frontiers (the NCSoft-developed MMO for PC/phones) looks more like
+            the live-service expected from Guerrilla, whereas HHG looks like the
+            phone title.
           </Paragraph>
           <Paragraph>
-            HG&#39;s first playtest is in late Feb, so it&#39;s not too long
-            before players can get hands-on. However, this playtest must be
-            executed perfectly. If gameplay and presentation falls short, the
-            hardcore base won&#39;t only not evangelize the project, they&#39;ll
-            crucify its reputation like they did Concord. HG will then have
-            little chance of finding popularity with the more
-            casual/live-service PS5 audience who might try an ok game, but not
-            an uncool one.
+            Fortunately, sentiment around HHG&#39;s gameplay and presentation
+            was mostly positive across its 2 closed playtests, which needed to
+            happen. Otherwise, the hardcore base wouldn&#39;t just fail to
+            evangelize HHG, they&#39;d crucify its reputation like they did
+            Concord. HHG would then have little chance to connect with the more
+            casual live-service PS5 audience who might try an okay game, but not
+            an uncool one. However, this is only a positive start that needs to
+            continue.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Rumors suggest Guerrilla is also working on Horizon 3. Even if
-            it&#39;s a PS6 title that&#39;s years away, it would do well for
-            them to showcase it now. At the very least, a high-fidelity
-            singleplayer Horizon will help take the heat off yet another
-            live-service from one of Sony&#39;s premier PS Studios.
+            Rumors suggest Guerrilla are also working on Horizon 3. Even if
+            it&#39;s a cross-gen PS6 title that&#39;s years away, Guerrilla
+            should announce it. At the very least, confirming a high-fidelity
+            singleplayer Horizon will take some heat off yet another
+            live-service from a premier PS Studio.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

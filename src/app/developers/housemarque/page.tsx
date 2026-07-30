@@ -58,19 +58,33 @@ function HousemarquePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            With Returnal, Housemarque proved they could repackage the arcade
-            DNA of their older/smaller games into a AAA mainstream title. Saros
-            being a roguelite also furthers its mainstream appeal on a much
-            larger 2026 PS5 install base, which should result in even higher
-            sales.
+            While Returnal is a roguelike, Saros is a roguelite, and this pivot
+            to more permanent progression between runs was the marketing focal
+            point. In theory, a more approachable Returnal (which many found too
+            hard) should&#39;ve furthered its mainstream appeal. However,
+            Saros&#39;s sales trajectory is slightly slower than Returnal&#39;s,
+            despite launching on a much larger PS5 install base.
+          </Paragraph>
+          <Paragraph>
+            Critically, Saros performed as well as Returnal on Metacritic.
+            However, consensus among gamers was that the amount of permanent
+            progression and gameplay modifiers was an overcorrection, resulting
+            in Saros losing some of Returnal&#39;s magic that stuck long after
+            players put it down.
+          </Paragraph>
+          <Paragraph>
+            Despite slightly unfavorable comparisons, though, Saros&#39;s
+            critical acclaim was still in line with the best of
+            Housemarque&#39;s arcade era, and surpassed those titles in sales
+            too. Most importantly, they&#39;ve successfully reinvented
+            themselves with these 2 titles during Sony&#39;s live-service push,
+            making Housemarque easily one of the bright spots for PS Studios
+            this generation.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Housemarque is easily one of the bright spots for PS Studios this
-            generation, especially as they were acquired during Sony&#39;s
-            live-service push. Thankfully, they weren&#39;t caught up in that -
-            making them one of the few PS Studios currently worth watching.
-            Saros also ships in April 2026, so there&#39;s not long to wait.
-            Though it&#39;s likely the last Housemarque title on PS5.
+            Housemarque are likely done on PS5, but they&#39;re in an excellent
+            position to reach greater heights on PS6. Especially if they find
+            that perfect middle ground between Returnal and Saros.
           </Paragraph>
         </div>
         <div>

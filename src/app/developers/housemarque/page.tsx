@@ -29,24 +29,30 @@ function HousemarquePage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1995, this Finnish-based developer has released many games
-        exclusively on PlayStation, including Super Stardust and Resogun. In
-        fact, the last time they released a game on Xbox or Nintendo was
-        2011&#39;s Outland.
+        Founded in 1995, Housemarque are a Finnish developer that, prior to PS5,
+        were primarily known for critically acclaimed arcade shooters like Super
+        Stardust and Resogun. Most of Housemarque&#39;s games in their 30+ year
+        history were also exclusively on PlayStation, with their last
+        multiplatform title being 2011&#39;s Outland, shipping on both PS3 and
+        Xbox 360.
       </Paragraph>
       <Paragraph>
-        So far, Housemarque has only released 2021&#39;s Returnal on PS5. It
-        kept the roguelike/arcade DNA seen in their previous games, but moved to
-        third-person with more focus on story. This gave Returnal more
-        mainstream appeal, resulting in it becoming Housemarque&#39;s best
-        selling game at 560k copies sold in 3 months and Sony acquiring them
-        shortly after.
+        In 2017, Housemarque decreed &#39;arcade is dead&#39; after the poor
+        commercial performance of their PS4 titles, despite continued critical
+        acclaim, and moved away from typical arcade titles. This was first
+        realized with 2021&#39;s Returnal on PS5, which kept the
+        roguelike/arcade DNA for its gameplay, but moved to third-person, with
+        far more emphasis on story and production value. This pivot gave
+        Returnal more mainstream appeal, resulting in it becoming
+        Housemarque&#39;s fastest-selling game at 560,000 copies in 3 months,
+        and later surpassing 1 million units.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Housemarque continued to support Returnal with a PC version and co-op
-        mode before announcing their next game, Saros, via a CG trailer in
-        February 2025 and a gameplay reveal in September. Saros plays very
-        similar to Returnal, except it&#39;s a roguelite instead of a roguelike.
+        Due to this improved commercial success, it&#39;s unsurprising that Sony
+        acquired Housemarque shortly after while they continued to support
+        Returnal with a PC version and co-op mode. Housemarque then announced
+        Saros as a spiritual sequel to Returnal in 2025, before shipping it in
+        2026 to a surprising reception.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

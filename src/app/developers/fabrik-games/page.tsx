@@ -41,15 +41,19 @@ function FabrikGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            As Fabrik are a Firesprite support studio, they&#39;ve not released
-            their own PS5 game. Nor should you expect them to barring unforeseen
-            circumstances.
+            Fabrik are in a unique situation within PS Studios. While
+            they&#39;re still legally active and maintain assets, in practice
+            Fabrik are closed. That&#39;s because according to Fabrik&#39;s
+            public filings, by March 2024, they had ceased production of games,
+            have no employees, and are non-trading.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            We&#39;ll indirectly hear from them whenever Firesprite announces
-            their next game, which based on rumors, is a sequel to PS4&#39;s
-            Until Dawn. This horror/interactive drama was remade in 2024 for
-            PS5/PC and included a new ending teasing Until Dawn 2.
+            For all intents and purposes, then, Fabrik are an inactive shell
+            within Sony and their employees have either moved on (e.g. former
+            Studio Head Errol Ismail) or are now directly part of Firesprite.
+            Fabrik will therefore never release a PS5 game, but much of their
+            talent are working on Firesprite&#39;s next title, 2027&#39;s Until
+            Dawn 2, which was announced to mostly positive reception.
           </Paragraph>
         </div>
         <div>

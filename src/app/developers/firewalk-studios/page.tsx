@@ -50,24 +50,25 @@ function FirewalkStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Concord was a historically poor launch for Sony. It&#39;s tied with
-            Firewall Ultra, Destruction AllStars and Lost Soul Aside for the
-            lowest first-party PS5 Metacritic score at 62. Concord also only
-            sold 25,000 - a figure so low that Sony removed it from sale and
-            forced refunds 11 days later because they&#39;d recoup more with
-            Concord as a tax writeoff.
+            Critically, Concord is the lowest-rated first-party PS5 game with a
+            62 on Metacritic - a score it shares with Firewall Ultra and Lost
+            Soul Aside, 2 second-party titles made by far smaller development
+            teams at a fraction of Concord&#39;s budget. However, it&#39;s
+            Concord&#39;s commercial performance that&#39;s truly noteworthy.
           </Paragraph>
           <Paragraph>
-            Firewalk explored how to successfully bring back Concord, but in
-            October, Firewalk closed along with confirmation that Concord
-            wouldn&#39;t return. It&#39;s therefore easy to predict that
-            there&#39;ll be no more PS5 titles from them.
+            Concord only sold around 25,000 copies, a figure so low that after
+            only 11 days, Sony removed it from sale and forced refunds, opting
+            to completely write off the title in its current state. Firewalk
+            explored how to successfully relaunch Concord, but in October, the
+            studio closed along with confirmation that the game wouldn&#39;t
+            return.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This was the first time Sony refunded a game solely due to its
-            reception. It also resulted in over $200 million in losses and led
-            to Firewalk closing. Concord and Firewalk are therefore easily the
-            biggest PS Studios failure of the PS5 era.
+            Concord marked the first time Sony refunded a game due to its
+            reception. When factoring in Firewalk&#39;s acquisition cost as
+            well, the Concord experiment easily resulted in over $100 million in
+            losses. These are historic failures for PS Studios, rivalled only by Bungie in the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

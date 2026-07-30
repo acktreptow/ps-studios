@@ -21,20 +21,21 @@ function FabrikGamesPage(): JSX.Element {
       <DeveloperButton developer="Fabrik" urlPath="https://x.com/fabrikgames" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2014, this Manchester-based developer has made games like
-        2016&#39;s Filthy Lucre on PS4 and 2017&#39;s The Lost Bear on PSVR.
-      </Paragraph>
-      <Paragraph>
-        You likely haven&#39;t heard of these niche games, and that&#39;s no
-        problem. You won&#39;t need to, because Fabrik was acquired by
-        Firesprite in 2021 to bolster its headcount. As Firesprite was purchased
-        by Sony a few weeks prior, Fabrik became a de-facto PS studio.
+        Founded in 2014, Fabrik Games was a Manchester-based studio that
+        developed 2016&#39;s Filthy Lucre on PS4 and 2017&#39;s The Lost Bear on
+        PSVR. Both titles failed to perform critically or commercially, and
+        Fabrik wouldn&#39;t return to these IPs before they were acquired by
+        Firesprite in 2021 to bolster their headcount. As Firesprite were
+        purchased by Sony a few weeks prior, Fabrik became a de-facto PS Studio.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        The indirect way Fabrik joined PS Studios is very unique, but not
-        particularly surprising. Both Fabrik and Firesprite were founded by the
-        same individual. Fabrik had also already supported Firesprite during the
-        development of their 2018 PSVR game - The Persistence.
+        Fabrik&#39;s indirect path into PS Studios was unique, but not
+        particularly surprising, as Fabrik and Firesprite were founded by Graeme
+        Ankers. Fabrik had also already supported Firesprite during the
+        development of their 2018 PSVR game The Persistence, so the transition
+        to a support studio was relatively smooth. However, while it was
+        initially thought that the Fabrik name would continue, this wasn&#39;t
+        the case.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

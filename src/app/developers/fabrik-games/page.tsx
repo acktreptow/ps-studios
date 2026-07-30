@@ -21,7 +21,7 @@ function FabrikGamesPage(): JSX.Element {
       <DeveloperButton developer="Fabrik" urlPath="https://x.com/fabrikgames" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2014, Fabrik Games was a Manchester-based studio that
+        Founded in 2014, Fabrik Games were a Manchester-based studio that
         developed 2016&#39;s Filthy Lucre on PS4 and 2017&#39;s The Lost Bear on
         PSVR. Both titles failed to perform critically or commercially, and
         Fabrik wouldn&#39;t return to these IPs before they were acquired by

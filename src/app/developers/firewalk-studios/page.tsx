@@ -29,19 +29,22 @@ function FirewalkStudiosPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        This Washington-based developer was founded in 2018, by senior veterans
-        of shooters like Halo and Destiny. With this prestige multiplayer
-        expertise and Sony&#39;s increased focus on live-service, it&#39;s not
-        surprising they acquired Firewalk in April 2023.
+        Firewalk Studios were a Washington-based developer founded in 2018 by
+        senior veterans of shooters like Halo and Destiny. With this pedigree in
+        multiplayer shooters and Sony&#39;s increased focus on live-service,
+        it&#39;s not surprising they were acquired in April 2023. Firewalk then
+        announced Concord, a 5v5 live-service FPS, shortly after in May 2023,
+        with an initial CG teaser trailer that was mostly well received.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Firewalk announced Concord shortly after in May 2023 - a 5vs5
-        live-service FPS that released on PS5/PC in August 2024. Yet it took
-        until May 2024 to actually see Concord via story and gameplay trailers
-        that were universally hated, with character designs especially panned.
-        Playtests also showcased how gameplay wasn&#39;t good enough to justify
-        $40 - especially compared to its F2P competitors like Fortnite and
-        Overwatch.
+        Unfortunately, Concord&#39;s subsequent story and gameplay trailers
+        throughout 2024 were overwhelmingly hated, with character designs
+        especially panned. Early playtests also showcased how gameplay
+        wasn&#39;t compelling enough to justify $40, especially compared to its
+        F2P competitors like Fortnite and Overwatch. All this negative publicity
+        resulted in Concord&#39;s historically poor launch on PS5/PC in August
+        2024, which forced Sony to take action they&#39;d never taken before and
+        will likely never take again.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

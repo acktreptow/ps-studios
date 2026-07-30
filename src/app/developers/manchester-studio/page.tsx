@@ -31,7 +31,7 @@ function ManchesterStudioPage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         Unfortunately, CSAR&#39;s development struggled on vital decisions like
-        art style and basic gameplay. Its co-lead designers also worked in
+        art style and basic gameplay. The co-lead designers also worked in
         London - only visiting the studio around once a week and micromanaging
         the many prototypes when there. Hires were made in London to streamline
         development, but it created a further breakdown in communications.
@@ -49,25 +49,25 @@ function ManchesterStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Sony has closed 8 studios since PS5 launched, with Manchester Studio
-            unsurprisingly closing even earlier (February 2020), as most in
-            Hulst&#39;s position would&#39;ve done the same. By 2020, PSVR was
-            years past its peak in popularity. Therefore, even if CSAR shipped,
-            there was no money to be made from its inevitable low sales.
+            Sony has closed 8 studios since PS5 launched, with MS unsurprisingly
+            closing even earlier (February 2020), as most in Hulst&#39;s
+            position would&#39;ve done the same. By 2020, PSVR was years past
+            its peak in popularity. Therefore, even if CSAR shipped, there was
+            no money to be made from its inevitable low sales.
           </Paragraph>
           <Paragraph>
             CSAR could&#39;ve moved to PSVR2, but this meant a Feb 2023 release
             at the earliest. An 8-year cycle for a VR game, by an unproven
             studio, with a track record of development issues, makes no fiscal
             sense. Furthermore, PSVR2 wouldn&#39;t have improved sales. Even AAA
-            IPs like Horizon performed so poorly that PS Studios hasn&#39;t
+            IPs like Horizon performed so poorly that PS Studios haven&#39;t
             shipped a PSVR2 title since launch.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s a shame when studios close, but the unfortunate reality is
-            that it made sense to shut down Manchester Studio. According to a
-            post-closure exposé, even former devs recognize it was the logical
-            choice and don&#39;t blame Sony.
+            that it made sense to shut down MS. According to a post-closure
+            exposé, even former devs recognize it was the logical choice and
+            don&#39;t blame Sony.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

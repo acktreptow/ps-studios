@@ -26,7 +26,7 @@ function TeamAsobiPage(): JSX.Element {
       <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Team Asobi is a Tokyo-based developer that technically was formed in
+        Team Asobi are a Tokyo-based developer that technically was formed in
         2021. They actually formed in 2012 within Japan Studio, but became
         independent when JS closed. With a small headcount of around 65, Asobi
         develops smaller games that showcase new PlayStation hardware, like
@@ -34,7 +34,7 @@ function TeamAsobiPage(): JSX.Element {
         Mission for PSVR.
       </Paragraph>
       <Paragraph>
-        So far, Asobi has released 2 PS5 games. 2020&#39;s Astro&#39;s Playroom
+        So far, Asobi have released 2 PS5 games. 2020&#39;s Astro&#39;s Playroom
         was a free, pre-installed PS5 launch title with gameplay showcasing new
         PS5 features like haptic feedback. Even after 5 years, it&#39;s still
         one of the best uses of the DualSense. The game&#39;s positive reception

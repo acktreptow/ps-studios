@@ -29,22 +29,19 @@ function HavenStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="History" />
           <Paragraph>
-            This Montreal-based developer was founded in 2021 by Jade Raymond -
-            one of the creators of Assassin&#39;s Creed. Raymond was at Google
-            beforehand, but left once they stopped supporting the cloud-based
-            console Stadia.
-          </Paragraph>
-          <Paragraph>
-            Raymond then took her cloud infrastructure knowledge and founded
-            Haven Studios. It caught Sony&#39;s attention, who immediately
-            started funding Haven&#39;s first game and acquired them in 2023.
+            Haven Studios are a Montreal-based developer founded by Jade
+            Raymond, a co-creator of Assassin&#39;s Creed. Raymond was at Google
+            beforehand, but left in early 2021 once they abandoned their
+            cloud-based gaming service, Stadia. As a big name in the industry,
+            Raymond was able to found Haven only a month later with investment
+            from Sony, who then acquired the studio outright in 2022.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            This title was FairGame$ - a live-service competitive heist shooter
-            that will launch simultaneously on PS5 and PC. We haven&#39;t seen
-            Fairgame$ since its CG announcement trailer in May 2023. But while
-            Haven has been silent, information from trusted leakers paint a
-            negative picture.
+            Haven&#39;s first title is FairGame$, a live-service competitive
+            heist shooter for PS5/PC. Unfortunately, while Haven have remained
+            silent ever since its CG announcement trailer in May 2023,
+            information from trusted leakers paints an incredibly negative
+            picture.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

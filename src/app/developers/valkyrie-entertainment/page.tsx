@@ -24,24 +24,24 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Valkyrie Entertainment is a Seattle-based developer founded in 2002, but
-        only acquired by Sony in 2021. Haven&#39;t heard of Valkyrie or their
-        games? That&#39;s because they&#39;re a support studio for games
+        Valkyrie Entertainment are a Seattle-based developer founded in 2002,
+        but only acquired by Sony in 2021. Haven&#39;t heard of Valkyrie or
+        their games? That&#39;s because they&#39;re a support studio for games
         developed at other PlayStation first-party studios.
       </Paragraph>
       <Paragraph>
-        On PS5, Valkyrie has supported 2022&#39;s God of War: Ragnarök from Sony
+        On PS5, Valkyrie supported 2022&#39;s God of War: Ragnarök from Sony
         Santa Monica and 2024&#39;s ill-fated Concord from Firewalk. They also
         have an extensive history with the inFamous and Twisted Metal IPs during
         the PS3/PS4 generations, and even contributed to many Xbox IPs
         pre-acquisition, such as Forza Motorsport and State of Decay.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite being founded over 20 years ago, Valkyrie has only been the main
-        developer on 2015&#39;s digital-only &#39;Guns Up!&#39; for PSN and
+        Despite being founded over 20 years ago, Valkyrie have only been the
+        main developer on 2015&#39;s digital-only &#39;Guns Up!&#39; for PSN and
         mobile. This free-to-play tower defense shooter was a commercial failure
         and only received a 54 on Metacritic, which is lower than every PS5
-        first-party title (Concord scored a 62).
+        first-party title (Concord is currently the lowest at 62).
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

@@ -39,11 +39,13 @@ function HomepageClient(): JSX.Element {
           <option value="" className={`${hidden ? "hidden" : ""}`}>
             Select PS5 Developer
           </option>
-          {developers.map((developer: Developer) => (
-            <option key={developer.id} value={developer.urlPath}>
-              {developer.name}
-            </option>
-          ))}
+          {developers
+            .filter((developer: Developer) => !developer.hasClosed)
+            .map((developer: Developer) => (
+              <option key={developer.id} value={developer.urlPath}>
+                {developer.name}
+              </option>
+            ))}
         </select>
         <button
           type="submit"
@@ -97,6 +99,33 @@ function HomepageClient(): JSX.Element {
             </Link>
           ))}
       </div>
+      <form onSubmit={handleSubmit} className="text-lg lg:tracking-wide">
+        <select
+          className="block mx-auto border-4 border-gray-500 rounded-lg p-2 mb-4 hover:border-playstation transition-colors duration-200 text-gray-800 shadow-md focus:outline-none focus:ring-2 focus:ring-playstation"
+          value={selectedDeveloper}
+          onChange={(e: React.ChangeEvent<HTMLSelectElement>) => {
+            setSelectedDeveloper(e.target.value);
+            setHidden(true);
+          }}
+        >
+          <option value="" className={`${hidden ? "hidden" : ""}`}>
+            Select Closed PS5 Developer
+          </option>
+          {developers
+            .filter((developer: Developer) => developer.hasClosed)
+            .map((developer: Developer) => (
+              <option key={developer.id} value={developer.urlPath}>
+                {developer.name}
+              </option>
+            ))}
+        </select>
+        <button
+          type="submit"
+          className="block mx-auto border font-semibold p-4 mb-8 bg-gradient-to-b from-blue-700 to-playstation text-white rounded-full hover:bg-gradient-to-b hover:from-blue-600 hover:to-playstation hover:font-bold transition-colors duration-200 shadow-md shadow-playstation"
+        >
+          Go To Developer
+        </button>
+      </form>
     </main>
   );
 }

@@ -63,26 +63,28 @@ function HavenStudiosPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            In February 2025, one exposé reported that Fairgames (they&#39;ve
-            now dropped the $) was internally delayed from fall 2025 to spring
-            2026. Then in May 2025, Sony announced that Raymond left Haven
-            without saying why, and even Haven staff weren&#39;t told. However,
-            Raymond exited only a few weeks after an NDA&#39;d external playtest
-            was poorly received.
+            In February 2025, an exposé reported that Fairgames (it&#39;s now
+            dropped the $) was internally delayed from Fall 2025 to Spring 2026.
+            Then in May 2025, Sony announced that Raymond left Haven without
+            saying why, and even Haven staff weren&#39;t told. However, Raymond
+            exited only a few weeks after an NDA&#39;d external playtest was
+            poorly received.
           </Paragraph>
           <Paragraph>
             The most recent update arrived in September 2025, when the creative
-            director left - again, likely another huge casualty following
-            Fairgames&#39;s poor playtest feedback, which reportedly concerned
-            staff about its progress.
+            director also left. Again, likely another high-profile departure
+            following Fairgames&#39;s poor playtest feedback, which reportedly
+            concerned staff about its progress. It&#39;s now also well past
+            spring 2026 and Fairgames hasn&#39;t even been mentioned again, let
+            alone released.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Between the delay, Raymond/the CD leaving, a poor playtest,
-            Sony&#39;s colder feet in live-service post-Concord, Fairgames being
-            Haven&#39;s first game, prioritizing unproven cloud tech, and the
-            consumer&#39;s already negative opinion, it&#39;s hard not to be
-            extremely pessimistic. At this point, it&#39;s far more likely Haven
-            closes than Fairgames achieving critical/commercial success.
+            Between the delay, Raymond/the CD leaving, poor playtests,
+            Sony&#39;s colder feet in live services post-Concord, Fairgames
+            being Haven&#39;s debut title, and already negative consumer
+            opinion, it&#39;s hard not to be extremely pessimistic. At this
+            point, it&#39;s far more likely Haven close than Fairgames achieving
+            critical or commercial success.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

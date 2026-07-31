@@ -38,38 +38,44 @@ function NaughtyDogPage(): JSX.Element {
         ND continued to find success on PS2 with the Jak & Daxter IP. But it was
         on PS3, with Uncharted 1-3 and The Last of Us, where their prestige grew
         to the point that many consider them the best first-party developer.
-        This pedigree and success continued into the PS4 era with
-        critically and commercially acclaimed sequels/remasters across their PS3
-        franchises. Unfortunately, PS4&#39;s final year is also where ND&#39;s
-        ascent ends, as their output on PS5 so far has been incredibly
-        disappointing.
+        This pedigree and success continued into the PS4 era with critically and
+        commercially acclaimed sequels/remasters across their PS3 franchises.
+        Unfortunately, PS4&#39;s final year is also where ND&#39;s ascent ends,
+        as their output on PS5 so far has been incredibly disappointing.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Like Insomniac, Naughty Dog have released the most first-party PS5
-            games with 4. Unlike Insomniac, all 4 are remasters/remakes of PS4
-            Uncharted/TLOU games. While nice, they&#39;re somewhat unnecessary
-            as the PS4 versions still play great on PS5.
+            So far, ND have only shipped remasters or remakes of Uncharted or
+            TLOU games. While they received noticeable graphics and framerate
+            improvements, they&#39;re somewhat unnecessary as the PS4 versions
+            still play great on PS5.
           </Paragraph>
           <Paragraph>
-            ND should&#39;ve already released their first new PS5 game with The
-            Last of Us Online. However, it was cancelled 4 years into
-            development, therefore wasting over half the PS5 generation. Since
-            then, ND announced their first new IP since 2011 - Intergalactic:
-            The Heretic Prophet. It&#39;s a religious-themed, third-person
-            action-adventure that takes gameplay inspiration from Elden Ring and
-            is likely launching in 2027/28.
+            ND should&#39;ve already released their first new PS5 title, The
+            Last of Us Online, but it was cancelled 4 years into development. ND
+            claim this was because they realized creating a live-service would
+            permanently change the single-player studio, as they would need to
+            continue feeding it with new content. While this mismatch
+            should&#39;ve been obvious, ND wasted over half the PS5 generation
+            on a project that should&#39;ve never been greenlit at that scope.
+          </Paragraph>
+          <Paragraph>
+            Fortunately, ND announced a return to their single-player roots with
+            their first new IP since 2011, Intergalactic: The Heretic Prophet,
+            in 2024. It&#39;s a religious-themed, third-person action-adventure
+            that takes gameplay inspiration from Elden Ring and is likely
+            launching in 2027/28.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s very likely that Intergalactic retains the
-            industry-defining quality ND is known for, but even still,
-            they&#39;re almost certainly only releasing 1 new game on PS5, and
-            it&#39;s shipping in its final years. Other PS Studios like
-            Insomniac have already begun supplanting them this generation, which
-            was unthinkable when TLOU released in 2013. Hopefully, ND can return
-            to form on PS6.
+            Intergalactic should retain the industry-defining quality ND are
+            known for. However, they&#39;re releasing just 1 new game on PS5
+            that ships in the console&#39;s final years, resulting in other PS
+            Studios like Insomniac, who will ship at least 4 new PS5 titles,
+            overtaking them this generation. This would&#39;ve been unthinkable
+            when TLOU released in 2013. Hopefully, Intergalactic gets ND back on
+            track and they return to form on PS6.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

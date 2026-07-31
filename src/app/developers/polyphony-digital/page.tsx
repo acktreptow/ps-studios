@@ -32,10 +32,10 @@ function PolyphonyDigitalPage(): JSX.Element {
         <div>
           <SubTitle subtitle="History" />
           <Paragraph>
-            Founded internally by auteur Kazunori Yamauchi in 1998, this
-            Tokyo-based studio develops PlayStation&#39;s best-selling IP, the
-            Gran Turismo sim racing series, which has sold over 100 million
-            units.
+            Created internally by auteur Kazunori Yamauchi in 1998, Polyphony
+            Digital (formerly Polys Entertainment) are a Tokyo-based studio that
+            develop PlayStation&#39;s best-selling IP, the Gran Turismo sim
+            racing series, which has sold over 100 million units.
           </Paragraph>
           <Paragraph marginBottom={8}>
             At least one GT game has shipped on every PlayStation console. For
@@ -74,7 +74,7 @@ function PolyphonyDigitalPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Never played GT or are you a lapsed fan? It might be worth trying
-            2024&#39;s My First Gran Turismo. Polyphony describes it as a
+            2024&#39;s My First Gran Turismo. Polyphony describe it as a
             &#39;free-to-play, beginner-friendly intro to the world of GT&#39;.
             Basically, it&#39;s an expanded demo with a limited number of cars
             and racetracks.

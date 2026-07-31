@@ -29,17 +29,20 @@ function NaughtyDogPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Naughty Dog is a California-based studio founded 10 years before PS1
-        launched, in 1984. They&#39;re also one of the earliest to join
-        first-party as Sony acquired them in 2001 - an easy decision considering
-        the critical and commercial success of their Crash Bandicoot IP on PS1.
+        Naughty Dog are a California-based studio founded in 1984, 10 years
+        before the PS1 launched. They&#39;re also one of the earliest to join PS
+        Studios as Sony acquired them in 2001 - an easy decision considering the
+        critical and commercial success of their Crash Bandicoot IP on PS1.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Naughty Dog did well on PS2 with the Jak & Daxter IP. But it was on PS3,
-        with the Uncharted 1-3 and The Last of Us, where their prestige grew to
-        the point that many consider them the best PlayStation studio. This
-        success continued into PS4 with critically and commercially acclaimed
-        sequels/remasters in both IPs.
+        ND continued to find success on PS2 with the Jak & Daxter IP. But it was
+        on PS3, with Uncharted 1-3 and The Last of Us, where their prestige grew
+        to the point that many consider them the best first-party developer.
+        This pedigree and success continued into the PS4 era with
+        critically and commercially acclaimed sequels/remasters across their PS3
+        franchises. Unfortunately, PS4&#39;s final year is also where ND&#39;s
+        ascent ends, as their output on PS5 so far has been incredibly
+        disappointing.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

@@ -31,9 +31,9 @@ function FirespritePage(): JSX.Element {
       <Paragraph>
         Founded in 2012, Firesprite are a Liverpool-based developer formed by
         ex-Studio Liverpool (previously Psygnosis) employees after Sony closed
-        the studio weeks earlier to reduce EU headcount. Firesprite&#39;s
-        first major game was 2018&#39;s The Persistence, which launched on PS4
-        as well as Xbox One and Nintendo Switch since Sony wouldn&#39;t acquire
+        the studio weeks earlier to reduce EU headcount. Firesprite&#39;s first
+        major game was 2018&#39;s The Persistence, which launched on PS4 as well
+        as Xbox One and Nintendo Switch since Sony wouldn&#39;t acquire
         Firesprite until 2021.
       </Paragraph>
       <Paragraph>
@@ -41,7 +41,7 @@ function FirespritePage(): JSX.Element {
         Persistence in 2021, and flagship PSVR2 launch title Horizon Call of the
         Mountain in 2023. Neither was particularly well received, critically or
         commercially. In fact, Firesprite have the lowest average Metacritic
-        score out of the PS Studios developers who have shipped a PS5 title.
+        score (75) out of the PS Studios who&#39;ve shipped a PS5 title.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Crunch was also necessary to ship Horizon VR despite its reception. All
@@ -54,7 +54,7 @@ function FirespritePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite a turbulent start under Sony, Firesprite announced Until
-            Dawn 2 in June 2026, for a 2027 launch. It&#39;s a standalone sequel
+            Dawn 2 in 2026, for a 2027 launch. It&#39;s a standalone sequel
             to 2015&#39;s Until Dawn on PS4, which is still highly regarded as
             one of the best in the interactive horror genre. However, while
             UD2&#39;s announcement was mostly well received outside of its
@@ -62,12 +62,12 @@ function FirespritePage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             UD2 is being made by a studio that&#39;s suffered layoffs, loss of
-            leadership, game cancellations, and hasn&#39;t shipped a game above
-            80 on Metacritic. UD&#39;s remake on PS5 and PC by Ballistic Moon
-            also damaged confidence in Sony&#39;s stewardship of the IP. Most
-            felt the 2024 remake was inferior to the 2015 original and its poor
-            sales led to BM closing. Considering these factors, it&#39;s
-            unlikely UD2 succeeds critically or commercially.
+            leadership, game cancellations, and haven&#39;t shipped a game above
+            80 on Metacritic. UD&#39;s remake on PS5/PC by Ballistic Moon also
+            damaged confidence in Sony&#39;s stewardship of the IP. Most felt
+            the 2024 remake was inferior to the 2015 original and its poor sales
+            led to BM closing. Considering these factors, it&#39;s unlikely UD2
+            succeeds critically or commercially.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

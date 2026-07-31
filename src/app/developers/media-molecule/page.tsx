@@ -24,25 +24,25 @@ function MediaMoleculePage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2006, Media Molecule is a Surrey-based developer primarily
+        Founded in 2006, Media Molecule are a Surrey-based developer primarily
         known for their critically and commercially acclaimed LittleBigPlanet
         series, which started on PS3 in 2008. However, the IP continued without
         MM&#39;s involvement after 2011&#39;s LittleBigPlanet 2.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Media Molecule&#39;s last title was 2020&#39;s Dreams on PS4 and they
-        therefore haven&#39;t released a PS5 game. Furthermore, despite Dreams
-        releasing 6 years ago, MM still hasn&#39;t even announced their next
-        game, let alone shown gameplay. It has, however, been confirmed to be a
-        new IP that will be more of a game than a creative tool like Dreams, and
-        is led by the director of Tren (the best received made-in-Dreams game).
+        MM&#39;s last title was 2020&#39;s Dreams on PS4, so they therefore
+        haven&#39;t released a PS5 game. Furthermore, despite Dreams releasing 6
+        years ago, MM still haven&#39;t even announced their next game, let
+        alone shown gameplay. It has, however, been confirmed to be a new IP
+        that will be more of a game than a creative tool like Dreams, and is led
+        by the director of Tren (the best received made-in-Dreams game).
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Whatever Media Molecule&#39;s next game is, to call it important is
-            an understatement, as they&#39;re far removed from their greatest
+            Whatever MM&#39;s next game is, to call it important is an
+            understatement, as they&#39;re far removed from their greatest
             successes seen on PS3. Dreams wasn&#39;t close to a commercial
             success, all 4 founders quit over the past 5 years, and it was
             reported that MM nearly shuttered instead of London Studio in early
@@ -57,9 +57,9 @@ function MediaMoleculePage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             Yet with rising development costs and other external economic
-            factors at play, these more prestigious reasons may not be enough in
-            2026. It&#39;s therefore more likely Media Molecule close before
-            shipping a PS5 game.
+            factors (such as their expensive location) at play, these more
+            prestigious reasons may not be enough in 2026. It&#39;s therefore
+            more likely MM close before shipping a PS5 game.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

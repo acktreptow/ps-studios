@@ -26,10 +26,10 @@ function TeamAsobiPage(): JSX.Element {
       <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Team Asobi are a Tokyo-based developer that technically was formed in
+        Team Asobi are a Tokyo-based developer that technically formed in
         2021. They actually formed in 2012 within Japan Studio, but became
         independent when JS closed. With a small headcount of around 65, Asobi
-        develops smaller games that showcase new PlayStation hardware, like
+        develop smaller games that showcase new PlayStation hardware, like
         2013&#39;s The PlayRoom for DualShock 4 and 2018&#39;s Astro Bot Rescue
         Mission for PSVR.
       </Paragraph>

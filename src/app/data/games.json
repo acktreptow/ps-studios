@@ -111,7 +111,7 @@
     "developer": "Housemarque",
     "name": "Returnal",
     "id": "Returnal",
-    "genre": "Roguelike TPS",
+    "genre": "TPS, Roguelike",
     "releaseDate": "April 30, 2021",
     "daysBetweenReleases": 1355,
     "metacritic": 86
@@ -120,7 +120,7 @@
     "developer": "Housemarque",
     "name": "Saros",
     "id": "Saros",
-    "genre": "Roguelite TPS",
+    "genre": "TPS, Roguelite",
     "releaseDate": "April 30, 2026",
     "daysBetweenReleases": 1827,
     "metacritic": 87

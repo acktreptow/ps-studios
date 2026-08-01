@@ -56,8 +56,8 @@ function DarkOutlawGamesPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Little is known about Dark Outlaw as it&#39;s only been briefly
-            discussed by Blundell. They&#39;re hiring up, while slowly
-            ramping development and prioritizing team cohesion so the best ideas
+            discussed by Blundell. They&#39;re hiring up, while slowly ramping
+            development and prioritizing team cohesion so the best ideas
             naturally rise. Considering the history, DO&#39;s title will likely
             resemble Deviation&#39;s game, which based on its sci-fi concept art
             and leaked gameplay, was inspired by COD Zombies, but in 3rd-person.
@@ -66,9 +66,9 @@ function DarkOutlawGamesPage(): JSX.Element {
             While it&#39;s a GaaS, there&#39;s also still reasons for optimism
             compared to other Sony live-service titles. DO&#39;s title is still
             years away, which is advantageous because Sony can analyze mistakes
-            made with upcoming live-services like Fairgames/Marathon and not repeat them.
-            Blundell also has time to reflect on Deviation and ensure those
-            mistakes aren&#39;t repeated.
+            made with upcoming live-services like Fairgames/Marathon and not
+            repeat them. Blundell also has time to reflect on Deviation and
+            ensure those mistakes aren&#39;t repeated.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Blundell&#39;s recent co-op-focused career with COD Zombies also
@@ -91,8 +91,6 @@ function DarkOutlawGamesPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <SubTitle subtitle="PS5 Games" marginBottom={5} />
-      <GamesSection games={gamesArray} developer="Dark Outlaw Games" />
     </Container>
   );
 }

@@ -228,7 +228,7 @@
     "developer": "Nixxes Software",
     "name": "Ratchet & Clank: Rift Apart PC",
     "id": "Ratchet & Clank: Rift Apart PC",
-    "genre": "TPS Platformer",
+    "genre": "TPS, Action, Platformer",
     "releaseDate": "July 26, 2023",
     "daysBetweenReleases": 251,
     "metacritic": 86
@@ -237,7 +237,7 @@
     "developer": "Nixxes Software",
     "name": "Horizon Forbidden West PC",
     "id": "Horizon FW PC",
-    "genre": "Action RPG",
+    "genre": "Cinematic Action RPG",
     "releaseDate": "March 21, 2024",
     "daysBetweenReleases": 240,
     "metacritic": 89
@@ -255,7 +255,7 @@
     "developer": "Nixxes Software",
     "name": "Horizon Zero Dawn",
     "id": "Horizon ZD Remastered",
-    "genre": "Action RPG",
+    "genre": "Cinematic Action RPG",
     "releaseDate": "October 31, 2024",
     "daysBetweenReleases": 169,
     "metacritic": 85

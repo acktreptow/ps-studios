@@ -383,7 +383,7 @@
     "id": "GOW: L",
     "genre": "Cinematic Action-Adventure",
     "releaseDate": "February 16, 2027",
-    "daysBetweenReleases": "N/A",
+    "daysBetweenReleases": 370,
     "metacritic": "N/A"
   },
   {
@@ -391,7 +391,7 @@
     "name": "God of War Trilogy Remake",
     "id": "GOW Trilogy",
     "genre": "Action-Adventure",
-    "releaseDate": "Unreleased",
+    "releaseDate": "TBD",
     "daysBetweenReleases": "N/A",
     "metacritic": "N/A"
   },

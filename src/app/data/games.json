@@ -532,6 +532,15 @@
   },
   {
     "developer": "XDev",
+    "name": "Midnight Murder Club",
+    "id": "MMC",
+    "genre": "Horror, FPS",
+    "releaseDate": "August 15, 2025",
+    "daysBetweenReleases": 51,
+    "metacritic": 68
+  },
+  {
+    "developer": "XDev",
     "name": "Lost Soul Aside",
     "id": "LSA",
     "genre": "Action-Adventure",

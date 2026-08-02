@@ -444,7 +444,7 @@
     "developer": "XDev",
     "name": "Sackboy: A Big Adventure",
     "id": "Sackboy",
-    "genre": "Platformer",
+    "genre": "3D Platformer",
     "releaseDate": "November 12, 2020",
     "daysBetweenReleases": 133,
     "metacritic": 79
@@ -480,7 +480,7 @@
     "developer": "XDev",
     "name": "Firewall Ultra",
     "id": "Firewall Ultra",
-    "genre": "Multiplayer VR Shooter",
+    "genre": "VR Tactical FPS",
     "releaseDate": "August 24, 2023",
     "daysBetweenReleases": 700,
     "metacritic": 62

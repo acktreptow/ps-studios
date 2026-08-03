@@ -56,29 +56,36 @@ function XDevpage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            XDev&#39;s PS5 collaborations have been inconsistent. While
-            2021&#39;s Destruction AllStars and 2022&#39;s Firewall Ultra also
-            scored 62 on Metacritic, making them the lowest rated PS Studios
-            titles, 2024 games like Helldivers 2 and Stellar Blade far exceeded
-            critical and commercial expectations.
+            As of 2026, XDev are the only PS Studio whose single-player games
+            can come to PC. For example, Saros (Housemarque) and Ghost of Yōtei
+            (Sucker Punch) are PS5 exclusive, even though their predecessors
+            came to PC. This strategy shift is a new opportunity for XDev, as
+            the PC audience can now only look to them for the single-player
+            titles PS Studios are known for.
           </Paragraph>
           <Paragraph>
-            Recently released DS2 is however by far their most AAA PS5 game.
-            It&#39;s also the more cinematic game that PS Studios are known for,
-            but due to ex-PlayStation leadership&#39;s live-service push, it had
-            been nearly 2 years since PS Studios released one. The 89 Metacritic
-            was expected, and will likely only be surpassed by Helldivers 2
-            commercially.
+            Currently, XDev have announced 2 titles that coincidentally
+            represent their inconsistent PS5 output. Kena: Scars of Kosmor
+            (Ember Labs) is a highly anticipated action-adventure that the PC
+            audience will likely pay more attention to, as it would be PS5-only
+            if made by another studio. As a live-service shooter, 4:Loop (Bad
+            Robot Games) was always PC-bound, but it faces an uphill battle due
+            to the disdain Sony&#39;s hardcore base has for live services, and
+            its 2 trailers were poorly received.
+          </Paragraph>
+          <Paragraph>
+            Predicting future XDev titles is, however, difficult given their
+            collaborative nature, especially since as of 2021, they now have
+            European, American, and Japanese operations, allowing them to easily
+            partner with studios in the industry&#39;s biggest regions. After
+            all, no one saw Tōkon coming.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            In terms of 2026 and beyond, XDev&#39;s nature makes it hard to
-            predict future games/genres. After all, no one saw Marvel Tōkon
-            coming. Based on positive playtest feedback, this 2D fighter should
-            at least start XDEV&#39;s 2026 off well. Additionally, as of 2026,
-            XDev are the only PS Studios whose singe-player titles will come to
-            PC going forward, whereas titles from other studios, like Saros and
-            Ghost of Yotei from Housemarque and Sucker Punch respectively, will
-            remain exclusive to PS5.
+            With Sony&#39;s move away from PC, though, it makes sense for XDev
+            to ship more single-player titles as they&#39;ll stand out even more
+            now. More of them are also good for a hardcore PS5 base that&#39;s
+            becoming increasingly disillusioned with Sony due to decisions like
+            the live-service push.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

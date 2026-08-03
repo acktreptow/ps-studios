@@ -64,14 +64,14 @@ function XDevpage(): JSX.Element {
             titles PS Studios are known for.
           </Paragraph>
           <Paragraph>
-            Currently, XDev have announced 2 titles that coincidentally
-            represent their inconsistent PS5 output. Kena: Scars of Kosmor
-            (Ember Labs) is a highly anticipated action-adventure that the PC
-            audience will likely pay more attention to, as it would be PS5-only
-            if made by another studio. As a live-service shooter, 4:Loop (Bad
-            Robot Games) was always PC-bound, but it faces an uphill battle due
-            to the disdain Sony&#39;s hardcore base has for live services, and
-            its 2 trailers were poorly received.
+            XDev have announced 2 titles that coincidentally represent their
+            inconsistent PS5 output. Kena: Scars of Kosmora (Ember Lab) is an
+            anticipated action-adventure that the PC audience will likely pay
+            more attention to, as it would be PS5-only if made by another
+            studio. As a live-service shooter, 4:Loop (Bad Robot Games) was
+            always PC-bound, but it faces an uphill battle due to the disdain
+            Sony&#39;s hardcore base has for live services, and its 2 trailers
+            were poorly received.
           </Paragraph>
           <Paragraph>
             Predicting future XDev titles is, however, difficult given their

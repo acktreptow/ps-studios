@@ -26,18 +26,31 @@ function XDevpage(): JSX.Element {
       <DeveloperButton developer="XDev" urlPath="https://x.com/Sony_XDEV" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Formed in 2000, XDev has a unique role in PS Studios. They don&#39;t
-        develop games, but instead collaborate with external studios by funding
-        their development of (mostly) exclusive games for PlayStation. This
-        hands-off approach means XDev ships more games than other PS Studios,
-        while producing an eclectic selection from the very different
-        developers.
+        Formed in 2000, XDev play a unique role within PS Studios as instead of
+        developing games, they fund external studios to do so. This hands-off
+        approach means XDev ship more games than other PS Studios and produce an
+        eclectic selection from very different developers.
+      </Paragraph>
+      <Paragraph>
+        So far, XDev have shipped 13 PS5 games. Their biggest successes are the
+        surprise live-service juggernaut Helldivers 2 (Arrowhead Game Studios),
+        and the AAA single-player blockbuster Death Stranding 2: On The Beach
+        (Kojima Productions), showcasing the type of game PS Studios are known
+        for. Both were commercially (especially HD2) and critically acclaimed.
+      </Paragraph>
+      <Paragraph>
+        However, XDev partnerships have also resulted in some of the worst PS
+        Studios offerings on PS5. Destruction AllStars (Lucid Games), Firewall
+        Ultra (First Contact Entertainment), and Lost Soul Aside (Ultizero
+        Games) all received a 62 on Metacritic, making them the lowest-rated PS
+        Studio games on PS5. DSA and Firewall are also now unpurchasable as
+        they&#39;re in the stages of shutting down.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        XDev has shipped 11 PS5 games, with 2024 marking their highest yearly
-        output at 4. In 2025, XDev shipped 2 - Death Stranding 2: On the Beach
-        in June, which earned an excellent 89 on Metacritic, and Lost Soul Aside
-        in August, which received a 62.
+        2024 was XDev&#39;s highest yearly output at 4, but there&#39;s only 1
+        for 2026 - Marvel Tōkon: Fighting Souls (Arc System Works), which scored
+        X on Metacritic. Tōkon also shipped on PC, something XDev will be
+        increasingly known for given what Sony recently announced.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -61,7 +74,11 @@ function XDevpage(): JSX.Element {
             In terms of 2026 and beyond, XDev&#39;s nature makes it hard to
             predict future games/genres. After all, no one saw Marvel Tōkon
             coming. Based on positive playtest feedback, this 2D fighter should
-            at least start XDEV&#39;s 2026 off well.
+            at least start XDEV&#39;s 2026 off well. Additionally, as of 2026,
+            XDev are the only PS Studios whose singe-player titles will come to
+            PC going forward, whereas titles from other studios, like Saros and
+            Ghost of Yotei from Housemarque and Sucker Punch respectively, will
+            remain exclusive to PS5.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

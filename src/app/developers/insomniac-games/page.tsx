@@ -48,7 +48,7 @@ function InsomniacGamesPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         While these games were also commercial failures, Insomniac still
         continued working with Sony, and coincidentally, it was back home where
-        they&#39;d found solid ground again. Insomniac released Marvel&#39;s
+        they found solid ground again. Insomniac released Marvel&#39;s
         Spider-Man on PS4 in 2018 as a second-party title, which became not only
         their highest-selling game ever, but also the highest-selling
         Sony-published PS4 title. With this unprecedented success, it&#39;s no
@@ -59,29 +59,32 @@ function InsomniacGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Most agree that Insomniac has been the most important PlayStation
-            studio this generation because they&#39;ve already shipped 4 games
-            to critical and commercial success. Furthermore, even though
-            Insomniac has already produced more PS5 games than most developers
-            will this entire generation, we know their next game - Marvel&#39;s
-            Wolverine.
+            Considering Insomniac&#39;s output in previous generations, it&#39;s
+            no surprise that they&#39;ve already shipped 4 PS5 games to critical
+            and commercial success, 3 of which were new experiences.
+            Furthermore, even though Insomniac have already released more PS5
+            titles than most developers will in the entire generation, their
+            next game, Marvel&#39;s Wolverine, is also nearing release.
           </Paragraph>
           <Paragraph>
-            Unfortunately, Wolverine has had a troubled development since its
-            2021 CG announcement trailer, such as losing the original directors.
-            Insomniac also suffered a huge leak, which led to playable
-            development builds online and the early reveal that Wolverine is the
-            start of a PlayStation-exclusive trilogy centered around X-Men. Yet
-            despite these issues, Wolverine was finally shown off again in 2025
-            with a gameplay deep dive that was very well received.
+            Unfortunately, even though the 2021 CG announcement trailer stated a
+            2024 release, Wolverine has had a troubled development. Not only did
+            it lose its original directors, but the infamous Insomniac leak also
+            resulted in playable development builds online and the early reveal
+            that Wolverine is the start of a PlayStation-exclusive X-Men
+            trilogy. Fortunately, despite these issues, Wolverine was first
+            shown off again in 2025 with a gameplay deep dive, followed by many
+            more trailers and other marketing beats that have all been
+            positively received.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Whatever happens with Wolverine though, with 4 great games already
-            released on PS5, Insomniac have more than pulled their weight this
-            generation as they&#39;ve been the most active and important
-            developer for PS Studios. Considering the problems at other prestige
-            studios like Naughty Dog, they&#39;ll also likely hold these titles
-            when the PS5 is said and done.
+            Even if Wolverine underperforms critically and/or commercially,
+            though, with 4 great games already released on PS5, Insomniac have
+            more than pulled their weight in a generation where PS Studios are
+            primarily known for too few releases due to PlayStation&#39;s
+            overall failed live-service execution. By simply being there for
+            gamers with consistent releases, they&#39;ve been the most important
+            and arguably the best PS Studios developer of the PS5 generation.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

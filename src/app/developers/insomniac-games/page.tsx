@@ -29,23 +29,31 @@ function InsomniacGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1994, this California-based studio was developing PlayStation
-        exclusives decades before being acquired by Sony in 2019. These include
-        the Spyro the Dragon (PS1) and Resistance (PS3) trilogies, as well as
-        Ratchet & Clank on PS2/3. All funded by Sony.
+        Founded in 1994, Insomniac Games are a California-based studio that were
+        already developing PlayStation exclusives as a second-party developer
+        decades before Sony acquired them in 2019. Examples include the Spyro
+        the Dragon and Resistance trilogies on PS1 and PS3 respectively, as well
+        as over 10 Ratchet & Clank titles across PS2-PS4.
       </Paragraph>
       <Paragraph>
-        In the early 2010s, the latter two IPs started to flounder. This caused
-        Insomniac to branch out and develop games for EA (2013&#39;s Fuse), Xbox
-        (2014&#39;s Sunset Overdrive), Oculus (2016&#39;s Edge of Nowhere) etc.
-        While these also weren&#39;t commercial hits, Insomniac found solid
-        ground again with 2018&#39;s Spider-Man on PS4. It&#39;s not only their
-        highest selling game ever, but it&#39;s also the highest selling
-        first-party PS4 title.
+        Unfortunately, by the early 2010s, Insomniac were over a decade removed
+        from their last Spyro title, Resistance had been overshadowed by Call of
+        Duty (as most FPS IPs were), and R&C titles were experiencing declining
+        sales due to IP fatigue from the volume of entries. This downward
+        trajectory caused Insomniac to adopt a spreadshot approach, developing
+        games for a variety of publishers and platforms. The most notable titles
+        from this branching out were 2013&#39;s Fuse for EA, 2014&#39;s Sunset
+        Overdrive for Xbox, and 2016&#39;s Edge of Nowhere for Oculus VR.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        With this unprecedented success, it&#39;s no surprise that Sony acquired
-        Insomniac just a year later to start work on their many PS5 games.
+        While these games were also commercial failures, Insomniac still
+        continued working with Sony, and coincidentally, it was back home where
+        they&#39;d found solid ground again. Insomniac released Marvel&#39;s
+        Spider-Man on PS4 in 2018 as a second-party title, which became not only
+        their highest-selling game ever, but also the highest-selling
+        Sony-published PS4 title. With this unprecedented success, it&#39;s no
+        surprise that Sony acquired Insomniac just a year later to start work on
+        their many PS5 games.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

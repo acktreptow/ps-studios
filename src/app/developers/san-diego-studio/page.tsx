@@ -29,23 +29,26 @@ function SanDiegoStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2001, San Diego Studio is the first-party developer
-        responsible for the MLB: The Show series. The annualized baseball game
-        is the only IP they work on, meaning 6 MLB games have shipped on PS5
-        since 2021. All released in the same March/April timeframe.
+        Founded in 2001, San Diego Studio are the first-party studio responsible
+        for the MLB: The Show series. This annualized baseball IP, which began
+        in 2006 for PS2 and PSP, is the only series they work on, meaning 6 MLB
+        games have shipped on PS5 since 2021, with all of them releasing in the
+        same March/April window.
       </Paragraph>
       <Paragraph>
-        This generation has been different though. Despite San Diego Studio
-        being first-party, the MLB has forced PlayStation to develop an Xbox
-        port since MLB 21 and Nintendo port since MLB 22, or they would lose the
-        license. Furthermore, Xbox initially went around Sony and secured a deal
-        with the MLB to have the game arrive day 1 into their Gamepass
-        subscription.
+        While SDS continue to exclusively work on the series and have provided
+        the incremental changes expected out of all yearly sports IPs, the PS5
+        generation has significantly transformed the business side. Firstly,
+        despite SDS being a PS Studio, MLB have forced PlayStation to
+        develop an Xbox port since MLB 21 and a Nintendo port since MLB 22, or
+        they would lose the license.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Even with the enforced monumental changes to the IP&#39;s business model
-        though, clearly, they were the better alternative to losing the license
-        as San Diego Studio has continued to release MLB The Show annually.
+        Additionally, Xbox also initially went around Sony and secured a deal
+        with MLB to have the game launch day 1 into their Game Pass
+        subscription. However, while these enforced changes to the IP&#39;s
+        business model could&#39;ve easily led to some major disruptions, they
+        instead provided some very surprising answers.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -54,7 +57,9 @@ function SanDiegoStudioPage(): JSX.Element {
             San Diego Studio hasn&#39;t been the primary developer of a non-MLB
             game since 2016&#39;s Kill Strain. Rising development costs coupled
             with external economic factors then further make it unlikely that
-            SDS would work on something new, even if they wanted to.
+            SDS would work on something new, even if they wanted to. Clearly,
+            they were the better alternative to losing the license as SDS have
+            continued to release MLB titles annually.
           </Paragraph>
           <Paragraph>
             We&#39;re now also 6 games into the multiplatform strategy and

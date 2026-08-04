@@ -73,18 +73,18 @@ function InsomniacGamesPage(): JSX.Element {
             resulted in playable development builds online and the early reveal
             that Wolverine is the start of a PlayStation-exclusive X-Men
             trilogy. Fortunately, despite these issues, Wolverine was first
-            shown off again in 2025 with a gameplay deep dive, followed by many
-            more trailers and other marketing beats that have all been
+            shown off again in 2025 with a gameplay deep dive, followed by
+            more trailers and other marketing that have been
             positively received.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Even if Wolverine underperforms critically and/or commercially,
             though, with 4 great games already released on PS5, Insomniac have
             more than pulled their weight in a generation where PS Studios are
-            primarily known for too few releases due to PlayStation&#39;s
-            overall failed live-service execution. By simply being there for
-            gamers with consistent releases, they&#39;ve been the most important
-            and arguably the best PS Studios developer of the PS5 generation.
+            primarily known for too few releases due to PlayStation&#39;s failed
+            live-service execution. By simply being there for gamers with
+            consistent releases, they&#39;ve been the most important and
+            arguably best PS Studios developer of the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

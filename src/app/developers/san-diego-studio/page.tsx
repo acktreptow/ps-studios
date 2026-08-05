@@ -53,34 +53,36 @@ function SanDiegoStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            SDS is now 6 games into its enforced multiplatform pivot, and
-            nothing has materially changed. The mere fact that series has
-            continued on suggests coming to Xbox and Nintendo platforms
-            didn&#39;t syphon enough players away from PlayStation to the point
-            where continuing on with the IP was unviable.
+            SDS are now 6 games into their enforced multiplatform pivot, but
+            nothing has materially changed. This alone suggests coming to Xbox
+            and Nintendo platforms didn&#39;t siphon enough players away from
+            PS4/PS5 to the point where continuing with the IP was unviable. MLB
+            was even the first yearly sports IP to drop last-gen consoles, which
+            suggests that Sony weren&#39;t worried that PS4 owners would move to
+            a different platform ecosystem.
           </Paragraph>
           <Paragraph>
-            Perhaps more importantly, Xbox didn&#39;t renew the Game Pass
-            contract past MLB 24, suggesting its ability to move PS5 owners to
-            the Xbox subscription didn&#39;t happen in numbers for either Sony
-            or Microsoft to care about. This was objectively a huge win for
-            Sony. Going into Gamepass was the aspect that could&#39;ve shifted
-            SDS&#39;s focus. Instead, it proved that being &#39;free in Game
-            Pass&#39; just wasn&#39;t good enough to move players over.
+            Xbox also didn&#39;t renew the Game Pass contract past MLB 24,
+            suggesting its ability to move PS5 owners to the Xbox subscription
+            didn&#39;t happen in sufficient numbers for Microsoft to care. This
+            was objectively a huge win for Sony, as it proved that being
+            &#39;free in Game Pass&#39; just wasn&#39;t good enough for players
+            to migrate to another platform ecosystem.
           </Paragraph>
           <Paragraph>
-            SDS also haven&#39;t been the primary developer of a non-MLB game
-            since 2016&#39;s Kill Strain on PS4. Given it&#39;s been over a
-            decade, coupled with rising development costs and other external
-            economic factors, it&#39;s therefore very unlikely that SDS would
-            work on something new, even if they wanted to.
+            Regarding SDS potentially developing non-MLB titles, they
+            haven&#39;t done so as the primary developer since 2016&#39;s Kill
+            Strain on PS4. It&#39;s therefore very unlikely that SDS are working
+            on something new, even if they wanted to, especially when also
+            considering rising development costs and other external economic
+            factors.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            It&#39;s therefore likely SDS just continues with MLB: The Show for
-            the foreseeable future, with the big change for MLB 27 likely being
-            a move from Switch to Switch 2. SDS also launched a standalone F2P
-            mobile version in 2026 that&#39;s worth keeping an eye on, but
-            ultimately will have no impact on SDS&#39;s PS5 plans.
+            Consequently, SDS will likely just continue with MLB during the PS5
+            era, with the next big change likely being a move from Switch to
+            Switch 2 for MLB 27. SDS also recently launched a standalone F2P
+            mobile version worth keeping an eye on, but it won&#39;t impact
+            their PS5 plans.
           </Paragraph>
         </div>
         <div>

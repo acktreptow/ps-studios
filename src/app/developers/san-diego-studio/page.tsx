@@ -70,10 +70,9 @@ function SanDiegoStudioPage(): JSX.Element {
             to migrate to another platform ecosystem.
           </Paragraph>
           <Paragraph>
-            Regarding SDS potentially developing non-MLB titles, they
-            haven&#39;t done so as the primary developer since 2016&#39;s Kill
-            Strain on PS4. It&#39;s therefore very unlikely that SDS are working
-            on something new, even if they wanted to, especially when also
+            Regarding SDS developing non-MLB titles, they haven&#39;t done so as
+            the lead developer since 2016&#39;s Kill Strain on PS4. It&#39;s
+            therefore unlikely that SDS are working on something new, especially
             considering rising development costs and other external economic
             factors.
           </Paragraph>

@@ -47,35 +47,43 @@ function DarkOutlawGamesPage(): JSX.Element {
       <Paragraph marginBottom={8}>
         As DO, Blundell&#39;s studio (Anthony has been self-employed since
         Deviation closed) was almost certainly creating the PS5 title Sony
-        wanted from Deviation. However, the studio was closed in
-        March 2026, before they even announced the name of their game.
+        wanted from Deviation. However, the studio was closed in March 2026,
+        before they even announced the name of their game.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Little is known about Dark Outlaw as it&#39;s only been briefly
-            discussed by Blundell. They&#39;re hiring up, while slowly ramping
-            development and prioritizing team cohesion so the best ideas
-            naturally rise. Considering the history, DO&#39;s title will likely
-            resemble Deviation&#39;s game, which based on its sci-fi concept art
-            and leaked gameplay, was inspired by COD Zombies, but in 3rd-person.
+            The news of Bluepoint&#39;s closure 2 months prior was accompanied
+            by a lengthy internal message from PS Studios boss Hermen Hulst
+            explaining the reasons why. However, for DO, Sony couldn&#39;t even
+            dignify them with that, instead simply stating it was for
+            &#39;long-term sustainability&#39; when pressed for comment.
           </Paragraph>
           <Paragraph>
-            While it&#39;s a GaaS, there&#39;s also still reasons for optimism
-            compared to other Sony live-service titles. DO&#39;s title is still
-            years away, which is advantageous because Sony can analyze mistakes
-            made with upcoming live-services like Fairgames/Marathon and not
-            repeat them. Blundell also has time to reflect on Deviation and
-            ensure those mistakes aren&#39;t repeated.
+            Blundell, however, appeared on a livestream the day after news
+            broke, stating that they weren&#39;t developing a live-service and
+            that they were making &#39;a hell of a game&#39;. If it were similar
+            to Deviation&#39;s game (Draconis, which had gameplay leaked), it
+            was a third-person co-op shooter where the player would fight
+            ooze-like enemies. According to Blundell, the 20-person studio were
+            also blindsided by the closure, and attributed it to a shift in
+            Sony&#39;s strategy.
+          </Paragraph>
+          <Paragraph>
+            Unfortunately, of the 9 PS Studios closed during the PS5 era,
+            DO&#39;s closure is the hardest to analyze due to their brief 1-year
+            history, combined with how little Sony mentioned them. Based on the
+            above comments, though, it&#39;s likely Sony are now increasingly
+            reluctant to invest in the multiplayer space given how many failures
+            they&#39;ve had on PS5, and are content with cutting their losses
+            before any multiplayer project can become a Concord-level mistake.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Blundell&#39;s recent co-op-focused career with COD Zombies also
-            compares favorably to the competitive games just mentioned.
-            Helldivers 2&#39;s adamance on no PvP was a big reason why it&#39;s
-            Sony&#39;s one live-service that succeeded. So the more DO leans
-            into the co-op blueprint, the stronger the chance their game has to
-            succeed.
+            Regardless, Blundell&#39;s situation dating back to Deviation&#39;s
+            2021 announcement is yet another significant blemish, and further
+            evidence that Sony&#39;s acquisition spree and willingness to pursue
+            so much inorganic growth during the PS5 era was a mistake.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

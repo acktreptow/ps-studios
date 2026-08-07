@@ -61,26 +61,32 @@ function SantaMonicaStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            While Santa Monica Studio supported Ragnarök with a PS5 Pro patch, a
-            PC port and a free post-game expansion, we don&#39;t know their next
-            game. Currently, rumors predict a new IP, a Ragnarök sequel, a God
-            of War 2005 remake, or a smaller game like SM: Miles Morales.
-            There&#39;s also rumors of an external Metroidvania GoW game that
-            SMS is supervising.
+            God of War Laufey is SMS&#39;s next title and releases in February
+            2027. Its initial 20-minute gameplay trailer was praised for its
+            fast combat and enemies spanning numerous mythologies. However,
+            it&#39;s the first mainline title where series protagonist Kratos is
+            not the main character. Instead, it features his wife, the titular
+            Laufey. This pivot, while narratively interesting, could limit
+            sales, as some GoW fans may not want to play as anyone other than
+            Kratos.
           </Paragraph>
           <Paragraph>
-            Many of these rumors could pan out to be true, but regardless of
-            which comes first, there&#39;s no reason to be skeptical. For many,
-            SMS&#39;s last two games were so critically acclaimed that they
-            usurped Naughty Dog as PlayStation&#39;s premier studio.
+            SMS are also remaking the original Greek trilogy with a TBD release.
+            While this news pleased long-time fans, unlike the PS3/Vita
+            remasters, they&#39;re full remakes. This comes with its own
+            challenges, as SMS must carefully modernize more old-school aspects,
+            like camera perspective, difficulty spikes, and overt violent and
+            sexual themes, in a way that doesn&#39;t feel censored.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Ragnarök shipped 3.5 years ago though, so we&#39;ll hopefully see
-            something in 2026, but it&#39;s not alarming if not. For one,
-            they&#39;re also overseeing the Amazon TV show, which is ramping up
-            with casting and pre-production. There&#39;s also many PS Studios
-            that must showcase their games before SMS feels any pressure
-            anyways.
+            Regardless of how these pan out, though, Ragnarök&#39;s
+            record-breaking achievements ensure that SMS&#39;s work on PS5 will
+            be positively viewed. At the very least, SMS will ship multiple PS5
+            titles, which is more than most PS Studios, including similarly
+            prestigious studios like Naughty Dog, can say. SMS&#39;s track
+            record also suggests these new games will at least be good, which
+            combined with Ragnarök, places them with Insomniac as two of the
+            best PS Studios of the PS5 era.
           </Paragraph>
         </div>
         <div>

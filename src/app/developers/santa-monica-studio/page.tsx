@@ -29,19 +29,33 @@ function SantaMonicaStudioPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Santa Monica Studio is an LA-based developer founded in 1999. Outside of
-        its first game, 2001&#39;s Kinetica, the studio has exclusively
-        developed for its popular God of War series. They did act as a
-        publisher/incubator for indie game studios, like 2012&#39;s Journey from
-        Thathamecompany, but this initiative was discontinued in 2016.
+        Santa Monica Studio are an LA-based developer founded in 1999. Outside
+        of their first game, 2001&#39;s Kinetica for PS2, they&#39;ve
+        exclusively developed titles for their critically and commercially
+        acclaimed God of War series. SMS did, however, attempt to create a
+        sci-fi IP in the mid-2010s, but it was cancelled in 2014. They also
+        acted as a publisher and incubator for indie game studios, including
+        renowned titles like 2012&#39;s Journey from Thatgamecompany, but this
+        initiative was discontinued in 2016.
+      </Paragraph>
+      <Paragraph>
+        So far, SMS have shipped 1 PS5 title as lead developer, 2022&#39;s God
+        of War Ragnarök, which has already vaulted them into the top tier of PS
+        Studios on PS5. Critically, Ragnarök is tied with Astro Bot as the
+        highest-rated first-party PS5 game on Metacritic at 94. Commercially,
+        the cross-gen title is also the fastest-selling first-party game in
+        PlayStation history, with 5.1 million units in its first week, and has
+        now surpassed 15 million copies sold. SMS also supported Ragnarök with
+        PS5 Pro enhancements, a PC port, and the free Valhalla roguelite
+        epilogue.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        SMS&#39;s most recent game is 2022&#39;s God of War Ragnarök - a
-        cross-gen title and the only game they&#39;ve shipped on PS5. Like the
-        2018 semi-reboot, it was a monumental critical and commercial success.
-        It ties Astro Bot as the highest-rated first-party game PS5 game on
-        Metacritic with 94 and is the fastest-selling first-party game in
-        PlayStation history, selling 5.1 million units in its first week.
+        SMS&#39;s other released PS5 title is 2026&#39;s God of War Sons of
+        Sparta, a 2D action-platformer primarily developed by Mega Cat Studios,
+        meaning the shadow-dropped title&#39;s mixed response lands mostly on
+        them. Instead, SMS have been working on 2 mainline GoW projects.
+        However, both bring something new to the IP, and therefore could easily
+        disrupt the studio&#39;s fortunes if not executed correctly.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

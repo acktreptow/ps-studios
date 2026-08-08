@@ -28,18 +28,31 @@ function NixxesSoftwarePage(): JSX.Element {
       <Paragraph>
         Founded in 1999, Nixxes Software are a Utrecht-based studio that have
         occupied a unique position within PS Studios since being acquired in
-        2021. All other first-party studios develop PS5 games either as the lead
-        studio (Naughty Dog, Insomniac, etc.), or as a support studio (Valkyrie
-        Entertainment, Malaysia Studio, etc.). However, Nixxes were acquired, at
-        least initially, to develop the PC ports of these PS5 titles.
+        2021. Whereas other first-party studios develop PS5 games either as the
+        lead studio (Naughty Dog, Insomniac, etc.), or as a support studio
+        (Valkyrie Entertainment, Malaysia Studio, etc.), Nixxes were acquired,
+        at least initially, to develop the PC ports of these PS5 titles.
       </Paragraph>
-      <Paragraph marginBottom={8}>
+      <Paragraph>
         Since 2022, Nixxes have ported 9 PS5 titles to PC, with the most recent
         being the positively received Death Stranding 2: On the Beach in March
         2026. However, while DS2 was the standard PC port expected out of
-        Nixxes, Sony announced a monumental strategic pivot in May 2026 that has
-        fundamentally changed their business model and role within PS Studios
-        going forward.
+        Nixxes, it was also the last.
+      </Paragraph>
+      <Paragraph>
+        In May 2026, Sony told their studios that going forward, their
+        single-player titles will no longer come to PC. Therefore, both Saros
+        (Housemarque) and Ghost of Yōtei (Sucker Punch) will remain PS5
+        exclusive, even though their predecessors came to PC and it was widely
+        expected that Nixxes were already working on ports.
+      </Paragraph>
+      <Paragraph marginBottom={8}>
+        This is a monumental strategic pivot that&#39;s fundamentally changed
+        Nixxes&#39;s business model and role within PS Studios going forward.
+        Yet, Sony&#39;s reasoning for doing so was simple - the amount of money
+        made on PC wasn&#39;t enough to offset any potential dilution of the PS5
+        ecosystem. Fortunately, even with their main reason for acquisition
+        gone, Nixxes still have 4 paths going forward.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

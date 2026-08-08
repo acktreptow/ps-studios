@@ -26,21 +26,20 @@ function NixxesSoftwarePage(): JSX.Element {
       <DeveloperButton developer="Nixxes" urlPath="https://nixxes.com" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1999, this Utrecht-based studio holds a unique position
-        within PlayStation Studios since being acquired in 2021. Unlike other
-        first-party studios who develop new PS5 games, remakes, and remasters,
-        Nixxes primarily develop the PC ports of them. Since 2022, Nixxes has
-        ported 8 titles to PC. As they aren&#39;t new games that need a long
-        marketing cycle, the time from announcement to release is very short.
-        It&#39;s therefore hard to predict the next port, but it&#39;s likely
-        Ghost of Yōtei.
+        Founded in 1999, Nixxes Software are a Utrecht-based studio that have
+        occupied a unique position within PS Studios since being acquired in
+        2021. All other first-party studios develop PS5 games either as the lead
+        studio (Naughty Dog, Insomniac, etc.), or as a support studio (Valkyrie
+        Entertainment, Malaysia Studio, etc.). However, Nixxes were acquired, at
+        least initially, to develop the PC ports of these PS5 titles.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        However, Nixxes&#39;s last 2 ports have stood out to PS5 players. The
-        2024 remaster of 2017&#39;s Horizon Zero Dawn, which launched
-        simultaneously on PS5 and PC, and the 2025 Xbox Series X|S port of
-        Helldivers 2, both represent firsts for Nixxes that signal how Sony
-        potentially uses them in its increasingly multiplatform future.
+        Since 2022, Nixxes have ported 9 PS5 titles to PC, with the most recent
+        being the positively received Death Stranding 2: On the Beach in March
+        2026. However, while DS2 was the standard PC port expected out of
+        Nixxes, Sony announced a monumental strategic pivot in May 2026 that has
+        fundamentally changed their business model and role within PS Studios
+        going forward.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
@@ -74,6 +73,18 @@ function NixxesSoftwarePage(): JSX.Element {
             For PS5 owners, this older PS3/4 titles and live-service Xbox
             approach would be a best case scenario while Nixxes wait for more
             PS5 games to come out and to port to PC.
+          </Paragraph>{" "}
+          <Paragraph marginBottom={8}>
+            it may well be the last one as 2 of their recent projects represent
+            uncharted territory for the studio. In 2024, Nixxes fully remade
+            2017&#39;s Horizon Zero Dawn, which launched simultaneously on PS5
+            and PC. This was not only their first remake, but it was also
+            Nixxes&#39;s first PS5 title. Then in 2025, Nixxes ported Sony&#39;s
+            most successful live-service, Helldivers 2, to their rival Xbox
+            Series X|S consoles. These projects both represent firsts for Nixxes
+            that signal how Sony potentially uses them going forward, especially
+            since Sony&#39;s 2026 announcement that fundamentally changed
+            Nixxes&#39;s business model and role within PS Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

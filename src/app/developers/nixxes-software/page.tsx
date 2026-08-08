@@ -36,20 +36,16 @@ function NixxesSoftwarePage(): JSX.Element {
       <Paragraph>
         Since 2022, Nixxes have ported 9 PS5 titles to PC, with the most recent
         being the positively received Death Stranding 2: On the Beach in March
-        2026. However, while DS2 was the standard PC port expected out of
-        Nixxes, it was also the last.
-      </Paragraph>
-      <Paragraph>
-        In May 2026, Sony told their studios that going forward, their
-        single-player titles will no longer come to PC. Therefore, both Saros
-        (Housemarque) and Ghost of Yōtei (Sucker Punch) will remain PS5
-        exclusive, even though their predecessors came to PC and it was widely
+        2026. However, in May 2026, Sony told their studios that going forward,
+        their single-player titles will no longer come to PC. Therefore, both
+        Saros (Housemarque) and Ghost of Yōtei (Sucker Punch) will remain PS5
+        exclusive - even though their predecessors came to PC and it was widely
         expected that Nixxes were already working on ports.
       </Paragraph>
       <Paragraph marginBottom={8}>
         This is a monumental strategic pivot that&#39;s fundamentally changed
         Nixxes&#39;s business model and role within PS Studios going forward.
-        Yet, Sony&#39;s reasoning for doing so was simple - the amount of money
+        Yet, Sony&#39;s reasoning for the shift was simple - the amount of money
         made on PC wasn&#39;t enough to offset any potential dilution of the PS5
         ecosystem. Fortunately, even with their main reason for acquisition
         gone, Nixxes still have 4 paths going forward.

@@ -66,17 +66,17 @@ function BluepointGamesPage(): JSX.Element {
             While Bluepoint found great success with remasters and remakes,
             studio leadership surprisingly wanted to develop original content
             after DS. At first, this was as support for Santa Monica
-            Studios&#39;s God of War Ragnarok. However, once it shipped in 2022,
+            Studio&#39;s God of War Ragnarok. However, once it shipped in 2022,
             Bluepoint&#39;s ambitions combined with Sony&#39;s live-service push
-            resulted in the worst case scenario - a live-service God of War.
+            resulted in the worst-case scenario - a live-service God of War.
           </Paragraph>
           <Paragraph>
-            It doesn&#39;t take a genius to know a 70-person remake studio of
-            mostly engineering and art expertise, not design, shouldn&#39;t lead
-            a live-service. They hadn&#39;t even made their own single-player
-            title since 2006&#39;s Blast Factor on PS3. So naturally, after 3-4
-            years wasted struggling to make progress, Sony did the inevitable
-            and canceled the live-service in January 2025.
+            It doesn&#39;t take a genius to know a 70-person remake studio that
+            mostly had expertise in art and engineering, not design,
+            shouldn&#39;t have led a live-service. They hadn&#39;t even made
+            their own single-player title since 2006&#39;s Blast Factor. So
+            naturally, after 3-4 years wasted struggling to make progress, Sony
+            did the inevitable and canceled the live-service in January 2025.
           </Paragraph>
           <Paragraph>
             Bluepoint leadership then continued to show their incompetence over
@@ -87,30 +87,30 @@ function BluepointGamesPage(): JSX.Element {
             plays great on PS5.
           </Paragraph>
           <Paragraph>
-            Bluepoint also pitched original games based around other PS Studios
-            IP, like a Ghost of Tsushima spinoff. This was never happening, as
-            studios like Sucker Punch didn&#39;t want to dedicate significant
-            resources to another team&#39;s project when they were facing
-            financial pressure themselves in such a poor economic climate. Sony,
-            rightfully, turned these bad pitches down, and closed Bluepoint in
-            February 2026, after a year of no greenlit projects.
+            Bluepoint also pitched new games around other PS Studios IP, like a
+            Ghost of Tsushima spinoff. This was never happening, as studios like
+            Sucker Punch didn&#39;t want to dedicate significant resources to
+            another team&#39;s project when they were facing financial pressure
+            themselves in such a poor economic climate. Sony rightfully turned
+            these bad pitches down, and closed Bluepoint in February 2026, after
+            a year of no greenlit projects.
           </Paragraph>
           <Paragraph>
             Given Bluepoint&#39;s track record up until DS, it was
-            understandable for people to blame Sony when news of their closure
-            first broke. However, as new information came to light, it&#39;s
-            clear that Bluepoint&#39;s failures were mostly on their own
-            leadership. More specifically, their ambition to pivot to original
-            content by any means necessary. Sony, however, must still take some
-            blame, as they should&#39;ve never even entertained a live-service
-            from a studio they just acquired for their remakes.
+            understandable to blame Sony when news of their closure first broke.
+            However, as new information came to light, it&#39;s clear that
+            Bluepoint&#39;s failures were mostly on their own leadership&#39;s
+            ambition to pivot to original content by any means necessary. Sony,
+            however, are still partly to blame, as they should&#39;ve never even
+            entertained a live-service project from a studio they had just
+            acquired for their remakes.
           </Paragraph>
           <Paragraph marginBottom={8}>
             At the very least, the PS5 got 1 great Bluepoint remake with DS.
             However, the train wreck after was so severe that this masterpiece
             will be more of a footnote in their history. That alone is the
-            biggest indictment of just how bad Bluepoint and Sony leadership
-            ruined the studio in the PS5 era.
+            biggest indictment of how badly Bluepoint and Sony leadership
+            mismanaged the studio in the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

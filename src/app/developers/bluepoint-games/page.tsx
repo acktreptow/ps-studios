@@ -121,7 +121,7 @@ function BluepointGamesPage(): JSX.Element {
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="demons-souls" className="block text-center mb-8">
-            Bend&#39;s Cancelled God Of War
+            Bluepoint&#39;s Cancelled God Of War
           </label>
         </div>
       </ImageSection>

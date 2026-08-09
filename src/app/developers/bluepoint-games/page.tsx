@@ -63,30 +63,54 @@ function BluepointGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            After Demon&#39;s Souls, all we knew was that Bluepoint&#39;s next
-            game would be original content. In 2025, we found out this meant a
-            now-cancelled live-service God of War set back in Greece.
+            While Bluepoint found great success with remasters and remakes,
+            studio leadership surprisingly wanted to develop original content
+            after DS. At first, this was as support for Santa Monica
+            Studios&#39;s God of War Ragnarok. However, once it shipped in 2022,
+            Bluepoint&#39;s ambitions combined with Sony&#39;s live-service push
+            resulted in the worst case scenario - a live-service God of War.
           </Paragraph>
           <Paragraph>
-            Considering Bluepoint&#39;s history, most were disappointed with the
-            pivot to original content. However, the industry was shocked that
-            they were not only co-opted into Sony&#39;s poorly executed
-            live-service push, but that 4 years were now wasted on a cancelled
-            game.
+            It doesn&#39;t take a genius to know a 70-person remake studio of
+            mostly engineering and art expertise, not design, shouldn&#39;t lead
+            a live-service. They hadn&#39;t even made their own single-player
+            title since 2006&#39;s Blast Factor on PS3. So naturally, after 3-4
+            years wasted struggling to make progress, Sony did the inevitable
+            and canceled the live-service in January 2025.
           </Paragraph>
           <Paragraph>
-            Bluepoint is currently hiring for a 3rd-person melee action game,
-            but it&#39;s unknown whether it&#39;s a live-service. Even if
-            it&#39;s a remake (the best scenario), it&#39;s likely a PS6 title
-            due to how long game development takes. Therefore outside of launch,
-            Bluepoint has been wasted on PS5. A worst case outcome, easily
-            avoided if not for ex-PlayStation leadership incompetence.
+            Bluepoint leadership then continued to show their incompetence over
+            the next year. While they did pitch a Bloodborne remake that
+            couldn&#39;t be greenlit for reasons out of their control, their
+            other pitches made no sense. For example, they pitched a PS5 version
+            of their PS4 Shadow of the Colossus remake that already looks and
+            plays great on PS5.
+          </Paragraph>
+          <Paragraph>
+            Bluepoint also pitched original games based around other PS Studios
+            IP, like a Ghost of Tsushima spinoff. This was never happening, as
+            studios like Sucker Punch didn&#39;t want to dedicate significant
+            resources to another team&#39;s project when they were facing
+            financial pressure themselves in such a poor economic climate. Sony,
+            rightfully, turned these bad pitches down, and closed Bluepoint in
+            February 2026, after a year of no greenlit projects.
+          </Paragraph>
+          <Paragraph>
+            Given Bluepoint&#39;s track record up until DS, it was
+            understandable for people to blame Sony when news of their closure
+            first broke. However, as new information came to light, it&#39;s
+            clear that Bluepoint&#39;s failures were mostly on their own
+            leadership. More specifically, their ambition to pivot to original
+            content by any means necessary. Sony, however, must still take some
+            blame, as they should&#39;ve never even entertained a live-service
+            from a studio they just acquired for their remakes.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            If there was one PS Studio that should never have entered the
-            live-service arena, it&#39;s Bluepoint. It doesn&#39;t take a genius
-            to not greenlight a live-service game out of a remake studio.
-            Hopefully, Sony&#39;s new leadership clears that very low bar.
+            At the very least, the PS5 got 1 great Bluepoint remake with DS.
+            However, the train wreck after was so severe that this masterpiece
+            will be more of a footnote in their history. That alone is the
+            biggest indictment of just how bad Bluepoint and Sony leadership
+            ruined the studio in the PS5 era.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

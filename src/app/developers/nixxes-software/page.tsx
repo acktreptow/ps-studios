@@ -54,46 +54,45 @@ function NixxesSoftwarePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Nixxes is important for PlayStation as PC is the easiest way Sony
-            finds growth outside of the console market. And with PS5 games that
-            need a PC port drying up, Nixxes are in a unique position to go back
-            to the PS3/PS4 catalogue and reintroduce classics to modern
-            audiences.
+            For PS5 owners, turning Nixxes into a remake studio is the best
+            path. Not only does it make up for Bluepoint&#39;s closure, but
+            Nixxes already proved they&#39;re good at it with 2024&#39;s Horizon
+            Zero Dawn Remastered (which was closer to a remake, with re-recorded
+            dialogue, improved AI, new assets, etc.). Remaking IPs that really
+            need it, like inFamous and Killzone, is also an easy, relatively
+            cheap, hearts-and-minds play that gives Sony some needed goodwill
+            going into PS6.
           </Paragraph>
           <Paragraph>
-            This is more likely than Nixxes simultaneously releasing PC ports of
-            singleplayer PS5 titles, which is hard for an external studio to do
-            so effectively unless the PS5 version is held until the PC port is
-            ready. That&#39;s even if Sony wants day 1 PC ports. Regardless,
-            it&#39;s nice to see Nixxes ship on PS5 and HZD&#39;s great
-            reception bodes well for other ports from this era - especially
-            pre-PS4 Pro titles.
+            Nixxes could also help with PC ports of XDev&#39;s single-player
+            titles, such as Kena: Scars of Kosmora (Ember Lab), as second-party
+            titles are exempt from the May 2026 pivot. However, this is the
+            least likely scenario. XDev titles already have a port baked into
+            development because PC plans are finalized when contracts are
+            signed, so they don&#39;t need Nixxes to achieve this.
           </Paragraph>
           <Paragraph>
-            For Xbox, HD2 sales will determine just how far Sony delves into the
-            ecosystem. Though I predict Nixxes will now help port future
-            live-services like Fairgames to Xbox on day 1. While this internally
-            delays live-services, it&#39;s a worthy tradeoff as they thrive on
-            the biggest audience at launch. However, singleplayer titles
-            won&#39;t be ported at all - at least until the next, more PC-like
-            Xbox.
+            As Sony is still releasing all their live services on PC, Nixxes
+            could also help here. They could even port upcoming ones like
+            Fairgames (Haven Studios) to Xbox, just as they successfully did
+            with Helldivers 2. Given how unpopular Sony&#39;s live-service
+            execution has been, it makes sense to ship on as many platforms as
+            possible for the best (though still small) chance of success.
+          </Paragraph>
+          <Paragraph>
+            The final path is the most boring one, but unfortunately, also the
+            most likely - Nixxes turn into a support studio. This work isn&#39;t
+            even new to them, as they supported Housemarque on Saros&#39;s art
+            and gameplay, and Firewalk on the ill-fated Concord. It&#39;s
+            therefore a natural transition for Nixxes to assist upcoming AAA PS
+            Studios titles, where their technical expertise is most useful.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            For PS5 owners, this older PS3/4 titles and live-service Xbox
-            approach would be a best case scenario while Nixxes wait for more
-            PS5 games to come out and to port to PC.
-          </Paragraph>{" "}
-          <Paragraph marginBottom={8}>
-            it may well be the last one as 2 of their recent projects represent
-            uncharted territory for the studio. In 2024, Nixxes fully remade
-            2017&#39;s Horizon Zero Dawn, which launched simultaneously on PS5
-            and PC. This was not only their first remake, but it was also
-            Nixxes&#39;s first PS5 title. Then in 2025, Nixxes ported Sony&#39;s
-            most successful live-service, Helldivers 2, to their rival Xbox
-            Series X|S consoles. These projects both represent firsts for Nixxes
-            that signal how Sony potentially uses them going forward, especially
-            since Sony&#39;s 2026 announcement that fundamentally changed
-            Nixxes&#39;s business model and role within PS Studios.
+            Fortunately, with so many paths, Nixxes should be in no danger of
+            closure. It&#39;s also likely that they pursue multiple ways
+            forward. Hopefully, Sony&#39;s move away from PC, though
+            understandable, at least results in Nixxes becoming more of a remake
+            studio than a support studio.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

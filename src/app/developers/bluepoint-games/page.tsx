@@ -29,17 +29,35 @@ function BluepointGamesPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 2006, this Texas-based developer is known for its excellent
-        remasters and remakes. Even before Sony acquired Bluepoint in 2021, they
-        mostly worked on PlayStation IP. For example, remastering God of War 1/2
-        for PS3 and Uncharted 1-3 for PS4. Their largest multiplatform remaster
-        was the Metal Gear Solid HD Collection for PS3 and Xbox 360.
+        Founded in 2006, Bluepoint Games were a Texas-based developer known for
+        their excellent remasters and remakes of primarily PlayStation IP.
+        Examples include the God of War Collection (PS2&#39;s GoW 1 and 2) for
+        PS3, and Uncharted: The Nathan Drake Collection (PS3&#39;s Uncharted
+        1-3) for PS4. In fact, Konami&#39;s Metal Gear Solid HD Collection for
+        PS3 and 360 was Bluepoint&#39;s only multiplatform release.
+      </Paragraph>
+      <Paragraph>
+        After these successful remasters, Bluepoint scaled up to full remakes
+        for their final 2 projects. Both the PS4 remake of PS2&#39;s Shadow of
+        the Colossus in 2018 and the remake of PS3&#39;s Demon&#39;s Souls for
+        PS5&#39;s launch were even more critically acclaimed.
+      </Paragraph>
+      <Paragraph>
+        With Bluepoint now considered the industry&#39;s premier remake studio,
+        Sony, unsurprisingly, announced they had acquired them just 10 months
+        after DS shipped. This was an exciting time. What PlayStation IP would
+        be remade next from such a prestigious, now first-party studio, with all
+        the advantages that come with it? After all, DS was the highest-rated
+        PS5 launch title with a 92 on Metacritic and is still considered one of
+        the best-looking games of the PS5 generation, 6 years later.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Bluepoint&#39;s most recent projects have been full remakes, such as
-        2018&#39;s Shadow of the Colossus on PS4, and 2020&#39;s Demon&#39;s
-        Souls - a highly praised PS5 launch title that&#39;s still considered
-        one of the best-looking games of the generation.
+        Unfortunately, DS would be Bluepoint&#39;s final game as Sony
+        surprisingly closed the studio in 2026. While the hardcore PS5 base were
+        crestfallen as Bluepoint were thought to be immune from this fate, the
+        information that inevitably leaked in the fallout of their closure is
+        the real story. No one could&#39;ve possibly predicted the train wreck
+        Bluepoint had become post-acquisition.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

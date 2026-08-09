@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import horizonCOTM from "../../../../public/images/dev-pages/horizon-call-of-the-mountain.png";
+import untilDawn2 from "../../../../public/images/dev-pages/until-dawn-2.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -54,9 +54,9 @@ function FirespritePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite a turbulent start under Sony, Firesprite announced Until
-            Dawn 2 in 2026, for a 2027 launch. It&#39;s a standalone sequel
-            to 2015&#39;s Until Dawn on PS4, which is still highly regarded as
-            one of the best in the interactive horror genre. However, while
+            Dawn 2 in 2026, for a 2027 launch. It&#39;s a standalone sequel to
+            2015&#39;s Until Dawn on PS4, which is still highly regarded as one
+            of the best in the interactive horror genre. However, while
             UD2&#39;s announcement was mostly well received outside of its
             character models, Firesprite face an uphill battle.
           </Paragraph>
@@ -72,13 +72,13 @@ function FirespritePage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={horizonCOTM}
-            alt="Horizon Call of the Mountain opening"
-            id="horizon-cotm"
+            src={untilDawn2}
+            alt="Until Dawn 2 Tropical Setting"
+            id="until-dawn-2"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="horizon-cotm" className="block text-center mb-8">
-            Horizon COTM On PSVR2
+          <label htmlFor="until-dawn-2" className="block text-center mb-8">
+            Until Dawn 2&#39;s Tropical Setting
           </label>
         </div>
       </ImageSection>

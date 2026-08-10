@@ -9,7 +9,6 @@ import DeveloperButton from "../../components/DeveloperButton";
 import SubTitle from "../../components/SubTitle";
 import Paragraph from "../../components/Paragraph";
 import ImageSection from "../../components/ImageSection";
-import List from "../../components/List";
 import GamesSection from "../../components/GamesSection";
 
 export const metadata: Metadata = {

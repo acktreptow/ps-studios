@@ -116,12 +116,12 @@ function BluepointGamesPage(): JSX.Element {
         <div className="md:flex md:flex-col md:items-center">
           <Image
             src={Gow}
-            alt="Leaked screenshot of Bend&#39;s cancelled God Of War"
-            id="demons-souls"
+            alt="Leaked screenshot of Bluepoint&#39;s cancelled God Of War"
+            id="god-of-war"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="demons-souls" className="block text-center mb-8">
-            Bluepoint&#39;s Cancelled God Of War
+          <label htmlFor="god-of-war" className="block text-center mb-8">
+            Bluepoint&#39;s GOW Live-Service
           </label>
         </div>
       </ImageSection>

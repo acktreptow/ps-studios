@@ -3,6 +3,7 @@ import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
 import gotTrophies from "../../../../public/images/dev-pages/got-trophies.png";
+import hzdComparison from "../../../../public/images/dev-pages/hzd-comparison.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -97,8 +98,8 @@ function NixxesSoftwarePage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={gotTrophies}
-            alt="Ghost of Tsushima PC trophies overlay"
+            src={hzdComparison}
+            alt="HZD original and remastered graphics comparison"
             id="got-trophies"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
@@ -106,7 +107,7 @@ function NixxesSoftwarePage(): JSX.Element {
             htmlFor="got-trophies"
             className="block text-center mb-8 md:ml-5"
           >
-            PlayStation&#39;s PC Overlay For Trophies
+            HZD Is Nixxes&#39;s Only PS5 Title
           </label>
         </div>
       </ImageSection>

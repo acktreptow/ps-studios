@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import ds2OTB from "../../../../public/images/dev-pages/ds2.png";
+import tokon from "../../../../public/images/dev-pages/tokon.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -90,13 +90,13 @@ function XDevpage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={ds2OTB}
-            alt="Death Standing 2: On The Beach&#39;s Norman Reedus"
+            src={tokon}
+            alt="Marvel Tōkon: Fighting Souls art design"
             id="d2s-otb"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label htmlFor="d2s-otb" className="block text-center mb-8 md:ml-5">
-            XDev&#39;s Death Stranding 2: On The Beach
+            Tōkon&#39;s Well-Received Art Design
           </label>
         </div>
       </ImageSection>

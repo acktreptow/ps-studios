@@ -2,7 +2,6 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import gotTrophies from "../../../../public/images/dev-pages/got-trophies.png";
 import hzdComparison from "../../../../public/images/dev-pages/hzd-comparison.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
@@ -100,11 +99,11 @@ function NixxesSoftwarePage(): JSX.Element {
           <Image
             src={hzdComparison}
             alt="HZD original and remastered graphics comparison"
-            id="got-trophies"
+            id="hzd-comparison"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
           <label
-            htmlFor="got-trophies"
+            htmlFor="hzd-comparison"
             className="block text-center mb-8 md:ml-5"
           >
             HZD Is Nixxes&#39;s Only PS5 Title

@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import gamesData from "../../data/games.json";
 import { Game } from "../../types/Game";
 import Image from "next/image";
-import burningShores from "../../../../public/images/dev-pages/burning-shores.png";
+import huntersGathering from "../../../../public/images/dev-pages/hunters-gathering.png";
 import Container from "../../components/Container";
 import Title from "../../components/Title";
 import DeveloperButton from "../../components/DeveloperButton";
@@ -80,13 +80,13 @@ function GuerrillaGamesPage(): JSX.Element {
         </div>
         <div className="md:flex md:flex-col md:items-center">
           <Image
-            src={burningShores}
-            alt="Horizon Burning Shores key art"
-            id="burning-shores"
+            src={huntersGathering}
+            alt="Horizon Hunters Gathering key art"
+            id="hunters-gathering"
             className="my-3 rounded-lg md:ml-5 md:max-w-xs lg:max-w-md"
           />
-          <label htmlFor="burning-shores" className="block text-center mb-8">
-            Horizon FW&#39;s DLC: Burning Shores
+          <label htmlFor="hunters-gathering" className="block text-center mb-8">
+            Hunters Gathering Cartoony Art Style
           </label>
         </div>
       </ImageSection>

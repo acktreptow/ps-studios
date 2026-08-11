@@ -178,6 +178,7 @@ function StatsPage(): JSX.Element {
             </li>
             <li className="mb-1">
               Studios created internally: 9 (4 during the PS5 generation)
+              (italics denotes a closed studio)
             </li>
             <StatsList isNumbered={true}>
               <li>Polyphony Digital (Tokyo, 1998)</li>
@@ -187,7 +188,9 @@ function StatsPage(): JSX.Element {
               <li>San Diego Studio (California, 2001)</li>
               <li>Malaysia Studio (Kuala Lumpur, 2020)</li>
               <li>Team Asobi (Tokyo, 2021)</li>
-              <li>Dark Outlaw Games (Los Angeles (CA), 2025)</li>
+              <li className="italic">
+                Dark Outlaw Games (Los Angeles (CA), 2025)
+              </li>
               <li>teamLFG (Bellevue (WA), 2025)</li>
             </StatsList>
             <li className="mb-1">
@@ -200,7 +203,9 @@ function StatsPage(): JSX.Element {
               <li className="italic">
                 Bluepoint Games (Austin, TX - September, 2021)
               </li>
-              <li>Fabrik Games (Manchester, UK - September, 2021)</li>
+              <li className="italic">
+                Fabrik Games (Manchester, UK - September, 2021)
+              </li>
               <li>Firesprite (Liverpool, UK - September, 2021)</li>
               <li>Valkyrie Entertainment (Seattle, WA - December, 2021)</li>
               <li>Bungie (Bellevue, WA - January, 2022)</li>

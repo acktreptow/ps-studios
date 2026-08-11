@@ -139,16 +139,18 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 13</li>
+            <li>Unreleased announced PS5 games: 10</li>
             <li>
-              Most recent released PS5 game: God of War: Sons of Sparta
-              (February 12, 2026)
+              Most recent released PS5 game: Marvel Tōkon: Fighting Souls (Arc
+              System Works via XDev) - August 6, 2026
             </li>
             <li>
-              Next PS5 game: MLB The Show 26 (San Diego Studio) - March 17, 2026
+              Most recent released PS5 game (not including XDev): Saros
+              (Housemarque) - April 30, 2026
             </li>
             <li>
-              Next PS5 game (not MLB): Saros (Housemarque) - April 30, 2026
+              Next PS5 game: Marvel&#39;s Wolverine (Insomniac Games) -
+              September 15, 2026
             </li>
           </StatsList>
           <h3

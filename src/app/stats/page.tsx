@@ -132,9 +132,9 @@ function StatsPage(): JSX.Element {
             <li>
               Released PS5 games that are on Nintendo: 7 (2 excluding MLB 22-26)
             </li>
-            <li>Released PS5 games that are on PC: 24</li>
+            <li>Released PS5 games that are on PC: 29</li>
+            <li>Released PS5 games games that originated on PS4: 11</li>
             <li>Released PS5 games that originated on PS3: 2</li>
-            <li>Released PS5 games games that originated on PS4: 10</li>
             <li>
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)

@@ -351,15 +351,17 @@ function StatsPage(): JSX.Element {
               </li>
             </StatsList>
             <li className="mb-1">
-              Studios most likely to be acquired (in rough order of likeliness,
-              all of which are increasingly unlikely as time goes on):
+              Potential developers that could be acquired (though still
+              unlikely):
             </li>
             <StatsList isNumbered={true}>
-              <li>Ember Lab (Kena: Bridge of Spirits)</li>
-              <li>Arc System Works (Guilty Gear, BlazeBlue, Marvel Tōkon)</li>
-              <li>SHIFT UP (Stellar Blade)</li>
-              <li>Arrowhead Game Studios (Helldivers 2)</li>
-              <li>Ultizero Games (Lost Soul Aside)</li>
+              <li>
+                Ember Lab (Kena: Bridge of Spirits, Kena: Scars of Kosmora)
+              </li>
+              <li>
+                Arc System Works (Guilty Gear, BlazeBlue, Marvel Tōkon: Fighting
+                Souls)
+              </li>
             </StatsList>
           </StatsList>
           <span id="psplusstats">

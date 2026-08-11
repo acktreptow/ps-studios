@@ -217,21 +217,22 @@ function StatsPage(): JSX.Element {
                 Firewalk Studios (Bellevue, WA - April, 2023)
               </li>
             </StatsList>
-            <li className="m-1">Studios closed since PS5 release year: 7</li>
+            <li className="m-1">Studios closed since PS5 release year: 9</li>
             <StatsList isNumbered={true}>
               <li>Manchester Studio (Manchester, UK - February, 2020)</li>
               <li>Japan Studio (Tokyo - April, 2021)</li>
               <li>Pixelopus (San Mateo, CA - May, 2023)</li>
               <li>London Studio (London, UK - February, 2024)</li>
+              <li>Fabrik Games (Manchester, UK - Approx March, 2024)</li>
               <li>Firewalk Studios (Bellevue, WA - October, 2024)</li>
               <li>
                 Neon Koi (Berlin, Germany & Helsinki, Finland - October, 2024)
               </li>
               <li>Bluepoint Games (Austin, TX - February, 2026)</li>
+              <li>Dark Outlaw Games (Los Angeles, CA - March, 2026)</li>
             </StatsList>
-            <li className="mb-1">Support studios: 7</li>
+            <li className="mb-1">Support studios: 6</li>
             <StatsList isNumbered={true}>
-              <li>Fabrik Games</li>
               <li>Malaysia Studio</li>
               <li>Nixxes Software</li>
               <li>San Mateo Studio</li>

@@ -361,15 +361,6 @@ function StatsPage(): JSX.Element {
               <li>Arrowhead Game Studios (Helldivers 2)</li>
               <li>Ultizero Games (Lost Soul Aside)</li>
             </StatsList>
-            <li className="mb-1">
-              Publishers most likely to be acquire (all of which are incredibly
-              unlikely)
-            </li>
-            <StatsList isNumbered={true}>
-              <li>Nexon (The First Descendant, The First Beserker)</li>
-              <li>MiHoYo (Genshin Impact, Zenless Zone Zero)</li>
-              <li>Square Enix (Final Fantasy, Dragon Quest)</li>
-            </StatsList>
           </StatsList>
           <span id="psplusstats">
             <SubTitle subtitle="PS+ Premium Stats" marginBottom={5} />

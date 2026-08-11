@@ -242,13 +242,14 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>
               Studio with most new releases: Insomniac Games - 4 (excluding San
-              Diego Studio&#39;s 5 MLB The Show games){" "}
+              Diego Studio&#39;s 6 MLB The Show titles & XDev&#39;s 13
+              second-party titles){" "}
             </li>
             <li>Studio with most remasters/remakes: Naughty Dog (3)</li>
-            <li>Number of studios with 0 released PS5 games: 9</li>
+            <li>Number of studios with 0 released PS5 games: 7</li>
             <li>
-              Number of studios who have announced their debut PS5 which has yet
-              to release: 3 (Dark Outlaw, Haven, teamLFG)
+              Number of studios who have announced their debut PS5 title which
+              has yet to release: 1 (teamLFG)
             </li>
             <li>
               Studio with the longest duration since their last release

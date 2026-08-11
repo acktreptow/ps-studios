@@ -34,7 +34,7 @@ function StatsPage(): JSX.Element {
       <SubTitle subtitle="Overview" />
       <Paragraph>
         This page provides variety of stats across the 30 first-party developers
-        (21 current and 9 former) that were part of PS Studios during the PS5
+        (21 current and 9 former) that make up PS Studios during the PS5
         generation. Below is a list of each studio and their number of{" "}
         <span className="font-bold">released</span> PS5 games:
       </Paragraph>
@@ -86,7 +86,7 @@ function StatsPage(): JSX.Element {
             Game Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Total PS5 games released: 43</li>
+            <li>Total PS5 games released: 46</li>
             <li>
               Game(s) with highest Metacritic score: God of War: Ragnarök (Sony
               Santa Monica) & Astro Bot (Team Asobi) - 94

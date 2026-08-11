@@ -104,13 +104,13 @@ function StatsPage(): JSX.Element {
               Entertainment), and Lost Soul Aside (Ultizero Games) - 62
             </li>
             <li>
-              Most awarded PS5 Game: Team Asobi&#39;s Astro Bot with 195,
+              Most awarded PS5 Game: Astro Bot (Team Asobi) - Approx 195,
               including Game of the Year at The Game Awards 2024
             </li>
             <li>
-              Most awarded PS5 Game (including remasters/remakes): Naughty
-              Dog&#39;s The Last of Us Part II with 320 including Game of the
-              Year at The Game Awards 2020 (includes awards from PS4 version)
+              Most awarded PS5 Game (including remasters/remakes): The Last of
+              Us Part II (Naughty Dog) - Approx 320, including Game of the Year
+              at The Game Awards 2020 (awards from PS4 version)
             </li>
             <li>Total 90+ PS5 games on Metacritic: 5</li>
             <li>Total 80-89 PS5 games on Metacritic: 22</li>

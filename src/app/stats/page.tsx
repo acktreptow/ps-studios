@@ -164,12 +164,12 @@ function StatsPage(): JSX.Element {
             <li>Studios in NA: 12 (excluding XDev US)</li>
             <li>Studios in EU: 5 (excluding XDev Liverpool)</li>
             <li>Studios in Asia: 3 (excluding XDev Tokyo)</li>
-            <li>PS5 games from NA studios: 30</li>
-            <li>PS5 games from EU studios: 12</li>
+            <li>PS5 games from NA studios: 32</li>
+            <li>PS5 games from EU studios: 13</li>
             <li>PS5 games from Asia studios: 11</li>
-            <li>Released PS5 games from NA studios: 20</li>
-            <li>Released PS5 games from EU studios: 10</li>
-            <li>Released PS5 games from Asia studios: 10</li>
+            <li>Released PS5 games from NA studios: 24</li>
+            <li>Released PS5 games from EU studios: 11</li>
+            <li>Released PS5 games from Asia studios: 11</li>
             <li>Oldest studio: Naughty Dog (founded 1984)</li>
             <li>Newest studio: teamLFG (founded May, 2025)</li>
             <li>First acquired studio: Bend Studio (2000)</li>

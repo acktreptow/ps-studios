@@ -109,13 +109,13 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Most awarded PS5 Game (including remasters/remakes): The Last of
-              Us Part II (Naughty Dog) - Approx 320, including Game of the Year
+              Us Part II (Naughty Dog) - Approx 326, including Game of the Year
               at The Game Awards 2020 (awards from PS4 version)
             </li>
             <li>Total 90+ PS5 games on Metacritic: 5</li>
-            <li>Total 80-89 PS5 games on Metacritic: 22</li>
-            <li>Total 70-79 PS5 games on Metacritic: 9</li>
-            <li>Total 60-69 PS5 games on Metacritic: 4</li>
+            <li>Total 80-89 PS5 games on Metacritic: 25</li>
+            <li>Total 70-79 PS5 games on Metacritic: 10</li>
+            <li>Total 60-69 PS5 games on Metacritic: 6</li>
             <li>Total 59- PS5 games on Metacritic: 0</li>
             <li>PS5 games released in 2020: 6</li>
             <li>PS5 games released in 2021: 8</li>

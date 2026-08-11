@@ -126,11 +126,11 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2026 so far: 5</li>
             <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
-              Released PS5 games that are on Xbox: 9 (4 excluding MLB The Show
-              21-25)
+              Released PS5 games that are on Xbox: 11 (5 excluding MLB The Show
+              21-26)
             </li>
             <li>
-              Released PS5 games that are on Nintendo: 6 (2 excluding MLB 22-25)
+              Released PS5 games that are on Nintendo: 7 (2 excluding MLB 22-26)
             </li>
             <li>Released PS5 games that are on PC: 24</li>
             <li>Released PS5 games that originated on PS3: 2</li>

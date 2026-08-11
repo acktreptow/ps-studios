@@ -121,9 +121,9 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2021: 8</li>
             <li>PS5 games released in 2022: 6</li>
             <li>PS5 games released in 2023: 4</li>
-            <li>PS5 games released in 2024: 10</li>
-            <li>PS5 games released in 2025: 5</li>
-            <li>PS5 games released in 2026 so far: 1</li>
+            <li>PS5 games released in 2024: 11</li>
+            <li>PS5 games released in 2025: 6</li>
+            <li>PS5 games released in 2026 so far: 5</li>
             <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
               Released PS5 games that are on Xbox: 9 (4 excluding MLB The Show

@@ -338,10 +338,10 @@ function StatsPage(): JSX.Element {
             </li>
             <StatsList isNumbered={true}>
               <li>Polyphony Digital</li>
+              <li>Team Asobi</li>
               <li>Sony Santa Monica</li>
               <li>Naughty Dog</li>
               <li>Guerrilla Games</li>
-              <li>Sucker Punch</li>
             </StatsList>
             <li className="mb-1">
               Potential developers that could be acquired (though still

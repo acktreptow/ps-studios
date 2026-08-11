@@ -88,15 +88,11 @@ function StatsPage(): JSX.Element {
           <StatsList isNumbered={false}>
             <li>Total PS5 games released: 46</li>
             <li>
-              Game(s) with highest Metacritic score: God of War: Ragnarök (Sony
-              Santa Monica) & Astro Bot (Team Asobi) - 94
+              Game(s) with highest Metacritic score: God of War: Ragnarök (Santa
+              Monica Studio) and Astro Bot (Team Asobi) - 94
             </li>
             <li>
               Game(s) with lowest Metacritic score: Concord (Firewalk) - 62
-            </li>
-            <li>
-              Game(s) with lowest Metacritic score (not Firewalk): God of War:
-              Sons of Sparta (Sony Santa Monica) - 64
             </li>
             <li>
               Game(s) with highest Metacritic score (second-party): Death
@@ -104,8 +100,8 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Game(s) with lowest Metacritic score (second-party): Destruction
-              AllStars (Lucid Games), Firewall Ultra (First Contact) & Lost Soul
-              Aside (Ultizero Games) - 62
+              AllStars (Lucid Games), Firewall Ultra (First Contact
+              Entertainment), and Lost Soul Aside (Ultizero Games) - 62
             </li>
             <li>
               Most awarded PS5 Game: Team Asobi&#39;s Astro Bot with 195,

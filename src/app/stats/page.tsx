@@ -181,17 +181,17 @@ function StatsPage(): JSX.Element {
               (italics denotes a closed studio)
             </li>
             <StatsList isNumbered={true}>
-              <li>Polyphony Digital (Tokyo, 1998)</li>
-              <li>San Mateo Studio (California, 1998)</li>
-              <li>Santa Monica Studio (California, 1999)</li>
-              <li>XDev ((Liverpool, 2000) & (Tokyo, 2020))</li>
-              <li>San Diego Studio (California, 2001)</li>
-              <li>Malaysia Studio (Kuala Lumpur, 2020)</li>
-              <li>Team Asobi (Tokyo, 2021)</li>
+              <li>Polyphony Digital (Tokyo, Japan - 1998)</li>
+              <li>San Mateo Studio (San Mateo, CA - 1998)</li>
+              <li>Santa Monica Studio (Santa Monica, CA - 1999)</li>
+              <li>XDev ((Liverpool, UK - 2000) & (Tokyo, Japan - 2020))</li>
+              <li>San Diego Studio (San Diego, CA - 2001)</li>
+              <li>Malaysia Studio (Kuala Lumpur, Malaysia - 2020)</li>
+              <li>Team Asobi (Tokyo, Japan - 2021)</li>
               <li className="italic">
-                Dark Outlaw Games (Los Angeles (CA), 2025)
+                Dark Outlaw Games (Los Angeles, CA - 2025)
               </li>
-              <li>teamLFG (Bellevue (WA), 2025)</li>
+              <li>teamLFG (Bellevue, WA - 2025)</li>
             </StatsList>
             <li className="mb-1">
               Studios acquired during the PS5 generation: 10 (italics denotes a

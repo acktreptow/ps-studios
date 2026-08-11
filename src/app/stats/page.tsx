@@ -343,13 +343,6 @@ function StatsPage(): JSX.Element {
               <li>Guerrilla Games</li>
               <li>Sucker Punch</li>
             </StatsList>
-            <li className="mb-1">Studios waiting to be announced:</li>
-            <StatsList isNumbered={true}>
-              <li>
-                The Southern California team who is working with Naughty
-                Dog/Visual Arts on the next Uncharted.
-              </li>
-            </StatsList>
             <li className="mb-1">
               Potential developers that could be acquired (though still
               unlikely):

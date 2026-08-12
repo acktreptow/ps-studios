@@ -407,7 +407,7 @@ function StatsPage(): JSX.Element {
               <li>Kingdom of Paradise (PSP)</li>
               <li>Rally Cross (PS1)</li>
               <li>Twisted Metal (PS1)</li>
-              <li>Twisted Metal World Tour (PS1)</li>
+              <li>Twisted Metal 2 (PS1)</li>
             </StatsList>
             <li>Japan Studio</li>
             <StatsList isNumbered={true}>

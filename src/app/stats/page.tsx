@@ -559,7 +559,7 @@ function StatsPage(): JSX.Element {
               Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)
             </li>
             <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
-            <li>MediEvil II (NA) / MediEvil 2 (EU/JP)</li>
+            <li>MediEvil II (NA) / MediEvil 2 (EU)</li>
             <li>Mister Mosquito (NA/JP) / Mr Moskeeto (EU)</li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>

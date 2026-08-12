@@ -413,7 +413,7 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Ape Escape (PS1)</li>
               <li>Ape Escape Academy (PSP)</li>
-              <li>Ape Escape Academy 2 (PSP)</li>
+              <li>Ape Academy 2 (PSP)</li>
               <li>Ape Escape: On the Loose (PSP)</li>
               <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Echochrome (PSP)</li>

@@ -282,12 +282,12 @@ function StatsPage(): JSX.Element {
               Lost Soul Aside - August, 2025)
             </li>
             <li>
-              Largest studio by headcount: Bungie (Approx 850+ even
-              post-layoffs)
+              Largest studios by headcount: Naughty Dog, Insomniac Games, and
+              Bungie (approx 400-500 employees)
             </li>
             <li>
-              Smallest studio by headcount: Most likely either Fabrik Games, San
-              Mateo Studio or Valkyrie Entertainment (fewer than 50)
+              Smallest studios by headcount: San Mateo Studio and Valkyrie
+              Entertainment (fewer than 50 employees)
             </li>
             <li>Studio with most Game of the Year Awards: Naughty Dog</li>
             <li>

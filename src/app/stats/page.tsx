@@ -567,6 +567,10 @@ function StatsPage(): JSX.Element {
               Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /
               Kaitou Sly Cooper (JP)
             </li>
+            <li>
+              Twisted Metal 2 (NA) / Twisted Metal: World Tour (EU) / Twisted
+              Metal EX (JP)
+            </li>
             <li>Wild Arms 2 (NA/EU) / Wild Arms: 2nd Ignition (JP)</li>
             <li>Wild Arms 4 (NA/EU) / Wild Arms the 4th Detonator (JP)</li>
           </StatsList>

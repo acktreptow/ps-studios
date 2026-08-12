@@ -553,10 +553,6 @@ function StatsPage(): JSX.Element {
             <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
             <li>Jet Moto 2 (NA) / Jet Rider 2 (EU) / Jet Moto &#39;98 (JP) </li>
             <li>
-              Jumping Flash! 2 (NA/EU) / Jumping Flash! 2: Big Trouble in Little
-              Muu (JP)
-            </li>
-            <li>
               Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)
             </li>
             <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>

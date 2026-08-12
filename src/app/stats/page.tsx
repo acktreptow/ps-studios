@@ -263,23 +263,23 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with the shortest duration since their last release
-              (excluding MLB The Show, XDev and remakes/remasters): Santa Monica
-              with God of War: Sons of Sparta (February, 2026)
+              (excluding XDev and remakes/remasters): Housemarque with Saros
+              (April, 2026)
             </li>
-            <li>
+            {/* <li>
               Studio with the shortest duration since their last release
               (excluding MLB The Show & XDev, but including remakes/remasters):
               Santa Monica with God of War: Sons of Sparta (February, 2026)
-            </li>
+            </li> */}
             <li>
               Studio with the shortest duration since their last release
-              (excluding MLB The Show, but including XDev & remakes/remasters):
-              Santa Monica with God of War: Sons of Sparta (February, 2026)
+              (including XDev & remakes/remasters): XDev (via Arc System Works)
+              with Marvel Tōkon: Fighting Souls (August, 2026)
             </li>
             <li>
-              Most recent second-party/XDev game: Ultizero Games with Lost Soul
-              Aside - August, 2025 (prev Kojima Productions with Death Stranding
-              2: On the Beach - June, 2025)
+              Most recent second-party/XDev game: Arc System Works with Marvel
+              Tōkon: Fighting Souls - August, 2026 (prev Ultizero Games with
+              Lost Soul Aside - August, 2025)
             </li>
             <li>
               Largest studio by headcount: Bungie (Approx 850+ even

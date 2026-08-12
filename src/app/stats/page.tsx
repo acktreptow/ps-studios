@@ -289,7 +289,10 @@ function StatsPage(): JSX.Element {
               Smallest studios by headcount: San Mateo Studio and Valkyrie
               Entertainment (fewer than 50 employees)
             </li>
-            <li>Studio with most Game of the Year Awards: Naughty Dog</li>
+            <li>
+              Studios with most Game of the Year Awards: Naughty Dog (approx
+              880), then Santa Monica Studio (approx 370)
+            </li>
             <li>
               Studio with highest average Metacritic score (including devs with
               just 1 game): Team Asobi (2 games averaging 88.5)

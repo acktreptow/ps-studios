@@ -431,6 +431,7 @@ function StatsPage(): JSX.Element {
               <li>The Legend of Dragoon (PS1)</li>
               <li>Wild Arms (PS1)</li>
               <li>Wild Arms 2 (PS1)</li>
+              <li>Wild Arms 4 (PS2)</li>
             </StatsList>
             <li>Psygnosis</li>
             <StatsList isNumbered={true}>

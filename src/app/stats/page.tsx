@@ -253,12 +253,12 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with the longest duration since their last release
-              (excluding remasters/remakes): Bungie with Destiny 2 (September,
-              2017)
+              (remasters/remakes don&#39;t count as release): Bend Studio with
+              Days Gone (April, 2019)
             </li>
             <li>
               Studio with the longest duration since their last release
-              (including remasters/remakes): Media Molecule with Dreams
+              (remasters/remakes count as release): Media Molecule with Dreams
               (February, 2020)
             </li>
             <li>

@@ -551,7 +551,7 @@ function StatsPage(): JSX.Element {
               2 (JP)
             </li>
             <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
-            <li>Jet Moto 2 (NA/JP) / Jet Rider 2 (EU)</li>
+            <li>Jet Moto 2 (NA) / Jet Rider 2 (EU) / Jet Moto &#39;98 (JP) </li>
             <li>
               Jumping Flash! 2 (NA/EU) / Jumping Flash! 2: Big Trouble in Little
               Muu (JP)

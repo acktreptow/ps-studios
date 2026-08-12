@@ -404,7 +404,7 @@ function StatsPage(): JSX.Element {
               <li>Cool Boarders (PS1)</li>
               <li>Jet Moto (PS1)</li>
               <li>Jet Moto 2 (PS1)</li>
-              <li>Key of Heaven (PSP)</li>
+              <li>Kingdom of Paradise (PSP)</li>
               <li>Rally Cross (PS1)</li>
               <li>Twisted Metal (PS1)</li>
               <li>Twisted Metal World Tour (PS1)</li>

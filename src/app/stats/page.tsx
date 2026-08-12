@@ -520,6 +520,7 @@ function StatsPage(): JSX.Element {
             legacy games that had multiple names depending on the region:
           </Paragraph>
           <StatsList isNumbered={true}>
+            <li>2Xtreme (NA/EU) / Street Games &#39;97 (JP)</li>
             <li>
               Ape Escape Academy (NA) / Ape Academy (EU) / Piposaru Academia:
               Dossari! Sarugē Daizenshū (JP)

@@ -421,7 +421,7 @@ function StatsPage(): JSX.Element {
               <li>Hot Shots Golf (PS1)</li>
               <li>Hot Shots Golf 2 (PS1)</li>
               <li>Intelligent Qube (PS1)</li>
-              <li>Intelligent Qube: Final (PS1)</li>
+              <li>I.Q Final (PS1)</li>
               <li>Jeanne d&#39;Arc (PSP)</li>
               <li>Jumping Flash! (PS1)</li>
               <li>LocoRoco Midnight Carnival (PSP)</li>
@@ -547,8 +547,8 @@ function StatsPage(): JSX.Element {
               (JP)
             </li>
             <li>
-              Hot Shots Golf 2 (NA) / Everybody&#39;s Golf 2 (EU) / Minna no Golf
-              2 (JP)
+              Hot Shots Golf 2 (NA) / Everybody&#39;s Golf 2 (EU) / Minna no
+              Golf 2 (JP)
             </li>
             <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
             <li>Jet Moto 2 (NA) / Jet Rider 2 (EU) / Jet Moto &#39;98 (JP) </li>

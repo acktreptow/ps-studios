@@ -496,17 +496,16 @@ function StatsPage(): JSX.Element {
           </h3>
           <StatsList isNumbered={false}>
             <li>
-              The majority of games that have been ported over from defunct
-              studios like BigBig and SCE Cambridge
+              The majority of games that have been ported over are from defunct
+              studios like BigBig and SCE Cambridge.
             </li>
             <li>
               When a game is chosen, Sony generally ports the whole series
-              before moving on. E.g. the Pursuit Force and Syphon Filter IP.
+              before moving on, such as the Pursuit Force and Syphon Filter IP.
             </li>
             <li>
               Even if a game didn&#39;t initially release in a region, they
-              still got the port. E.g. NA regions with the second Intelligent
-              Qube and Ape Academy 2.
+              still got the port. For example, Ape Academy 2 coming to NA.
             </li>
           </StatsList>
           <h3 className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide">

@@ -425,7 +425,7 @@ function StatsPage(): JSX.Element {
               <li>Jeanne d&#39;Arc (PSP)</li>
               <li>Jumping Flash! (PS1)</li>
               <li>LocoRoco Midnight Carnival (PSP)</li>
-              <li>No Heroes Allowed (PSP)</li>
+              <li>No Heroes Allowed! (PSP)</li>
               <li>Patapon 3 (PSP)</li>
               <li>Siren (PS2)</li>
               <li>The Legend of Dragoon (PS1)</li>
@@ -558,6 +558,10 @@ function StatsPage(): JSX.Element {
             <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>
             <li>MediEvil II (NA) / MediEvil 2 (EU)</li>
             <li>Mister Mosquito (NA/JP) / Mr Moskeeto (EU)</li>
+            <li>
+              No Heroes Allowed! (NA) / What Did I Do to Deserve This, My Lord?
+              3D (JP)
+            </li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>
               Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /

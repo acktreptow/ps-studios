@@ -418,8 +418,8 @@ function StatsPage(): JSX.Element {
               <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Echochrome (PSP)</li>
               <li>Echoshift (PSP)</li>
-              <li>Everybody&#39;s Golf (PS1)</li>
-              <li>Everybody&#39;s Golf 2 (PS1)</li>
+              <li>Hot Shots Golf (PS1)</li>
+              <li>Hot Shots Golf 2 (PS1)</li>
               <li>Intelligent Qube (PS1)</li>
               <li>Intelligent Qube: Final (PS1)</li>
               <li>Jeanne d&#39;Arc (PSP)</li>
@@ -547,7 +547,7 @@ function StatsPage(): JSX.Element {
               (JP)
             </li>
             <li>
-              Hot Shots Golf 2(NA) / Everybody&#39;s Golf 2(EU) / Minna no Golf
+              Hot Shots Golf 2 (NA) / Everybody&#39;s Golf 2 (EU) / Minna no Golf
               2 (JP)
             </li>
             <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>

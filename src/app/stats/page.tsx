@@ -561,12 +561,11 @@ function StatsPage(): JSX.Element {
             <li>MediEvil II (NA) / MediEvil 2 (EU)</li>
             <li>Mister Mosquito (NA) / Mr Moskeeto (EU) / Ka (JP)</li>
             <li>
-              No Heroes Allowed! (NA) / What Did I Do to Deserve This, My Lord?
-              3D (JP)
+              No Heroes Allowed! (NA) / Yuusha no Kuse ni Konamaiki da: 3D  (JP)
             </li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>
-              Sly Cooper and the Thievius Raccoonus (NA) / Sky Racoon (EU) /
+              Sly Cooper and the Thievius Raccoonus (NA) / Sly Racoon (EU) /
               Kaitou Sly Cooper (JP)
             </li>
             <li>

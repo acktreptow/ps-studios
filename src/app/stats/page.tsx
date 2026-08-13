@@ -414,7 +414,6 @@ function StatsPage(): JSX.Element {
               <li>Ape Escape Academy (PSP)</li>
               <li>Ape Academy 2 (PSP) (EU title)</li>
               <li>Ape Escape: On the Loose (PSP)</li>
-              <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Echochrome (PSP)</li>
               <li>Echoshift (PSP)</li>
               <li>Hot Shots Golf (PS1)</li>
@@ -430,7 +429,6 @@ function StatsPage(): JSX.Element {
               <li>The Legend of Dragoon (PS1)</li>
               <li>Wild Arms (PS1)</li>
               <li>Wild Arms 2 (PS1)</li>
-              <li>Wild Arms 4 (PS2)</li>
             </StatsList>
             <li>Psygnosis</li>
             <StatsList isNumbered={true}>
@@ -438,6 +436,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Second-party</li>
             <StatsList isNumbered={true}>
+              <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Cool Boarders (PS1)</li>
               <li>Daxter (PSP)</li>
               <li>Grandia (PS1)</li>
@@ -449,6 +448,7 @@ function StatsPage(): JSX.Element {
               <li>Ratchet & Clank: Size Matters (PSP)</li>
               <li>Secret Agent Clank (PSP)</li>
               <li>SkyGunner (PS2)</li>
+              <li>Wild Arms 4 (PS2)</li>
             </StatsList>
             <li>Incognito</li>
             <StatsList isNumbered={true}>

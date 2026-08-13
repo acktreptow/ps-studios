@@ -542,6 +542,7 @@ function StatsPage(): JSX.Element {
               Thousand-Year Promise (JP)
             </li>
             <li>Echochrome (NA/EU) / Mugen Kairou (JP)</li>
+            <li>Echoshift (NA/EU) / Jigen Kairou (JP)</li>
             <li>
               Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
             </li>

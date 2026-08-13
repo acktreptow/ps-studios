@@ -555,6 +555,10 @@ function StatsPage(): JSX.Element {
             <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
             <li>Jet Moto 2 (NA) / Jet Rider 2 (EU) / Jet Moto &#39;98 (JP) </li>
             <li>
+              Jumping Flash! (NA/EU) / Jumping Flash!: Aloha
+              Baron Funky Daisakusen no Maki (JP)
+            </li>
+            <li>
               Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)
             </li>
             <li>Kurushi Final: Mental Blocks (EU) / IQ: Final (JP)</li>

@@ -441,7 +441,7 @@ function StatsPage(): JSX.Element {
               <li>Daxter (PSP)</li>
               <li>Grandia (PS1)</li>
               <li>Gravity Crash Portable (PSP)</li>
-              <li>Jak & Daxter: The Lost Frontier (PSP)</li>
+              <li>Jak and Daxter: The Lost Frontier (PSP)</li>
               <li>Kingdom of Paradise (PSP)</li>
               <li>Mister Mosquito (PS2)</li>
               <li>PaRappa the Rapper 2 (PS2)</li>

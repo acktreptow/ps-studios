@@ -572,7 +572,7 @@ function StatsPage(): JSX.Element {
             <li>Pursuit Force (NA/EU) / Pursuit Force: Daitsuiseki (JP)</li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>
-              Sly Cooper and the Thievius Raccoonus (NA) / Sly Racoon (EU) /
+              Sly Cooper and the Thievius Raccoonus (NA) / Sly Raccoon (EU) /
               Kaitou Sly Cooper (JP)
             </li>
             <li>

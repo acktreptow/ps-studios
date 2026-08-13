@@ -364,12 +364,12 @@ function StatsPage(): JSX.Element {
             <SubTitle subtitle="PS+ Premium Stats" marginBottom={5} />
           </span>
           <Paragraph>
-            Many PS1/2/3/PSP games from PS Studios now have a PS5 port that are
-            included with a PS+ Premium subscription or bought a la carte.
-            Although it makes no sense to include them in other pages due to
-            their retro nature, there&#39;s still provide some interesting
-            facts. So, here they are under their NA title, unless they
-            weren&#39;t initially released the region, but this will be noted.
+            Many PS1, PS2, PS3, and PSP games from PS Studios now have a PS5
+            port that is included with a PS+ Premium subscription or bought à la
+            carte. Although it makes no sense to include them in other pages due
+            to their retro nature, they still provide some interesting facts.
+            So, here they are under their NA title, unless they weren&#39;t
+            initially released in the region, in which case this will be noted.
           </Paragraph>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
@@ -405,7 +405,6 @@ function StatsPage(): JSX.Element {
               <li>Cool Boarders (PS1)</li>
               <li>Jet Moto (PS1)</li>
               <li>Jet Moto 2 (PS1)</li>
-              <li>Kingdom of Paradise (PSP)</li>
               <li>Rally Cross (PS1)</li>
               <li>Twisted Metal (PS1)</li>
               <li>Twisted Metal 2 (PS1)</li>
@@ -444,6 +443,7 @@ function StatsPage(): JSX.Element {
               <li>Grandia (PS1)</li>
               <li>Gravity Crash Portable (PSP)</li>
               <li>Jak & Daxter: The Lost Frontier (PSP)</li>
+              <li>Kingdom of Paradise (PSP)</li>
               <li>Mister Mosquito (PS2)</li>
               <li>PaRappa the Rapper 2 (PS2)</li>
               <li>Ratchet & Clank: Size Matters (PSP)</li>

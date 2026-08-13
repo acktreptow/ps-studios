@@ -435,7 +435,7 @@ function StatsPage(): JSX.Element {
             <li>Second-party</li>
             <StatsList isNumbered={true}>
               <li>Ape Escape Academy (PSP)</li>
-              <li>Ape Academy 2 (PSP) (EU title)</li>
+              <li>Ape Academy 2 (PSP) (European title)</li>
               <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Cool Boarders (PS1)</li>
               <li>Daxter (PSP)</li>

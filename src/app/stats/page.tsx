@@ -411,8 +411,6 @@ function StatsPage(): JSX.Element {
             <li>Japan Studio</li>
             <StatsList isNumbered={true}>
               <li>Ape Escape (PS1)</li>
-              <li>Ape Escape Academy (PSP)</li>
-              <li>Ape Academy 2 (PSP) (EU title)</li>
               <li>Ape Escape: On the Loose (PSP)</li>
               <li>Echochrome (PSP)</li>
               <li>Echoshift (PSP)</li>
@@ -436,6 +434,8 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Second-party</li>
             <StatsList isNumbered={true}>
+              <li>Ape Escape Academy (PSP)</li>
+              <li>Ape Academy 2 (PSP) (EU title)</li>
               <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Cool Boarders (PS1)</li>
               <li>Daxter (PSP)</li>
@@ -561,7 +561,7 @@ function StatsPage(): JSX.Element {
             <li>MediEvil II (NA) / MediEvil 2 (EU)</li>
             <li>Mister Mosquito (NA) / Mr Moskeeto (EU) / Ka (JP)</li>
             <li>
-              No Heroes Allowed! (NA) / Yuusha no Kuse ni Konamaiki da: 3D  (JP)
+              No Heroes Allowed! (NA) / Yuusha no Kuse ni Konamaiki da: 3D (JP)
             </li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>

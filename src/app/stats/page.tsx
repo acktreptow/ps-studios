@@ -445,7 +445,6 @@ function StatsPage(): JSX.Element {
               <li>Jak & Daxter: The Lost Frontier (PSP)</li>
               <li>Mister Mosquito (PS2)</li>
               <li>PaRappa the Rapper 2 (PS2)</li>
-              <li>Pinball Heroes (PSP)</li>
               <li>Ratchet & Clank: Size Matters (PSP)</li>
               <li>Secret Agent Clank (PSP)</li>
               <li>SkyGunner (PS2)</li>
@@ -482,6 +481,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>San Diego Studio</li>
             <StatsList isNumbered={true}>
+              <li>Pinball Heroes (PSP)</li>
               <li>The Mark of Kri (PS2)</li>
             </StatsList>
             <li>Sucker Punch</li>

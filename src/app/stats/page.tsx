@@ -486,7 +486,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Sucker Punch</li>
             <StatsList isNumbered={true}>
-              <li>Sly Racoon (PS2)</li>
+              <li>Sly Cooper and the Thievius Raccoonus (PS2)</li>
               <li>Sly 2: Band of Thieves (PS2)</li>
               <li>Sly 3: Honor Among Thieves (PS2)</li>
             </StatsList>

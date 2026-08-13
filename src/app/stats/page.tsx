@@ -541,6 +541,7 @@ function StatsPage(): JSX.Element {
               Blade Dancer: Lineage of Light (NA/EU) / Blade Dancer:
               Thousand-Year Promise (JP)
             </li>
+            <li>Echochrome (NA/EU) / Mugen Kairou (JP)</li>
             <li>
               Intelligent Qube (NA) / Kurushi (EU) / I.Q: Intelligent Qube (JP)
             </li>
@@ -555,8 +556,8 @@ function StatsPage(): JSX.Element {
             <li>Jet Moto (NA/JP) / Jet Rider (EU)</li>
             <li>Jet Moto 2 (NA) / Jet Rider 2 (EU) / Jet Moto &#39;98 (JP) </li>
             <li>
-              Jumping Flash! (NA/EU) / Jumping Flash!: Aloha
-              Baron Funky Daisakusen no Maki (JP)
+              Jumping Flash! (NA/EU) / Jumping Flash!: Aloha Baron Funky
+              Daisakusen no Maki (JP)
             </li>
             <li>
               Kingdom of Paradise (NA) / Key of Heaven (EU) / Tenchi no Mon (JP)

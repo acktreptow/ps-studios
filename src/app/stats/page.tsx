@@ -367,8 +367,9 @@ function StatsPage(): JSX.Element {
             Many PS1/2/3/PSP games from PS Studios now have a PS5 port that are
             included with a PS+ Premium subscription or bought a la carte.
             Although it makes no sense to include them in other pages due to
-            their retro nature, there&#39;s still some interesting facts, so
-            here they are!
+            their retro nature, there&#39;s still provide some interesting
+            facts. So, here they are under their NA title, unless they
+            weren&#39;t initially released the region, but this will be noted.
           </Paragraph>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"
@@ -413,7 +414,7 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Ape Escape (PS1)</li>
               <li>Ape Escape Academy (PSP)</li>
-              <li>Ape Academy 2 (PSP)</li>
+              <li>Ape Academy 2 (PSP) (EU title)</li>
               <li>Ape Escape: On the Loose (PSP)</li>
               <li>Blade Dancer: Lineage of Light (PSP)</li>
               <li>Echochrome (PSP)</li>
@@ -421,7 +422,7 @@ function StatsPage(): JSX.Element {
               <li>Hot Shots Golf (PS1)</li>
               <li>Hot Shots Golf 2 (PS1)</li>
               <li>Intelligent Qube (PS1)</li>
-              <li>I.Q Final (PS1)</li>
+              <li>I.Q Final (PS1) (Japanese title)</li>
               <li>Jeanne d&#39;Arc (PSP)</li>
               <li>Jumping Flash! (PS1)</li>
               <li>LocoRoco Midnight Carnival (PSP)</li>

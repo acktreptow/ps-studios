@@ -312,23 +312,12 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with lowest average Metacritic score (including devs with
-              just 1 game): Firesprite (2 games averaging 75)
-            </li>
-            <li>
-              Studio with lowest average Metacritic score (excluding devs with
-              just 1 game): Firesprite (2 games averaging 75)
-            </li>
-            <li>
-              Studio with lowest average Metacritic score (including
-              remakes/remasters): Firesprite (2 games averaging 75)
-            </li>
-            <li>
-              Studio with lowest average Metacritic score (excluding
-              remakes/remasters): XDev (8 games averaging 74)
+              just 1 game): Firewalk Studios (1 game averaging 62)
             </li>
             <li className="mb-3">
-              Studio with lowest average Metacritic score (excluding
-              remakes/remasters/XDev): Firesprite (1 game averaging 79)
+              Studio with lowest average Metacritic score (excluding devs with
+              just 1 game): Firesprite (2 games averaging 75) or XDev (10 new
+              games averaging 74.8)
             </li>
             <li className="mb-1">
               Five studios most likely to close (in rough order of likeliness):

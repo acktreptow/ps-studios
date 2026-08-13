@@ -392,7 +392,7 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Ghosthunter (PS2)</li>
               <li>MediEvil (PS1)</li>
-              <li>MediEvil 2 (PS1)</li>
+              <li>MediEvil II (PS1)</li>
               <li>MediEvil: Resurrection (PSP)</li>
             </StatsList>
             <li>SCEE Studio Camden</li>

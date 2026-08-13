@@ -297,14 +297,18 @@ function StatsPage(): JSX.Element {
               Studio with highest average Metacritic score (including devs with
               just 1 game): Team Asobi (2 games averaging 88.5)
             </li>
-            <li>
+            {/* <li>
               Studio with highest average Metacritic score (excluding devs with
               just 1 game): Team Asobi (2 games averaging 88.5)
+            </li> */}
+            <li>
+              Studio with highest average Metacritic score (including devs with
+              just 1 remake/remaster): Bluepoint (1 remake averaging to 92)
             </li>
             <li>
               Studio with highest average Metacritic score (including
-              remakes/remasters): Naughty Dog (3 remasters/remakes averaging to
-              88.67)
+              remakes/remasters and excluding devs with just 1): Naughty Dog (3
+              remasters/remakes averaging to 88.67)
             </li>
             <li>
               Studio with lowest average Metacritic score (including devs with

@@ -402,7 +402,6 @@ function StatsPage(): JSX.Element {
             <li>Sony Interactive Studios America</li>
             <StatsList isNumbered={true}>
               <li>2Xtreme (PS1)</li>
-              <li>Cool Boarders (PS1)</li>
               <li>Jet Moto (PS1)</li>
               <li>Jet Moto 2 (PS1)</li>
               <li>Rally Cross (PS1)</li>
@@ -439,6 +438,7 @@ function StatsPage(): JSX.Element {
             </StatsList>
             <li>Second-party</li>
             <StatsList isNumbered={true}>
+              <li>Cool Boarders (PS1)</li>
               <li>Daxter (PSP)</li>
               <li>Grandia (PS1)</li>
               <li>Gravity Crash Portable (PSP)</li>

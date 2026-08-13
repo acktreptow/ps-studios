@@ -568,6 +568,7 @@ function StatsPage(): JSX.Element {
             <li>
               No Heroes Allowed! (NA) / Yuusha no Kuse ni Konamaiki da: 3D (JP)
             </li>
+            <li>Pursuit Force (NA/EU) / Pursuit Force: Daitsuiseki (JP)</li>
             <li>Siren (NA/JP) / Forbidden Siren (EU)</li>
             <li>
               Sly Cooper and the Thievius Raccoonus (NA) / Sly Racoon (EU) /

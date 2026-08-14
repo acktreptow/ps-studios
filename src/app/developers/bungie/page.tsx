@@ -61,29 +61,41 @@ function BungiePage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            Since 2023, there&#39;s been many rounds of layoffs, Sony taking
-            board seats, a migration of Bungie employees to other PS Studios,
-            and a whole incubation team spun out into teamLFG under PS Studios.
-            Essentially, Sony are recouping what they can from Bungie once it
-            was clear they wouldn&#39;t see ROI through their live-service
-            expertise. On PS5, Bungie has only released a port of Destiny 2 in
-            2020. Although its final main expansion, 2024&#39;s The Final Shape,
-            was critically acclaimed, its underwhelming sales led to the
-            hollowing out of Bungie and further integration into PS Studios.
+            Bungie continued to release D2 expansions after being acquired,
+            including 2024&#39;s critically acclaimed The Final Shape that
+            excellently ended the main narrative. However, starting with
+            2023&#39;s Lightfall, all yearly expansions sold well below
+            expectations. By 2026, Sony had enough and announced D2&#39;s final
+            major content update, then laid off most of the team.
           </Paragraph>
           <Paragraph>
-            Bungie also revealed Marathon, a live-service extraction shooter, in
-            2023. It took until March 2025 to be showcased, and was delayed from
-            September 2025 to March 2026 following tepid playtest opinion and a
-            stolen art scandal.
+            Bungie also launched a second live-service called Marathon in 2026.
+            This PvP extraction FPS also received critical acclaim despite
+            pre-launch issues such as a stolen art scandal. However, it too has
+            severely underperformed, to the point where it has roughly 10% of
+            D2&#39;s Steam player base, months after its final update. While
+            Bungie are experimenting with more player-friendly PvE modes, this
+            hasn&#39;t turned around Marathon&#39;s fortunes.
+          </Paragraph>
+          <Paragraph>
+            With 2 live services not making enough money to justify Bungie&#39;s
+            $3.6 billion acquisition, Sony are taking action to recoup what
+            they can. This includes halving Bungie&#39;s headcount via rounds of
+            layoffs and taking hundreds of millions in impairment losses. Sony
+            are also forcing Bungie&#39;s integration into PS Studios to exert
+            more control by taking board seats and spinning out Bungie&#39;s 1
+            promising game into their own studio called teamLFG under PS
+            Studios.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            To call Marathon important for Bungie is an understatement. For them
-            to keep any autonomy, it must do well to justify the $3.6 billion
-            acquisition. However, its post-reveal issues and subsequent delay
-            makes this outcome increasingly less likely, resulting in further
-            changes to Bungie as Sony recoups as much as possible from the
-            failed acquisition.
+            Sony spent billions on Bungie for their live-service expertise to
+            flourish in that market. Instead, Sony are helping Bungie simply
+            survive, which isn&#39;t even assured as they have no title in
+            active development. This indictment alone makes Bungie the biggest
+            failure of the PS5 era, including the 9 PS Studios Sony straight up
+            closed, as their total losses, even factoring in the hundreds of
+            millions lost on Firewalk, don&#39;t come close to what Sony burned
+            with Bungie.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

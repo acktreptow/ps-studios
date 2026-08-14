@@ -27,47 +27,49 @@ function BungiePage(): JSX.Element {
       <DeveloperButton developer="Bungie" urlPath="https://www.bungie.net" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Founded in 1991, this Washington-based developer is the most unique
-        first-party studio for a variety of reasons:
+        Founded in 1991, Bungie are a Washington-based studio with a unique
+        history. They were part of PS Studios&#39; main rival, Microsoft
+        Studios, for most of the 2000s and created Xbox&#39;s flagship IP, Halo.
+        Then in the 2010s, they worked with Activision on the Destiny IP,
+        releasing 2 titles and many expansions until 2019. Coincidentally,
+        Activision was then the company Microsoft announced its intention to
+        acquire in 2022.
       </Paragraph>
-      <List>
-        <li>
-          Microsoft used to own Bungie when they created Xbox&#39;s flagship IP
-          - Halo.
-        </li>
-        <li>
-          Sony acquired Bungie in 2022, but they&#39;re the only first-party
-          developer not in PS Studios. They&#39;re an independent Sony
-          subsidiary.
-        </li>
-        <li>
-          Bungie is the only first-party developer who can port their games to
-          competing platforms like Xbox.
-        </li>
-      </List>
       <Paragraph>
-        Why does Bungie have more freedom than PS Studios? Desperation. Sony saw
-        the money live-services like Destiny were making, but had no in-house
-        knowledge to make their own. For Bungie to sell, Sony overpaid at $3.6
-        billion and accepted most terms. They were meant to advise on Sony&#39;s
-        other live-service titles while raking in revenue from Destiny 2, which
-        has severely underperformed post-acquisition.
+        2022 was also an important year for Bungie, as that was when Sony
+        acquired them. Yet, Bungie&#39;s uniqueness continued, as they&#39;re
+        the only first-party studio not under PS Studios. Instead, they&#39;re
+        an independent Sony subsidiary. Bungie are also the only first-party
+        developer who can ship their games to all competing platforms such as
+        Xbox, even at launch.
+      </Paragraph>
+      <Paragraph>
+        Why does Bungie have more freedom than all other PS Studios?
+        Desperation. Sony saw the money live services like Destiny were making,
+        but had no in-house knowledge to create their own. To get Bungie to
+        sell, Sony overpaid at $3.6 billion and accepted very Bungie-friendly
+        terms in order to get them to advise on Sony&#39;s other live-service
+        titles, while raking in revenue from Destiny 2.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Since 2023, there&#39;s been many rounds of layoffs, Sony taking board
-        seats, a migration of Bungie employees to other PS Studios, and a whole
-        incubation team spun out into teamLFG under PS Studios. Essentially,
-        Sony are recouping what they can from Bungie once it was clear they
-        wouldn&#39;t see ROI through their live-service expertise.
+        Unfortunately for Sony, what transpired immediately after has been a far
+        cry from their expectations, to the point where the Bungie acquisition
+        is easily the biggest blunder throughout all of PS Studios in the PS5
+        era.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            On PS5, Bungie has only released a port of Destiny 2 in 2020.
-            Although its final main expansion, 2024&#39;s The Final Shape, was
-            critically acclaimed, its underwhelming sales led to the hollowing
-            out of Bungie and further integration into PS Studios.
+            Since 2023, there&#39;s been many rounds of layoffs, Sony taking
+            board seats, a migration of Bungie employees to other PS Studios,
+            and a whole incubation team spun out into teamLFG under PS Studios.
+            Essentially, Sony are recouping what they can from Bungie once it
+            was clear they wouldn&#39;t see ROI through their live-service
+            expertise. On PS5, Bungie has only released a port of Destiny 2 in
+            2020. Although its final main expansion, 2024&#39;s The Final Shape,
+            was critically acclaimed, its underwhelming sales led to the
+            hollowing out of Bungie and further integration into PS Studios.
           </Paragraph>
           <Paragraph>
             Bungie also revealed Marathon, a live-service extraction shooter, in

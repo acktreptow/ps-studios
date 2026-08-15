@@ -54,7 +54,7 @@ function SuckerPunchProductionsPage(): JSX.Element {
             launched in October 2025, to similar critical and commercial success
             that Tsushima achieved. It finished as the third-highest-selling
             game in the US for 2025, for example. This was followed by its
-            Yōtei: Legends multiplayer and Echoes of Sekigahara narrative
+            Legends multiplayer and Echoes of Sekigahara narrative
             expansions in March and October 2026 respectively.
           </Paragraph>
           <Paragraph>

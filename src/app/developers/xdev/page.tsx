@@ -49,7 +49,7 @@ function XDevpage(): JSX.Element {
       <Paragraph marginBottom={8}>
         2024 was XDev&#39;s highest yearly output at 4, but there&#39;s only 1
         for 2026 - Marvel Tōkon: Fighting Souls (Arc System Works), which scored
-        a great 87 on Metacritic. Tōkon also shipped on PC, something XDev will
+        a great 86 on Metacritic. Tōkon also shipped on PC, something XDev will
         be increasingly known for given what Sony recently announced.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>

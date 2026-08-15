@@ -79,8 +79,8 @@ function BungiePage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             With 2 live services not making enough money to justify Bungie&#39;s
-            $3.6 billion acquisition, Sony are taking action to recoup what
-            they can. This includes halving Bungie&#39;s headcount via rounds of
+            $3.6 billion acquisition, Sony are taking action to recoup what they
+            can. This includes halving Bungie&#39;s headcount via rounds of
             layoffs and taking hundreds of millions in impairment losses. Sony
             are also forcing Bungie&#39;s integration into PS Studios to exert
             more control by taking board seats and spinning out Bungie&#39;s 1
@@ -88,14 +88,13 @@ function BungiePage(): JSX.Element {
             Studios.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Sony spent billions on Bungie for their live-service expertise to
-            flourish in that market. Instead, Sony are helping Bungie simply
-            survive, which isn&#39;t even assured as they have no title in
-            active development. This indictment alone makes Bungie the biggest
-            failure of the PS5 era, including the 9 PS Studios Sony straight up
-            closed, as their total losses, even factoring in the hundreds of
-            millions lost on Firewalk, don&#39;t come close to what Sony burned
-            with Bungie.
+            Bungie were meant to help Sony flourish in the live-service market.
+            Instead, Sony are helping Bungie simply survive, which isn&#39;t
+            even assured as they have no title in active development. This
+            indictment alone makes Bungie the biggest failure of the PS5 era,
+            including the 9 PS Studios closed. The combined losses of those 9, even
+            factoring in the hundreds of millions lost on Firewalk, aren&#39;t
+            close to the billions Sony burned on Bungie.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

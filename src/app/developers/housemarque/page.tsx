@@ -82,9 +82,12 @@ function HousemarquePage(): JSX.Element {
             this generation.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Housemarque are likely done on PS5, but they&#39;re in an excellent
-            position to reach greater heights on PS6. Especially if they find
-            that perfect middle ground between Returnal and Saros.
+            Housemarque are likely done on PS5 aside from Saros&#39;s
+            post-launch content like new modes and features, which Sony hope
+            will attract new players. But even is this doesn&#39;t happen,
+            they&#39;re still in an excellent position to reach greater heights
+            on PS6. Especially if they find that perfect middle ground between
+            Returnal and Saros.
           </Paragraph>
         </div>
         <div>

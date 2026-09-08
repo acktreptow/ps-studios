@@ -139,7 +139,7 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 10</li>
+            <li>Unreleased announced PS5 games: 11</li>
             <li>
               Most recent released PS5 game: Marvel Tōkon: Fighting Souls (Arc
               System Works via XDev) - August 6, 2026

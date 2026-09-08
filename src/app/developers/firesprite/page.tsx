@@ -54,11 +54,16 @@ function FirespritePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Despite a turbulent start under Sony, Firesprite announced Until
-            Dawn 2 in 2026, for a 2027 launch. It&#39;s a standalone sequel to
-            2015&#39;s Until Dawn on PS4, which is still highly regarded as one
-            of the best in the interactive horror genre. However, while
-            UD2&#39;s announcement was mostly well received outside of its
-            character models, Firesprite face an uphill battle.
+            Dawn 2 in 2026 for a January 2027 launch. It&#39;s a standalone
+            sequel to 2015&#39;s Until Dawn on PS4, which is still highly
+            regarded as one of the best in the interactive horror genre.
+          </Paragraph>
+          <Paragraph>
+            UD2&#39;s initial trailers were mostly well received aside from its
+            character models, with particular excitement for the story, as AdHoc
+            Studio (the developer behind the excellently received interactive
+            drama, Dispatch) are co-writing it. However, Firesprite still face
+            an uphill battle.
           </Paragraph>
           <Paragraph marginBottom={8}>
             UD2 is being made by a studio that&#39;s suffered layoffs, loss of

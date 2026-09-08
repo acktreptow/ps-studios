@@ -465,6 +465,10 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Super Stardust Portable (PSP)</li>
             </StatsList>
+            <li>Insomniac Games</li>
+            <StatsList isNumbered={true}>
+              <li>Ratchet & Clank (PS2)</li>
+            </StatsList>
             <li>Naughty Dog</li>
             <StatsList isNumbered={true}>
               <li>Jak and Daxter: The Precursor Legacy (PS2)</li>

@@ -559,6 +559,15 @@
   },
   {
     "developer": "XDev",
+    "name": "Daba: Land Of Water Scar",
+    "id": "Daba",
+    "genre": "Action RPG",
+    "releaseDate": "Spring 2027",
+    "daysBetweenReleases": "N/A",
+    "metacritic": "N/A"
+  },
+  {
+    "developer": "XDev",
     "name": "Kena: Scars of Kosmora",
     "id": "Kena 2",
     "genre": "Action-Adventure",

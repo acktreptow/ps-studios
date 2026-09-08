@@ -49,7 +49,7 @@ function XDevpage(): JSX.Element {
       <Paragraph marginBottom={8}>
         2024 was XDev&#39;s highest yearly output at 4, but there&#39;s only 1
         for 2026 - Marvel Tōkon: Fighting Souls (Arc System Works), which scored
-        a great 86 on Metacritic. Tōkon also shipped on PC, something XDev will
+        a great 85 on Metacritic. Tōkon also shipped on PC, something XDev will
         be increasingly known for given what Sony recently announced.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
@@ -75,17 +75,21 @@ function XDevpage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Predicting future XDev titles is, however, difficult given their
-            collaborative nature, especially since as of 2021, they now have
+            collaborative nature, especially since as of 2021, they have
             European, American, and Japanese operations, allowing them to easily
             partner with studios in the industry&#39;s biggest regions. After
-            all, no one saw Tōkon coming.
+            all, no one saw Tōkon coming. Daba: Land Of Water Scar (Dark Star)
+            for PS5/PC is also part of the China Hero Project. This was
+            unpredictable as Sony rarely get involved beyond funding. In fact,
+            out of the 18 titles part of the initiative, Daba and LSA are the
+            only games Sony also published.
           </Paragraph>
           <Paragraph marginBottom={8}>
             With Sony&#39;s move away from PC, though, it makes sense for XDev
-            to ship more single-player titles as they&#39;ll stand out even more
-            now. More of them are also good for a hardcore PS5 base that&#39;s
-            becoming increasingly disillusioned with Sony due to decisions like
-            the live-service push.
+            to ship more single-player titles like Daba, as they&#39;ll stand
+            out even more now. More are also good for a hardcore PS5 base
+            that&#39;s becoming increasingly disillusioned with Sony due to
+            decisions like the live-service push.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

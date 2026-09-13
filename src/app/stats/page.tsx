@@ -139,15 +139,15 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 11</li>
+            <li>Unreleased announced PS5 games: 10</li>
             <li>
-              Most recent released PS5 game: Marvel Tōkon: Fighting Souls (Arc
-              System Works via XDev) - August 6, 2026
+              Most recent released PS5 game: Marvel&#39;s Wolverine (Insomniac
+              Games) - September 15, 2026
             </li>
-            <li>
+            {/* <li>
               Most recent released PS5 game (not including XDev): Saros
               (Housemarque) - April 30, 2026
-            </li>
+            </li> */}
             <li>
               Next PS5 game: Marvel&#39;s Wolverine (Insomniac Games) -
               September 15, 2026

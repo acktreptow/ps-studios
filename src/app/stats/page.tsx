@@ -123,7 +123,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2023: 4</li>
             <li>PS5 games released in 2024: 11</li>
             <li>PS5 games released in 2025: 6</li>
-            <li>PS5 games released in 2026 so far: 6</li>
+            <li>PS5 games released in 2026: 6</li>
             <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
               Released PS5 games that are on Xbox: 11 (5 excluding MLB The Show
@@ -148,10 +148,7 @@ function StatsPage(): JSX.Element {
               Most recent released PS5 game (not including XDev): Saros
               (Housemarque) - April 30, 2026
             </li> */}
-            <li>
-              Next PS5 game: Marvel&#39;s Wolverine (Insomniac Games) -
-              September 15, 2026
-            </li>
+            <li>Next PS5 game: Until Dawn 2 (Firesprite) - January 28, 2027</li>
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

@@ -86,7 +86,7 @@ function StatsPage(): JSX.Element {
             Game Stats:
           </h3>
           <StatsList isNumbered={false}>
-            <li>Total PS5 games released: 46</li>
+            <li>Total PS5 games released: 47</li>
             <li>
               Game(s) with highest Metacritic score: God of War: Ragnarök (Santa
               Monica Studio) and Astro Bot (Team Asobi) - 94
@@ -114,7 +114,7 @@ function StatsPage(): JSX.Element {
             </li>
             <li>Total 90+ PS5 games on Metacritic: 5</li>
             <li>Total 80-89 PS5 games on Metacritic: 25</li>
-            <li>Total 70-79 PS5 games on Metacritic: 10</li>
+            <li>Total 70-79 PS5 games on Metacritic: 11</li>
             <li>Total 60-69 PS5 games on Metacritic: 6</li>
             <li>Total 59- PS5 games on Metacritic: 0</li>
             <li>PS5 games released in 2020: 6</li>
@@ -123,7 +123,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2023: 4</li>
             <li>PS5 games released in 2024: 11</li>
             <li>PS5 games released in 2025: 6</li>
-            <li>PS5 games released in 2026 so far: 5</li>
+            <li>PS5 games released in 2026 so far: 6</li>
             <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
               Released PS5 games that are on Xbox: 11 (5 excluding MLB The Show

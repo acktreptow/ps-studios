@@ -261,7 +261,8 @@ function StatsPage(): JSX.Element {
             <li>
               Studio with the shortest duration since their last release
               {/* (excluding XDev and remakes/remasters)*/}: Insomniac Games
-              with Wolverine (September, 2026)
+              with Wolverine - September, 2026 (prev Housemarque with Saros -
+              April, 2026)
             </li>
             {/* <li>
               Studio with the shortest duration since their last release

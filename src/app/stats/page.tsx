@@ -238,7 +238,7 @@ function StatsPage(): JSX.Element {
               <li>XDev</li>
             </StatsList>
             <li>
-              Studio with most new releases: Insomniac Games - 4 (excluding San
+              Studio with most new releases: Insomniac Games - 5 (excluding San
               Diego Studio&#39;s 6 MLB The Show titles & XDev&#39;s 13
               second-party titles){" "}
             </li>
@@ -260,19 +260,19 @@ function StatsPage(): JSX.Element {
             </li>
             <li>
               Studio with the shortest duration since their last release
-              (excluding XDev and remakes/remasters): Housemarque with Saros
-              (April, 2026)
+              {/* (excluding XDev and remakes/remasters)*/}: Insomniac Games
+              with Wolverine (September, 2026)
             </li>
             {/* <li>
               Studio with the shortest duration since their last release
               (excluding MLB The Show & XDev, but including remakes/remasters):
               Santa Monica with God of War: Sons of Sparta (February, 2026)
             </li> */}
-            <li>
+            {/* <li>
               Studio with the shortest duration since their last release
               (including XDev & remakes/remasters): XDev (via Arc System Works)
               with Marvel Tōkon: Fighting Souls (August, 2026)
-            </li>
+            </li> */}
             <li>
               Most recent second-party/XDev game: Arc System Works with Marvel
               Tōkon: Fighting Souls - August, 2026 (prev Ultizero Games with

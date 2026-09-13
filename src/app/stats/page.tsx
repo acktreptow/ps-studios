@@ -163,8 +163,8 @@ function StatsPage(): JSX.Element {
             <li>Studios in Asia: 3 (excluding XDev Tokyo)</li>
             <li>PS5 games from NA studios: 32</li>
             <li>PS5 games from EU studios: 13</li>
-            <li>PS5 games from Asia studios: 11</li>
-            <li>Released PS5 games from NA studios: 24</li>
+            <li>PS5 games from Asia studios: 12</li>
+            <li>Released PS5 games from NA studios: 25</li>
             <li>Released PS5 games from EU studios: 11</li>
             <li>Released PS5 games from Asia studios: 11</li>
             <li>Oldest studio: Naughty Dog (founded 1984)</li>

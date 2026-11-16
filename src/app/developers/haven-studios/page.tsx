@@ -101,8 +101,6 @@ function HavenStudiosPage(): JSX.Element {
           </label>
         </div>
       </ImageSection>
-      <SubTitle subtitle="PS5 Games" marginBottom={5} />
-      <GamesSection games={gamesArray} developer="Haven Studios" />
     </Container>
   );
 }

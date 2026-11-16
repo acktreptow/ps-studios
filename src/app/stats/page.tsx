@@ -124,6 +124,7 @@ function StatsPage(): JSX.Element {
             <li>PS5 games released in 2024: 11</li>
             <li>PS5 games released in 2025: 6</li>
             <li>PS5 games released in 2026: 6</li>
+            <li>Current PS5 games scheduled for 2027: 4</li>
             <li>Released PS5 games that are remasters/remakes: 13</li>
             <li>
               Released PS5 games that are on Xbox: 11 (5 excluding MLB The Show

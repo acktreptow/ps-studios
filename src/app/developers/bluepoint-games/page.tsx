@@ -64,11 +64,11 @@ function BluepointGamesPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             While Bluepoint found great success with remasters and remakes,
-            studio leadership surprisingly wanted to develop original content
+            studio leadership shockingly wanted to develop original content
             after DS. At first, this was as support for Santa Monica
-            Studio&#39;s God of War Ragnarok. However, once it shipped in 2022,
+            Studio&#39;s God of War Ragnarök. However, once it shipped in 2022,
             Bluepoint&#39;s ambitions combined with Sony&#39;s live-service push
-            resulted in the worst-case scenario - a live-service God of War.
+            resulted in the worst-case scenario, a live-service God of War.
           </Paragraph>
           <Paragraph>
             It doesn&#39;t take a genius to know a 70-person remake studio that
@@ -91,9 +91,9 @@ function BluepointGamesPage(): JSX.Element {
             Ghost of Tsushima spinoff. This was never happening, as studios like
             Sucker Punch didn&#39;t want to dedicate significant resources to
             another team&#39;s project when they were facing financial pressure
-            themselves in such a poor economic climate. Sony rightfully turned
-            these bad pitches down, and closed Bluepoint in February 2026, after
-            a year of no greenlit projects.
+            themselves in such a poor economic climate. Sony rightfully rejected
+            these pitches, then closed Bluepoint in February 2026 after a year
+            of no greenlit projects.
           </Paragraph>
           <Paragraph>
             Given Bluepoint&#39;s track record up until DS, it was

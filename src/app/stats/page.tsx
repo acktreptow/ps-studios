@@ -165,7 +165,7 @@ function StatsPage(): JSX.Element {
             <li>Studios in NA: 12 (excluding XDev US)</li>
             <li>Studios in EU: 5 (excluding XDev Liverpool)</li>
             <li>Studios in Asia: 3 (excluding XDev Tokyo)</li>
-            <li>PS5 games from NA studios: 32</li>
+            <li>PS5 games from NA studios: 31</li>
             <li>PS5 games from EU studios: 13</li>
             <li>PS5 games from Asia studios: 12</li>
             <li>Released PS5 games from NA studios: 25</li>
@@ -232,8 +232,9 @@ function StatsPage(): JSX.Element {
               <li>Bluepoint Games (Austin, TX - February, 2026)</li>
               <li>Dark Outlaw Games (Los Angeles, CA - March, 2026)</li>
             </StatsList>
-            <li className="mb-1">Support studios: 6</li>
+            <li className="mb-1">Support studios: 7</li>
             <StatsList isNumbered={true}>
+              <li>Haven Studio</li>
               <li>Malaysia Studio</li>
               <li>Nixxes Software</li>
               <li>San Mateo Studio</li>

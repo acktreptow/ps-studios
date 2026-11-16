@@ -140,7 +140,7 @@ function StatsPage(): JSX.Element {
               Released PSVR2 games: 4 (2 excluding Gran Turismo games where
               it&#39;s optional)
             </li>
-            <li>Unreleased announced PS5 games: 10</li>
+            <li>Unreleased announced PS5 games: 9</li>
             <li>
               Most recent released PS5 game: Marvel&#39;s Wolverine (Insomniac
               Games) - September 15, 2026
@@ -149,7 +149,10 @@ function StatsPage(): JSX.Element {
               Most recent released PS5 game (not including XDev): Saros
               (Housemarque) - April 30, 2026
             </li> */}
-            <li>Next PS5 game: Until Dawn 2 (Firesprite) - January 28, 2027</li>
+            <li>
+              Next PS5 game: Until Dawn 2 (Firesprite, story co-development with
+              external developer Adhoc Studio) - January 28, 2027
+            </li>
           </StatsList>
           <h3
             className="mb-1 text-gray-800 text-xl font-semibold pb-1 lg:text-xl lg:tracking-wide"

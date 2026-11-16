@@ -61,14 +61,13 @@ function SantaMonicaStudioPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            God of War Laufey is SMS&#39;s next title and releases in February
-            2027. Its initial 20-minute gameplay trailer was praised for its
-            fast combat and enemies spanning numerous mythologies. However,
-            it&#39;s the first mainline title where series protagonist Kratos is
-            not the main character. Instead, it features his wife, the titular
-            Laufey. This pivot, while narratively interesting, could limit
-            sales, as some GoW fans may not want to play as anyone other than
-            Kratos.
+            God of War Laufey is SMS&#39;s next title and releases in May 2027.
+            Its initial 20-minute gameplay trailer was praised for its fast
+            combat and enemies spanning numerous mythologies. However, it&#39;s
+            the first mainline title where series protagonist Kratos is not the
+            main character. Instead, it features his wife, the titular Laufey.
+            This pivot, while narratively interesting, could limit sales, as
+            some GoW fans may not want to play as anyone other than Kratos.
           </Paragraph>
           <Paragraph>
             SMS are also remaking the original Greek trilogy with a TBD release.
@@ -76,7 +75,9 @@ function SantaMonicaStudioPage(): JSX.Element {
             remasters, they&#39;re full remakes. This comes with its own
             challenges, as SMS must carefully modernize more old-school aspects,
             like camera perspective, difficulty spikes, and overt violent and
-            sexual themes, in a way that doesn&#39;t feel censored.
+            sexual themes, in a way that doesn&#39;t alienate these original
+            fans, but still attracts newcomers or those who started with the
+            2018 semi-reboot.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Regardless of how these pan out, though, Ragnarök&#39;s

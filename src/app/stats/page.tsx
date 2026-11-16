@@ -322,11 +322,11 @@ function StatsPage(): JSX.Element {
               Five studios most likely to close (in rough order of likeliness):
             </li>
             <StatsList isNumbered={true}>
-              <li>Haven Studio</li>
+              <li>Firesprite</li>
               <li>Bend Studio</li>
               <li>Media Molecule</li>
               <li>Bungie</li>
-              <li>Firesprite</li>
+              <li>Haven Studio</li>
             </StatsList>
             <li className="mb-1">
               Five studios least likely to close (in rough order of likeliness):
@@ -334,9 +334,9 @@ function StatsPage(): JSX.Element {
             <StatsList isNumbered={true}>
               <li>Polyphony Digital</li>
               <li>Team Asobi</li>
+              <li>San Diego Studio</li>
               <li>Sony Santa Monica</li>
               <li>Naughty Dog</li>
-              <li>Guerrilla Games</li>
             </StatsList>
             <li className="mb-1">
               Potential developers that could be acquired (though still

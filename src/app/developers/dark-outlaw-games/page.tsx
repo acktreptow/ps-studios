@@ -54,30 +54,35 @@ function DarkOutlawGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            The news of Bluepoint&#39;s closure 2 months prior was accompanied
-            by a lengthy internal message from PS Studios boss Hermen Hulst
-            explaining the reasons why. However, for DO, Sony couldn&#39;t even
-            dignify them with that, instead simply stating it was for
-            &#39;long-term sustainability&#39; when pressed for comment.
+            For Bluepoint, its closure 2 months prior came with a lengthy
+            internal message from PS Studios boss Hermen Hulst explaining why.
+            For DO, Sony couldn&#39;t even dignify them with that, instead just
+            stating it was for &#39;long-term sustainability&#39; when pressed
+            for comment. Blundell, however, went on a livestream shortly after
+            and confirmed they weren&#39;t developing a live-service, the
+            20-person studio were blindsided by the closure, and attributed it
+            to a shift in Sony&#39;s strategy.
           </Paragraph>
           <Paragraph>
-            Blundell, however, appeared on a livestream the day after news
-            broke, stating that they weren&#39;t developing a live-service and
-            that they were making &#39;a hell of a game&#39;. If it were similar
-            to Deviation&#39;s game (Draconis, which had gameplay leaked), it
-            was a third-person co-op shooter where the player would fight
-            ooze-like enemies. According to Blundell, the 20-person studio were
-            also blindsided by the closure, and attributed it to a shift in
-            Sony&#39;s strategy.
+            Based off the inevitable post-closure leaks, the game (codenamed
+            Ignite) was heavily inspired by the recent Doom trilogy in regards
+            to gameplay and level design, but could also be played in co-op.
+            There was a horde mode too that brought Blundell&#39;s COD Zombies
+            DNA into the title. Ignite also likely took notes from
+            Deviation&#39;s game, Draconis, which had leaked gameplay of a
+            third-person co-op shooter against ooze-like enemies.
           </Paragraph>
           <Paragraph>
             Unfortunately, of the 9 PS Studios closed during the PS5 era,
             DO&#39;s closure is the hardest to analyze due to their brief 1-year
             history, combined with how little Sony mentioned them. Based on the
-            above comments, though, it&#39;s likely Sony are now increasingly
-            reluctant to invest in the multiplayer space given how many failures
-            they&#39;ve had on PS5, and are content with cutting their losses
-            before any multiplayer project can become a Concord-level mistake.
+            above, though, Sony are now increasingly reluctant to invest in the
+            multiplayer space given how many failures they&#39;ve had on PS5,
+            and are content with cutting their losses before any multiplayer
+            project can become a Concord-level mistake. Especially as the
+            relatively cheap writeoff due to DO&#39;s short, 1-year development,
+            it&#39;s easy to see why Ignite was targeted in this economic
+            climate.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Regardless, Blundell&#39;s situation dating back to Deviation&#39;s

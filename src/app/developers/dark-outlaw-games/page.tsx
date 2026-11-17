@@ -65,30 +65,30 @@ function DarkOutlawGamesPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Fortunately, the inevitable post-closure leaks gave us real answers.
-            Codenamed Ignite, DO&#39;s singleplayer title was heavily inspired
-            by the recent Doom trilogy&#39;s gameplay and level design, but it
-            could also be played in co-op. Ignite had a horde mode too that
-            utilized Blundell&#39;s COD Zombies DNA, and also likely took notes
-            from Deviation&#39;s game, Draconis, which was a third-person co-op
-            shooter against ooze-like enemies.
+            DO&#39;s Project Ignite had a singleplayer campaign that was heavily
+            inspired by the recent Doom trilogy&#39;s gameplay and level design,
+            but it could also be played in co-op. Ignite had a horde mode too
+            that utilized Blundell&#39;s COD Zombies DNA, and also likely took
+            notes from Deviation&#39;s game, Draconis, which was a third-person
+            co-op shooter against ooze-like enemies.
           </Paragraph>
           <Paragraph>
             Unfortunately, of the 9 PS Studios closed during the PS5 era,
             DO&#39;s closure is the hardest to analyze due to their brief 1-year
             history, combined with how little Sony mentioned them. Based on the
             above, though, it&#39;s clear that Sony are now even reluctant to
-            invest in titles that emphasize co-op gameplay, let alone
-            live-service, given how many failures they&#39;ve had on PS5, and
-            want to cut their losses before a multiplayer project can become a
+            invest in titles that emphasize co-op modes, let alone live-service,
+            given how many of these failures they&#39;ve had on PS5, and want to
+            cut their losses before a multiplayer project can become a
             Concord-level mistake.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            But while it&#39;s easy to see why DO was targeted in this economic
-            climate, as it was one of the smallest sunk costs due to
-            Ignite&#39;s short, 1-year development, this mistake really dates
-            back to Deviation in 2021. Taken as a whole, DO is therefore still
-            further evidence that Sony&#39;s acquisition spree and willingness
-            to pursue so much inorganic growth during the PS5 era was a mistake.
+            Furthermore, while it&#39;s easy to see why DO was targeted in this
+            economic climate, as it was one of the smallest sunk costs due to
+            Ignite&#39;s 1-year development, this mistake really dates back to
+            Deviation in 2021. Taken as a whole then, DO is still further
+            evidence that Sony&#39;s acquisition spree and willingness to pursue
+            inorganic growth during the PS5 era was ill-fated.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

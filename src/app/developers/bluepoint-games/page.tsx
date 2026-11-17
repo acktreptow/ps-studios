@@ -25,7 +25,7 @@ function BluepointGamesPage(): JSX.Element {
       <Title title="Bluepoint Games" />
       <DeveloperButton
         developer="Bluepoint"
-        urlPath="https://www.bluepointgames.com/"
+        urlPath="https://x.com/bluepointgames"
       />
       <SubTitle subtitle="History" />
       <Paragraph>

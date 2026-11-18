@@ -30,8 +30,8 @@ function FabrikGamesPage(): JSX.Element {
       </Paragraph>
       <Paragraph marginBottom={8}>
         Fabrik&#39;s indirect path into PS Studios was unique, but not
-        particularly surprising, as Fabrik and Firesprite were founded by Graeme
-        Ankers. Fabrik had also already supported Firesprite during the
+        particularly surprising, as both Fabrik and Firesprite were founded by
+        Graeme Ankers. Fabrik had also already supported Firesprite during the
         development of their 2018 PSVR game The Persistence, so the transition
         to a support studio was relatively smooth. However, while it was
         initially thought that the Fabrik name would continue, this wasn&#39;t
@@ -42,7 +42,7 @@ function FabrikGamesPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Fabrik are in a unique situation within PS Studios. While
-            they&#39;re still legally active and maintain assets, in practice
+            they&#39;re still legally active and maintain assets, in practice,
             Fabrik are closed. That&#39;s because according to Fabrik&#39;s
             public filings, by March 2024, they had ceased production of games,
             have no employees, and are non-trading.

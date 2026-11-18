@@ -54,39 +54,39 @@ function DarkOutlawGamesPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            For Bluepoint, its closure 2 months prior came with a lengthy
-            internal message from PS Studios boss Hermen Hulst explaining why.
-            For DO, Sony couldn&#39;t even dignify them with that, instead just
-            stating it was for &#39;long-term sustainability&#39; when pressed
-            for comment. Blundell, however, went on a livestream shortly after
-            and confirmed they weren&#39;t developing a live-service, the
-            20-person studio were blindsided by the closure, and attributed it
-            to a shift in Sony&#39;s strategy.
+            Bluepoint&#39;s closure 2 months prior came with a lengthy internal
+            message from PS Studios boss Hermen Hulst explaining why. For DO,
+            Sony couldn&#39;t even dignify them with that, instead just stating
+            it was for &#39;long-term sustainability&#39; when pressed for
+            comment. Blundell, however, went on a livestream shortly after and
+            confirmed they weren&#39;t developing a live-service, that the
+            20-person studio were blindsided by the closure, and it was due to a
+            shift in Sony&#39;s strategy.
           </Paragraph>
           <Paragraph>
             Fortunately, the inevitable post-closure leaks gave us real answers.
-            DO&#39;s Project Ignite had a singleplayer campaign that was heavily
-            inspired by the recent Doom trilogy&#39;s gameplay and level design,
-            but it could also be played in co-op. Ignite had a horde mode too
-            that utilized Blundell&#39;s COD Zombies DNA, and also likely took
-            notes from Deviation&#39;s game, Draconis, which was a third-person
-            co-op shooter against ooze-like enemies.
+            DO&#39;s Project Ignite had a single-player campaign that was
+            heavily inspired by the recent Doom trilogy&#39;s gameplay and level
+            design, but it could also be played in co-op. Ignite had a horde
+            mode too that utilized Blundell&#39;s COD Zombies DNA, and also
+            likely took notes from Deviation&#39;s canceled game, Draconis,
+            which was a third-person co-op shooter against ooze-like enemies.
           </Paragraph>
           <Paragraph>
             Unfortunately, of the 9 PS Studios closed during the PS5 era,
             DO&#39;s closure is the hardest to analyze due to their brief 1-year
             history, combined with how little Sony mentioned them. Based on the
             above, though, it&#39;s clear that Sony are now even reluctant to
-            invest in titles that emphasize co-op modes, let alone live-service,
-            given how many of these failures they&#39;ve had on PS5, and want to
-            cut their losses before a multiplayer project can become a
-            Concord-level mistake.
+            invest in titles that emphasize co-op modes, let alone live
+            services, given how many of these failures they&#39;ve had on PS5,
+            and want to cut their losses before a multiplayer project can become
+            a Concord-level mistake.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Furthermore, while it&#39;s easy to see why DO was targeted in this
-            economic climate, as it was one of the smallest sunk costs due to
+            Furthermore, while it&#39;s easy to see why DO were targeted in this
+            economic climate, as they were one of the smallest sunk costs due to
             Ignite&#39;s 1-year development, this mistake really dates back to
-            Deviation in 2021. Taken as a whole then, DO is still further
+            Deviation in 2021. Taken as a whole then, DO are still further
             evidence that Sony&#39;s acquisition spree and willingness to pursue
             inorganic growth during the PS5 era was ill-fated.
           </Paragraph>

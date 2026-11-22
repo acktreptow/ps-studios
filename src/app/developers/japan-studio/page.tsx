@@ -37,9 +37,9 @@ function JapanStudioPage(): JSX.Element {
         JS&#39;s split portfolio is best seen with their PS5 launch games. While
         Demon&#39;s Souls was in collaboration with Bluepoint, the free pack-in
         Astro&#39;s Playroom was created internally by Team Asobi. Both were
-        successful, but Sony didn&#39;t renew JS contracts outside of Asobi
-        because their original AA games were viewed as too Japanese-centric and
-        not profitable enough to continue.
+        successful, but Sony didn&#39;t renew JS&#39;s internal team contracts
+        outside of Asobi because their original AA games were viewed as too
+        Japanese-centric and not profitable enough to continue.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Instead, JS re-centered around Asobi to build on Astro&#39;s popularity
@@ -53,18 +53,19 @@ function JapanStudioPage(): JSX.Element {
           <Paragraph>
             To be fair to Sony, it made sense to focus on Asobi. Astro&#39;s
             Playroom showcased potential realized with 2024&#39;s award-winning
-            Astro Bot - eclipsing any game from other JS teams in 10+ years.
-            Sony also has XDev for partnerships. But these points don&#39;t
-            negate Sony&#39;s short-sighted dismissiveness of AA titles, where
-            JS would be a tremendous attribute for PS5 right now.
+            Astro Bot - eclipsing the success of any title from other JS teams in
+            10+ years. Sony also has XDev for partnerships. However, these
+            points don&#39;t negate Sony&#39;s short-sighted dismissiveness of
+            AA titles, where JS would be a tremendous attribute for PS5 right
+            now.
           </Paragraph>
           <Paragraph>
             Outside of Helldivers 2, Sony&#39;s live-service strategy has
             failed. Most second-party games are cancelled, newly acquired
             studios have delayed games or closed, and old studios like Bend have
-            wasted the generation on it. This has caused Sony&#39;s first-party
-            output to become sporadic since 2022, resulting in the prestige of
-            PS Studios taking a significant hit.
+            wasted the PS5 generation on it. This has caused Sony&#39;s
+            first-party output to become sporadic since 2022, resulting in the
+            prestige of PS Studios taking a significant hit.
           </Paragraph>
           <Paragraph>
             JS&#39;s AA games don&#39;t sell millions with a 90+ Metacritic, but

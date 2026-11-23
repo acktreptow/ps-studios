@@ -34,7 +34,8 @@ function ManchesterStudioPage(): JSX.Element {
         art style and basic gameplay. The co-lead designers also worked in
         London - only visiting the studio around once a week and micromanaging
         the many prototypes when there. Hires were made in London to streamline
-        development, but it created a further breakdown in communications.
+        development, but this actually resulted in a further breakdown in
+        communications.
       </Paragraph>
       <Paragraph marginBottom={8}>
         Despite these issues, Sony left MS alone due to its small 30-person
@@ -61,13 +62,14 @@ function ManchesterStudioPage(): JSX.Element {
             studio, with a track record of development issues, makes no fiscal
             sense. Furthermore, PSVR2 wouldn&#39;t have improved sales. Even AAA
             IPs like Horizon performed so poorly that PS Studios haven&#39;t
-            shipped a PSVR2 title since launch.
+            shipped a PSVR2 title since PSVR2 launched.
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s a shame when studios close, but the unfortunate reality is
-            that it made sense to shut down MS. According to a post-closure
-            exposé, even former devs recognize it was the logical choice and
-            don&#39;t blame Sony.
+            that it made sense to shut down MS, and that it was the first PS
+            Studio to fall in the PS5 era. According to a post-closure exposé,
+            even former devs recognize it was the logical choice and don&#39;t
+            blame Sony.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

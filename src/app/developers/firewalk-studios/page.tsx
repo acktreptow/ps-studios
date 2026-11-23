@@ -81,8 +81,8 @@ function FirewalkStudiosPage(): JSX.Element {
             announced, and the remaining few like 4:Loop are still on thin ice.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Unfortunately, this pivot came too late into PS5&#39;s generation to
-            make up for a lack of PS Studios titles lost to the initiative. But
+            Unfortunately, this pivot came too late into the generation to make
+            up for a lack of PS5 first-party titles lost to the initiative. But
             at the very least, PS6 won&#39;t deal with such an aggressive
             live-service push. This isn&#39;t the legacy Firewalk wanted for
             Concord, but for the hardcore PS5 base, its sacrifice was worth it

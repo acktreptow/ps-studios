@@ -66,7 +66,7 @@ function ManchesterStudioPage(): JSX.Element {
           </Paragraph>
           <Paragraph marginBottom={8}>
             It&#39;s a shame when studios close, but the unfortunate reality is
-            that it made sense to shut down MS, and that it was the first PS
+            that it made sense to shut down MS, and that they were the first PS
             Studio to fall in the PS5 era. According to a post-closure exposé,
             even former devs recognize it was the logical choice and don&#39;t
             blame Sony.

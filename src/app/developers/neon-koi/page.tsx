@@ -24,7 +24,7 @@ function NeonKoiPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Neon Koi was a German-Finnish developer that was founded in 2020 as
+        Neon Koi were a German-Finnish developer that was founded in 2020 as
         Savage Game Studios. Sony acquired them under this initial name in
         August 2022, before rebranding as Neon Koi in November 2023 following
         many leadership resignations.
@@ -49,7 +49,9 @@ function NeonKoiPage(): JSX.Element {
             In fact, Neon Koi was only known for negative headlines, like when a
             founder and the head of PlayStation&#39;s Mobile Division abruptly
             quit under suspicious circumstances in mid-2023, or the failed
-            rebranding to Neon Koi a few months later.
+            rebranding to Neon Koi a few months later. There was even a final
+            negative headline in NK&#39;s closure press release, which alluded
+            to their action game not being good enough.
           </Paragraph>
           <Paragraph marginBottom={8}>
             At best, Neon Koi are an insignificant PS5 era footnote in

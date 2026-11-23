@@ -51,24 +51,42 @@ function FirewalkStudiosPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Critically, Concord is the lowest-rated first-party PS5 game with a
-            62 on Metacritic - a score it shares with Firewall Ultra and Lost
-            Soul Aside, 2 second-party titles made by far smaller development
-            teams at a fraction of Concord&#39;s budget. However, it&#39;s
-            Concord&#39;s commercial performance that&#39;s truly noteworthy.
+            62 on Metacritic. This low score is shared with Firewall Ultra and
+            Lost Soul Aside, 2 second-party titles made by far smaller
+            development teams at a fraction of Concord&#39;s budget. However,
+            it&#39;s Concord&#39;s commercial performance that&#39;s truly
+            noteworthy.
           </Paragraph>
           <Paragraph>
             Concord only sold around 25,000 copies, a figure so low that after
             only 11 days, Sony removed it from sale and forced refunds, opting
             to completely write off the title in its current state. Firewalk
-            explored how to successfully relaunch Concord, but in October, the
-            studio closed along with confirmation that the game wouldn&#39;t
+            then explored how to successfully relaunch Concord, but in October,
+            the studio closed along with confirmation that the game wouldn&#39;t
             return.
           </Paragraph>
-          <Paragraph marginBottom={8}>
+          <Paragraph>
             Concord marked the first time Sony refunded a game due to its
             reception. When factoring in Firewalk&#39;s acquisition cost as
             well, the Concord experiment easily resulted in over $100 million in
-            losses. These are historic failures for PS Studios, rivalled only by Bungie in the PS5 era.
+            losses. These are historic failures for PS Studios, rivalled only by
+            Bungie in the PS5 era, and it forced Sony to reassess their overall
+            live-service execution.
+          </Paragraph>
+          <Paragraph>
+            Sony never want another Concord-level embarrassment, so since 2025,
+            they&#39;ve been cancelling any upcoming live service which showed
+            this potential. Now as of 2027, the vast majority have been
+            cancelled, many of which occurred before even being officially
+            announced, and the remaining few like 4:Loop are still on thin ice.
+          </Paragraph>
+          <Paragraph marginBottom={8}>
+            Unfortunately, this pivot came too late into PS5&#39;s generation to
+            make up for a lack of PS Studios titles lost to the initiative. But
+            at the very least, PS6 won&#39;t deal with such an aggressive
+            live-service push. This isn&#39;t the legacy Firewalk wanted for
+            Concord, but for the hardcore PS5 base, its sacrifice was worth it
+            to get all of PS Studios back on track for the next generation.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

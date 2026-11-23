@@ -66,10 +66,10 @@ function LondonStudioPage(): JSX.Element {
           <Paragraph>
             It&#39;s a particular shame as they had a path for great success. In
             2005, LS revealed 2 traditional AAA PS3 titles - The Getaway and
-            Eight Days - with excellently received trailers. But Sony cancelled
-            both to reallocate money to others. Had these blockbusters reached
-            their potential and launched to a starving 06-09 PS3 hardcore
-            audience, LS history would be very different.
+            Eight Days - with excellently received trailers. However, Sony
+            cancelled both to reallocate money to others. Had these blockbusters
+            reached their potential and launched to a starving 06-09 PS3
+            hardcore audience, LS history would be very different.
           </Paragraph>
           <Paragraph marginBottom={8}>
             LS now live on through Twisted Works - a new developer composed of

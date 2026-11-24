@@ -24,7 +24,7 @@ function PixelopusPage(): JSX.Element {
       />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Pixelopus was a California-based developer internally formed in 2014
+        Pixelopus were a California-based developer internally formed in 2014
         under unique circumstances. In 2012, Thatgamecompany released PS3 indie
         adventure Journey to critical and commercial acclaim. This inspired
         Sony&#39;s Foster City Studio (now San Mateo Studio) to fund small
@@ -48,12 +48,13 @@ function PixelopusPage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            It&#39;s unsurprising that Sony shut Pixelopus as their singleplayer
-            DNA clashed with the 2020-23 live-service push. But in 2026, games
-            like Concord prove that the initiative failed, resulting in large
-            gaps between first-party titles. Like Japan Studio, which closed in
-            2021, Pixelopus would be more useful now than in 2023 as their AA
-            titles would fill these gaps.
+            It&#39;s unsurprising that Sony closed Pixelopus, as their
+            singleplayer DNA clashed with the 2020-23 live-service push. Yet,
+            live-service titles like Concord and Fairgames showcase just how bad
+            their execution failed, resulting in large gaps between first-party
+            releases. Like Japan Studio, which closed in 2021, Pixelopus would
+            be more useful now than in 2023, as their AA titles would fill the
+            gaps left by dead live services from other PS Studios.
           </Paragraph>
           <Paragraph>
             However, closing Pixelopus can still be justified. Unlike Japan

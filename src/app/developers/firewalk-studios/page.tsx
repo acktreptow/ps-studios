@@ -75,7 +75,7 @@ function FirewalkStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Sony never want another Concord-level embarrassment, so since 2025,
-            they&#39;ve been cancelling any upcoming live service which showed
+            they&#39;ve been cancelling any upcoming live-service title which showed
             this potential. Now as of 2027, the vast majority have been
             cancelled, many of which occurred before even being officially
             announced, and the remaining few like 4:Loop are still on thin ice.
@@ -84,9 +84,9 @@ function FirewalkStudiosPage(): JSX.Element {
             Unfortunately, this pivot came too late into the generation to make
             up for a lack of PS5 first-party titles lost to the initiative. But
             at the very least, PS6 won&#39;t deal with such an aggressive
-            live-service push. This isn&#39;t the legacy Firewalk wanted for
-            Concord, but for the hardcore PS5 base, its sacrifice was worth it
-            to get all of PS Studios back on track for the next generation.
+            live-service push. This isn&#39;t the legacy Firewalk wanted, but
+            for the hardcore PS5 base, their sacrifice was worth it to get all
+            of PS Studios back on track for the next generation.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

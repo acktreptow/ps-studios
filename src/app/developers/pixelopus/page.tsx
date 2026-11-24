@@ -65,11 +65,11 @@ function PixelopusPage(): JSX.Element {
             differentiator despite the awards.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Pixelopus&#39;s expensive location also made it hard to keep them
-            open, and their PS5 title was a licensed IP in partnership with Sony
-            Animation, which would incur extra fees/red tape. Considering these
-            factors, closing Pixelopus was still logical despite the failed
-            live-service push.
+            Pixelopus&#39;s expensive location also made it harder to keep them
+            open, and their in-development PS5 title was a licensed IP in
+            partnership with Sony Animation, which would incur extra fees/red
+            tape. When considering all these factors, closing Pixelopus was
+            still logical despite the failed live-service push.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

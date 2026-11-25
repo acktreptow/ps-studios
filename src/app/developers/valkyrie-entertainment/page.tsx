@@ -30,11 +30,13 @@ function ValkyrieEntertainmentPage(): JSX.Element {
         developed at other PlayStation first-party studios.
       </Paragraph>
       <Paragraph>
-        On PS5, Valkyrie supported 2022&#39;s God of War: Ragnarök from Sony
-        Santa Monica and 2024&#39;s ill-fated Concord from Firewalk. They also
-        have an extensive history with the inFamous and Twisted Metal IPs during
-        the PS3/PS4 generations, and even contributed to many Xbox IPs
-        pre-acquisition, such as Forza Motorsport and State of Decay.
+        On PS5, Valkyrie supported 2022&#39;s God of War: Ragnarök from Santa
+        Monica Studio and 2024&#39;s ill-fated Concord from Firewalk Studios.
+        They also have an extensive history supporting the inFamous (Sucker
+        Punch) and Twisted Metal (Eat Sleep Play) IPs during the
+        PS3/PS4 generations, and even contributed to many Xbox IPs
+        pre-acquisition, such as Forza Motorsport (Turn 10) and State of
+        Decay (Undead Labs).
       </Paragraph>
       <Paragraph marginBottom={8}>
         Despite the 20+ year history, Valkyrie have only been the main developer

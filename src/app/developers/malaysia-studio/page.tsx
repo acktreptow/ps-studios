@@ -36,8 +36,10 @@ function MalaysiaStudioPage(): JSX.Element {
         With TLOU, MS worked on hints the player receives upon death to get past
         the obstacle and/or combat scenario they&#39;re stuck on. For MLB, they
         worked on art assets that only need to be updated for the next yearly
-        iteration, not created from scratch. Most recently, MS supported Ghost
-        of Yōtei and Saros with art, animation, and QA.
+        iteration, not created from scratch. MS have also supported recent PS
+        Studios games in Ghost of Yōtei (Sucker Punch), Saros (Housemarque), and
+        Marvel Tōkon: Fighting Souls (Arc System Works via XDev) with art,
+        animation, and QA.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

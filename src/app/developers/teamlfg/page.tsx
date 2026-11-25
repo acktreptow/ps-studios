@@ -36,12 +36,13 @@ function TeamLFGPage(): JSX.Element {
         they spent years operating as an internal incubation team within Bungie.
       </Paragraph>
       <Paragraph>
-        As part of Bungie, LFG worked on Destiny and Halo, but their experience
-        also extends to non-shooter live services like League of Legends and
-        Roblox. This history can be seen all over their project &#39;Gummy
-        Bears&#39; - a team-based action game inspired by fighters, MOBAs,
-        platformers, and sims. It&#39;s also set in a science-fantasy world, but
-        has a light-hearted, comedic tone to distinguish itself from Destiny.
+        As part of Bungie, LFG staff worked on Destiny and Halo, but their
+        experience also extends to non-shooter live services like League of
+        Legends and Roblox. This eclectic history can be seen all over their
+        debut project &#39;Gummy Bears&#39; - a team-based action game inspired
+        by fighters, MOBAs, platformers, and sims. It&#39;s also set in a
+        science-fantasy world, but has a light-hearted, comedic tone to
+        distinguish itself from Destiny.
       </Paragraph>
       <Paragraph marginBottom={8}>
         When Gummy Bears was in internal incubation, playtest reception was more
@@ -63,21 +64,24 @@ function TeamLFGPage(): JSX.Element {
             &#39;express their identity&#39; in a &#39;cozy vibe&#39;.
           </Paragraph>
           <Paragraph>
-            Out of Sony&#39;s future live-service games, I&#39;m more optimistic
-            about GB than most. It&#39;s telling that despite Bungie&#39;s
-            current turmoil, LFG showed enough promise for Sony to extract them
-            and directly nurture GB&#39;s potential. GB is also the only Smash
-            Bros type game on PS5, instead of the saturated shooter genre titles
-            like 4:Loop and Marathon are in. Finally, GB launches after these
-            games, which gives Sony plenty of data to see what went right or
-            wrong.
+            Out of Sony&#39;s recent and upcoming live-service titles, GB has a
+            better chance to find an audience than most. It&#39;s telling that
+            despite Bungie&#39;s current turmoil, LFG showed enough promise for
+            Sony to extract them and directly nurture GB&#39;s potential.
+            It&#39;s also the only Smash Bros type title on PS5, instead of the
+            saturated shooter genre 4:Loop, Marathon, etc are in. Finally, GB
+            launches after these games, which gives Sony plenty of data to see
+            what went right or wrong.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Nonetheless, GB is years away, and with the volatility of live
             services, its commercial and/or critical success can still go either
             way. Hopefully, LFG keep their word of many playtests - it&#39;s the
             best barometer of what all segments of the PS5 base think of that
-            specific live-service.
+            specific live-service. Especially if Sony plan to continue with
+            charging $40 for their live services instead of adopting a F2P
+            model, where the quality bar can be lower while still getting more
+            hesitant gamers in the door.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

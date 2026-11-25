@@ -26,7 +26,7 @@ function VisualArtsPage(): JSX.Element {
       <Paragraph>
         Founded in San Diego in 2007, the Visual Arts Service Group support
         games from other PS Studios with art and animation. As a support studio,
-        their contributions are small, but it means VASG work on 15-25 games at
+        their contributions are small, but it means VASG work on numerous games at
         a time, in addition to Sony&#39;s non-gaming IP like Netflix&#39;s Love,
         Death & Robots. While it&#39;s not the traditional role of a developer,
         there was a failed pivot to become one in 2018.
@@ -35,7 +35,7 @@ function VisualArtsPage(): JSX.Element {
         VASG Senior Director Michael Mumbauer aspired to become a proper PS
         Studio with full creative control over a game, so 30 devs joined from
         nearby studios to remake 2007&#39;s Uncharted. However, as an early PS3
-        game, it was too hard to modernize for PS5 at that size. VASG then
+        title, it was too hard to modernize for PS5 at that size. VASG then
         settled on 2013&#39;s The Last of Us - a more modern PS3 game.
         Afterwards, VASG could hire up for Uncharted, then their own titles.
       </Paragraph>
@@ -79,9 +79,9 @@ function VisualArtsPage(): JSX.Element {
             Circumstances could change on PS6, but it&#39;s unlikely. Until
             then, VASG&#39;s art and animation work can still be appreciated in
             most upcoming PS Studios games. They&#39;re also rumored to be
-            assisting ND and a new internal studio on the next Uncharted.
-            It&#39;s not what Mumbauer envisioned, but as part of many projects,
-            VASG are still essential to PS Studios.
+            assisting ND on the next Uncharted. It&#39;s not what Mumbauer
+            envisioned, but as part of many projects, VASG are still essential
+            to PS Studios.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

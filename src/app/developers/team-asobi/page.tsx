@@ -26,24 +26,27 @@ function TeamAsobiPage(): JSX.Element {
       <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Team Asobi are a Tokyo-based developer that technically formed in
-        2021. They actually formed in 2012 within Japan Studio, but became
-        independent when JS closed. With a small headcount of around 65, Asobi
-        develop smaller games that showcase new PlayStation hardware, like
-        2013&#39;s The PlayRoom for DualShock 4 and 2018&#39;s Astro Bot Rescue
-        Mission for PSVR.
+        Team Asobi are a Tokyo-based developer that formed in 2012 within
+        another PS Studio called Japan Studio. They then became their own
+        independent PS Studio when JS closed in 2021. With a small headcount of
+        around 65, Asobi primarily develop smaller games that showcase new
+        PlayStation hardware, like 2013&#39;s The PlayRoom for DualShock 4 and
+        2018&#39;s Astro Bot Rescue Mission for PSVR.
       </Paragraph>
       <Paragraph>
         So far, Asobi have released 2 PS5 games. 2020&#39;s Astro&#39;s Playroom
         was a free, pre-installed PS5 launch title with gameplay showcasing new
-        PS5 features like haptic feedback. Even after 5 years, it&#39;s still
-        one of the best uses of the DualSense. The game&#39;s positive reception
-        is also a big reason why Asobi survived Japan Studio&#39;s closure.
+        PS5 features like haptic feedback. Even after 6 years, it&#39;s still
+        one of the best uses of the DualSense. The game&#39;s very positive
+        reception is also a big reason why Asobi survived Japan Studio&#39;s
+        closure.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Asobi&#39;s next game, Astro Bot, launched in September 2024. This near
-        4-year development cycle resulted in it being Asobi&#39;s biggest game
-        to date. Most importantly, it led to monumental critical and commercial
+        Asobi&#39;s next game, Astro Bot, was a more traditional title, as it
+        wasn&#39;t developed around showcasing new PlayStation hardware. It
+        launched in September 2024, with a near 4-year development cycle
+        resulting in it being Asobi&#39;s biggest game to date. Most
+        importantly, though, it led to monumental critical and commercial
         success that no one saw coming.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>

@@ -26,7 +26,7 @@ function ValkyrieEntertainmentPage(): JSX.Element {
       <Paragraph>
         Valkyrie Entertainment are a Seattle-based developer founded in 2002,
         but only acquired by Sony in 2021. Haven&#39;t heard of Valkyrie or
-        their games? That&#39;s because they&#39;re a support studio for games
+        their games? That&#39;s because they&#39;re a support studio for titles
         developed at other PlayStation first-party studios.
       </Paragraph>
       <Paragraph>
@@ -37,11 +37,13 @@ function ValkyrieEntertainmentPage(): JSX.Element {
         pre-acquisition, such as Forza Motorsport and State of Decay.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Despite being founded over 20 years ago, Valkyrie have only been the
-        main developer on 2015&#39;s digital-only &#39;Guns Up!&#39; for PSN and
-        mobile. This free-to-play tower defense shooter was a commercial failure
-        and only received a 54 on Metacritic, which is lower than every PS5
-        first-party title (Concord is currently the lowest at 62).
+        Despite the 20+ year history, Valkyrie have only been the main developer
+        on the digital-only title &#39;Guns Up!&#39; for PSN (2015), PC (2018)
+        and mobile (2022). This free-to-play tower defense shooter was a
+        commercial disappointment and only received a 54 on Metacritic, which is
+        lower than every PS5 first-party title (Concord is currently the lowest
+        at 62) and even every XDev/second-party title (Destruction AllStars and
+        Lost Soul Aside also scored 62).
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -49,10 +51,11 @@ function ValkyrieEntertainmentPage(): JSX.Element {
           <Paragraph>
             Valkyrie&#39;s support studio status means they haven&#39;t shipped
             their own PS5 game. Considering the critical and commercial failure
-            of Guns Up!, which had its PSN and mobile servers shut down in 2023
-            and 2026 respectively, despite being online-only, it&#39;s also
-            unlikely that they&#39;ll ever get a chance to. Furthermore,
-            Valkyrie haven&#39;t shown any signs that they even want to.
+            of Guns Up!, which had its PSN/PC and mobile servers shut down in
+            2023 and 2026 respectively, making it unplayable as it was
+            online-only, it&#39;s also unlikely that they&#39;ll ever get a
+            chance to. Furthermore, Valkyrie haven&#39;t shown any signs that
+            they even want to.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next great first-party PS5 game to

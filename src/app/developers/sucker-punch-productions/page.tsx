@@ -52,10 +52,11 @@ function SuckerPunchProductionsPage(): JSX.Element {
           <Paragraph>
             Yōtei - a standalone sequel taking place 329 years after Tsushima -
             launched in October 2025, to similar critical and commercial success
-            that Tsushima achieved. It finished as the 11th best-selling game
-            in the US for 2025, for example. This was followed by its Legends
-            multiplayer and Echoes of Sekigahara narrative expansions in March
-            and October 2026 respectively.
+            that Tsushima achieved. It sold 3.3 million copies within the first
+            month and finished as 2025&#39;s 11th best-selling game in the US,
+            for example. This was followed by its Legends multiplayer and Echoes
+            of Sekigahara narrative expansions in March and October 2026
+            respectively, both of which also reviewed well.
           </Paragraph>
           <Paragraph>
             However, due to the length of game development and how far the PS5

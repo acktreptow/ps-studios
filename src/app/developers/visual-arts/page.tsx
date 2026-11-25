@@ -26,10 +26,10 @@ function VisualArtsPage(): JSX.Element {
       <Paragraph>
         Founded in San Diego in 2007, the Visual Arts Service Group support
         games from other PS Studios with art and animation. As a support studio,
-        their contributions are small, but it means VASG work on numerous games at
-        a time, in addition to Sony&#39;s non-gaming IP like Netflix&#39;s Love,
-        Death & Robots. While it&#39;s not the traditional role of a developer,
-        there was a failed pivot to become one in 2018.
+        their contributions are small, but it means VASG work on numerous games
+        at a time, in addition to Sony&#39;s non-gaming IP like Netflix&#39;s
+        Love, Death & Robots. While it&#39;s not the traditional role of a
+        developer, there was a failed pivot to become one in 2018.
       </Paragraph>
       <Paragraph>
         VASG Senior Director Michael Mumbauer aspired to become a proper PS

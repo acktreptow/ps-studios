@@ -40,11 +40,14 @@ function XDevpage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         However, XDev partnerships have also resulted in some of the worst PS
-        Studios offerings on PS5. Destruction AllStars (Lucid Games), Firewall
+        Studios offerings on PS5. Concord (Firewalk Studios) is the only
+        first-party PS5 game with a 62 on Metacritic, which is the lowest score
+        a PS Studios game has received on PS5. In contrast, 3 XDev second-party
+        titles also scored 62 - Destruction AllStars (Lucid Games), Firewall
         Ultra (First Contact Entertainment), and Lost Soul Aside (Ultizero
-        Games) all received a 62 on Metacritic, making them the lowest-rated PS
-        Studio games on PS5. DSA and Firewall are also now unpurchasable as
-        they&#39;re in the stages of shutting down.
+        Games). DSA and Firewall are also now unpurchasable as they&#39;ve had
+        their servers shut down, including any single-player modes, due to
+        inactivity.
       </Paragraph>
       <Paragraph marginBottom={8}>
         2024 was XDev&#39;s highest yearly output at 4, but there&#39;s only 1

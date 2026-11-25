@@ -59,40 +59,40 @@ function XDevpage(): JSX.Element {
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
-            As of 2026, XDev are the only PS Studio whose single-player games
+            As of 2026, XDev are the only PS Studio whose single-player titles
             can come to PC. For example, Saros (Housemarque) and Ghost of Yōtei
-            (Sucker Punch) are PS5 exclusive, even though their predecessors
-            came to PC. This strategy shift is a new opportunity for XDev, as
-            the PC audience can now only look to them for the single-player
-            titles PS Studios are known for.
+            (Sucker Punch) will remain PS5 exclusive, even though their
+            predecessors eventually came to PC. This strategy shift is a new
+            opportunity for XDev, as PC players can now only look to them for
+            the single-player titles PS Studios are known for.
           </Paragraph>
           <Paragraph>
-            XDev have announced 2 titles that coincidentally represent their
-            inconsistent PS5 output. Kena: Scars of Kosmora (Ember Lab) is an
-            anticipated action-adventure that the PC audience will likely pay
-            more attention to, as it would be PS5-only if made by another
-            studio. As a live-service shooter, 4:Loop (Bad Robot Games) was
-            always PC-bound, but it faces an uphill battle due to the disdain
-            Sony&#39;s hardcore base has for live services, and its 2 trailers
-            were poorly received.
+            Coincidentally, XDev have also announced 2 titles that showcase
+            their eclectic, but inconsistent PS5 output. Kena: Scars of Kosmora
+            (Ember Lab) is an anticipated single-player action-adventure that
+            the PC audience will likely pay more attention to, as it would be
+            PS5-only if developed by an in-house PS studio. As a live-service
+            shooter, 4:Loop (Bad Robot Games) was always PC-bound, but it faces
+            an uphill battle due to the disdain Sony&#39;s hardcore base has for
+            live services, and its 2 trailers were poorly received.
           </Paragraph>
           <Paragraph>
             Predicting future XDev titles is, however, difficult given their
-            collaborative nature, especially since as of 2021, they have
-            European, American, and Japanese operations, allowing them to easily
-            partner with studios in the industry&#39;s biggest regions. After
-            all, no one saw Tōkon coming. Daba: Land Of Water Scar (Dark Star)
-            for PS5/PC is also part of the China Hero Project. This was
-            unpredictable as Sony rarely get involved beyond funding. In fact,
-            out of the 18 titles part of the initiative, Daba and LSA are the
-            only games Sony also published.
+            collaborative nature. Since 2021, they have also had European,
+            American, and Japanese operations, allowing them to easily partner
+            with studios in the industry&#39;s biggest regions. After all, no
+            one saw Tōkon coming. Daba: Land Of Water Scar (Dark Star) for
+            PS5/PC is also part of the China Hero Project. Again, this was
+            unpredictable, as Sony rarely get involved with Chinese-developed
+            titles beyond funding. Out of the 18 titles part of the initiative,
+            Daba and LSA are the only ones Sony also published.
           </Paragraph>
           <Paragraph marginBottom={8}>
             With Sony&#39;s move away from PC, though, it makes sense for XDev
-            to ship more single-player titles like Daba, as they&#39;ll stand
-            out even more now. More are also good for a hardcore PS5 base
+            to ship more single-player titles like Kena/Daba, as they&#39;ll
+            stand out even more now. This also helps placate a hardcore PS5 base
             that&#39;s becoming increasingly disillusioned with Sony due to
-            decisions like the live-service push.
+            decisions like the live-service push, killing discs, etc.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

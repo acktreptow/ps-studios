@@ -26,7 +26,7 @@ function TeamAsobiPage(): JSX.Element {
       <DeveloperButton developer="Asobi" urlPath="https://www.teamasobi.com/" />
       <SubTitle subtitle="History" />
       <Paragraph>
-        Team Asobi are a Tokyo-based developer that formed in 2012 within
+        Team Asobi are a Tokyo-based developer that formed in 2012, within
         another PS Studio called Japan Studio. They then became their own
         independent PS Studio when JS closed in 2021. With a small headcount of
         around 65, Asobi primarily develop smaller games that showcase new
@@ -60,17 +60,20 @@ function TeamAsobiPage(): JSX.Element {
             Awards.
           </Paragraph>
           <Paragraph>
-            Commercially, Astro Bot has sold 4.3 million copies and continues to
-            be an evergreen seller of around 100,000 a month, well over 1 year
-            after launch. It&#39;s also part of PS5 bundles, is the first title
-            to have multiple themed DualSenses, and has received many free DLCs.
+            Commercially, Astro Bot has sold 4.7 million copies and continues to
+            be an evergreen seller of around 100,000 a month, over 2 years after
+            launch. It&#39;s also part of PS5 bundles, is the first title to
+            have multiple themed DualSenses, and has received many free DLCs.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Considering its $50-$100 million budget, Astro Bot has made over
-            $100 million in profit. So whatever Asobi want to do next, Sony are
-            unlikely to say no. Though, I predict Asobi stick to the blueprint
-            and release a worthy sequel at the end of PS5&#39;s lifecycle in
-            2027/28.
+            Considering its relatively small, $50-$100 million budget, Astro Bot
+            has made around $200 million in profit. So whatever Asobi want to do
+            next, Sony are unlikely to say no. Though, I predict Asobi will
+            either stick to Astro Bot&#39;s blueprint and release a worthy
+            sequel at the end of PS5&#39;s lifecycle, or go back to their roots
+            and ship a launch title that uses Astro to showcase new PS6 hardware
+            features. Either way, it&#39;s likely coming at the end of
+            2027/early 2028.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

@@ -37,14 +37,14 @@ function SuckerPunchProductionsPage(): JSX.Element {
         which was the fastest-selling digital game on PS3 at the time.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        After 2 inFamous titles on PS4, SP then moved on to a new IP -
+        After 2 more inFamous titles on PS4, SP then moved on to a new IP -
         2020&#39;s Ghost of Tsushima. This third-person samurai action-adventure
         is the PS4&#39;s fastest-selling first-party debut at 2.4 million copies
         sold in 3 days. Tsushima then got a PS5 Director&#39;s Cut in 2021,
         which included a well-received, 10-hour story expansion that helped push
-        Tsushima past 13 million copies, making it their best-selling game.
+        Tsushima past 13 million copies, making it SP&#39;s best-selling game.
         It&#39;s therefore not surprising that SP stuck with the IP for their
-        most recent game - PS5&#39;s Ghost of Yōtei.
+        most recent title - PS5&#39;s Ghost of Yōtei.
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>
@@ -52,17 +52,17 @@ function SuckerPunchProductionsPage(): JSX.Element {
           <Paragraph>
             Yōtei - a standalone sequel taking place 329 years after Tsushima -
             launched in October 2025, to similar critical and commercial success
-            that Tsushima achieved. It finished as the third-highest-selling
-            game in the US for 2025, for example. This was followed by its
-            Legends multiplayer and Echoes of Sekigahara narrative
-            expansions in March and October 2026 respectively.
+            that Tsushima achieved. It finished as the 11th best-selling game
+            in the US for 2025, for example. This was followed by its Legends
+            multiplayer and Echoes of Sekigahara narrative expansions in March
+            and October 2026 respectively.
           </Paragraph>
           <Paragraph>
             However, due to the length of game development and how far the PS5
             is into its lifecycle, Yōtei is almost certainly Sucker Punch&#39;s
-            final PS5 game. Despite the success SP have found with both Ghost
-            games, it&#39;s also entirely possible that their next title will be
-            a new IP.
+            final PS5 game. Despite the success SP found with both Ghost games,
+            it&#39;s also entirely possible that their next title will be a new
+            IP.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Studio Head Brian Fleming retired shortly after Yōtei&#39;s launch,

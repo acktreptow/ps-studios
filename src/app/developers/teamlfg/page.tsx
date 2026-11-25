@@ -78,7 +78,7 @@ function TeamLFGPage(): JSX.Element {
             services, its commercial and/or critical success can still go either
             way. Hopefully, LFG keep their word of many playtests - it&#39;s the
             best barometer of what all segments of the PS5 base think of that
-            specific live-service. Especially if Sony plan to continue with
+            specific live-service. Especially if Sony continue
             charging $40 for their live services instead of adopting a F2P
             model, where the quality bar can be lower while still getting more
             hesitant gamers in the door.

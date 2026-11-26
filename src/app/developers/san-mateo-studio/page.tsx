@@ -46,13 +46,15 @@ function SanMateoStudioPage(): JSX.Element {
             shipped a PS5 game where they were the primary developer. In fact,
             the last game they traditionally developed was 2004&#39;s Jet Li:
             Rise to Honor on PS2, an action-adventure that only scored 68 on
-            Metacritic.
+            Metacritic primarily due to its short length, somewhat shallow combat, and difficulty spikes.
+            Though, it was praised for Jet Li&#39;s motion capture and voice
+            acting.
           </Paragraph>
           <Paragraph marginBottom={8}>
             If you&#39;re looking for your next first-party PS5 game, you should
             look elsewhere. If anything, San Mateo Studio is more likely to
             close if Pixelopus, their expensive California location, and Jet
-            Li&#39;s reception are any indications. Though closure is still
+            Li&#39;s reception are any indications. Though, closure is still
             highly unlikely.
           </Paragraph>
         </div>

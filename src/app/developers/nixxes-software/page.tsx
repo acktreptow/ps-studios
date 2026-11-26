@@ -74,11 +74,11 @@ function NixxesSoftwarePage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             As Sony are still releasing all their live services on PC, Nixxes
-            could also help here. They could even port upcoming ones like 4:Loop
-            to Xbox, just as they successfully did with Helldivers 2. Given how
-            unpopular Sony&#39;s live-service execution has been, it&#39;s
-            logical to ship on as many platforms as possible for the best
-            (though still small) chance of finding a large enough audience.
+            could also help here. They could even port them to Xbox, just as
+            they successfully did with Helldivers 2. Given how unpopular
+            Sony&#39;s live-service execution has been, it&#39;s logical to ship
+            on as many platforms as possible for the best (though still small)
+            chance of finding a large enough audience.
           </Paragraph>
           <Paragraph>
             The final path is the most boring one, but unfortunately, also the

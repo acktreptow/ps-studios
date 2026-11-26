@@ -36,10 +36,10 @@ function MediaMoleculePage(): JSX.Element {
       </Paragraph>
       <Paragraph>
         MM then moved on to 2013&#39;s platformer-adventure Tearaway, which was
-        developed to take advantage of the majority of the PS Vita&#39;s
-        features (camera, rear touch panel, etc.), before remaking and expanding
-        the game for PS4 in 2015. MM&#39;s next and most recent title was
-        2020&#39;s Dreams on PS4, meaning they haven&#39;t released a PS5 game.
+        developed to take advantage of the majority of PS Vita&#39;s features
+        (camera, rear touch panel, etc.), before remaking and expanding the game
+        for PS4 in 2015. MM&#39;s next and most recent title was 2020&#39;s
+        Dreams on PS4, meaning they haven&#39;t released a PS5 game.
         Furthermore, despite Dreams releasing nearly 7 years ago, MM still
         haven&#39;t even announced their next game, let alone shown gameplay.
       </Paragraph>
@@ -49,14 +49,14 @@ function MediaMoleculePage(): JSX.Element {
         is led by the director of Tren (the best-received made-in-Dreams game).
         Further rumors also suggest it&#39;s a social simulation inspired by
         Animal Crossing and Harvest Moon. Most crucially, though, both its
-        official announcement and release are rumored for 2027.
+        official announcement and release are finally rumored for 2027.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Whatever MM&#39;s next game is, to call it important is an
-            understatement, as now they&#39;re far removed from their greatest
+            understatement, as they&#39;re now far removed from their greatest
             successes seen on PS3. Dreams wasn&#39;t close to a commercial
             success, all 4 founders quit in recent years, and it was reported
             that MM nearly shuttered instead of London Studio in early 2024.
@@ -64,16 +64,16 @@ function MediaMoleculePage(): JSX.Element {
           <Paragraph>
             Sony does, however, need the types of games MM make, even if their
             post-LBP titles haven&#39;t been commercially mainstream. For one,
-            the many awards their games have won/been nominated for provide
+            the many awards all their games have won/been nominated for provide
             utility that can&#39;t be quantified with money in/out. These more
             experimental, user-focused titles also helped diversify the PS
             Studios PS3/PS4 portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Yet, with PS5 games taking longer to develop across the industry,
-            rising development costs, and other external economic factors (such
-            as their expensive location) at play, these more prestigious reasons
-            may not presently be enough. Even if this social simulation title is
+            rising development costs, and other external economic factors like
+            MM&#39;s expensive location, these more prestigious reasons may not
+            presently be enough. Even if this social simulation title is
             announced and released in 2027, it could easily be MM&#39;s last if
             it doesn&#39;t find an audience fast. The PS5 era will then truly be
             a terrible end to MM&#39;s legacy, which couldn&#39;t have begun

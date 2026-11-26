@@ -27,30 +27,29 @@ function MediaMoleculePage(): JSX.Element {
         Founded in 2006, Media Molecule are a Surrey-based developer primarily
         known for their critically and commercially acclaimed LittleBigPlanet
         series. This platformer started on PS3 in 2008 and earned its 95 on
-        Metacritic due to renowned content creation tools, which allowed the 4.5
-        million people who purchased the title to create excellent
-        user-generated content. However, the IP continued without MM&#39;s
-        involvement after 2011&#39;s LittleBigPlanet 2, which resulted in a
-        noticeable dip in critical reception.
+        Metacritic with renowned content creation tools that lived up to the
+        title&#39;s &#39;Play, Create, Share&#39; mantra, as many of the 4.5
+        million people who purchased LBP built excellent user-generated content.
+        2011&#39;s LittleBigPlanet 2 maintained this success before the IP
+        continued without MM&#39;s involvement, which resulted in a noticeable
+        dip in critical reception.
       </Paragraph>
       <Paragraph>
         MM then moved on to 2013&#39;s platformer-adventure Tearaway, which was
-        developed to take advantage of the majority PS Vita&#39;s features
-        (camera, rear touch panel, etc.), before remaking and expanding the game
-        for PS4 in 2015. MM&#39;s next title was 2020&#39;s Dreams on PS4 and
-        it&#39;s also their most recent one, meaning they haven&#39;t released a
-        PS5 game. Furthermore, despite Dreams releasing nearly 7 years ago, MM
-        still haven&#39;t even announced their next game, let alone shown
-        gameplay.
+        developed to take advantage of the majority of the PS Vita&#39;s
+        features (camera, rear touch panel, etc.), before remaking and expanding
+        the game for PS4 in 2015. MM&#39;s next and most recent title was
+        2020&#39;s Dreams on PS4, meaning they haven&#39;t released a PS5 game.
+        Furthermore, despite Dreams releasing nearly 7 years ago, MM still
+        haven&#39;t even announced their next game, let alone shown gameplay.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        Fortunately, due to the extended gap, there is some known info. For
-        example, it&#39;s confirmed to be a new IP, is more of a game
-        than a creative tool like Dreams, and is led by the director of Tren
-        (the best received made-in-Dreams game). Further rumors also suggest
-        it&#39;s a social simulation inspired by Animal Crossing and Harvest
-        Moon. Most crucially, though, both it&#39;s official announcement and
-        release is rumored for 2027.
+        Fortunately, there is some known info. For example, it&#39;s confirmed
+        to be a new IP, is more of a game than a creative tool like Dreams, and
+        is led by the director of Tren (the best-received made-in-Dreams game).
+        Further rumors also suggest it&#39;s a social simulation inspired by
+        Animal Crossing and Harvest Moon. Most crucially, though, both its
+        official announcement and release are rumored for 2027.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

@@ -56,24 +56,28 @@ function MediaMoleculePage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Whatever MM&#39;s next game is, to call it important is an
-            understatement, as they&#39;re far removed from their greatest
+            understatement, as now they&#39;re far removed from their greatest
             successes seen on PS3. Dreams wasn&#39;t close to a commercial
-            success, all 4 founders quit over the past 5 years, and it was
-            reported that MM nearly shuttered instead of London Studio in early
-            2024.
+            success, all 4 founders quit in recent years, and it was reported
+            that MM nearly shuttered instead of London Studio in early 2024.
           </Paragraph>
           <Paragraph>
-            However, Sony needs the types of games MM make, even if it&#39;s not
-            in their DNA to be commercially mainstream. For one, their many
-            BAFTA awards provide utility that can&#39;t be quantified with money
-            in/out. Experiments like Dreams also help diversify the PS Studios
-            portfolio.
+            Sony does, however, need the types of games MM make, even if their
+            post-LBP titles haven&#39;t been commercially mainstream. For one,
+            the many awards their games have won/been nominated for provide
+            utility that can&#39;t be quantified with money in/out. These more
+            experimental, user-focused titles also helped diversify the PS
+            Studios PS3/PS4 portfolio.
           </Paragraph>
           <Paragraph marginBottom={8}>
-            Yet with rising development costs and other external economic
-            factors (such as their expensive location) at play, these more
-            prestigious reasons may not be enough in 2026. It&#39;s therefore
-            more likely MM close before shipping a PS5 game.
+            Yet, with PS5 games taking longer to develop across the industry,
+            rising development costs, and other external economic factors (such
+            as their expensive location) at play, these more prestigious reasons
+            may not presently be enough. Even if this social simulation title is
+            announced and released in 2027, it could easily be MM&#39;s last if
+            it doesn&#39;t find an audience fast. The PS5 era will then truly be
+            a terrible end to MM&#39;s legacy, which couldn&#39;t have begun
+            better on PS3.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

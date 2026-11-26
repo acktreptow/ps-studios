@@ -26,16 +26,31 @@ function MediaMoleculePage(): JSX.Element {
       <Paragraph>
         Founded in 2006, Media Molecule are a Surrey-based developer primarily
         known for their critically and commercially acclaimed LittleBigPlanet
-        series, which started on PS3 in 2008. However, the IP continued without
-        MM&#39;s involvement after 2011&#39;s LittleBigPlanet 2.
+        series. This platformer started on PS3 in 2008 and earned its 95 on
+        Metacritic due to renowned content creation tools, which allowed the 4.5
+        million people who purchased the title to create excellent
+        user-generated content. However, the IP continued without MM&#39;s
+        involvement after 2011&#39;s LittleBigPlanet 2, which resulted in a
+        noticeable dip in critical reception.
+      </Paragraph>
+      <Paragraph>
+        MM then moved on to 2013&#39;s platformer-adventure Tearaway, which was
+        developed to take advantage of the majority PS Vita&#39;s features
+        (camera, rear touch panel, etc.), before remaking and expanding the game
+        for PS4 in 2015. MM&#39;s next title was 2020&#39;s Dreams on PS4 and
+        it&#39;s also their most recent one, meaning they haven&#39;t released a
+        PS5 game. Furthermore, despite Dreams releasing nearly 7 years ago, MM
+        still haven&#39;t even announced their next game, let alone shown
+        gameplay.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        MM&#39;s last title was 2020&#39;s Dreams on PS4, so they therefore
-        haven&#39;t released a PS5 game. Furthermore, despite Dreams releasing 6
-        years ago, MM still haven&#39;t even announced their next game, let
-        alone shown gameplay. It has, however, been confirmed to be a new IP
-        that will be more of a game than a creative tool like Dreams, and is led
-        by the director of Tren (the best received made-in-Dreams game).
+        Fortunately, due to the extended gap, there is some known info. For
+        example, it&#39;s confirmed to be a new IP, is more of a game
+        than a creative tool like Dreams, and is led by the director of Tren
+        (the best received made-in-Dreams game). Further rumors also suggest
+        it&#39;s a social simulation inspired by Animal Crossing and Harvest
+        Moon. Most crucially, though, both it&#39;s official announcement and
+        release is rumored for 2027.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>

@@ -73,12 +73,12 @@ function NixxesSoftwarePage(): JSX.Element {
             signed, so they don&#39;t need Nixxes to achieve this.
           </Paragraph>
           <Paragraph>
-            As Sony is still releasing all their live services on PC, Nixxes
-            could also help here. They could even port upcoming ones like
-            Fairgames (Haven Studios) to Xbox, just as they successfully did
-            with Helldivers 2. Given how unpopular Sony&#39;s live-service
-            execution has been, it makes sense to ship on as many platforms as
-            possible for the best (though still small) chance of success.
+            As Sony are still releasing all their live services on PC, Nixxes
+            could also help here. They could even port upcoming ones like 4:Loop
+            to Xbox, just as they successfully did with Helldivers 2. Given how
+            unpopular Sony&#39;s live-service execution has been, it&#39;s
+            logical to ship on as many platforms as possible for the best
+            (though still small) chance of finding a large enough audience.
           </Paragraph>
           <Paragraph>
             The final path is the most boring one, but unfortunately, also the

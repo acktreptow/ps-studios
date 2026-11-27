@@ -52,10 +52,10 @@ function FirewalkStudiosPage(): JSX.Element {
           <Paragraph>
             Critically, Concord is the lowest-rated first-party PS5 game with a
             62 on Metacritic. This low score is shared with Destruction
-            AllStars, Firewall Ultra and Lost Soul Aside, 3 second-party titles
-            made by far smaller development teams at a fraction of Concord&#39;s
-            budget. However, it&#39;s Concord&#39;s commercial performance
-            that&#39;s truly noteworthy.
+            AllStars, Firewall Ultra, and Lost Soul Aside, 3 second-party XDev
+            titles made by far smaller development teams at a fraction of
+            Concord&#39;s budget. However, it&#39;s Concord&#39;s commercial
+            performance that&#39;s truly noteworthy.
           </Paragraph>
           <Paragraph>
             Concord only sold around 25,000 copies, a figure so low that after

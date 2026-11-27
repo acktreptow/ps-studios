@@ -33,10 +33,9 @@ function ValkyrieEntertainmentPage(): JSX.Element {
         On PS5, Valkyrie supported 2022&#39;s God of War: Ragnarök from Santa
         Monica Studio and 2024&#39;s ill-fated Concord from Firewalk Studios.
         They also have an extensive history supporting the inFamous (Sucker
-        Punch) and Twisted Metal (Eat Sleep Play) IPs during the
-        PS3/PS4 generations, and even contributed to many Xbox IPs
-        pre-acquisition, such as Forza Motorsport (Turn 10) and State of
-        Decay (Undead Labs).
+        Punch) and Twisted Metal (Eat Sleep Play) IPs during the PS3/PS4
+        generations, and even contributed to many Xbox IPs pre-acquisition, such
+        as Forza Motorsport (Turn 10) and State of Decay (Undead Labs).
       </Paragraph>
       <Paragraph marginBottom={8}>
         Despite the 20+ year history, Valkyrie have only been the main developer
@@ -44,8 +43,8 @@ function ValkyrieEntertainmentPage(): JSX.Element {
         and mobile (2022). This free-to-play tower defense shooter was a
         commercial disappointment and only received a 54 on Metacritic, which is
         lower than every PS5 first-party title (Concord is currently the lowest
-        at 62) and even every XDev/second-party title (Destruction AllStars and
-        Lost Soul Aside also scored 62).
+        at 62) and even every XDev/second-party title (Destruction AllStars,
+        Firewall Ultra, and Lost Soul Aside also scored 62).
       </Paragraph>
       <ImageSection flexOnMdScreens={true}>
         <div>

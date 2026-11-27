@@ -51,11 +51,11 @@ function FirewalkStudiosPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             Critically, Concord is the lowest-rated first-party PS5 game with a
-            62 on Metacritic. This low score is shared with Firewall Ultra and
-            Lost Soul Aside, 2 second-party titles made by far smaller
-            development teams at a fraction of Concord&#39;s budget. However,
-            it&#39;s Concord&#39;s commercial performance that&#39;s truly
-            noteworthy.
+            62 on Metacritic. This low score is shared with Destruction
+            AllStars, Firewall Ultra and Lost Soul Aside, 3 second-party titles
+            made by far smaller development teams at a fraction of Concord&#39;s
+            budget. However, it&#39;s Concord&#39;s commercial performance
+            that&#39;s truly noteworthy.
           </Paragraph>
           <Paragraph>
             Concord only sold around 25,000 copies, a figure so low that after
@@ -75,8 +75,8 @@ function FirewalkStudiosPage(): JSX.Element {
           </Paragraph>
           <Paragraph>
             Sony never want another Concord-level embarrassment, so since 2025,
-            they&#39;ve been cancelling any upcoming live-service title which showed
-            this potential. Now as of 2027, the vast majority have been
+            they&#39;ve been cancelling any upcoming live-service title which
+            showed this potential. Now as of 2027, the vast majority have been
             cancelled, many of which occurred before even being officially
             announced, and the remaining few like 4:Loop are still on thin ice.
           </Paragraph>

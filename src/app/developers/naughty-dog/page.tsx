@@ -57,34 +57,37 @@ function NaughtyDogPage(): JSX.Element {
           <SubTitle subtitle="My Analysis & Predictions" />
           <Paragraph>
             So far, ND have only shipped remasters or remakes of Uncharted or
-            TLOU games. While they received noticeable graphics and framerate
-            improvements, they&#39;re somewhat unnecessary as the PS4 versions
-            still play great on PS5.
+            TLOU games on PS5. While they received noticeable graphics and
+            framerate improvements, they&#39;re somewhat unnecessary as the PS4
+            versions still play great on PS5.
           </Paragraph>
           <Paragraph>
-            ND should&#39;ve already released their first new PS5 title, The
-            Last of Us Online, but it was cancelled 4 years into development. ND
-            claim this was because they realized creating a live-service would
-            permanently change the single-player studio, as they would need to
-            continue feeding it with new content. While this mismatch
-            should&#39;ve been obvious, ND wasted over half the PS5 generation
-            on a project that should&#39;ve never been greenlit at that scope.
+            ND should&#39;ve also already released their first new PS5 title,
+            The Last of Us Online, but it was cancelled 4 years into
+            development. ND claim this was because creating a live-service would
+            permanently change the single-player studio, as they&#39;d need to
+            continue feeding it with new content, but this mismatch
+            should&#39;ve been obvious from the start. Instead, ND wasted over
+            half the PS5 generation on a project that should&#39;ve never been
+            greenlit at that scope.
           </Paragraph>
           <Paragraph>
             Fortunately, ND announced a return to their single-player roots with
-            their first new IP since 2011, Intergalactic: The Heretic Prophet,
+            their first new IP since 2013, Intergalactic: The Heretic Prophet,
             in 2024. It&#39;s a religious-themed, third-person action-adventure
             that takes gameplay inspiration from Elden Ring and is likely
             launching in 2027/28.
           </Paragraph>
           <Paragraph marginBottom={8}>
             Intergalactic should retain the industry-defining quality ND are
-            known for. However, they&#39;re releasing just 1 new game on PS5
-            that ships in the console&#39;s final years, resulting in other PS
-            Studios like Insomniac, who will ship at least 4 new PS5 titles,
-            overtaking them this generation. This would&#39;ve been unthinkable
-            when TLOU released in 2013. Hopefully, Intergalactic gets ND back on
-            track and they return to form on PS6.
+            known for. However, with only 1 new game on PS5 that ships in its
+            final years, other PS Studios like Insomniac, who will ship at least
+            4 new PS5 titles, have now overtaken ND this generation. This
+            would&#39;ve been unthinkable when TLOU released in 2013. Hopefully,
+            Intergalactic gets ND back on track and they return to form on PS6.
+            Based off the rumored Uncharted sequel and 2 new TLOU projects, this
+            ascent back to the top of PS Studios is a path they&#39;re committed
+            to.
           </Paragraph>
         </div>
         <div className="md:flex md:flex-col md:items-center">

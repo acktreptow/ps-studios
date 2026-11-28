@@ -32,16 +32,25 @@ function NaughtyDogPage(): JSX.Element {
         Naughty Dog are a California-based studio founded in 1984, 10 years
         before the PS1 launched. They&#39;re also one of the earliest to join PS
         Studios as Sony acquired them in 2001 - an easy decision considering the
-        critical and commercial success of their Crash Bandicoot IP on PS1.
+        critical and commercial success of their Crash Bandicoot IP on PS1,
+        where the original trilogy sold over 20 million copies. ND then
+        continued to find similar success on PS2 with the Jak & Daxter IP, which
+        also had a platformer/action-adventure trilogy and racing spinoff.
+      </Paragraph>
+      <Paragraph>
+        While ND had already proven Sony right to acquire them with these
+        PS1/PS2 IPs, it was on PS3, with Uncharted 1-3 and The Last of Us, where
+        their prestige grew to the point that many consider them the best PS
+        Studio. These titles outperformed the already great Crash/Jak critical
+        reception, and in sales despite PS3&#39;s far lower install base.
       </Paragraph>
       <Paragraph marginBottom={8}>
-        ND continued to find success on PS2 with the Jak & Daxter IP. But it was
-        on PS3, with Uncharted 1-3 and The Last of Us, where their prestige grew
-        to the point that many consider them the best first-party developer.
-        This pedigree and success continued into the PS4 era with critically and
-        commercially acclaimed sequels/remasters across their PS3 franchises.
-        Unfortunately, PS4&#39;s final year is also where ND&#39;s ascent ends,
-        as their output on PS5 so far has been incredibly disappointing.
+        This newfound pedigree and success then continued into the PS4 era with
+        critically and commercially acclaimed sequels/remasters across their PS3
+        franchises. Uncharted 4 outsold every Jak game on PS2 combined, for
+        example. Unfortunately, PS4&#39;s final year (2020) is also where
+        ND&#39;s ascent ends, as their output on PS5 so far has been incredibly
+        disappointing.
       </Paragraph>
       <ImageSection flexOnMdScreens={false}>
         <div>
